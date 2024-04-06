@@ -1,0 +1,1048 @@
+{
+    "_pageModuleUUIDList": [
+        "7961899180",
+        "4888344440",
+        "1306770710",
+        "5599285900",
+        "9809278070",
+        "4219465500",
+        "4775616930",
+        "6415701650",
+        "7632635550",
+        "6432049230",
+        "8646177610",
+        "4266625690",
+        "6877620610",
+        "1627489670"
+    ],
+    "customContextParams": {
+        "path": "/category/products/1503/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712402921134 | 0 | 1712402921134",
+        "process": "1712402921429 | 0 | 1712402921429",
+        "preRender": "1712402921134 | 9 | 1712402921143",
+        "assembleModuleData": "1712402921429 | 0 | 1712402921429",
+        "retrieveHtmlAndJson": "1712402921067 | 62 | 1712402921129",
+        "fetch": "1712402921162 | 267 | 1712402921429",
+        "seo": "1712402921134 | 0 | 1712402921134",
+        "preload": "1712402921134 | 0 | 1712402921134",
+        "render": "1712402921429 | 66 | 1712402921495"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i1/O1CN01UYjX9s20fiVN2S3H3_!!6000000006877-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_1503",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "7961899180",
+                    "prefetchKey": "met",
+                    "path": "/category/products/1503/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712402921134299709624e090",
+                    "requestId": "632fc53d0e3ede14ebefba1e1c4fe899",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712402921066",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "a1945406d9b9974b8588a303cd485fcb",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "632fc53d0e3ede14ebefba1e1c4fe899",
+                    "spm": "a2700.product_home_newuser.header.905.2f9d67af20x9kd",
+                    "categoryIds": "1503",
+                    "pvId": "632fc53d0e3ede14ebefba1e1c4fe899",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "150303",
+                                        "titleEn": "Home-Furniture",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb095d17bd89d4f898058a2f9690a149c3.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=150303&SearchText=Home+Furniture&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Home Furniture",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "150301",
+                                        "titleEn": "Commercial-Furniture",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4a469eb1e33c4a7fb47bdf2655b8d2aav.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=150301&SearchText=Commercial+Furniture&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Commercial Furniture",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "150306",
+                                        "titleEn": "Furniture-Hardware",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2c567a43b1d64bd8ba26cfc7bde878b6o.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=150306&SearchText=Furniture+Hardware&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Furniture Hardware",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201346305",
+                                        "titleEn": "Furniture-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hee9c2f8554424ccc9b79c92950406bb3r.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201346305&SearchText=Furniture+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Furniture Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "150302",
+                                        "titleEn": "Outdoor-Furniture",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H064d32a5640f4b51bd87eb877598a6645.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=150302&SearchText=Outdoor+Furniture&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Outdoor Furniture",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "150399",
+                                        "titleEn": "Other-Furniture",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hbd6ea0c6f6b84fdc87044147ea26b35eK.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=150399&SearchText=Other+Furniture&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Furniture",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "3708",
+                                        "titleEn": "Furniture-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H50e606a7f3654565beb583f552709d14j.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3708&SearchText=Furniture+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Furniture Parts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003020",
+                                        "titleEn": "Kid-s-Furniture",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H00e3fba292d440f195f3a0861c35915bu.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003020&SearchText=Kid%27s+Furniture&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Kid's Furniture",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "1503",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"1503\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "201706805",
+                                        "level": "4",
+                                        "titleEn": "Gaming-Chairs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2d019d373fb648ddaee0ad568cdf3e2dI.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201706805&SearchText=Gaming+Chairs&indexArea=product_en&fsb=y&productId=1600603100140",
+                                        "title": "Gaming Chairs"
+                                    },
+                                    {
+                                        "categoryIds": "201711803",
+                                        "level": "4",
+                                        "titleEn": "Sofa-Beds",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9a2ba34de6844103a877d2d0acda04047.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201711803&SearchText=Sofa+Beds&indexArea=product_en&fsb=y&productId=1601023459697",
+                                        "title": "Sofa Beds"
+                                    },
+                                    {
+                                        "categoryIds": "201715704",
+                                        "level": "4",
+                                        "titleEn": "Office-Chairs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdb8b5e73781c452fbbb361e74a7fa08dL.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201715704&SearchText=Office+Chairs&indexArea=product_en&fsb=y&productId=1600154606880",
+                                        "title": "Office Chairs"
+                                    },
+                                    {
+                                        "categoryIds": "201715805",
+                                        "level": "4",
+                                        "titleEn": "Up-holstered-Beds",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8e488957c0444b599c7304ebb9c13d85k.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201715805&SearchText=Up-holstered++Beds&indexArea=product_en&fsb=y&productId=1600441804540",
+                                        "title": "Up-holstered  Beds"
+                                    },
+                                    {
+                                        "categoryIds": "37032001",
+                                        "level": "3",
+                                        "titleEn": "Mattresses",
+                                        "imageUrl": "//sc04.alicdn.com/kf/U1541dcab86ba4b1891e61000a7d9f36bG.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37032001&SearchText=Mattresses&indexArea=product_en&fsb=y&productId=1700006754320",
+                                        "title": "Mattresses"
+                                    },
+                                    {
+                                        "categoryIds": "37033004",
+                                        "level": "4",
+                                        "titleEn": "Dining-Tables",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He978956f76414af5830489dd916c92bcu.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37033004&SearchText=Dining+Tables&indexArea=product_en&fsb=y&productId=1600990527717",
+                                        "title": "Dining Tables"
+                                    },
+                                    {
+                                        "categoryIds": "371105",
+                                        "level": "3",
+                                        "titleEn": "Furniture-Hinges",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9af450dd67ba4004ade16ebc30ec0108c.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=371105&SearchText=Furniture+Hinges&indexArea=product_en&fsb=y&productId=62120488863",
+                                        "title": "Furniture Hinges"
+                                    },
+                                    {
+                                        "categoryIds": "37033002",
+                                        "level": "4",
+                                        "titleEn": "Dining-Chairs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha1a4b31b3039485e97be7018bf419eb5d.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37033002&SearchText=Dining+Chairs&indexArea=product_en&fsb=y&productId=1600511984726",
+                                        "title": "Dining Chairs"
+                                    },
+                                    {
+                                        "categoryIds": "37013008",
+                                        "level": "4",
+                                        "titleEn": "Office-Desks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Af5b95924adb14b92a0d866ba97a0d1c76.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37013008&SearchText=Office+Desks&indexArea=product_en&fsb=y&productId=11000003900903",
+                                        "title": "Office Desks"
+                                    },
+                                    {
+                                        "categoryIds": "37034004",
+                                        "level": "4",
+                                        "titleEn": "Living-Room-Chairs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1ab80ec9c91445118f4c8b963d0ad716a.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37034004&SearchText=Living+Room+Chairs&indexArea=product_en&fsb=y&productId=1600552132285",
+                                        "title": "Living Room Chairs"
+                                    },
+                                    {
+                                        "categoryIds": "201723201",
+                                        "level": "4",
+                                        "titleEn": "Living-Room-Sofas",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H27384c0e7af2420ca10980d375f72b25V.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201723201&SearchText=Living+Room+Sofas&indexArea=product_en&fsb=y&productId=1600270842489",
+                                        "title": "Living Room Sofas"
+                                    },
+                                    {
+                                        "categoryIds": "37032002",
+                                        "level": "4",
+                                        "titleEn": "Wardrobes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8840ba1e7c1e4a87a8f90fe055f04f7b4.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37032002&SearchText=Wardrobes&indexArea=product_en&fsb=y&productId=1600417499087",
+                                        "title": "Wardrobes"
+                                    },
+                                    {
+                                        "categoryIds": "37034007",
+                                        "level": "4",
+                                        "titleEn": "Coffee-Tables",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H642166d2754149c89e5c85ec36c43889N.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37034007&SearchText=Coffee+Tables&indexArea=product_en&fsb=y&productId=62191461658",
+                                        "title": "Coffee Tables"
+                                    },
+                                    {
+                                        "categoryIds": "100001048",
+                                        "level": "4",
+                                        "titleEn": "Hotel-Chairs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H37dc76b81eb848758964feecfef5d987W.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001048&SearchText=Hotel+Chairs&indexArea=product_en&fsb=y&productId=60775220537",
+                                        "title": "Hotel Chairs"
+                                    },
+                                    {
+                                        "categoryIds": "100001074",
+                                        "level": "4",
+                                        "titleEn": "Massage-Tables-Beds",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd8c6cf34b39e40e9a7dac428ebfced7cS.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001074&SearchText=Massage+Tables+%26+Beds&indexArea=product_en&fsb=y&productId=1600725666531",
+                                        "title": "Massage Tables & Beds"
+                                    },
+                                    {
+                                        "categoryIds": "201711302",
+                                        "level": "4",
+                                        "titleEn": "Makeup-Vanities",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf2b9e72998b548d6b97ae70066c713cat.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201711302&SearchText=Makeup++Vanities&indexArea=product_en&fsb=y&productId=1600555731378",
+                                        "title": "Makeup  Vanities"
+                                    },
+                                    {
+                                        "categoryIds": "37042002",
+                                        "level": "3",
+                                        "titleEn": "Outdoor-Tables",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4de28231b9124221a05845012fed168e7.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37042002&SearchText=Outdoor+Tables&indexArea=product_en&fsb=y&productId=1600818974209",
+                                        "title": "Outdoor Tables"
+                                    },
+                                    {
+                                        "categoryIds": "100001071",
+                                        "level": "4",
+                                        "titleEn": "Barber-Chairs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8edb166fc643441ca1aa3c57085b82b75.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001071&SearchText=Barber+Chairs&indexArea=product_en&fsb=y&productId=1600614319647",
+                                        "title": "Barber Chairs"
+                                    },
+                                    {
+                                        "categoryIds": "37042001",
+                                        "level": "3",
+                                        "titleEn": "Garden-Sets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1o5EBDQSWBuNjSszdq6zeSpXac.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37042001&SearchText=Garden+Sets&indexArea=product_en&fsb=y&productId=60731908571",
+                                        "title": "Garden Sets"
+                                    },
+                                    {
+                                        "categoryIds": "37034008",
+                                        "level": "4",
+                                        "titleEn": "Shoe-Racks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H57064630ba2a4ef78c603edda6d32e2aK.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37034008&SearchText=Shoe+Racks&indexArea=product_en&fsb=y&productId=1600840284120",
+                                        "title": "Shoe Racks"
+                                    },
+                                    {
+                                        "categoryIds": "37034011",
+                                        "level": "4",
+                                        "titleEn": "TV-Stands",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H96584946545f437894ab00fc4cc350d4c.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37034011&SearchText=TV+Stands&indexArea=product_en&fsb=y&productId=1600121964658",
+                                        "title": "TV Stands"
+                                    },
+                                    {
+                                        "categoryIds": "37032003",
+                                        "level": "4",
+                                        "titleEn": "Bedroom-Sets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Afe0ce9e403da4af8b275d56894a25483j.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=37032003&SearchText=Bedroom+Sets&indexArea=product_en&fsb=y&productId=1600620220796",
+                                        "title": "Bedroom Sets"
+                                    },
+                                    {
+                                        "categoryIds": "100003016",
+                                        "level": "3",
+                                        "titleEn": "Garden-Chairs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hac09734e487441c8af992fe511db84606.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003016&SearchText=Garden+Chairs&indexArea=product_en&fsb=y&productId=1600898662278",
+                                        "title": "Garden Chairs"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "7961899180",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_1503",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "4888344440",
+                    "prefetchKey": "met",
+                    "path": "/category/products/1503/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712402921134299709624e090",
+                    "requestId": "0c406e1c672eb42ff13d351c23f434d5",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712402921066",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "a1945406d9b9974b8588a303cd485fcb",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "0c406e1c672eb42ff13d351c23f434d5",
+                    "spm": "a2700.product_home_newuser.header.905.2f9d67af20x9kd",
+                    "categoryIds": "1503",
+                    "pvId": "0c406e1c672eb42ff13d351c23f434d5",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"1503\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "4888344440",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920562,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_1503",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "1306770710",
+                    "prefetchKey": "met",
+                    "path": "/category/products/1503/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712402921134299709624e090",
+                    "requestId": "6565085f08ddbdb200603b36b73b00a1",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712402921066",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "a1945406d9b9974b8588a303cd485fcb",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "6565085f08ddbdb200603b36b73b00a1",
+                    "spm": "a2700.product_home_newuser.header.905.2f9d67af20x9kd",
+                    "categoryIds": "1503",
+                    "pvId": "6565085f08ddbdb200603b36b73b00a1",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds",
+                            "params": "{\"modelId\":\"10271\",\"offerLimit\":\"1\",\"pageSize\":\"20\",\"cardType\":\"2725603\"}",
+                            "_serverData": {
+                                "modelId": "10583",
+                                "finalModelId": "10583",
+                                "titleEn": "Source by application",
+                                "themeGroupList": [
+                                    {
+                                        "titleEn": "Bedroom",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2725603&cardId=2728801&topOfferIds=1600403545733&categoryIds=1503",
+                                        "backgroundImage": "",
+                                        "cardId": "2728801",
+                                        "subtitle": "",
+                                        "cardType": "2725603",
+                                        "backgroundMiniImage": "",
+                                        "title": "Bedroom",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Haa49e0d0265e443c8f401d863f8d5cf8J.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1317ff9c-62e8-47d7-8a08-191977747c7e#realPos-0_0_0#id-1600403545733#pos-0#matchType-6#fatherId-null#cateId-37032003#cardId-2728801#feedsId-#newsType-2725603#userTage-6_2_lost#finalScore-6.182627163330714#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_2725603#srcChannel-PC#rankScore-7.483971810340881#logtime-1712402921190#@@realCtrParam:@@productId:1600403545733",
+                                                "productId": "1600403545733"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Living room",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2725603&cardId=2728401&topOfferIds=62438686290&categoryIds=1503",
+                                        "backgroundImage": "",
+                                        "cardId": "2728401",
+                                        "subtitle": "",
+                                        "cardType": "2725603",
+                                        "backgroundMiniImage": "",
+                                        "title": "Living room",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Ha016389ae1ed494d81715385bae95ea8n.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1317ff9c-62e8-47d7-8a08-191977747c7e#realPos-0_1_0#id-62438686290#pos-0#matchType-6#fatherId-null#cateId-201892001#cardId-2728401#feedsId-141566044#newsType-2725603#userTage-6_2_lost#finalScore-6.182627163330714#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_2725603#srcChannel-PC#rankScore-7.220746377110482#logtime-1712402921190#@@realCtrParam:@@productId:62438686290",
+                                                "productId": "62438686290"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Kitchen",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2725603&cardId=2729001&topOfferIds=1600428841802&categoryIds=1503",
+                                        "backgroundImage": "",
+                                        "cardId": "2729001",
+                                        "subtitle": "",
+                                        "cardType": "2725603",
+                                        "backgroundMiniImage": "",
+                                        "title": "Kitchen",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H6d354e485cf5445a94ed7e3f6ac7dd59l.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1317ff9c-62e8-47d7-8a08-191977747c7e#realPos-0_2_0#id-1600428841802#pos-0#matchType-6#fatherId-null#cateId-201706805#cardId-2729001#feedsId-#newsType-2725603#userTage-6_2_lost#finalScore-6.182627163330714#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_2725603#srcChannel-PC#rankScore-3.8431633025407788#logtime-1712402921190#@@realCtrParam:@@productId:1600428841802",
+                                                "productId": "1600428841802"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Outdoor",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2725603&cardId=2729201&topOfferIds=1600322476620&categoryIds=1503",
+                                        "backgroundImage": "",
+                                        "cardId": "2729201",
+                                        "subtitle": "",
+                                        "cardType": "2725603",
+                                        "backgroundMiniImage": "",
+                                        "title": "Outdoor",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H916d8e0ae11f48a29612422d6355ad45N.png_220x220.png",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1317ff9c-62e8-47d7-8a08-191977747c7e#realPos-0_3_0#id-1600322476620#pos-0#matchType-6#fatherId-null#cateId-202033601#cardId-2729201#feedsId-#newsType-2725603#userTage-6_2_lost#finalScore-6.182627163330714#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_2725603#srcChannel-PC#rankScore-3.4160513430833817#logtime-1712402921190#@@realCtrParam:@@productId:1600322476620",
+                                                "productId": "1600322476620"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Hospital",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2725603&cardId=2726002&topOfferIds=1600243772680&categoryIds=1503",
+                                        "backgroundImage": "",
+                                        "cardId": "2726002",
+                                        "subtitle": "",
+                                        "cardType": "2725603",
+                                        "backgroundMiniImage": "",
+                                        "title": "Hospital",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H279b3d0cfdb2482baa89244da3ed3d58C.png_220x220.png",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1317ff9c-62e8-47d7-8a08-191977747c7e#realPos-0_4_0#id-1600243772680#pos-0#matchType-6#fatherId-null#cateId-100001045#cardId-2726002#feedsId-#newsType-2725603#userTage-6_2_lost#finalScore-6.182627163330714#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_2725603#srcChannel-PC#rankScore-2.5360417783260347#logtime-1712402921190#@@realCtrParam:@@productId:1600243772680",
+                                                "productId": "1600243772680"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Study & home office",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2725603&cardId=2729002&topOfferIds=60682639400&categoryIds=1503",
+                                        "backgroundImage": "",
+                                        "cardId": "2729002",
+                                        "subtitle": "",
+                                        "cardType": "2725603",
+                                        "backgroundMiniImage": "",
+                                        "title": "Study & home office",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H2f70735722044318910816e582604103J.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1317ff9c-62e8-47d7-8a08-191977747c7e#realPos-0_5_0#id-60682639400#pos-0#matchType-13#fatherId-null#cateId-100003023#cardId-2729002#feedsId-#newsType-2725603#userTage-6_2_lost#finalScore-6.182627163330714#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-903571020_0#srcChannel-PC#rankScore-2.505471462011337#logtime-1712402921190#@@realCtrParam:@@productId:60682639400",
+                                                "productId": "60682639400"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    }
+                                ],
+                                "needRender": "true",
+                                "title": "Source by application"
+                            }
+                        }
+                    ]
+                }
+            },
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "1306770710",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "5599285900",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "9809278070",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "4219465500",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "4775616930",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "6415701650",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "7632635550",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "6432049230",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "8646177610",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "4266625690",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "6877620610",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "1627489670",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687710",
+        "name": "Furniture",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "01234567890000001712402921134299709624e090",
+        "pageType": 0,
+        "path": "/category/products/1503/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_1503",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Furniture"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

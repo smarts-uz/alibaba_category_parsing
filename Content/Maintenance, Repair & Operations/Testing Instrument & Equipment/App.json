@@ -1,0 +1,829 @@
+{
+    "_pageModuleUUIDList": [
+        "3286955130",
+        "2791247130",
+        "3412717150",
+        "5417573330",
+        "3052325850",
+        "5638057500",
+        "3952759760"
+    ],
+    "customContextParams": {
+        "path": "/category/products/201734802/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403602087 | 0 | 1712403602087",
+        "process": "1712403602206 | 0 | 1712403602206",
+        "preRender": "1712403602087 | 10 | 1712403602097",
+        "assembleModuleData": "1712403602206 | 0 | 1712403602206",
+        "retrieveHtmlAndJson": "1712403601960 | 121 | 1712403602081",
+        "fetch": "1712403602104 | 102 | 1712403602206",
+        "seo": "1712403602087 | 0 | 1712403602087",
+        "preload": "1712403602087 | 0 | 1712403602087",
+        "render": "1712403602206 | 24 | 1712403602230"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i4/O1CN01c2Yt8y22LgPiGtmqK_!!6000000007104-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "GB",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201734802",
+                    "language": "en",
+                    "ipCountry": "GB",
+                    "uuid": "3286955130",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201734802/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124036020872c23196438eb1",
+                    "requestId": "3abbb56a63eec2b860af8d8f90d462e2",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.54.158.83",
+                    "reqTimestamp": "1712403601960",
+                    "ip": "23.54.158.83",
+                    "envStatus": "ONLINE",
+                    "versionCode": "54ab64d30d9a81930a7d99834ce8b4e7",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "3abbb56a63eec2b860af8d8f90d462e2",
+                    "spm": "a2700.product_home_newuser.header.3665.2ce267afd3VBj7",
+                    "categoryIds": "201734802",
+                    "pvId": "3abbb56a63eec2b860af8d8f90d462e2",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "201153504",
+                                        "titleEn": "Test-Instruments",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H767002771adc423f8e02f9d9a261b47cr.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201153504&SearchText=Test+Instruments&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Test Instruments",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "142006",
+                                        "titleEn": "Measuring-Gauging-Tools",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H55cf1530f1ca47d9bbb5d5375685835bz.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=142006&SearchText=Measuring+%26+Gauging+Tools&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Measuring & Gauging Tools",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "826",
+                                        "titleEn": "Lab-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H62356f4201f3492fa194cb1469796945N.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=826&SearchText=Lab+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Lab Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "153710",
+                                        "titleEn": "Testing-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H7fe7e7926ec5449cbf672fba9d1f4809w.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=153710&SearchText=Testing+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Testing Equipment",
+                                        "isLeaf": true
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "201734802",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"201734802\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "50502",
+                                        "level": "4",
+                                        "titleEn": "Oscilloscopes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc19fae97bb7c4231adc30266192a321fQ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=50502&SearchText=Oscilloscopes&indexArea=product_en&fsb=y&productId=1600927652930",
+                                        "title": "Oscilloscopes"
+                                    },
+                                    {
+                                        "categoryIds": "15370711",
+                                        "level": "4",
+                                        "titleEn": "Theodolites",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H41aa5629a19548df85154822129fdd1a0.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370711&SearchText=Theodolites&indexArea=product_en&fsb=y&productId=60238875528",
+                                        "title": "Theodolites"
+                                    },
+                                    {
+                                        "categoryIds": "190405",
+                                        "level": "4",
+                                        "titleEn": "Magnifiers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc83d5e0191904ff39eebeac2c5cce0d8J.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=190405&SearchText=Magnifiers&indexArea=product_en&fsb=y&productId=1600997018794",
+                                        "title": "Magnifiers"
+                                    },
+                                    {
+                                        "categoryIds": "14200601",
+                                        "level": "3",
+                                        "titleEn": "Indicators",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7a2fe68e04a348a7bdd20dcffa7f0b0bZ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14200601&SearchText=Indicators&indexArea=product_en&fsb=y&productId=1600856790847",
+                                        "title": "Indicators"
+                                    },
+                                    {
+                                        "categoryIds": "100005696",
+                                        "level": "4",
+                                        "titleEn": "Microscopes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0587bf66883045299b234540134d1437D.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005696&SearchText=Microscopes&indexArea=product_en&fsb=y&productId=1600146226303",
+                                        "title": "Microscopes"
+                                    },
+                                    {
+                                        "categoryIds": "153713",
+                                        "level": "3",
+                                        "titleEn": "Instrument-Parts-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd72499024ace416bb1aac6866e37a476u.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=153713&SearchText=Instrument+Parts+%26+Accessories&indexArea=product_en&fsb=y&productId=1600996968267",
+                                        "title": "Instrument Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15370708",
+                                        "level": "4",
+                                        "titleEn": "Refractometers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8d433706b811426f95eed0ce9ec2c0e7I.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370708&SearchText=Refractometers&indexArea=product_en&fsb=y&productId=62380575179",
+                                        "title": "Refractometers"
+                                    },
+                                    {
+                                        "categoryIds": "82619",
+                                        "level": "3",
+                                        "titleEn": "Test-Tubes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0206a87edb1842b4a102170be3cf0487H.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=82619&SearchText=Test+Tubes&indexArea=product_en&fsb=y&productId=1600581113544",
+                                        "title": "Test Tubes"
+                                    },
+                                    {
+                                        "categoryIds": "15370103",
+                                        "level": "3",
+                                        "titleEn": "Densitometers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H237b1c4719c84eb58400e14ee07983b41.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370103&SearchText=Densitometers&indexArea=product_en&fsb=y&productId=1600894240511",
+                                        "title": "Densitometers"
+                                    },
+                                    {
+                                        "categoryIds": "14200605",
+                                        "level": "3",
+                                        "titleEn": "Vernier-Calipers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He64e5eca644442bfbd4cc0f649d304eau.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14200605&SearchText=Vernier+Calipers&indexArea=product_en&fsb=y&productId=1600932202340",
+                                        "title": "Vernier Calipers"
+                                    },
+                                    {
+                                        "categoryIds": "153710",
+                                        "level": "2",
+                                        "titleEn": "Testing-Equipment",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8d175711ca934ac7872b78a1776cae08M.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=153710&SearchText=Testing+Equipment&indexArea=product_en&fsb=y&productId=667258657",
+                                        "title": "Testing Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "153711",
+                                        "level": "3",
+                                        "titleEn": "Weighing-Scales",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdf263b62d4604e9cbbb47e9c3cc14d9dX.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=153711&SearchText=Weighing+Scales&indexArea=product_en&fsb=y&productId=1600249899214",
+                                        "title": "Weighing Scales"
+                                    },
+                                    {
+                                        "categoryIds": "153709",
+                                        "level": "3",
+                                        "titleEn": "Temperature-Instruments",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He1ae8c6f69f4418280f9daaae65f71d8U.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=153709&SearchText=Temperature+Instruments&indexArea=product_en&fsb=y&productId=1600978412389",
+                                        "title": "Temperature Instruments"
+                                    },
+                                    {
+                                        "categoryIds": "201150106",
+                                        "level": "3",
+                                        "titleEn": "Other-Test-Instruments",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4a5bee932ce1495baae3af3431f8592dV.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201150106&SearchText=Other+Test+Instruments&indexArea=product_en&fsb=y&productId=1600879922979",
+                                        "title": "Other Test Instruments"
+                                    },
+                                    {
+                                        "categoryIds": "50505",
+                                        "level": "4",
+                                        "titleEn": "Industrial-Metal-Detectors",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4ba2624e94f3444c953a6d647a1d3748R.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=50505&SearchText=Industrial+Metal+Detectors&indexArea=product_en&fsb=y&productId=1600496836188",
+                                        "title": "Industrial Metal Detectors"
+                                    },
+                                    {
+                                        "categoryIds": "82699",
+                                        "level": "3",
+                                        "titleEn": "Other-Lab-Supplies",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A2558c88549fd4f2d9c03c11dfa028540o.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=82699&SearchText=Other+Lab+Supplies&indexArea=product_en&fsb=y&productId=1601036908061",
+                                        "title": "Other Lab Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "15370799",
+                                        "level": "4",
+                                        "titleEn": "Other-Optics-Instruments",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ad16b77e177b447708168cda788ff0bf5r.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370799&SearchText=Other+Optics+Instruments&indexArea=product_en&fsb=y&productId=1600871777326",
+                                        "title": "Other Optics Instruments"
+                                    },
+                                    {
+                                        "categoryIds": "153705",
+                                        "level": "3",
+                                        "titleEn": "Level-Measuring-Instruments",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha54179549a6f4b4c8cbcad267bf2d895g.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=153705&SearchText=Level+Measuring+Instruments&indexArea=product_en&fsb=y&productId=1600703172679",
+                                        "title": "Level Measuring Instruments"
+                                    },
+                                    {
+                                        "categoryIds": "15370401",
+                                        "level": "4",
+                                        "titleEn": "Flow-Meters",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H938ea2c7ba4f4a758b14c48e982a8225o.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370401&SearchText=Flow+Meters&indexArea=product_en&fsb=y&productId=1601004809348",
+                                        "title": "Flow Meters"
+                                    },
+                                    {
+                                        "categoryIds": "15370106",
+                                        "level": "3",
+                                        "titleEn": "PH-Meters",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5d42f3418b7443129fc0e3a6b6e45937P.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370106&SearchText=PH+Meters&indexArea=product_en&fsb=y&productId=1601023907792",
+                                        "title": "PH Meters"
+                                    },
+                                    {
+                                        "categoryIds": "15370801",
+                                        "level": "4",
+                                        "titleEn": "Pressure-Gauges",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7bfdf42721d04e7b81599ca57e0679611.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370801&SearchText=Pressure+Gauges&indexArea=product_en&fsb=y&productId=1601009710526",
+                                        "title": "Pressure Gauges"
+                                    },
+                                    {
+                                        "categoryIds": "15370104",
+                                        "level": "3",
+                                        "titleEn": "Gas-Analyzers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H79adfb6ce8f946eb8746cbfdd12f94a1r.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370104&SearchText=Gas+Analyzers&indexArea=product_en&fsb=y&productId=1600983034842",
+                                        "title": "Gas Analyzers"
+                                    },
+                                    {
+                                        "categoryIds": "15370706",
+                                        "level": "4",
+                                        "titleEn": "Night-Vision",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf577d1a14c2647feab30b35224104430x.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370706&SearchText=Night+Vision&indexArea=product_en&fsb=y&productId=1601000471709",
+                                        "title": "Night Vision"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "3286955130",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920562,
+            "data": {
+                "_serverUrlData": {
+                    "country": "GB",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201734802",
+                    "language": "en",
+                    "ipCountry": "GB",
+                    "uuid": "2791247130",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201734802/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124036020872c23196438eb1",
+                    "requestId": "ebb6ef1ad49c68670bcfccdabb60bf58",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.54.158.83",
+                    "reqTimestamp": "1712403601960",
+                    "ip": "23.54.158.83",
+                    "envStatus": "ONLINE",
+                    "versionCode": "54ab64d30d9a81930a7d99834ce8b4e7",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "ebb6ef1ad49c68670bcfccdabb60bf58",
+                    "spm": "a2700.product_home_newuser.header.3665.2ce267afd3VBj7",
+                    "categoryIds": "201734802",
+                    "pvId": "ebb6ef1ad49c68670bcfccdabb60bf58",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "params": "{\"modelId\":\"10271\",\"offerLimit\":\"3\",\"pageSize\":\"20\",\"cardType\":\"3594602\",\"categoryIds\":\"201734802\"}",
+                            "_serverData": {
+                                "modelId": "10583",
+                                "finalModelId": "10583",
+                                "titleEn": "Category-specific capabilities",
+                                "themeGroupList": [
+                                    {
+                                        "titleEn": "Source by certification",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3594602&cardId=3598801&topOfferIds=60416987415&categoryIds=201734802",
+                                        "backgroundImage": "",
+                                        "cardId": "3598801",
+                                        "subtitle": "",
+                                        "cardType": "3594602",
+                                        "backgroundMiniImage": "",
+                                        "title": "Source by certification",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H2c252b8fbadb4caa886ae6834ad85a19w.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1c313f0e-42da-4d91-84ca-d48d8100150c#realPos-0_0_0#id-60416987415#pos-0#matchType-6#fatherId-null#cateId-201466402#cardId-3598801#feedsId-#newsType-3594602#userTage-6_2_lost#finalScore--1.0#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_3594602#srcChannel-PC#rankScore--1.0#logtime-1712403602128#@@realCtrParam:@@productId:60416987415",
+                                                "productId": "60416987415"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    }
+                                ],
+                                "needRender": "true",
+                                "title": "Category-specific capabilities"
+                            }
+                        }
+                    ]
+                }
+            },
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "2791247130",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "GB",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201734802",
+                    "language": "en",
+                    "ipCountry": "GB",
+                    "uuid": "3412717150",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201734802/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124036020872c23196438eb1",
+                    "requestId": "d9490eeb339bd0f75d1141001cbe9fd4",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.54.158.83",
+                    "reqTimestamp": "1712403601960",
+                    "ip": "23.54.158.83",
+                    "envStatus": "ONLINE",
+                    "versionCode": "54ab64d30d9a81930a7d99834ce8b4e7",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "d9490eeb339bd0f75d1141001cbe9fd4",
+                    "spm": "a2700.product_home_newuser.header.3665.2ce267afd3VBj7",
+                    "categoryIds": "201734802",
+                    "pvId": "d9490eeb339bd0f75d1141001cbe9fd4",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"201734802\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3412717150",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "5417573330",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "3052325850",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "5638057500",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "3952759760",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1691817",
+        "name": "Testing Instrument & Equipment",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "012345678900000017124036020872c23196438eb1",
+        "pageType": 0,
+        "path": "/category/products/201734802/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_201734802",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Testing Instrument & Equipment"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

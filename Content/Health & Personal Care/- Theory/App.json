@@ -1,0 +1,925 @@
+{
+    "_pageModuleUUIDList": [
+        "2118592600",
+        "7676079160",
+        "8179390350",
+        "7349334440",
+        "4598210490",
+        "4877836450",
+        "1960013710",
+        "2772634490",
+        "4735687140",
+        "6108625680",
+        "7872735110",
+        "2324465800"
+    ],
+    "customContextParams": {
+        "path": "/category/products/100002908/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712402723529 | 0 | 1712402723529",
+        "process": "1712402723664 | 0 | 1712402723664",
+        "preRender": "1712402723529 | 8 | 1712402723537",
+        "assembleModuleData": "1712402723664 | 0 | 1712402723664",
+        "retrieveHtmlAndJson": "1712402723447 | 76 | 1712402723523",
+        "fetch": "1712402723543 | 121 | 1712402723664",
+        "seo": "1712402723529 | 0 | 1712402723529",
+        "preload": "1712402723529 | 0 | 1712402723529",
+        "render": "1712402723664 | 29 | 1712402723693"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i3/O1CN01PzRS9W29rTDHIJICr_!!6000000008121-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_100002908",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "2118592600",
+                    "prefetchKey": "met",
+                    "path": "/category/products/100002908/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240272352924d4e27e30e86",
+                    "requestId": "5a4d3dac56c7bacbd6d21efdd025bda0",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402723447",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "2ddbace6ff785d103db894a7b7dae15c",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "5a4d3dac56c7bacbd6d21efdd025bda0",
+                    "spm": "a2700.product_home_newuser.header.3507.608267afIwWdys",
+                    "categoryIds": "100002908",
+                    "pvId": "5a4d3dac56c7bacbd6d21efdd025bda0",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "127828009",
+                                        "titleEn": "Sex-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha0278f3961e1435a96db8b9c9c46a6561.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127828009&SearchText=Sex+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Sex Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201196802",
+                                        "titleEn": "Massage-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H85d4aba75f694e1696891fe73948d7a6k.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201196802&SearchText=Massage+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Massage Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "202029701",
+                                        "titleEn": "Healthcare-Supplements",
+                                        "level": "2",
+                                        "imageUrl": "https://img.alicdn.com/tfs/TB1nb3hw1T2gK0jSZFvXXXnFXXa-300-300.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202029701&SearchText=Healthcare+Supplements&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Healthcare Supplements",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100009256",
+                                        "titleEn": "Extracts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4f295a78bc8d4299892c2bc6fbcfee80F.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100009256&SearchText=Extracts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Extracts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "217",
+                                        "titleEn": "Healthcare-Supplements-old-",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hafd7aa36eb824bbda2e4b5e18927ef45I.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=217&SearchText=Healthcare+Supplements%28old%29&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Healthcare Supplements(old)",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100010594",
+                                        "titleEn": "Health-Care-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5770352c36df4e4d89a0bf4542ee0c1aE.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010594&SearchText=Health+Care+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Health Care Equipment",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "100002908",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"100002908\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "127850004",
+                                        "level": "4",
+                                        "titleEn": "Sex-Dolls",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H545f87b992fd4f96b515a879e7c1521a4.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127850004&SearchText=Sex+Dolls&indexArea=product_en&fsb=y&productId=1600851572192",
+                                        "title": "Sex Dolls"
+                                    },
+                                    {
+                                        "categoryIds": "201198301",
+                                        "level": "4",
+                                        "titleEn": "Masturbators",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H800df3e2aec6473ba2c2ead72bb32279x.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201198301&SearchText=Masturbators&indexArea=product_en&fsb=y&productId=1600945886921",
+                                        "title": "Masturbators"
+                                    },
+                                    {
+                                        "categoryIds": "201197002",
+                                        "level": "3",
+                                        "titleEn": "Massage-Chair",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He3b89100d34042468034fa2810ec25194.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201197002&SearchText=Massage+Chair&indexArea=product_en&fsb=y&productId=1600846237949",
+                                        "title": "Massage Chair"
+                                    },
+                                    {
+                                        "categoryIds": "201195803",
+                                        "level": "4",
+                                        "titleEn": "Vibrators",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd347debbd17243ada276c5964f2c85fe7.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201195803&SearchText=Vibrators&indexArea=product_en&fsb=y&productId=1600260776290",
+                                        "title": "Vibrators"
+                                    },
+                                    {
+                                        "categoryIds": "127842003",
+                                        "level": "4",
+                                        "titleEn": "Lubricants",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8bb5b9ea1beb48d1a414e6781d444d4eV.jpeg_220x220.jpeg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127842003&SearchText=Lubricants&indexArea=product_en&fsb=y&productId=1600919744323",
+                                        "title": "Lubricants"
+                                    },
+                                    {
+                                        "categoryIds": "201198501",
+                                        "level": "3",
+                                        "titleEn": "Other-Sex-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2662de1ab704441889afc32a05bd5ba6Q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201198501&SearchText=Other+Sex+Products&indexArea=product_en&fsb=y&productId=1600953870217",
+                                        "title": "Other Sex Products"
+                                    },
+                                    {
+                                        "categoryIds": "202030102",
+                                        "level": "3",
+                                        "titleEn": "Protein",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6fd06fe2051c434d92abb06a579fc30dN.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202030102&SearchText=Protein&indexArea=product_en&fsb=y&productId=1600773166597",
+                                        "title": "Protein"
+                                    },
+                                    {
+                                        "categoryIds": "201195603",
+                                        "level": "4",
+                                        "titleEn": "Sex-Furniture",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdebc63b404bb4aea8ba472710e495df3J.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201195603&SearchText=Sex+Furniture&indexArea=product_en&fsb=y&productId=1600964615063",
+                                        "title": "Sex Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "202031601",
+                                        "level": "3",
+                                        "titleEn": "Complex-vitamins-and-minerals",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5bdcb1e2f59b4b4f8b90311a069a1690U.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202031601&SearchText=Complex+vitamins+and+minerals&indexArea=product_en&fsb=y&productId=1601021331650",
+                                        "title": "Complex vitamins and minerals"
+                                    },
+                                    {
+                                        "categoryIds": "202031701",
+                                        "level": "3",
+                                        "titleEn": "Other-Healthcare-supplement",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9328ceda23ff4b20b25ea5c0c8f76f4bv.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202031701&SearchText=Other+Healthcare+supplement&indexArea=product_en&fsb=y&productId=1601018354696",
+                                        "title": "Other Healthcare supplement"
+                                    },
+                                    {
+                                        "categoryIds": "217",
+                                        "level": "2",
+                                        "titleEn": "Healthcare-Supplements-old-",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H05b9e9b0ea7e4a7ba5fe85affef1eb74Q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=217&SearchText=Healthcare+Supplements%28old%29&indexArea=product_en&fsb=y&productId=1600998738205",
+                                        "title": "Healthcare Supplements(old)"
+                                    },
+                                    {
+                                        "categoryIds": "200770008",
+                                        "level": "3",
+                                        "titleEn": "Other-Healthcare-Supply",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2ef828fd7040468ea8dc4b70412aeb97I.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=200770008&SearchText=Other+Healthcare+Supply&indexArea=product_en&fsb=y&productId=1600376825237",
+                                        "title": "Other Healthcare Supply"
+                                    },
+                                    {
+                                        "categoryIds": "118",
+                                        "level": "3",
+                                        "titleEn": "Plant-Extract",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H537f81e464694dc19c3c88f3ce2f9d1cm.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=118&SearchText=Plant+Extract&indexArea=product_en&fsb=y&productId=1601043072777",
+                                        "title": "Plant Extract"
+                                    },
+                                    {
+                                        "categoryIds": "202026403",
+                                        "level": "3",
+                                        "titleEn": "Herbal-Supplements",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hccb944761e2144fb9c07f21fc58de0e3R.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202026403&SearchText=Herbal+Supplements&indexArea=product_en&fsb=y&productId=1600939493032",
+                                        "title": "Herbal Supplements"
+                                    },
+                                    {
+                                        "categoryIds": "201196003",
+                                        "level": "4",
+                                        "titleEn": "Dildos",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdd6c70a7d4b44f73a5b77c24438f941dJ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201196003&SearchText=Dildos&indexArea=product_en&fsb=y&productId=1600965722424",
+                                        "title": "Dildos"
+                                    },
+                                    {
+                                        "categoryIds": "201275262",
+                                        "level": "3",
+                                        "titleEn": "Other-Massage-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H86e92f130af443b793da0dadb8d9161eQ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201275262&SearchText=Other+Massage+Products&indexArea=product_en&fsb=y&productId=1600301372797",
+                                        "title": "Other Massage Products"
+                                    },
+                                    {
+                                        "categoryIds": "202029801",
+                                        "level": "3",
+                                        "titleEn": "Vitamins",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3288c4b0cfc84636a40233211ada5f16c.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202029801&SearchText=Vitamins&indexArea=product_en&fsb=y&productId=1600900546737",
+                                        "title": "Vitamins"
+                                    },
+                                    {
+                                        "categoryIds": "201192504",
+                                        "level": "4",
+                                        "titleEn": "Other-Sex-Toys",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcd52ccf48baa4b2dba0e84da4f66bf26r.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201192504&SearchText=Other+Sex+Toys&indexArea=product_en&fsb=y&productId=1600878517455",
+                                        "title": "Other Sex Toys"
+                                    },
+                                    {
+                                        "categoryIds": "202025802",
+                                        "level": "3",
+                                        "titleEn": "Collagen",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc5983fdb50824a36a7835138f72afc40W.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202025802&SearchText=Collagen&indexArea=product_en&fsb=y&productId=10000007913254",
+                                        "title": "Collagen"
+                                    },
+                                    {
+                                        "categoryIds": "201196203",
+                                        "level": "4",
+                                        "titleEn": "Anal-Sex-Toys",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H83d3706f4763429aac284e660d8eb9b9O.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201196203&SearchText=Anal+Sex+Toys&indexArea=product_en&fsb=y&productId=1600751448744",
+                                        "title": "Anal Sex Toys"
+                                    },
+                                    {
+                                        "categoryIds": "201273863",
+                                        "level": "3",
+                                        "titleEn": "Massage-Gun",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8015d6601aed405ca0df6051d77ae6bbs.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201273863&SearchText=Massage+Gun&indexArea=product_en&fsb=y&productId=1600954814117",
+                                        "title": "Massage Gun"
+                                    },
+                                    {
+                                        "categoryIds": "202029902",
+                                        "level": "3",
+                                        "titleEn": "Sports-Nutrition",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb25a656d750b4e6da52e4fb160c8c08dY.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202029902&SearchText=Sports+Nutrition&indexArea=product_en&fsb=y&productId=1600827094423",
+                                        "title": "Sports Nutrition"
+                                    },
+                                    {
+                                        "categoryIds": "201276042",
+                                        "level": "3",
+                                        "titleEn": "Foot-Massager",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H79f47bd991c2458b8031b847add6863dS.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201276042&SearchText=Foot+Massager&indexArea=product_en&fsb=y&productId=1600963646125",
+                                        "title": "Foot Massager"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "2118592600",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_100002908",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "7676079160",
+                    "prefetchKey": "met",
+                    "path": "/category/products/100002908/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240272352924d4e27e30e86",
+                    "requestId": "58d7a6aef376a3f25fa03faf38b81858",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402723447",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "2ddbace6ff785d103db894a7b7dae15c",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "58d7a6aef376a3f25fa03faf38b81858",
+                    "spm": "a2700.product_home_newuser.header.3507.608267afIwWdys",
+                    "categoryIds": "100002908",
+                    "pvId": "58d7a6aef376a3f25fa03faf38b81858",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"100002908\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "7676079160",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920562,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_100002908",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "8179390350",
+                    "prefetchKey": "met",
+                    "path": "/category/products/100002908/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240272352924d4e27e30e86",
+                    "requestId": "c61ead13a069dd92022932133636aef3",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402723447",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "2ddbace6ff785d103db894a7b7dae15c",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "c61ead13a069dd92022932133636aef3",
+                    "spm": "a2700.product_home_newuser.header.3507.608267afIwWdys",
+                    "categoryIds": "100002908",
+                    "pvId": "c61ead13a069dd92022932133636aef3",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "params": "{\"modelId\":\"10271\",\"offerLimit\":\"3\",\"pageSize\":\"20\",\"cardType\":\"101002650\",\"categoryIds\":\"100002908\"}",
+                            "_serverData": {
+                                "modelId": "10983",
+                                "finalModelId": "10983",
+                                "titleEn": "Trending right now",
+                                "themeGroupList": [
+                                    {
+                                        "titleEn": "cbd",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_100002908_cbd&topOfferIds=1600246891814&categoryIds=100002908",
+                                        "cardId": "101002650_100002908_cbd",
+                                        "cardType": "101002650",
+                                        "id": "101002650_100002908_cbd",
+                                        "title": "cbd",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H366c8a9eb8884943826779e8cc2f7624M.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-b3d44c68-66a0-4e07-aea9-849f69c7d246#realPos-0_0_0#id-1600246891814#pos-0#matchType-5#fatherId-null#cateId-118#cardId-101002650_100002908_cbd#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-0.0#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-100002908_101002650#srcChannel-PC#rankScore-0.0#logtime-1712402723567#@@realCtrParam:@@productId:1600246891814",
+                                                "productId": "1600246891814",
+                                                "firstCategoryId": "100002908",
+                                                "secondCategoryId": "100009256"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "hemorrhoids cream",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_100002908_hemorrhoid_cream&topOfferIds=1600979214008&categoryIds=100002908",
+                                        "cardId": "101002650_100002908_hemorrhoid_cream",
+                                        "cardType": "101002650",
+                                        "id": "101002650_100002908_hemorrhoid_cream",
+                                        "title": "hemorrhoids cream",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H05ce574664584cecbb89f54d36aecf53i.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-b3d44c68-66a0-4e07-aea9-849f69c7d246#realPos-0_1_0#id-1600979214008#pos-0#matchType-5#fatherId-null#cateId-200770008#cardId-101002650_100002908_hemorrhoid_cream#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-0.0#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-100002908_101002650#srcChannel-PC#rankScore-0.0#logtime-1712402723567#@@realCtrParam:@@productId:1600979214008",
+                                                "productId": "1600979214008",
+                                                "firstCategoryId": "100002908",
+                                                "secondCategoryId": "100010594"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "needRender": "true",
+                                "title": "Trending right now"
+                            }
+                        }
+                    ]
+                }
+            },
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "8179390350",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "7349334440",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "4598210490",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "4877836450",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "1960013710",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "2772634490",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "4735687140",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 879034,
+            "fullName": "@ali/alimod-industry-new",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-new",
+            "settings": {},
+            "uuid": "6108625680",
+            "version": "1.0.11"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "7872735110",
+            "version": "2.0.0"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 879039,
+            "fullName": "@ali/alimod-industry-my-categories-source-by-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-my-categories-source-by-floor",
+            "settings": {},
+            "uuid": "2324465800",
+            "version": "1.0.8"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "description": "Health Care",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "2546066",
+        "name": "Health Care",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240272352924d4e27e30e86",
+        "pageType": 0,
+        "path": "/category/products/100002908/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_100002908",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Health Care"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

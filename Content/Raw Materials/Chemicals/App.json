@@ -1,0 +1,1035 @@
+{
+    "_pageModuleUUIDList": [
+        "9508928800",
+        "2281775550",
+        "8828667580",
+        "9556899640",
+        "9115433490",
+        "4242229390",
+        "9500655440",
+        "8642490180",
+        "4711277840",
+        "3145832690",
+        "4211132440",
+        "9908094480"
+    ],
+    "customContextParams": {
+        "path": "/category/products/8/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403693068 | 0 | 1712403693068",
+        "process": "1712403693217 | 0 | 1712403693217",
+        "preRender": "1712403693068 | 7 | 1712403693075",
+        "assembleModuleData": "1712403693217 | 0 | 1712403693217",
+        "retrieveHtmlAndJson": "1712403693002 | 61 | 1712403693063",
+        "fetch": "1712403693093 | 124 | 1712403693217",
+        "seo": "1712403693068 | 0 | 1712403693068",
+        "preload": "1712403693068 | 0 | 1712403693068",
+        "render": "1712403693217 | 71 | 1712403693288"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i4/O1CN01ntSawR20zPXRO1UEN_!!6000000006920-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_8",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "9508928800",
+                    "prefetchKey": "met",
+                    "path": "/category/products/8/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240369306823932d834bf50",
+                    "requestId": "0547f5383c056523b29d84714156387e",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403693002",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "44789f9104c495994b0709003c9e5b21",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "0547f5383c056523b29d84714156387e",
+                    "spm": "a2700.product_home_newuser.header.2829.2f9d67af20x9kd",
+                    "categoryIds": "8",
+                    "pvId": "0547f5383c056523b29d84714156387e",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "10",
+                                        "titleEn": "Energy-Chemicals",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0cbeee3c7b82441aaad4118052bf2f548.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=10&SearchText=Energy+Chemicals&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Energy Chemicals",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "82102",
+                                        "titleEn": "Flavor-Fragrance",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4aabf9e11fad4921a7f6e3bb9fda459b4.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=82102&SearchText=Flavor+%26+Fragrance&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Flavor & Fragrance",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100006083",
+                                        "titleEn": "Organic-Intermediate",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc85116fce9894d99b0ba97630230d596g.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006083&SearchText=Organic+Intermediate&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Organic Intermediate",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100003086",
+                                        "titleEn": "Basic-Organic-Chemicals",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd994a65adeb041ebbb8aa36533d74f85K.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003086&SearchText=Basic+Organic+Chemicals&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Basic Organic Chemicals",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003084",
+                                        "titleEn": "Inorganic-Chemicals",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H165e5146ed90452386befa03bc37d489K.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003084&SearchText=Inorganic+Chemicals&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Inorganic Chemicals",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003087",
+                                        "titleEn": "Agrochemicals",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He6bff4c825664bc5be9a51261a40bae6s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003087&SearchText=Agrochemicals&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Agrochemicals",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003091",
+                                        "titleEn": "Pigments-Dyestuff",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb4156da5dd6d4eb3ad68a7a465e09c61V.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003091&SearchText=Pigments+%26+Dyestuff&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Pigments & Dyestuff",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "817",
+                                        "titleEn": "Chemical-Reagents",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd4341f3880a744daa20c32cfce3d183as.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=817&SearchText=Chemical+Reagents&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Chemical Reagents",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "824",
+                                        "titleEn": "Non-Explosive-Demolition-Agents",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd192810897e54630a779b32ba7df3c62S.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=824&SearchText=Non-Explosive+Demolition+Agents&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Non-Explosive Demolition Agents",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "830",
+                                        "titleEn": "Other-Chemicals",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9db1a56c679f4ba6971ff2d7a5dbb400M.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=830&SearchText=Other+Chemicals&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Chemicals",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "833",
+                                        "titleEn": "Custom-Chemical-Services",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H12ab4350bd1a49ea9ecbe2835673bb30s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=833&SearchText=Custom+Chemical+Services&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Custom Chemical Services",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "190000040",
+                                        "titleEn": "Biological-Chemical-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H82d8834a2e494de2a406c5d9cd4a110c5.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=190000040&SearchText=Biological+Chemical+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Biological Chemical Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "190000096",
+                                        "titleEn": "Painting-Coating",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf7c74c1910624ea2bbe4c2842e7d7b1e0.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=190000096&SearchText=Painting+%26+Coating&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Painting & Coating",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "190000079",
+                                        "titleEn": "Surface-Treatment-Chemicals",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4025dea40dc2410f85c4ad3e4bdc7b6bf.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=190000079&SearchText=Surface+Treatment+Chemicals&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Surface Treatment Chemicals",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003090",
+                                        "titleEn": "Catalysts-Chemical-Auxiliary-Agents",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hebad7a0d83d247549a83a4579f2fed055.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003090&SearchText=Catalysts+%26+Chemical+Auxiliary+Agents&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Catalysts & Chemical Auxiliary Agents",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003089",
+                                        "titleEn": "Admixture-Additives",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hebad7a0d83d247549a83a4579f2fed055.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003089&SearchText=Admixture+%26+Additives&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Admixture & Additives",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003469",
+                                        "titleEn": "Coating-Paint",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H69aee8d002c44e2bbc46b32ad7534f98Q.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003469&SearchText=Coating+%26+Paint&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Coating & Paint",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "110503",
+                                        "titleEn": "Chemical-Waste",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hfd86aaf04d2a4c68928164f0a0aafa7e9.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=110503&SearchText=Chemical+Waste&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Chemical Waste",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100004068",
+                                        "titleEn": "Daily-Chemicals",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H57a66a936f3449e2891880a7c8be9ef7h.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004068&SearchText=Daily+Chemicals&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Daily Chemicals",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100007202",
+                                        "titleEn": "Adhesives-Sealants",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H845515289d3d474b866b3f3b3642df79w.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007202&SearchText=Adhesives+%26+Sealants&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Adhesives & Sealants",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100006082",
+                                        "titleEn": "Polymer",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H986890a8393a4110a90ae07ed1ace9caG.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006082&SearchText=Polymer&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Polymer",
+                                        "isLeaf": true
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "8",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"8\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "100002825",
+                                        "level": "3",
+                                        "titleEn": "Biogas",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8931f17cf86444948f5a341691264ef5t.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100002825&SearchText=Biogas&indexArea=product_en&fsb=y&productId=62397825824",
+                                        "title": "Biogas"
+                                    },
+                                    {
+                                        "categoryIds": "82102",
+                                        "level": "2",
+                                        "titleEn": "Flavor-Fragrance",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H904675f0167c4b7b8331e7b07ec24467h.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=82102&SearchText=Flavor+%26+Fragrance&indexArea=product_en&fsb=y&productId=1600846454340",
+                                        "title": "Flavor & Fragrance"
+                                    },
+                                    {
+                                        "categoryIds": "100002827",
+                                        "level": "3",
+                                        "titleEn": "Biodiesel",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A974ea95b1bfe46fbb54b3b98f064da881.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100002827&SearchText=Biodiesel&indexArea=product_en&fsb=y&productId=11000010621465",
+                                        "title": "Biodiesel"
+                                    },
+                                    {
+                                        "categoryIds": "100006083",
+                                        "level": "2",
+                                        "titleEn": "Organic-Intermediate",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H92ba025efa5d41eb9e3dcaba9b135037j.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006083&SearchText=Organic+Intermediate&indexArea=product_en&fsb=y&productId=1600898686593",
+                                        "title": "Organic Intermediate"
+                                    },
+                                    {
+                                        "categoryIds": "100006070",
+                                        "level": "3",
+                                        "titleEn": "Hydrocarbon-Derivatives",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcd54353bb7d84826ad54044102925445j.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006070&SearchText=Hydrocarbon+%26+Derivatives&indexArea=product_en&fsb=y&productId=1601014341710",
+                                        "title": "Hydrocarbon & Derivatives"
+                                    },
+                                    {
+                                        "categoryIds": "9090799",
+                                        "level": "4",
+                                        "titleEn": "Other-Quartz-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6f487442655a42d9a46f6e7c501badc9o.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=9090799&SearchText=Other+Quartz+Products&indexArea=product_en&fsb=y&productId=62501527716",
+                                        "title": "Other Quartz Products"
+                                    },
+                                    {
+                                        "categoryIds": "200896001",
+                                        "level": "3",
+                                        "titleEn": "Herbicides",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3964aa770f2243d4901c690002440eb7D.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=200896001&SearchText=Herbicides&indexArea=product_en&fsb=y&productId=1722724843",
+                                        "title": "Herbicides"
+                                    },
+                                    {
+                                        "categoryIds": "146701",
+                                        "level": "4",
+                                        "titleEn": "Carbon",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H001ebae745604098b813d06267218a5aY.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=146701&SearchText=Carbon&indexArea=product_en&fsb=y&productId=1600166438471",
+                                        "title": "Carbon"
+                                    },
+                                    {
+                                        "categoryIds": "814",
+                                        "level": "3",
+                                        "titleEn": "Pigment",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdd4320713ae44d359087ceb80edfc8dct.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=814&SearchText=Pigment&indexArea=product_en&fsb=y&productId=1600731548780",
+                                        "title": "Pigment"
+                                    },
+                                    {
+                                        "categoryIds": "100006075",
+                                        "level": "4",
+                                        "titleEn": "Nitrogen-Fertilizer",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Af1fa97b3cc4f4b5bb76c32690606e804E.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006075&SearchText=Nitrogen+Fertilizer&indexArea=product_en&fsb=y&productId=1600735731835",
+                                        "title": "Nitrogen Fertilizer"
+                                    },
+                                    {
+                                        "categoryIds": "100007202",
+                                        "level": "2",
+                                        "titleEn": "Adhesives-Sealants",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H61d479030301427c9bdf82891a78aaaaX.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007202&SearchText=Adhesives+%26+Sealants&indexArea=product_en&fsb=y&productId=1600520416449",
+                                        "title": "Adhesives & Sealants"
+                                    },
+                                    {
+                                        "categoryIds": "100003469",
+                                        "level": "2",
+                                        "titleEn": "Coating-Paint",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A661b54ab878b42d38b86f44a275cf56eA.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003469&SearchText=Coating+%26+Paint&indexArea=product_en&fsb=y&productId=11000010452238",
+                                        "title": "Coating & Paint"
+                                    },
+                                    {
+                                        "categoryIds": "100003282",
+                                        "level": "3",
+                                        "titleEn": "Chemical-Auxiliary-Agent",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2b290ae37b794bb68a4a79649af3becb6.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003282&SearchText=Chemical+Auxiliary+Agent&indexArea=product_en&fsb=y&productId=62253569202",
+                                        "title": "Chemical Auxiliary Agent"
+                                    },
+                                    {
+                                        "categoryIds": "100004068",
+                                        "level": "2",
+                                        "titleEn": "Daily-Chemicals",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdd69800da685418082497aee588cd907k.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004068&SearchText=Daily+Chemicals&indexArea=product_en&fsb=y&productId=1601028754941",
+                                        "title": "Daily Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "100102",
+                                        "level": "4",
+                                        "titleEn": "Lubricant",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd3d94f94274f471db970b21e7e7ddfe0h.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100102&SearchText=Lubricant&indexArea=product_en&fsb=y&productId=1600869709396",
+                                        "title": "Lubricant"
+                                    },
+                                    {
+                                        "categoryIds": "100006082",
+                                        "level": "2",
+                                        "titleEn": "Polymer",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha81bb309b16a4c09a7f5b46f6784c2b5G.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006082&SearchText=Polymer&indexArea=product_en&fsb=y&productId=60681434897",
+                                        "title": "Polymer"
+                                    },
+                                    {
+                                        "categoryIds": "140699",
+                                        "level": "4",
+                                        "titleEn": "Other-Fiberglass-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H71c6c40da0ce46b9bfba280c72d9e618s.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=140699&SearchText=Other+Fiberglass+Products&indexArea=product_en&fsb=y&productId=1600197899406",
+                                        "title": "Other Fiberglass Products"
+                                    },
+                                    {
+                                        "categoryIds": "90902",
+                                        "level": "4",
+                                        "titleEn": "Ceramics",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hfe211589d3d54143b432c90d03b47f87Z.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=90902&SearchText=Ceramics&indexArea=product_en&fsb=y&productId=1601060222058",
+                                        "title": "Ceramics"
+                                    },
+                                    {
+                                        "categoryIds": "122",
+                                        "level": "3",
+                                        "titleEn": "Charcoal",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A1922a2b7e13e490987ea31165659cd04S.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=122&SearchText=Charcoal&indexArea=product_en&fsb=y&productId=10000014079494",
+                                        "title": "Charcoal"
+                                    },
+                                    {
+                                        "categoryIds": "830",
+                                        "level": "2",
+                                        "titleEn": "Other-Chemicals",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Aba5b288ede5d4c339fb3c5d7ceca1cd4C.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=830&SearchText=Other+Chemicals&indexArea=product_en&fsb=y&productId=10000014766883",
+                                        "title": "Other Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "100003279",
+                                        "level": "3",
+                                        "titleEn": "Feed-Additives",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5508cd6fcbb04b6f8579e10a10d1fea0A.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003279&SearchText=Feed+Additives&indexArea=product_en&fsb=y&productId=1600911286634",
+                                        "title": "Feed Additives"
+                                    },
+                                    {
+                                        "categoryIds": "11502",
+                                        "level": "4",
+                                        "titleEn": "Organic-Fertilizer",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7dd6af4221d6434aa87f0c96b7b10322j.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=11502&SearchText=Organic+Fertilizer&indexArea=product_en&fsb=y&productId=60501035868",
+                                        "title": "Organic Fertilizer"
+                                    },
+                                    {
+                                        "categoryIds": "100003270",
+                                        "level": "3",
+                                        "titleEn": "Oxide",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H65e23887b7f54b80ab47b9d883d7a20bq.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003270&SearchText=Oxide&indexArea=product_en&fsb=y&productId=1600941521296",
+                                        "title": "Oxide"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "9508928800",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_8",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "2281775550",
+                    "prefetchKey": "met",
+                    "path": "/category/products/8/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240369306823932d834bf50",
+                    "requestId": "935396e2f0ced738c25fc4ebf822a83c",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403693002",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "44789f9104c495994b0709003c9e5b21",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "935396e2f0ced738c25fc4ebf822a83c",
+                    "spm": "a2700.product_home_newuser.header.2829.2f9d67af20x9kd",
+                    "categoryIds": "8",
+                    "pvId": "935396e2f0ced738c25fc4ebf822a83c",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"8\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "2281775550",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920581,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_8",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "8828667580",
+                    "prefetchKey": "met",
+                    "path": "/category/products/8/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240369306823932d834bf50",
+                    "requestId": "2ddb4ba2bc65f791ca8b23ee6f938fb8",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403693002",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "44789f9104c495994b0709003c9e5b21",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "2ddb4ba2bc65f791ca8b23ee6f938fb8",
+                    "spm": "a2700.product_home_newuser.header.2829.2f9d67af20x9kd",
+                    "categoryIds": "8",
+                    "pvId": "2ddb4ba2bc65f791ca8b23ee6f938fb8",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "showType": "multi_category",
+                    "requestCommon": {
+                        "_fdl_request_categoryList": {
+                            "params": "{\"categoryIds\":\"8\",\"modelId\":\"10660\"}",
+                            "_serverData": {}
+                        }
+                    },
+                    "floorSubTitle": "",
+                    "floorTitle": "Cross-industry picks",
+                    "pageDotName": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "8828667580",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "9556899640",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "9115433490",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "4242229390",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "9500655440",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "8642490180",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "4711277840",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "3145832690",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "4211132440",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "9908094480",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1688567",
+        "name": "Chemicals",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240369306823932d834bf50",
+        "pageType": 0,
+        "path": "/category/products/8/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_8",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Chemicals"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

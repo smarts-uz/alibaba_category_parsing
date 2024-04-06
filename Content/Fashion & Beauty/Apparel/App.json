@@ -1,0 +1,1107 @@
+{
+    "_pageModuleUUIDList": [
+        "1835861830",
+        "3164994960",
+        "9310720040",
+        "2157406020",
+        "6646416840",
+        "7340160590",
+        "8675554080",
+        "8415046100"
+    ],
+    "customContextParams": {
+        "path": "/category/products/3/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712402579851 | 0 | 1712402579851",
+        "process": "1712402580101 | 0 | 1712402580101",
+        "preRender": "1712402579864 | 9 | 1712402579873",
+        "assembleModuleData": "1712402580101 | 0 | 1712402580101",
+        "retrieveHtmlAndJson": "1712402579801 | 45 | 1712402579846",
+        "fetch": "1712402579878 | 223 | 1712402580101",
+        "seo": "1712402579851 | 0 | 1712402579851",
+        "preload": "1712402579851 | 13 | 1712402579864",
+        "render": "1712402580101 | 32 | 1712402580133"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i4/O1CN01uAcVRk1e11lsX5TeX_!!6000000003810-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_3",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "1835861830",
+                    "prefetchKey": "met",
+                    "path": "/category/products/3/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240257985170f5d4d1da933",
+                    "requestId": "850f183bec448bb9811c5baa7594bfe8",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402579800",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "9085e4175eb9834eee373ed3f7e645ac",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "850f183bec448bb9811c5baa7594bfe8",
+                    "spm": "a2700.product_home_newuser.header.1885.2f9d67af20x9kd",
+                    "categoryIds": "3",
+                    "pvId": "850f183bec448bb9811c5baa7594bfe8",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "127726318",
+                                        "titleEn": "Men-s-Clothing",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3e4105bcafae448d8f3ee63096c4d6cem.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726318&SearchText=Men%27s+Clothing&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Men's Clothing",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127668042",
+                                        "titleEn": "Other-Apparel",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3bc5426630e6451f835345d4a0099cdaM.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127668042&SearchText=Other+Apparel&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Apparel",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201754603",
+                                        "titleEn": "Socks-Hosiery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc7168bf3c2e241d2b2dc7035351d8dd0P.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201754603&SearchText=Socks+%26+Hosiery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Socks & Hosiery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127726322",
+                                        "titleEn": "Garment-Processing-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Haba1e06db5b142b89c97110f0f01ff06p.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726322&SearchText=Garment+%26+Processing+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Garment & Processing Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "202052601",
+                                        "titleEn": "Underwear",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H01edd00a206d4c5d854166170b9ccc334.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202052601&SearchText=Underwear&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Underwear",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127726317",
+                                        "titleEn": "Women-s-Clothing",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3edd89ebfdc94715afbd2593adb3ae55g.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726317&SearchText=Women%27s+Clothing&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Women's Clothing",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "32801",
+                                        "titleEn": "Belts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He91ec7b6536e47c1a48495db66ad176fw.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=32801&SearchText=Belts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Belts & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "320",
+                                        "titleEn": "Wedding-Apparel-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H29399e4c9be945f2a8a7448223bdca80s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=320&SearchText=Wedding+Apparel+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Wedding Apparel & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "324",
+                                        "titleEn": "Gloves-Mittens",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hcc54b21e09bb403b81625c84c3074438s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=324&SearchText=Gloves+%26+Mittens&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Gloves & Mittens",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "325",
+                                        "titleEn": "Scarves-Shawls",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hefc071a5bf0442f9b71366ae7b13a0c1s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=325&SearchText=Scarves+%26+Shawls&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Scarves & Shawls",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "326",
+                                        "titleEn": "Ties-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3df016810c8f43c69662542c1030580aF.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=326&SearchText=Ties+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Ties & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "327",
+                                        "titleEn": "Hats-Caps",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd99171f30d774837935134b41430faffj.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=327&SearchText=Hats+%26+Caps&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Hats & Caps",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201756302",
+                                        "titleEn": "Clothes-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H20f89a85a8f7446995835569599fc9f9J.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201756302&SearchText=Clothes+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Clothes Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "33906",
+                                        "titleEn": "Scarf-Hat-Glove-Sets",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H25bbf740ba00430da73605061fcd0dcc9.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=33906&SearchText=Scarf%2C+Hat+%26+Glove+Sets&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Scarf, Hat & Glove Sets",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201722402",
+                                        "titleEn": "Sleeves-Knee-Sleeves",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H88a38b07248e4064a3de3401875889daI.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201722402&SearchText=Sleeves+%26+Knee+Sleeves&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Sleeves & Knee Sleeves",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "200770004",
+                                        "titleEn": "Other-Fashion-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hab584447cbf04765aefd8e4e7a65e92bQ.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=200770004&SearchText=Other+Fashion+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Fashion Accessories",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201769504",
+                                        "titleEn": "Ear-Muffs-Eye-Masks",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9dbc12a3f9e348abb570fac3cbc60c55D.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201769504&SearchText=Ear+Muffs+%26+Eye+Masks&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Ear Muffs & Eye Masks",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127734177",
+                                        "titleEn": "Sportswear",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H512ae65fbe9b4d8092986b5a681c21c4z.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127734177&SearchText=Sportswear&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Sportswear",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201756701",
+                                        "titleEn": "Ethnic-Clothing",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H798456956c4c444b8b8919228fc43162S.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201756701&SearchText=Ethnic+Clothing&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Ethnic Clothing",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201757101",
+                                        "titleEn": "Ethnic-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H8ed878d4eb154e72a5e13add2598659fn.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201757101&SearchText=Ethnic+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Ethnic Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127726319",
+                                        "titleEn": "Novelty-Special-Use",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hea52f43db5844e9f8b14010718b750cf9.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726319&SearchText=Novelty+%26+Special+Use&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Novelty & Special Use",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "3",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"3\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "201152701",
+                                        "level": "3",
+                                        "titleEn": "Men-s-Sets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7e0cae5b909747dcb6f90cd81fba48aea.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152701&SearchText=Men%27s+Sets&indexArea=product_en&fsb=y&productId=1601045165592",
+                                        "title": "Men's Sets"
+                                    },
+                                    {
+                                        "categoryIds": "333",
+                                        "level": "3",
+                                        "titleEn": "Apparel-Stock",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3cd127dc55a74997a2e624878a2116b4P.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=333&SearchText=Apparel+Stock&indexArea=product_en&fsb=y&productId=1601030106498",
+                                        "title": "Apparel Stock"
+                                    },
+                                    {
+                                        "categoryIds": "201152102",
+                                        "level": "3",
+                                        "titleEn": "Men-s-Polo-Shirts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H09a82758cf644dd4baa496c33330a984t.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152102&SearchText=Men%27s+Polo+Shirts&indexArea=product_en&fsb=y&productId=1600867344396",
+                                        "title": "Men's Polo Shirts"
+                                    },
+                                    {
+                                        "categoryIds": "127680048",
+                                        "level": "4",
+                                        "titleEn": "Womens-Socks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb4d22a76a1ab4862a0ee1313644667eeg.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127680048&SearchText=Womens+Socks&indexArea=product_en&fsb=y&productId=1600944095847",
+                                        "title": "Womens Socks"
+                                    },
+                                    {
+                                        "categoryIds": "127734134",
+                                        "level": "3",
+                                        "titleEn": "Men-s-Socks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2c39943dc8944ff982936b074d3268a0v.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127734134&SearchText=Men%27s+Socks&indexArea=product_en&fsb=y&productId=1600828941195",
+                                        "title": "Men's Socks"
+                                    },
+                                    {
+                                        "categoryIds": "337",
+                                        "level": "3",
+                                        "titleEn": "Used-Clothes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H671f79b4baef455d9848784d6c07cdc2o.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=337&SearchText=Used+Clothes&indexArea=product_en&fsb=y&productId=1600899145774",
+                                        "title": "Used Clothes"
+                                    },
+                                    {
+                                        "categoryIds": "201618402",
+                                        "level": "4",
+                                        "titleEn": "Plus-Size-Men-s-T-Shirts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7f608b7052fa4021b12da9cbca114119R.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201618402&SearchText=Plus+Size+Men%27s+T-Shirts&indexArea=product_en&fsb=y&productId=1600405204690",
+                                        "title": "Plus Size Men's T-Shirts"
+                                    },
+                                    {
+                                        "categoryIds": "3280502",
+                                        "level": "3",
+                                        "titleEn": "Lace",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He1d8affba886498c8d1aba46111bcd6dI.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3280502&SearchText=Lace&indexArea=product_en&fsb=y&productId=1600236298891",
+                                        "title": "Lace"
+                                    },
+                                    {
+                                        "categoryIds": "351",
+                                        "level": "4",
+                                        "titleEn": "Women-s-Panties",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha05d9ba61f7b40b6bf8a95fa17206e77Q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=351&SearchText=Women%27s+Panties&indexArea=product_en&fsb=y&productId=1600597231247",
+                                        "title": "Women's Panties"
+                                    },
+                                    {
+                                        "categoryIds": "201274476",
+                                        "level": "3",
+                                        "titleEn": "Women-s-T-Shirts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7c0fca870a7846debe3925d2a4c5a8a2V.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201274476&SearchText=Women%27s+T-Shirts&indexArea=product_en&fsb=y&productId=1600800971366",
+                                        "title": "Women's T-Shirts"
+                                    },
+                                    {
+                                        "categoryIds": "127734143",
+                                        "level": "3",
+                                        "titleEn": "Men-s-T-Shirts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5c6cf15a8a144c1589d4f7aadc93a921Q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127734143&SearchText=Men%27s+T-Shirts&indexArea=product_en&fsb=y&productId=1600477390203",
+                                        "title": "Men's T-Shirts"
+                                    },
+                                    {
+                                        "categoryIds": "100005791",
+                                        "level": "4",
+                                        "titleEn": "Casual-Dresses",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H63d7c56dff9b46a5a85d9b389a1da3a8S.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005791&SearchText=Casual+Dresses&indexArea=product_en&fsb=y&productId=1600425996687",
+                                        "title": "Casual Dresses"
+                                    },
+                                    {
+                                        "categoryIds": "127734132",
+                                        "level": "3",
+                                        "titleEn": "Men-s-Hoodies-Sweatshirts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8e81123a87ce403cbcc2cb35a8ad7b20u.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127734132&SearchText=Men%27s+Hoodies+%26+Sweatshirts&indexArea=product_en&fsb=y&productId=1601043248710",
+                                        "title": "Men's Hoodies & Sweatshirts"
+                                    },
+                                    {
+                                        "categoryIds": "201150601",
+                                        "level": "3",
+                                        "titleEn": "Women-s-Sets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A9e5bd99785b5409482afcc66896e198ch.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201150601&SearchText=Women%27s+Sets&indexArea=product_en&fsb=y&productId=11000005746888",
+                                        "title": "Women's Sets"
+                                    },
+                                    {
+                                        "categoryIds": "201756202",
+                                        "level": "4",
+                                        "titleEn": "Traditional-Muslim-Clothing-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Sf9b641d2c9184f308a3535b60f31427f4.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201756202&SearchText=Traditional+Muslim+Clothing%26Accessories&indexArea=product_en&fsb=y&productId=10000013733351",
+                                        "title": "Traditional Muslim Clothing&Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "127734137",
+                                        "level": "3",
+                                        "titleEn": "Men-s-Pants-Trousers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H45d8aa85e1ba485db5081816806bbf3ce.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127734137&SearchText=Men%27s+Pants+%26+Trousers&indexArea=product_en&fsb=y&productId=1600983958861",
+                                        "title": "Men's Pants & Trousers"
+                                    },
+                                    {
+                                        "categoryIds": "127734135",
+                                        "level": "3",
+                                        "titleEn": "Men-s-Jackets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Se4541d4c966b4b30a1327012ced2208ex.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127734135&SearchText=Men%27s+Jackets&indexArea=product_en&fsb=y&productId=10000010783174",
+                                        "title": "Men's Jackets"
+                                    },
+                                    {
+                                        "categoryIds": "201952403",
+                                        "level": "4",
+                                        "titleEn": "Baseball-Caps",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He1e6dfce677246379cb31a6bf55070a9b.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201952403&SearchText=Baseball+Caps&indexArea=product_en&fsb=y&productId=1601017144710",
+                                        "title": "Baseball Caps"
+                                    },
+                                    {
+                                        "categoryIds": "348",
+                                        "level": "3",
+                                        "titleEn": "Men-s-Shirts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H67631f4161eb4016b2242df254967f0dT.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=348&SearchText=Men%27s+Shirts&indexArea=product_en&fsb=y&productId=1601028793416",
+                                        "title": "Men's Shirts"
+                                    },
+                                    {
+                                        "categoryIds": "127734136",
+                                        "level": "3",
+                                        "titleEn": "Men-s-Jeans",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdd12192bfad5417995efc052554e3f1ei.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127734136&SearchText=Men%27s+Jeans&indexArea=product_en&fsb=y&productId=1600275231197",
+                                        "title": "Men's Jeans"
+                                    },
+                                    {
+                                        "categoryIds": "127734138",
+                                        "level": "3",
+                                        "titleEn": "Men-s-Shorts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb42922fb3eaa48d5a4d28e588b369099r.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127734138&SearchText=Men%27s+Shorts&indexArea=product_en&fsb=y&productId=1601034679627",
+                                        "title": "Men's Shorts"
+                                    },
+                                    {
+                                        "categoryIds": "201275271",
+                                        "level": "4",
+                                        "titleEn": "Gym-Fitness-Sets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3a298518b6824859a5873beee2504341z.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201275271&SearchText=Gym+Fitness+Sets&indexArea=product_en&fsb=y&productId=1600219156892",
+                                        "title": "Gym Fitness Sets"
+                                    },
+                                    {
+                                        "categoryIds": "201269877",
+                                        "level": "4",
+                                        "titleEn": "Training-Wear",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H72156128db85420f945961e75f0d196dm.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201269877&SearchText=Training+Wear&indexArea=product_en&fsb=y&productId=1600495081073",
+                                        "title": "Training Wear"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "1835861830",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_3",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "3164994960",
+                    "prefetchKey": "met",
+                    "path": "/category/products/3/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240257985170f5d4d1da933",
+                    "requestId": "9eeb771066f6791003a6d60208a378d4",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402579800",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "9085e4175eb9834eee373ed3f7e645ac",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "9eeb771066f6791003a6d60208a378d4",
+                    "spm": "a2700.product_home_newuser.header.1885.2f9d67af20x9kd",
+                    "categoryIds": "3",
+                    "pvId": "9eeb771066f6791003a6d60208a378d4",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"3\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3164994960",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920562,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_3",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "9310720040",
+                    "prefetchKey": "met",
+                    "path": "/category/products/3/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240257985170f5d4d1da933",
+                    "requestId": "8821e579450d6d24e587f4ba1cf51dcc",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402579800",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "9085e4175eb9834eee373ed3f7e645ac",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "8821e579450d6d24e587f4ba1cf51dcc",
+                    "spm": "a2700.product_home_newuser.header.1885.2f9d67af20x9kd",
+                    "categoryIds": "3",
+                    "pvId": "8821e579450d6d24e587f4ba1cf51dcc",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "params": "{\"modelId\":\"10271\",\"offerLimit\":\"3\",\"pageSize\":\"20\",\"cardType\":\"3889003\"} ",
+                            "_serverData": {
+                                "modelId": "10583",
+                                "finalModelId": "10583",
+                                "titleEn": "Flash deals",
+                                "themeGroupList": [
+                                    {
+                                        "titleEn": "Men's Clothing",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3889003&cardId=3892404&topOfferIds=1600553415863&categoryIds=3",
+                                        "backgroundImage": "",
+                                        "cardId": "3892404",
+                                        "subtitle": "",
+                                        "cardType": "3889003",
+                                        "backgroundMiniImage": "",
+                                        "title": "Men's Clothing",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H28108803a7f047788745a73409e9bdc6p.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-75230a8b-aa15-4760-964b-d18d6f3ab4a9#realPos-0_0_0#id-1600553415863#pos-0#matchType-13#fatherId-null#cateId-201152701#cardId-3892404#feedsId-#newsType-3889003#userTage-6_2_lost#finalScore-0.8099051932493845#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-905018828_0#srcChannel-PC#rankScore-0.9255759358406067#logtime-1712402579898#@@realCtrParam:@@productId:1600553415863",
+                                                "productId": "1600553415863"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Women's Clothing",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3889003&cardId=3895403&topOfferIds=1600819592455&categoryIds=3",
+                                        "backgroundImage": "",
+                                        "cardId": "3895403",
+                                        "subtitle": "",
+                                        "cardType": "3889003",
+                                        "backgroundMiniImage": "",
+                                        "title": "Women's Clothing",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hba3cd245742a499ca7ac54201a91847aj.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-75230a8b-aa15-4760-964b-d18d6f3ab4a9#realPos-0_1_0#id-1600819592455#pos-0#matchType-6#fatherId-null#cateId-201620001#cardId-3895403#feedsId-#newsType-3889003#userTage-6_2_lost#finalScore-0.8099051932493845#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_3889003#srcChannel-PC#rankScore-0.8796206653118133#logtime-1712402579898#@@realCtrParam:@@productId:1600819592455",
+                                                "productId": "1600819592455"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Ethnic Accessories",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3889003&cardId=3895404&topOfferIds=1600407917090&categoryIds=3",
+                                        "backgroundImage": "",
+                                        "cardId": "3895404",
+                                        "subtitle": "",
+                                        "cardType": "3889003",
+                                        "backgroundMiniImage": "",
+                                        "title": "Ethnic Accessories",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H38dfc2c6e0c8484fa9ac6b360e60c33bC.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-75230a8b-aa15-4760-964b-d18d6f3ab4a9#realPos-0_2_0#id-1600407917090#pos-0#matchType-13#fatherId-null#cateId-201722503#cardId-3895404#feedsId-133612247#newsType-3889003#userTage-6_2_lost#finalScore-0.8099051932493845#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-905020616_0#srcChannel-PC#rankScore-0.6245189785957337#logtime-1712402579898#@@realCtrParam:@@productId:1600407917090",
+                                                "productId": "1600407917090"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Belts & Accessories",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3889003&cardId=3902003&topOfferIds=62343785217&categoryIds=3",
+                                        "backgroundImage": "",
+                                        "cardId": "3902003",
+                                        "subtitle": "",
+                                        "cardType": "3889003",
+                                        "backgroundMiniImage": "",
+                                        "title": "Belts & Accessories",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hb0242ec62f5b49f8a4ad046305712f0df.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-75230a8b-aa15-4760-964b-d18d6f3ab4a9#realPos-0_3_0#id-62343785217#pos-0#matchType-13#fatherId-null#cateId-3280111#cardId-3902003#feedsId-#newsType-3889003#userTage-6_2_lost#finalScore-0.8099051932493845#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-905021828_0#srcChannel-PC#rankScore-0.5002600938081742#logtime-1712402579898#@@realCtrParam:@@productId:62343785217",
+                                                "productId": "62343785217"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Sportswear",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3889003&cardId=3902202&topOfferIds=1600254848638&categoryIds=3",
+                                        "backgroundImage": "",
+                                        "cardId": "3902202",
+                                        "subtitle": "",
+                                        "cardType": "3889003",
+                                        "backgroundMiniImage": "",
+                                        "title": "Sportswear",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H9f955159e2454642acdfe625592c903bG.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-75230a8b-aa15-4760-964b-d18d6f3ab4a9#realPos-0_4_0#id-1600254848638#pos-0#matchType-6#fatherId-null#cateId-201274871#cardId-3902202#feedsId-#newsType-3889003#userTage-6_2_lost#finalScore-0.8099051932493845#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_3889003#srcChannel-PC#rankScore-0.3913682579994202#logtime-1712402579898#@@realCtrParam:@@productId:1600254848638",
+                                                "productId": "1600254848638"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Scarves & Shawls",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3889003&cardId=3887802&topOfferIds=62598005098&categoryIds=3",
+                                        "backgroundImage": "",
+                                        "cardId": "3887802",
+                                        "subtitle": "",
+                                        "cardType": "3889003",
+                                        "backgroundMiniImage": "",
+                                        "title": "Scarves & Shawls",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H0ccb36cb49044adb991c55a536abe4bcH.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-75230a8b-aa15-4760-964b-d18d6f3ab4a9#realPos-0_5_0#id-62598005098#pos-0#matchType-13#fatherId-null#cateId-32599#cardId-3887802#feedsId-#newsType-3889003#userTage-6_2_lost#finalScore-0.8099051932493845#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-905022821_0#srcChannel-PC#rankScore-0.3842940807342529#logtime-1712402579898#@@realCtrParam:@@productId:62598005098",
+                                                "productId": "62598005098"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    }
+                                ],
+                                "needRender": "true",
+                                "title": "Flash deals"
+                            }
+                        }
+                    ]
+                }
+            },
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "9310720040",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "2157406020",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "6646416840",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "7340160590",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "8675554080",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "8415046100",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687629",
+        "name": "Apparel",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240257985170f5d4d1da933",
+        "pageType": 0,
+        "path": "/category/products/3/index.html",
+        "preloadUuid": "1687629",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_3",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Apparel"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

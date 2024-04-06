@@ -1,0 +1,996 @@
+{
+    "_pageModuleUUIDList": [
+        "7927448940",
+        "6037972160",
+        "4794959360",
+        "6885939400",
+        "9166954660",
+        "7170083840",
+        "6949484500",
+        "1116566480",
+        "7329128050",
+        "2827085350",
+        "1714371030",
+        "9220051870"
+    ],
+    "customContextParams": {
+        "path": "/category/products/2829/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403034940 | 0 | 1712403034940",
+        "process": "1712403035221 | 0 | 1712403035221",
+        "preRender": "1712403034940 | 8 | 1712403034948",
+        "assembleModuleData": "1712403035221 | 0 | 1712403035221",
+        "retrieveHtmlAndJson": "1712403034892 | 42 | 1712403034934",
+        "fetch": "1712403034954 | 267 | 1712403035221",
+        "seo": "1712403034940 | 0 | 1712403034940",
+        "preload": "1712403034940 | 0 | 1712403034940",
+        "render": "1712403035221 | 73 | 1712403035294"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i1/O1CN01purfYy1wKs13Bk9Zt_!!6000000006290-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_2829",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "7927448940",
+                    "prefetchKey": "met",
+                    "path": "/category/products/2829/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403034940b8e8058c6e092",
+                    "requestId": "918e652e702da8afb3e58301fa8c5455",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403034891",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "0f9c274235dec8bfb7e0be876d1b44a7",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "918e652e702da8afb3e58301fa8c5455",
+                    "spm": "a2700.product_home_newuser.header.1226.2f9d67af20x9kd",
+                    "categoryIds": "2829",
+                    "pvId": "918e652e702da8afb3e58301fa8c5455",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "282901",
+                                        "titleEn": "Trade-Show-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H6339bb4268fb417b901e80c14203d5a2r.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=282901&SearchText=Trade+Show+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Trade Show Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "281919",
+                                        "titleEn": "Advertising-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0c07580923d546ae9a1b95729d327880x.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=281919&SearchText=Advertising+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Advertising Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201494601",
+                                        "titleEn": "Digital-Signage",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf416a01baa434757aa590bf17c827df53.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201494601&SearchText=Digital+Signage&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Digital Signage",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "202059007",
+                                        "titleEn": "Party-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://img.alicdn.com/tfs/TB1nb3hw1T2gK0jSZFvXXXnFXXa-300-300.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202059007&SearchText=Party+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Party Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "2406",
+                                        "titleEn": "Restaurant-Hotel-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3c927df701eb4802873aedd5ae4776e79.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2406&SearchText=Restaurant+%26+Hotel+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Restaurant & Hotel Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "282905",
+                                        "titleEn": "Vending-Machines",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4346d16cdabe434183efe136e1cc10f4t.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=282905&SearchText=Vending+Machines&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Vending Machines",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "510",
+                                        "titleEn": "Financial-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb53055756b0f4f99bc2f809a31268b9fY.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=510&SearchText=Financial+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Financial Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "2826",
+                                        "titleEn": "Funeral-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3ff28f271c6448febc8331112f71cbe6i.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2826&SearchText=Funeral+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Funeral Supplies",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "202032002",
+                                        "titleEn": "Commercial-Robots",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H01356dbc902d424eac454b3b17697e27A.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202032002&SearchText=Commercial+Robots&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Commercial Robots",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "282903",
+                                        "titleEn": "Warehousing-Supermarket-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hdb6630dbced441f7a9458db378ea39f31.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=282903&SearchText=Warehousing+%26+Supermarket+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Warehousing & Supermarket Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "282904",
+                                        "titleEn": "Commercial-Laundry-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hccf6eea185b141c78f2fbaa2c1a55dc1M.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=282904&SearchText=Commercial+Laundry+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Commercial Laundry Equipment",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201269191",
+                                        "titleEn": "Other-Service-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H89157d6fbafd4154812dc00ecf38e6b9E.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201269191&SearchText=Other+Service+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Service Equipment",
+                                        "isLeaf": true
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "2829",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"2829\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "201466402",
+                                        "level": "4",
+                                        "titleEn": "Audio-Sound-Equipment",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A708e8e58d7e347088dad3fa044d29c2ak.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201466402&SearchText=Audio+Sound+Equipment&indexArea=product_en&fsb=y&productId=1601037898076",
+                                        "title": "Audio Sound Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "28191901",
+                                        "level": "3",
+                                        "titleEn": "Poster-Materials",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H10cd9356e56145f48daa2a425a0c9824A.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=28191901&SearchText=Poster+Materials&indexArea=product_en&fsb=y&productId=1600655999024",
+                                        "title": "Poster Materials"
+                                    },
+                                    {
+                                        "categoryIds": "201227905",
+                                        "level": "3",
+                                        "titleEn": "Digital-Signage-and-Displays",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hde94874e155648e5a1ecc774b2c99831U.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201227905&SearchText=Digital+Signage+and+Displays&indexArea=product_en&fsb=y&productId=1600552504785",
+                                        "title": "Digital Signage and Displays"
+                                    },
+                                    {
+                                        "categoryIds": "202061207",
+                                        "level": "3",
+                                        "titleEn": "Photo-Booth",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A49d10e616a4141c4aa6adea4502007ccm.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202061207&SearchText=Photo+Booth&indexArea=product_en&fsb=y&productId=11000002064978",
+                                        "title": "Photo Booth"
+                                    },
+                                    {
+                                        "categoryIds": "201754702",
+                                        "level": "3",
+                                        "titleEn": "Other-Party-Supplies",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4220e4ee75754c97aedae3fb1f386741b.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201754702&SearchText=Other+Party+Supplies&indexArea=product_en&fsb=y&productId=1600614254214",
+                                        "title": "Other Party Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201495301",
+                                        "level": "4",
+                                        "titleEn": "Commercial-Ice-Cream-Machine",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H24e04410a70248ef857bdc83c2af801bh.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201495301&SearchText=Commercial++Ice+Cream+Machine&indexArea=product_en&fsb=y&productId=60744227308",
+                                        "title": "Commercial  Ice Cream Machine"
+                                    },
+                                    {
+                                        "categoryIds": "201463003",
+                                        "level": "4",
+                                        "titleEn": "DJ-Controller-Audio-Console-Mixer",
+                                        "imageUrl": "//sc04.alicdn.com/kf/U65f5b3a3be174317b81641278cb7f5a36.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201463003&SearchText=DJ+Controller%2FAudio+Console+Mixer&indexArea=product_en&fsb=y&productId=1600465987442",
+                                        "title": "DJ Controller/Audio Console Mixer"
+                                    },
+                                    {
+                                        "categoryIds": "282905",
+                                        "level": "2",
+                                        "titleEn": "Vending-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H24cd49e501e4413abc3e42f2a0869495m.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=282905&SearchText=Vending+Machines&indexArea=product_en&fsb=y&productId=1601046961537",
+                                        "title": "Vending Machines"
+                                    },
+                                    {
+                                        "categoryIds": "201468301",
+                                        "level": "4",
+                                        "titleEn": "Atmosphere-Equipment-Smog-Maker-Dry-Ice",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5b30c45f9f904a64a24ecf2995cfe023j.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201468301&SearchText=Atmosphere+Equipment%2FSmog+Maker%2F+Dry+Ice&indexArea=product_en&fsb=y&productId=1600634753946",
+                                        "title": "Atmosphere Equipment/Smog Maker/ Dry Ice"
+                                    },
+                                    {
+                                        "categoryIds": "201490102",
+                                        "level": "4",
+                                        "titleEn": "Commercial-Fryer",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H70f3659f82404ea78924096c0f8436562.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201490102&SearchText=Commercial+Fryer&indexArea=product_en&fsb=y&productId=1600622173355",
+                                        "title": "Commercial Fryer"
+                                    },
+                                    {
+                                        "categoryIds": "28191902",
+                                        "level": "3",
+                                        "titleEn": "Display-Racks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H57019678808c41d79c91fae39f7fc002f.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=28191902&SearchText=Display+Racks&indexArea=product_en&fsb=y&productId=1600747671870",
+                                        "title": "Display Racks"
+                                    },
+                                    {
+                                        "categoryIds": "150407",
+                                        "level": "3",
+                                        "titleEn": "Electronic-Signs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9fdee27fe2644ea18ab59555262c354d8.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=150407&SearchText=Electronic+Signs&indexArea=product_en&fsb=y&productId=1600914970807",
+                                        "title": "Electronic Signs"
+                                    },
+                                    {
+                                        "categoryIds": "240699",
+                                        "level": "3",
+                                        "titleEn": "Other-Hotel-Restaurant-Supplies",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H23c0a2989a4b44638d80be8dcdc2c1bbo.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=240699&SearchText=Other+Hotel+%26+Restaurant+Supplies&indexArea=product_en&fsb=y&productId=1600188812472",
+                                        "title": "Other Hotel & Restaurant Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201468601",
+                                        "level": "4",
+                                        "titleEn": "Sound-Equipment-Amplifiers-Speaker",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hebd823a291a54e8db0c570106437ff1dU.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201468601&SearchText=Sound+Equipment%2FAmplifiers%2FSpeaker&indexArea=product_en&fsb=y&productId=1600950302449",
+                                        "title": "Sound Equipment/Amplifiers/Speaker"
+                                    },
+                                    {
+                                        "categoryIds": "28290302",
+                                        "level": "3",
+                                        "titleEn": "Refrigeration-Equipment",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4f08ca333d1a49699a0326a8a5c59142N.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=28290302&SearchText=Refrigeration+Equipment&indexArea=product_en&fsb=y&productId=1600133537328",
+                                        "title": "Refrigeration Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201152508",
+                                        "level": "3",
+                                        "titleEn": "Food-Trucks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8d37906198e64ae7947effd161740e00f.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152508&SearchText=Food+Trucks&indexArea=product_en&fsb=y&productId=62553641277",
+                                        "title": "Food Trucks"
+                                    },
+                                    {
+                                        "categoryIds": "28191903",
+                                        "level": "3",
+                                        "titleEn": "Advertising-Inflatables",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd1814f2e7b584491847266b063e8e037X.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=28191903&SearchText=Advertising+Inflatables&indexArea=product_en&fsb=y&productId=1600560356101",
+                                        "title": "Advertising Inflatables"
+                                    },
+                                    {
+                                        "categoryIds": "28191911",
+                                        "level": "3",
+                                        "titleEn": "Other-Advertising-Equipment",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hac9ffdac67564dfa958fda4eb92f8dd4i.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=28191911&SearchText=Other+Advertising+Equipment&indexArea=product_en&fsb=y&productId=1600321823586",
+                                        "title": "Other Advertising Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "28290301",
+                                        "level": "3",
+                                        "titleEn": "Supermarket-Shelves",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf931259140454e6eb19d0425357cb9a7e.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=28290301&SearchText=Supermarket+Shelves&indexArea=product_en&fsb=y&productId=1600892394713",
+                                        "title": "Supermarket Shelves"
+                                    },
+                                    {
+                                        "categoryIds": "28191906",
+                                        "level": "3",
+                                        "titleEn": "Advertising-Light-Boxes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb6d88ebfc8144135bc15b6c65a735a25e.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=28191906&SearchText=Advertising+Light+Boxes&indexArea=product_en&fsb=y&productId=1601037714076",
+                                        "title": "Advertising Light Boxes"
+                                    },
+                                    {
+                                        "categoryIds": "28290106",
+                                        "level": "3",
+                                        "titleEn": "Truss-Displays",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H145f000d28bb42a8b0a8fe62f78c4a7f7.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=28290106&SearchText=Truss+Displays&indexArea=product_en&fsb=y&productId=1600595619013",
+                                        "title": "Truss Displays"
+                                    },
+                                    {
+                                        "categoryIds": "240607",
+                                        "level": "3",
+                                        "titleEn": "Serving-Trays",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H46247696ac0546a4890902497e60d850T.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=240607&SearchText=Serving+Trays&indexArea=product_en&fsb=y&productId=1600441317278",
+                                        "title": "Serving Trays"
+                                    },
+                                    {
+                                        "categoryIds": "202062308",
+                                        "level": "4",
+                                        "titleEn": "Other-POS",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hade72b72dbc64b14b416b65a01355de8W.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202062308&SearchText=Other+POS&indexArea=product_en&fsb=y&productId=1600863155148",
+                                        "title": "Other POS"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "7927448940",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_2829",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "6037972160",
+                    "prefetchKey": "met",
+                    "path": "/category/products/2829/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403034940b8e8058c6e092",
+                    "requestId": "85b8807caf1fd0aad6f37845a0a9aa3b",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403034891",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "0f9c274235dec8bfb7e0be876d1b44a7",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "85b8807caf1fd0aad6f37845a0a9aa3b",
+                    "spm": "a2700.product_home_newuser.header.1226.2f9d67af20x9kd",
+                    "categoryIds": "2829",
+                    "pvId": "85b8807caf1fd0aad6f37845a0a9aa3b",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"2829\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "6037972160",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_2829",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "4794959360",
+                    "prefetchKey": "met",
+                    "path": "/category/products/2829/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403034940b8e8058c6e092",
+                    "requestId": "96b04308538d0c7256317a8d35519fbe",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403034891",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "0f9c274235dec8bfb7e0be876d1b44a7",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "96b04308538d0c7256317a8d35519fbe",
+                    "spm": "a2700.product_home_newuser.header.1226.2f9d67af20x9kd",
+                    "categoryIds": "2829",
+                    "pvId": "96b04308538d0c7256317a8d35519fbe",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "productFields": {
+                        "isCenter": true,
+                        "fields": [
+                            "price"
+                        ]
+                    },
+                    "countryListText": "US,CA,DE,ES,FR,AU,RU,IL,BR,IT,SA,NL,PL,AE,KR,PT,CL,BE,JP,MX,UA,CZ,CH,GB",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002781\",\"categoryIds\":\"2829\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "bucket": "false",
+                                "cardList": [],
+                                "cards": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hc18d803cf6d04dc58e97985b53c2532an.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-c3b2cabe-bf98-434d-b1ca-f6f01277c376#realPos-0_0_0#id-62396741067#pos-0#matchType-5#fatherId-null#cateId-240699#cardId-101002781_240699#feedsId-#newsType-101002781#userTage-6_2_lost#finalScore-0.7648960053920746#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-2829_101002781#srcChannel-PC#rankScore-1.1357174038887023#logtime-1712403034986#@@realCtrParam:@@productId:62396741067",
+                                        "deliveryText": "Delivery by May 9",
+                                        "productId": "62396741067",
+                                        "titleEn": "Other Hotel & Restaurant Supplies",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=62396741067&cardType=101002781&cardId=101002781_240699&categoryIds=2829",
+                                        "price": "$0.68",
+                                        "cardId": "101002781_240699",
+                                        "cardType": "101002781",
+                                        "title": "Other Hotel & Restaurant Supplies",
+                                        "moq": "4800"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H39f8a739a39f4fb1ae331b6bd82eeef7t.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-c3b2cabe-bf98-434d-b1ca-f6f01277c376#realPos-0_1_0#id-62533390289#pos-0#matchType-5#fatherId-null#cateId-240607#cardId-101002781_240607#feedsId-#newsType-101002781#userTage-6_2_lost#finalScore-0.7648960053920746#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-2829_101002781#srcChannel-PC#rankScore-0.6789197325706482#logtime-1712403034986#@@realCtrParam:@@productId:62533390289",
+                                        "productId": "62533390289",
+                                        "titleEn": "Serving Trays",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=62533390289&cardType=101002781&cardId=101002781_240607&categoryIds=2829",
+                                        "price": "$0.31 - $0.41",
+                                        "cardId": "101002781_240607",
+                                        "cardType": "101002781",
+                                        "title": "Serving Trays",
+                                        "moq": "100"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H7ac4f0b02f7c483a99ff36581e2a7ee7f.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-c3b2cabe-bf98-434d-b1ca-f6f01277c376#realPos-0_2_0#id-1600404467933#pos-0#matchType-5#fatherId-null#cateId-28191902#cardId-101002781_28191902#feedsId-#newsType-101002781#userTage-6_2_lost#finalScore-0.7648960053920746#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-2829_101002781#srcChannel-PC#rankScore-0.48005087971687316#logtime-1712403034986#@@realCtrParam:@@productId:1600404467933",
+                                        "productId": "1600404467933",
+                                        "titleEn": "Display Racks",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600404467933&cardType=101002781&cardId=101002781_28191902&categoryIds=2829",
+                                        "price": "$15.00 - $20.00",
+                                        "cardId": "101002781_28191902",
+                                        "cardType": "101002781",
+                                        "title": "Display Racks",
+                                        "moq": "1"
+                                    }
+                                ],
+                                "subTitle": "",
+                                "title": "Lower prices, delivered on time"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "4794959360",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "6885939400",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "9166954660",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "7170083840",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "6949484500",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "1116566480",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "7329128050",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "2827085350",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "1714371030",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "9220051870",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687714",
+        "name": "Commercial Service Equipment",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "01234567890000001712403034940b8e8058c6e092",
+        "pageType": 0,
+        "path": "/category/products/2829/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_2829",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Commercial Service Equipment"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

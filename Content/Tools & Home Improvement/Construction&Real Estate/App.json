@@ -1,0 +1,1320 @@
+{
+    "_pageModuleUUIDList": [
+        "2654030270",
+        "4019354100",
+        "5661549660",
+        "5683432350",
+        "6291052960",
+        "9291543860",
+        "5451944690",
+        "8799750480",
+        "7198140250",
+        "8094673160",
+        "5825090160",
+        "7044722510",
+        "7969278880",
+        "2886173410",
+        "2113174710"
+    ],
+    "customContextParams": {
+        "path": "/category/products/13/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403881552 | 0 | 1712403881552",
+        "process": "1712403881841 | 0 | 1712403881841",
+        "preRender": "1712403881552 | 8 | 1712403881560",
+        "assembleModuleData": "1712403881841 | 0 | 1712403881841",
+        "retrieveHtmlAndJson": "1712403881430 | 116 | 1712403881546",
+        "fetch": "1712403881582 | 259 | 1712403881841",
+        "seo": "1712403881552 | 0 | 1712403881552",
+        "preload": "1712403881552 | 0 | 1712403881552",
+        "render": "1712403881841 | 72 | 1712403881913"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i3/O1CN01gvUUlF1LJMw2FBzMh_!!6000000001278-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_13",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "2654030270",
+                    "prefetchKey": "met",
+                    "path": "/category/products/13/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403881552a13f25310f96d",
+                    "requestId": "46989dda360e1bad5e17e86bbb3306be",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403881430",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "d34e7ebd13e75597c8bf8318dea17f8a",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "46989dda360e1bad5e17e86bbb3306be",
+                    "spm": "a2700.product_home_newuser.header.3841.608267afIwWdys",
+                    "categoryIds": "13",
+                    "pvId": "46989dda360e1bad5e17e86bbb3306be",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "100006265",
+                                        "titleEn": "Bathroom-Kitchen",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H7de04915462c4469a33c3e63025bdac6X.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006265&SearchText=Bathroom+%26+Kitchen&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Bathroom & Kitchen",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005264",
+                                        "titleEn": "Masonry-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2b577a7672f5408e80a0a87e2bcbcf39H.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005264&SearchText=Masonry+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Masonry Materials",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "31",
+                                        "titleEn": "Prefabricated-Buildings",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0399fd9015a047c694be03cada451835n.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=31&SearchText=Prefabricated+Buildings&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Prefabricated Buildings",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1343",
+                                        "titleEn": "Decorative-Films",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H41f1767a9c9f4dc08901bb9c9ddb21adM.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1343&SearchText=Decorative+Films&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Decorative Films",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100005320",
+                                        "titleEn": "Building-Boards",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hee83d3d8e62e44b9b1cd28f1f0960572d.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005320&SearchText=Building+Boards&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Building Boards",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "131210",
+                                        "titleEn": "Countertops-Vanity-Tops-Table-Tops",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H23a4fdbd3f3243bdbd46abe335cb3909H.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=131210&SearchText=Countertops%2C+Vanity+Tops+%26+Table+Tops&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Countertops, Vanity Tops & Table Tops",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201723103",
+                                        "titleEn": "Building-Industrial-Glass",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb38c56cb6f5c435592dc2dd8e9e88be0U.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201723103&SearchText=Building+%26+Industrial+Glass&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Building & Industrial Glass",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1316",
+                                        "titleEn": "Mosaics",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9dc3d890ff654be48bfb0f197e227d90H.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1316&SearchText=Mosaics&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Mosaics",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "1320",
+                                        "titleEn": "Metal-Building-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H6960ead7b63f4960b8c8f199e83519bdZ.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1320&SearchText=Metal+Building+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Metal Building Materials",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "1325",
+                                        "titleEn": "Multifunctional-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha226306f5a4042ac9f7a09bf634d8df04.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1325&SearchText=Multifunctional+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Multifunctional Materials",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "1330",
+                                        "titleEn": "Ladders-Scaffoldings",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc7c719e66ac94b1380c8f5695bbfc991m.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1330&SearchText=Ladders+%26+Scaffoldings&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Ladders & Scaffoldings",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1338",
+                                        "titleEn": "Mouldings",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hdc36d97b044f4c8c80e2d0e0e210b6294.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1338&SearchText=Mouldings&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Mouldings",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "1340",
+                                        "titleEn": "Corner-Guards",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0830c8b97cdf482f9467eb33bda5dd6cO.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1340&SearchText=Corner+Guards&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Corner Guards",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "1353",
+                                        "titleEn": "Formwork",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc72756a1450540d58b22fbc4ccee594cF.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1353&SearchText=Formwork&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Formwork",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201724002",
+                                        "titleEn": "Other-Construction-Real-Estate",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1008583a6d634439bf588e34f2f59c569.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201724002&SearchText=Other+Construction+%26+Real+Estate&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Construction & Real Estate",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100005334",
+                                        "titleEn": "Soundproofing-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He119f85c8ca6492fb6f6ab8ffbb5a1b5u.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005334&SearchText=Soundproofing+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Soundproofing Materials",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005335",
+                                        "titleEn": "Timber",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hea0f95e4266b4af08378b4ef3d610668n.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005335&SearchText=Timber&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Timber",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005344",
+                                        "titleEn": "Waterproofing-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H267c873001224ceea5316044e00804105.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005344&SearchText=Waterproofing+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Waterproofing Materials",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005310",
+                                        "titleEn": "Plastic-Building-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4d3c3c6004814cf995066c68964a4c41h.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005310&SearchText=Plastic+Building+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Plastic Building Materials",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005288",
+                                        "titleEn": "Fireproofing-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He11b3afc9eac4d538e9a70973ae3cc14v.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005288&SearchText=Fireproofing+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Fireproofing Materials",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005281",
+                                        "titleEn": "Earthwork-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He91038c778c245b9b21c0cdeb8e91d6bU.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005281&SearchText=Earthwork+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Earthwork Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005291",
+                                        "titleEn": "Heat-Insulation-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H38012d8ce08b498abe831664a3d2d401y.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005291&SearchText=Heat+Insulation+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Heat Insulation Materials",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005265",
+                                        "titleEn": "Curtain-Walls-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H8113a6e6ea89462bb2f1a6fcb4c97192j.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005265&SearchText=Curtain+Walls+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Curtain Walls & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127726085",
+                                        "titleEn": "Stone",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H54b78b4248d842beb8a0c5f2e8357d53m.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726085&SearchText=Stone&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Stone",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127726084",
+                                        "titleEn": "Elevators-Escalators",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha3e5b9048fe84e619d2dce4f575f7785B.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726084&SearchText=Elevators+%26+Escalators&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Elevators & Escalators",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "800510",
+                                        "titleEn": "Plastic-Tubes",
+                                        "level": "2",
+                                        "imageUrl": "https://img.alicdn.com/tfs/TB1nb3hw1T2gK0jSZFvXXXnFXXa-300-300.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=800510&SearchText=Plastic+Tubes&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Plastic Tubes",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100007099",
+                                        "titleEn": "Ceilings",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H734f28b8dafc4039bd8ea6eeb63f35d9K.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007099&SearchText=Ceilings&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Ceilings",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100007064",
+                                        "titleEn": "Door-Window-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hdf9991db3bfe4c8b81ada01a1fc51e42e.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007064&SearchText=Door%2C+Window+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Door, Window & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100007069",
+                                        "titleEn": "Floor-Heating-Systems-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H658fecca18e54015b98659a7f7b5fc10a.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007069&SearchText=Floor+Heating+Systems+%26+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Floor Heating Systems & Parts",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100007071",
+                                        "titleEn": "Stairs-Stair-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9526b981527c4448928f4bccd86d7da2T.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007071&SearchText=Stairs+%26+Stair+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Stairs & Stair Parts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100007067",
+                                        "titleEn": "Fireplaces-Stoves",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd52532e59a97480ba502f337792ceba2r.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007067&SearchText=Fireplaces+%26+Stoves&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Fireplaces & Stoves",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201733502",
+                                        "titleEn": "Wallpapers-Wall-panels",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hab5f70f537314bce8cf0e2d2194bcc73q.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201733502&SearchText=Wallpapers%2FWall+panels&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Wallpapers/Wall panels",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201928702",
+                                        "titleEn": "HVAC-System-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9d3ebe8033094efcaf11aa83b613785dO.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201928702&SearchText=HVAC+System+%26+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "HVAC System & Parts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100006285",
+                                        "titleEn": "Tiles-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3f1430861165438abcad77edfd858685Z.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006285&SearchText=Tiles+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Tiles & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100006264",
+                                        "titleEn": "Balustrades-Handrails",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Haa1092fbaffc4828be73b6b4602b693ao.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006264&SearchText=Balustrades+%26+Handrails&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Balustrades & Handrails",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100006266",
+                                        "titleEn": "Flooring-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1867130568c7443a923ff881bcb115ae0.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006266&SearchText=Flooring+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Flooring & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201929602",
+                                        "titleEn": "Outdoor-Facilities",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hed8a5b3268a9434da173d5594c5330d1p.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201929602&SearchText=Outdoor+Facilities&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Outdoor Facilities",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "13",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"13\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "1302",
+                                        "level": "3",
+                                        "titleEn": "Kitchen-Sinks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H715bcc8e2bc24ed8859b0a8479508a57r.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1302&SearchText=Kitchen+Sinks&indexArea=product_en&fsb=y&productId=1600931534632",
+                                        "title": "Kitchen Sinks"
+                                    },
+                                    {
+                                        "categoryIds": "100007077",
+                                        "level": "4",
+                                        "titleEn": "Bath-Shower-Faucets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H893d7ac1de764a6f9d7649e19c3b7d2dl.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007077&SearchText=Bath+%26+Shower+Faucets&indexArea=product_en&fsb=y&productId=1600541209968",
+                                        "title": "Bath & Shower Faucets"
+                                    },
+                                    {
+                                        "categoryIds": "1350",
+                                        "level": "3",
+                                        "titleEn": "Roof-Tiles",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H16f15557c40f42ffa02cc5c2991bf614c.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1350&SearchText=Roof+Tiles&indexArea=product_en&fsb=y&productId=1600501160102",
+                                        "title": "Roof Tiles"
+                                    },
+                                    {
+                                        "categoryIds": "201964401",
+                                        "level": "4",
+                                        "titleEn": "Other-Prefab-houses",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2e5a9b003a7f4cb6b37bf4706e7b45414.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201964401&SearchText=Other+Prefab+houses&indexArea=product_en&fsb=y&productId=1601024771143",
+                                        "title": "Other Prefab houses"
+                                    },
+                                    {
+                                        "categoryIds": "201938901",
+                                        "level": "3",
+                                        "titleEn": "Container-Houses",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4b0823d7ca134afeb0cbbea729cf493c4.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201938901&SearchText=Container+Houses&indexArea=product_en&fsb=y&productId=1600885684631",
+                                        "title": "Container Houses"
+                                    },
+                                    {
+                                        "categoryIds": "1343",
+                                        "level": "2",
+                                        "titleEn": "Decorative-Films",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H066097592da349ff984d83f20458672fN.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1343&SearchText=Decorative+Films&indexArea=product_en&fsb=y&productId=1600438843932",
+                                        "title": "Decorative Films"
+                                    },
+                                    {
+                                        "categoryIds": "100007138",
+                                        "level": "4",
+                                        "titleEn": "Faucet-Cartridges",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8ab721eaa7bd4453b4c2f46b7ca0a3e3g.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007138&SearchText=Faucet+Cartridges&indexArea=product_en&fsb=y&productId=1600289955785",
+                                        "title": "Faucet Cartridges"
+                                    },
+                                    {
+                                        "categoryIds": "131403",
+                                        "level": "3",
+                                        "titleEn": "Plasterboards",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A6794dce1d882414e9cc6b5e23f2a3849n.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=131403&SearchText=Plasterboards&indexArea=product_en&fsb=y&productId=11000005493113",
+                                        "title": "Plasterboards"
+                                    },
+                                    {
+                                        "categoryIds": "100007109",
+                                        "level": "3",
+                                        "titleEn": "Sanitary-Ware-Suite",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H07f9e6899b4544a6bce937282d5f0787a.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007109&SearchText=Sanitary+Ware+Suite&indexArea=product_en&fsb=y&productId=1600367635065",
+                                        "title": "Sanitary Ware Suite"
+                                    },
+                                    {
+                                        "categoryIds": "3111",
+                                        "level": "3",
+                                        "titleEn": "Villas",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He866fce7497f423fbbc16254a86d1b5eh.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3111&SearchText=Villas&indexArea=product_en&fsb=y&productId=1600810906333",
+                                        "title": "Villas"
+                                    },
+                                    {
+                                        "categoryIds": "100006282",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Flooring",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb81862ee311143e680758f79cfa1466b3.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006282&SearchText=Plastic+Flooring&indexArea=product_en&fsb=y&productId=1600641299206",
+                                        "title": "Plastic Flooring"
+                                    },
+                                    {
+                                        "categoryIds": "201735301",
+                                        "level": "3",
+                                        "titleEn": "Other-Doors",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H68013315d20e4d2c8aecbfb41b9e3f5ay.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201735301&SearchText=Other+Doors&indexArea=product_en&fsb=y&productId=60726847556",
+                                        "title": "Other Doors"
+                                    },
+                                    {
+                                        "categoryIds": "100005345",
+                                        "level": "3",
+                                        "titleEn": "Other-Boards",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2fbd70c4af1a48ecaa10f7013fe7eb91T.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005345&SearchText=Other+Boards&indexArea=product_en&fsb=y&productId=1600747579808",
+                                        "title": "Other Boards"
+                                    },
+                                    {
+                                        "categoryIds": "201733901",
+                                        "level": "3",
+                                        "titleEn": "Other-Wallpaper-Wall-Panels",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1b56f7dc43a64699ae0d7b8f4083b6e9w.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201733901&SearchText=Other+Wallpaper%2FWall+Panels&indexArea=product_en&fsb=y&productId=1600821701022",
+                                        "title": "Other Wallpaper/Wall Panels"
+                                    },
+                                    {
+                                        "categoryIds": "201722302",
+                                        "level": "3",
+                                        "titleEn": "Wall-Panels-Boards",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H87f110585ff745bf957d6d99608523a1A.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201722302&SearchText=Wall+Panels+%26+Boards&indexArea=product_en&fsb=y&productId=1601033968150",
+                                        "title": "Wall Panels & Boards"
+                                    },
+                                    {
+                                        "categoryIds": "100006287",
+                                        "level": "3",
+                                        "titleEn": "Tiles",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha51e3b4854264d879536e9f317dd126dE.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006287&SearchText=Tiles&indexArea=product_en&fsb=y&productId=1600382639311",
+                                        "title": "Tiles"
+                                    },
+                                    {
+                                        "categoryIds": "100007106",
+                                        "level": "4",
+                                        "titleEn": "Kitchen-Cabinets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd1e6b2b3fd2440e5a3d7e09c5556cad0A.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007106&SearchText=Kitchen+Cabinets&indexArea=product_en&fsb=y&productId=1600490892915",
+                                        "title": "Kitchen Cabinets"
+                                    },
+                                    {
+                                        "categoryIds": "100006338",
+                                        "level": "4",
+                                        "titleEn": "Sauna-Rooms",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H02a04043711344d499b1ba3b50902e8fW.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006338&SearchText=Sauna+Rooms&indexArea=product_en&fsb=y&productId=1600982969429",
+                                        "title": "Sauna Rooms"
+                                    },
+                                    {
+                                        "categoryIds": "130108",
+                                        "level": "4",
+                                        "titleEn": "Toilets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H73da063002fa47bb9848c6cdc1d6e707G.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=130108&SearchText=Toilets&indexArea=product_en&fsb=y&productId=1600100088469",
+                                        "title": "Toilets"
+                                    },
+                                    {
+                                        "categoryIds": "100005336",
+                                        "level": "3",
+                                        "titleEn": "Acoustic-Panels",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1d4722203c3f43b0ba4610c05cdacc6f9.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005336&SearchText=Acoustic+Panels&indexArea=product_en&fsb=y&productId=1600596601719",
+                                        "title": "Acoustic Panels"
+                                    },
+                                    {
+                                        "categoryIds": "800510",
+                                        "level": "2",
+                                        "titleEn": "Plastic-Tubes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6a4b4566da954fc08cb953a9b6bfff9cM.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=800510&SearchText=Plastic+Tubes&indexArea=product_en&fsb=y&productId=1600407011820",
+                                        "title": "Plastic Tubes"
+                                    },
+                                    {
+                                        "categoryIds": "100006313",
+                                        "level": "3",
+                                        "titleEn": "Bathtubs-Whirlpools",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8b05ece040034264a49d67731a6bd6f6m.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006313&SearchText=Bathtubs+%26+Whirlpools&indexArea=product_en&fsb=y&productId=60776139127",
+                                        "title": "Bathtubs & Whirlpools"
+                                    },
+                                    {
+                                        "categoryIds": "15380399",
+                                        "level": "4",
+                                        "titleEn": "Other-Door-Window-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha0874314bc16463b86e35bd5cd34df45l.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15380399&SearchText=Other+Door+%26+Window+Accessories&indexArea=product_en&fsb=y&productId=62040806674",
+                                        "title": "Other Door & Window Accessories"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "2654030270",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_13",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "4019354100",
+                    "prefetchKey": "met",
+                    "path": "/category/products/13/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403881552a13f25310f96d",
+                    "requestId": "ffb59c42eb5a5077b2242b680fc60002",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403881430",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "d34e7ebd13e75597c8bf8318dea17f8a",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "ffb59c42eb5a5077b2242b680fc60002",
+                    "spm": "a2700.product_home_newuser.header.3841.608267afIwWdys",
+                    "categoryIds": "13",
+                    "pvId": "ffb59c42eb5a5077b2242b680fc60002",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"13\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "4019354100",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_13",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "5661549660",
+                    "prefetchKey": "met",
+                    "path": "/category/products/13/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403881552a13f25310f96d",
+                    "requestId": "ccc8de5636c47eb480a259dc53b2405e",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403881430",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "d34e7ebd13e75597c8bf8318dea17f8a",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "ccc8de5636c47eb480a259dc53b2405e",
+                    "spm": "a2700.product_home_newuser.header.3841.608267afIwWdys",
+                    "categoryIds": "13",
+                    "pvId": "ccc8de5636c47eb480a259dc53b2405e",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "productFields": {
+                        "isCenter": true,
+                        "fields": [
+                            "price"
+                        ]
+                    },
+                    "countryListText": "US,GB,AU,CA,NZ,DE,FR,ES,NL,IT,ID,PH,MY,VN,TH,JP,KR",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002781\",\"categoryIds\":\"\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "bucket": "false",
+                                "cardList": [],
+                                "cards": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H7177098925c84501a435ac3dada9b736O.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-c2b13daa-dfeb-4251-98e7-94cf9207921f#realPos-0_0_0#id-1600356163717#pos-0#matchType-6#fatherId-null#cateId-201336822#cardId-101002781_201336822#feedsId-#newsType-101002781#userTage-6_2_lost#finalScore-0.216821551322937#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_101002781#srcChannel-PC#rankScore-0.29494212567806244#logtime-1712403881611#@@realCtrParam:@@productId:1600356163717",
+                                        "deliveryText": "",
+                                        "productId": "1600356163717",
+                                        "titleEn": "Other Hair Care & Styling Products",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600356163717&cardType=101002781&cardId=101002781_201336822&categoryIds=",
+                                        "price": "$1.19 - $1.35",
+                                        "cardId": "101002781_201336822",
+                                        "cardType": "101002781",
+                                        "title": "Other Hair Care & Styling Products",
+                                        "moq": "2"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hc9e08c7ae0f441f0bc4be4c95a661e40q.png_220x220.png",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-c2b13daa-dfeb-4251-98e7-94cf9207921f#realPos-0_1_0#id-1600790831403#pos-0#matchType-6#fatherId-null#cateId-201463501#cardId-101002781_201463501#feedsId-#newsType-101002781#userTage-6_2_lost#finalScore-0.216821551322937#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_101002781#srcChannel-PC#rankScore-0.20650257170200348#logtime-1712403881611#@@realCtrParam:@@productId:1600790831403",
+                                        "productId": "1600790831403",
+                                        "titleEn": "Digital Writing Pads",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600790831403&cardType=101002781&cardId=101002781_201463501&categoryIds=",
+                                        "price": "$0.59 - $0.85",
+                                        "cardId": "101002781_201463501",
+                                        "cardType": "101002781",
+                                        "title": "Digital Writing Pads",
+                                        "moq": "100"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Ha2ffa5adf189440191f556a87b7644b6m.png_220x220.png",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-c2b13daa-dfeb-4251-98e7-94cf9207921f#realPos-0_2_0#id-1600764191565#pos-0#matchType-6#fatherId-null#cateId-201336512#cardId-101002781_201336512#feedsId-#newsType-101002781#userTage-6_2_lost#finalScore-0.216821551322937#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_101002781#srcChannel-PC#rankScore-0.14901995658874512#logtime-1712403881611#@@realCtrParam:@@productId:1600764191565",
+                                        "productId": "1600764191565",
+                                        "titleEn": "Basketball Style Shoes",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600764191565&cardType=101002781&cardId=101002781_201336512&categoryIds=",
+                                        "price": "$4.45 - $4.83",
+                                        "cardId": "101002781_201336512",
+                                        "cardType": "101002781",
+                                        "title": "Basketball Style Shoes",
+                                        "moq": "2"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H64b0be81fee94f1da8da151451008f1bK.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-c2b13daa-dfeb-4251-98e7-94cf9207921f#realPos-0_3_0#id-1600820768222#pos-0#matchType-6#fatherId-null#cateId-201334413#cardId-101002781_201334413#feedsId-#newsType-101002781#userTage-6_2_lost#finalScore-0.216821551322937#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_101002781#srcChannel-PC#rankScore-0.05782373845577249#logtime-1712403881611#@@realCtrParam:@@productId:1600820768222",
+                                        "productId": "1600820768222",
+                                        "titleEn": "Walking Style Shoes",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600820768222&cardType=101002781&cardId=101002781_201334413&categoryIds=",
+                                        "price": "$0.98 - $1.69",
+                                        "cardId": "101002781_201334413",
+                                        "cardType": "101002781",
+                                        "title": "Walking Style Shoes",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H07bc3ee6dd774983be129d6c33c2b58eG.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-c2b13daa-dfeb-4251-98e7-94cf9207921f#realPos-0_4_0#id-1600587005205#pos-0#matchType-6#fatherId-null#cateId-201770904#cardId-101002781_201770904#feedsId-#newsType-101002781#userTage-6_2_lost#finalScore-0.216821551322937#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_101002781#srcChannel-PC#rankScore-0.0444077491760253#logtime-1712403881611#@@realCtrParam:@@productId:1600587005205",
+                                        "deliveryText": "",
+                                        "productId": "1600587005205",
+                                        "titleEn": "Plush Pillows",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600587005205&cardType=101002781&cardId=101002781_201770904&categoryIds=",
+                                        "price": "$0.89 - $1.39",
+                                        "cardId": "101002781_201770904",
+                                        "cardType": "101002781",
+                                        "title": "Plush Pillows",
+                                        "moq": "10"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H2c356c55783d4f2a92a1ad06d71630b4w.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-c2b13daa-dfeb-4251-98e7-94cf9207921f#realPos-0_5_0#id-1600541549406#pos-0#matchType-6#fatherId-null#cateId-32210033#cardId-101002781_32210033#feedsId-#newsType-101002781#userTage-6_2_lost#finalScore-0.216821551322937#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_101002781#srcChannel-PC#rankScore-0.03692387987393886#logtime-1712403881611#@@realCtrParam:@@productId:1600541549406",
+                                        "deliveryText": "",
+                                        "productId": "1600541549406",
+                                        "titleEn": "Shoe Care Kits",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600541549406&cardType=101002781&cardId=101002781_32210033&categoryIds=",
+                                        "price": "$0.50 - $0.60",
+                                        "cardId": "101002781_32210033",
+                                        "cardType": "101002781",
+                                        "title": "Shoe Care Kits",
+                                        "moq": "10"
+                                    }
+                                ],
+                                "subTitle": "",
+                                "title": "Lower prices, delivered on time"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "5661549660",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "5683432350",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "6291052960",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "9291543860",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "5451944690",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "8799750480",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "7198140250",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "8094673160",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "5825090160",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "7044722510",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "7969278880",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "2886173410",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "2113174710",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687702",
+        "name": "Construction&Real Estate",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "01234567890000001712403881552a13f25310f96d",
+        "pageType": 0,
+        "path": "/category/products/13/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_13",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Construction&Real Estate"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

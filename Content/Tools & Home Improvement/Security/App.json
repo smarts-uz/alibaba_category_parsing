@@ -1,0 +1,833 @@
+{
+    "_pageModuleUUIDList": [
+        "8741782790",
+        "1075195450",
+        "4181794060",
+        "8996012600",
+        "4769927410",
+        "5816862360",
+        "8850184240"
+    ],
+    "customContextParams": {
+        "path": "/category/products/30/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712404008706 | 0 | 1712404008706",
+        "process": "1712404008801 | 0 | 1712404008801",
+        "preRender": "1712404008706 | 9 | 1712404008715",
+        "assembleModuleData": "1712404008801 | 0 | 1712404008801",
+        "retrieveHtmlAndJson": "1712404008598 | 102 | 1712404008700",
+        "fetch": "1712404008721 | 80 | 1712404008801",
+        "seo": "1712404008706 | 0 | 1712404008706",
+        "preload": "1712404008706 | 0 | 1712404008706",
+        "render": "1712404008801 | 64 | 1712404008865"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i4/O1CN01shrfPW1qYiIE3FB1i_!!6000000005508-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "GB",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_30",
+                    "language": "en",
+                    "ipCountry": "GB",
+                    "uuid": "8741782790",
+                    "prefetchKey": "met",
+                    "path": "/category/products/30/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240400870621b6509c27e62",
+                    "requestId": "99ce9486c4f0e8b152eb42096c53e302",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.54.158.83",
+                    "reqTimestamp": "1712404008598",
+                    "ip": "23.54.158.83",
+                    "envStatus": "ONLINE",
+                    "versionCode": "6b99424e51f4f3bb9a25e0b516627df5",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "99ce9486c4f0e8b152eb42096c53e302",
+                    "spm": "a2700.product_home_newuser.header.3848.608267afIwWdys",
+                    "categoryIds": "30",
+                    "pvId": "99ce9486c4f0e8b152eb42096c53e302",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "201153403",
+                                        "titleEn": "Locks-Keys",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hde8a1e122518418e8f06eff65b2af102D.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201153403&SearchText=Locks+%26+Keys&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Locks & Keys",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "3030",
+                                        "titleEn": "Access-Control-Systems-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0ac7529c3d5c44878052cf9060e2529a1.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3030&SearchText=Access+Control+Systems+%26+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Access Control Systems & Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201460430",
+                                        "titleEn": "Alarms",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H21a20d5aa8e64ca78778fedb5954d6f4e.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201460430&SearchText=Alarms&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Alarms",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "3011",
+                                        "titleEn": "Surveillance-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He8bb6ef372b443ea8564d9daabf86996F.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3011&SearchText=Surveillance+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Surveillance Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201230405",
+                                        "titleEn": "IoT-Solutions-Software",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf0cd4577e6a04a94a2625fd83b58254fz.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201230405&SearchText=IoT+Solutions+%26+Software&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "IoT Solutions & Software",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "3012",
+                                        "titleEn": "Safes",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H99ac1d42a11f4338bb1aeadfcef7b419F.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3012&SearchText=Safes&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Safes",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "3016",
+                                        "titleEn": "Other-Security-Protection-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H41a98cc54931408bb4503dd973f20cd3m.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3016&SearchText=Other+Security+%26+Protection+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Security & Protection Products",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "3019",
+                                        "titleEn": "Self-Defense-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H29f55908b6954c79aca54a501469b9ea2.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3019&SearchText=Self+Defense+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Self Defense Supplies",
+                                        "isLeaf": true
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "30",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"30\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "301003",
+                                        "level": "3",
+                                        "titleEn": "Locksmith-Supplies",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3879caede0424e95bc0c75b77d4b01e4R.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=301003&SearchText=Locksmith+Supplies&indexArea=product_en&fsb=y&productId=60105128025",
+                                        "title": "Locksmith Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201757001",
+                                        "level": "3",
+                                        "titleEn": "Access-Control-Cards",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H456f0bfb527b4491b510589e48da4985D.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201757001&SearchText=Access+Control+Cards&indexArea=product_en&fsb=y&productId=1600300403619",
+                                        "title": "Access Control Cards"
+                                    },
+                                    {
+                                        "categoryIds": "201461618",
+                                        "level": "3",
+                                        "titleEn": "Alarm-Systems",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf9ff3512b1534f9da75d22b2e4595e49r.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201461618&SearchText=Alarm+Systems&indexArea=product_en&fsb=y&productId=1600118011502",
+                                        "title": "Alarm Systems"
+                                    },
+                                    {
+                                        "categoryIds": "301106",
+                                        "level": "3",
+                                        "titleEn": "Surveillance-Systems",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H628eccb5fd744547a962281db568d41cp.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=301106&SearchText=Surveillance+Systems&indexArea=product_en&fsb=y&productId=1600463180451",
+                                        "title": "Surveillance Systems"
+                                    },
+                                    {
+                                        "categoryIds": "201148313",
+                                        "level": "3",
+                                        "titleEn": "Smart-Locks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H63eee390ab2a4ffd81dbd29bfc5b1f4dL.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201148313&SearchText=Smart+Locks&indexArea=product_en&fsb=y&productId=1600745603745",
+                                        "title": "Smart Locks"
+                                    },
+                                    {
+                                        "categoryIds": "201593701",
+                                        "level": "3",
+                                        "titleEn": "Digital-Video-Recorder",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H92b8a13bf28e40708d147b364e12a7960.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201593701&SearchText=Digital+Video+Recorder&indexArea=product_en&fsb=y&productId=1600625803277",
+                                        "title": "Digital Video Recorder"
+                                    },
+                                    {
+                                        "categoryIds": "201453632",
+                                        "level": "3",
+                                        "titleEn": "Mini-Cameras",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H60dbe7034df34c5fa08e99ec7e84652cf.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201453632&SearchText=Mini+Cameras&indexArea=product_en&fsb=y&productId=1600995418744",
+                                        "title": "Mini Cameras"
+                                    },
+                                    {
+                                        "categoryIds": "201450828",
+                                        "level": "3",
+                                        "titleEn": "Blank-Keys",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ucfce9311dffc4ca08d9c97d6ecaf2d5cP.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201450828&SearchText=Blank+Keys&indexArea=product_en&fsb=y&productId=62022824292",
+                                        "title": "Blank Keys"
+                                    },
+                                    {
+                                        "categoryIds": "201775303",
+                                        "level": "3",
+                                        "titleEn": "Door-Phones",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hfc9b2f55eed84fb5b1ef820051c288e16.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201775303&SearchText=Door+Phones&indexArea=product_en&fsb=y&productId=1600942116956",
+                                        "title": "Door Phones"
+                                    },
+                                    {
+                                        "categoryIds": "303007",
+                                        "level": "3",
+                                        "titleEn": "Access-Control-Card-Readers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb8b099c9200a41f2ace4890c41d409c5I.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=303007&SearchText=Access+Control+Card+Readers&indexArea=product_en&fsb=y&productId=1600216007525",
+                                        "title": "Access Control Card Readers"
+                                    },
+                                    {
+                                        "categoryIds": "201593801",
+                                        "level": "3",
+                                        "titleEn": "Network-Camera",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6cd2b09add914dc3a7a30282a4ea02ceE.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201593801&SearchText=Network+Camera&indexArea=product_en&fsb=y&productId=1600782666911",
+                                        "title": "Network Camera"
+                                    },
+                                    {
+                                        "categoryIds": "3010",
+                                        "level": "3",
+                                        "titleEn": "Locks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcbf63c2f436241c8b18db31a345b6f0fK.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3010&SearchText=Locks&indexArea=product_en&fsb=y&productId=62504587958",
+                                        "title": "Locks"
+                                    },
+                                    {
+                                        "categoryIds": "201151614",
+                                        "level": "3",
+                                        "titleEn": "Lock-Cylinders",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He2f2d3aaf7be49d59d41b607cc9f35bcd.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201151614&SearchText=Lock+Cylinders&indexArea=product_en&fsb=y&productId=1601021725886",
+                                        "title": "Lock Cylinders"
+                                    },
+                                    {
+                                        "categoryIds": "201593901",
+                                        "level": "3",
+                                        "titleEn": "Analog-Camera",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H317f0df212bc4e6984ebfc305091b380H.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201593901&SearchText=Analog+Camera&indexArea=product_en&fsb=y&productId=1600726400642",
+                                        "title": "Analog Camera"
+                                    },
+                                    {
+                                        "categoryIds": "3012",
+                                        "level": "2",
+                                        "titleEn": "Safes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7e750362b74c49f2a623530a990fb8b8S.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3012&SearchText=Safes&indexArea=product_en&fsb=y&productId=1600827950732",
+                                        "title": "Safes"
+                                    },
+                                    {
+                                        "categoryIds": "3016",
+                                        "level": "2",
+                                        "titleEn": "Other-Security-Protection-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He84e9b6cd2de4e298f39c34bea6ee284Z.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3016&SearchText=Other+Security+%26+Protection+Products&indexArea=product_en&fsb=y&productId=1600999755618",
+                                        "title": "Other Security & Protection Products"
+                                    },
+                                    {
+                                        "categoryIds": "303003",
+                                        "level": "3",
+                                        "titleEn": "EAS-Systems",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1f571ef69c9b476eb16bbef177008b479.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=303003&SearchText=EAS+Systems&indexArea=product_en&fsb=y&productId=1600751061836",
+                                        "title": "EAS Systems"
+                                    },
+                                    {
+                                        "categoryIds": "201595001",
+                                        "level": "3",
+                                        "titleEn": "Biometric-Access-Control-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc8bd144dd06041ed985f6845a64bce1eT.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201595001&SearchText=Biometric+Access+Control+Products&indexArea=product_en&fsb=y&productId=1600291923628",
+                                        "title": "Biometric Access Control Products"
+                                    },
+                                    {
+                                        "categoryIds": "201593601",
+                                        "level": "3",
+                                        "titleEn": "Surveillance-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Aac7d794378ac43cd9cdcda2734164864k.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201593601&SearchText=Surveillance+Accessories&indexArea=product_en&fsb=y&productId=11000013833609",
+                                        "title": "Surveillance Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201151706",
+                                        "level": "3",
+                                        "titleEn": "Padlocks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Haca91447a7a6466c91bd347938090f934.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201151706&SearchText=Padlocks&indexArea=product_en&fsb=y&productId=1600577203307",
+                                        "title": "Padlocks"
+                                    },
+                                    {
+                                        "categoryIds": "201452033",
+                                        "level": "3",
+                                        "titleEn": "Smoke-Detectors",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1578dd29c6904130a43d47b7be4953b0Y.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201452033&SearchText=Smoke+Detectors&indexArea=product_en&fsb=y&productId=1600704492800",
+                                        "title": "Smoke Detectors"
+                                    },
+                                    {
+                                        "categoryIds": "303099",
+                                        "level": "3",
+                                        "titleEn": "Other-Access-Control-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4853c944f7554694a33d4badd10c5d3cv.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=303099&SearchText=Other+Access+Control+Products&indexArea=product_en&fsb=y&productId=1601005998766",
+                                        "title": "Other Access Control Products"
+                                    },
+                                    {
+                                        "categoryIds": "15010508",
+                                        "level": "3",
+                                        "titleEn": "Baby-Monitors",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H55c15022f9ed482cbb8e8803bac0f5213.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15010508&SearchText=Baby+Monitors&indexArea=product_en&fsb=y&productId=1600792866998",
+                                        "title": "Baby Monitors"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "8741782790",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 945522,
+            "data": {
+                "_serverUrlData": {
+                    "country": "GB",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_30",
+                    "language": "en",
+                    "ipCountry": "GB",
+                    "uuid": "1075195450",
+                    "prefetchKey": "met",
+                    "path": "/category/products/30/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240400870621b6509c27e62",
+                    "requestId": "d0a7f7779b6fc7da56742f5cc6c1a31a",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.54.158.83",
+                    "reqTimestamp": "1712404008598",
+                    "ip": "23.54.158.83",
+                    "envStatus": "ONLINE",
+                    "versionCode": "6b99424e51f4f3bb9a25e0b516627df5",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "d0a7f7779b6fc7da56742f5cc6c1a31a",
+                    "spm": "a2700.product_home_newuser.header.3848.608267afIwWdys",
+                    "categoryIds": "30",
+                    "pvId": "d0a7f7779b6fc7da56742f5cc6c1a31a",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "countryListText": "US,CA,GB,DE,ES,FR,AU,RU,IL,BR,IT,SA,NL,PL,AE,KR,PT,CL,BE,JP,MX,UA,CZ,CH",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002560\",\"categoryIds\":\"30\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "cardList": []
+                            }
+                        }
+                    },
+                    "floorTitle": "Order now, enjoy Easy Return",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "1075195450",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920581,
+            "data": {
+                "_serverUrlData": {
+                    "country": "GB",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_30",
+                    "language": "en",
+                    "ipCountry": "GB",
+                    "uuid": "4181794060",
+                    "prefetchKey": "met",
+                    "path": "/category/products/30/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240400870621b6509c27e62",
+                    "requestId": "be0b95940b885404b98066b3b9909351",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.54.158.83",
+                    "reqTimestamp": "1712404008598",
+                    "ip": "23.54.158.83",
+                    "envStatus": "ONLINE",
+                    "versionCode": "6b99424e51f4f3bb9a25e0b516627df5",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "be0b95940b885404b98066b3b9909351",
+                    "spm": "a2700.product_home_newuser.header.3848.608267afIwWdys",
+                    "categoryIds": "30",
+                    "pvId": "be0b95940b885404b98066b3b9909351",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "showType": "multi_category",
+                    "requestCommon": {
+                        "_fdl_request_categoryList": {
+                            "params": "{\"categoryIds\":\"30\",\"modelId\":\"10660\"}",
+                            "_serverData": {}
+                        }
+                    },
+                    "floorSubTitle": "",
+                    "floorTitle": "Popular products in your industry",
+                    "pageDotName": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "4181794060",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "8996012600",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "4769927410",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "5816862360",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "8850184240",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1689034",
+        "name": "Security",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240400870621b6509c27e62",
+        "pageType": 0,
+        "path": "/category/products/30/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_30",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Security"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

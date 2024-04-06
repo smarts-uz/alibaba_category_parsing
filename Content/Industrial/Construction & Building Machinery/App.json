@@ -1,0 +1,1225 @@
+{
+    "_pageModuleUUIDList": [
+        "4633260250",
+        "7186389760",
+        "3542603940",
+        "1883650990",
+        "8337184780",
+        "5236101110",
+        "9774789560",
+        "9699675020",
+        "3406643580",
+        "7350437250",
+        "1680985400",
+        "7992533920"
+    ],
+    "customContextParams": {
+        "path": "/category/products/201943703/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403055085 | 0 | 1712403055085",
+        "process": "1712403055392 | 0 | 1712403055392",
+        "preRender": "1712403055086 | 8 | 1712403055094",
+        "assembleModuleData": "1712403055392 | 0 | 1712403055392",
+        "retrieveHtmlAndJson": "1712403055006 | 73 | 1712403055079",
+        "fetch": "1712403055099 | 293 | 1712403055392",
+        "seo": "1712403055085 | 0 | 1712403055085",
+        "preload": "1712403055086 | 0 | 1712403055086",
+        "render": "1712403055392 | 36 | 1712403055428"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://gw.alicdn.com/imgextra/i1/O1CN011IN7bJ1vGv0yAoTbS_!!6000000006146-0-tps-1920-240.jpg",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201943703",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "4633260250",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201943703/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403055085210924abb1e9b",
+                    "requestId": "3b427c0d26ebedcbb6b139f6855981ca",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403055006",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "0a29440ecd5b68b1dcb9626c38155e12",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "3b427c0d26ebedcbb6b139f6855981ca",
+                    "spm": "a2700.product_home_newuser.header.1234.2f9d67af20x9kd",
+                    "categoryIds": "201943703",
+                    "pvId": "3b427c0d26ebedcbb6b139f6855981ca",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "1326",
+                                        "titleEn": "Engineering-Construction-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1b80c880177f4dfabacbf40055b6d4860.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1326&SearchText=Engineering+%26+Construction+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Engineering & Construction Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201724402",
+                                        "titleEn": "Used-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1459a533e2ab48c9969e8c2e0d3d19b2X.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201724402&SearchText=Used+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Used Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100010639",
+                                        "titleEn": "Energy-Mineral-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf6698c16b93040b691424cb7864c2190u.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010639&SearchText=Energy+%26+Mineral+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Energy & Mineral Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "4314",
+                                        "titleEn": "Building-Material-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hecbb128fb9784a0d94117535e3260b69C.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=4314&SearchText=Building+Material+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Building Material Machinery",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "201943703",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"201943703\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "1355",
+                                        "level": "3",
+                                        "titleEn": "Construction-Machinery-Parts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4e74991f69c044f6b07cb5055212cfe8N.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1355&SearchText=Construction+Machinery+Parts&indexArea=product_en&fsb=y&productId=1600586752147",
+                                        "title": "Construction Machinery Parts"
+                                    },
+                                    {
+                                        "categoryIds": "201721604",
+                                        "level": "4",
+                                        "titleEn": "Used-Loaders",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hfec850bb89144c0298da6ea97ea42463b.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201721604&SearchText=Used+Loaders&indexArea=product_en&fsb=y&productId=1601027308799",
+                                        "title": "Used Loaders"
+                                    },
+                                    {
+                                        "categoryIds": "201734401",
+                                        "level": "4",
+                                        "titleEn": "Used-Truck-Cranes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hfb0cf61b416e4a938e397f22c1a6988fa.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201734401&SearchText=Used+Truck+Cranes&indexArea=product_en&fsb=y&productId=1600342403697",
+                                        "title": "Used Truck Cranes"
+                                    },
+                                    {
+                                        "categoryIds": "201726102",
+                                        "level": "4",
+                                        "titleEn": "Used-Bulldozers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H99b69b2cb90f405aba81d3070b33f3b9D.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201726102&SearchText=Used+Bulldozers&indexArea=product_en&fsb=y&productId=1600200864816",
+                                        "title": "Used Bulldozers"
+                                    },
+                                    {
+                                        "categoryIds": "201734501",
+                                        "level": "4",
+                                        "titleEn": "Used-Motor-Graders",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A0e14f036a6e34bdf9f47a5ad739f44car.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201734501&SearchText=Used+Motor+Graders&indexArea=product_en&fsb=y&productId=1601055342976",
+                                        "title": "Used Motor Graders"
+                                    },
+                                    {
+                                        "categoryIds": "201734601",
+                                        "level": "4",
+                                        "titleEn": "Used-Concrete-Pumps",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3031d37e6cea4ab89f23e9c2405b069cE.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201734601&SearchText=Used+Concrete+Pumps&indexArea=product_en&fsb=y&productId=1600359189338",
+                                        "title": "Used Concrete Pumps"
+                                    },
+                                    {
+                                        "categoryIds": "1415",
+                                        "level": "3",
+                                        "titleEn": "Energy-Saving-Equipment",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He4ad5fb5501c411b9fed1e848cd65d36K.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1415&SearchText=Energy+Saving+Equipment&indexArea=product_en&fsb=y&productId=1600918014446",
+                                        "title": "Energy Saving Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "190000060",
+                                        "level": "3",
+                                        "titleEn": "Window-and-Door-Making-Machinery",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7f10edff7e684685b39f53d8f5743792k.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=190000060&SearchText=Window+and+Door+Making+Machinery&indexArea=product_en&fsb=y&productId=1600730790306",
+                                        "title": "Window and Door Making Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "201732002",
+                                        "level": "4",
+                                        "titleEn": "Other-Used-Cranes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc573362856bc4712896cff72fd7358dfD.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201732002&SearchText=Other+Used+Cranes&indexArea=product_en&fsb=y&productId=1600931869985",
+                                        "title": "Other Used Cranes"
+                                    },
+                                    {
+                                        "categoryIds": "201725503",
+                                        "level": "4",
+                                        "titleEn": "Used-Excavators",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd1d7767266454b9f9992e80f43e19f65V.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201725503&SearchText=Used+Excavators&indexArea=product_en&fsb=y&productId=1600891414687",
+                                        "title": "Used Excavators"
+                                    },
+                                    {
+                                        "categoryIds": "132606",
+                                        "level": "4",
+                                        "titleEn": "Excavators",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4835246be5fc4e7285b8487b06e8b035E.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=132606&SearchText=Excavators&indexArea=product_en&fsb=y&productId=1600598492384",
+                                        "title": "Excavators"
+                                    },
+                                    {
+                                        "categoryIds": "132608",
+                                        "level": "4",
+                                        "titleEn": "Loaders",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0eac9d609bb94f13b40b90e63825c8fbQ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=132608&SearchText=Loaders&indexArea=product_en&fsb=y&productId=1601067990067",
+                                        "title": "Loaders"
+                                    },
+                                    {
+                                        "categoryIds": "431401",
+                                        "level": "3",
+                                        "titleEn": "Brick-Making-Machinery",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H793094a30d3e4c34916ee0435468c6ddQ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=431401&SearchText=Brick+Making+Machinery&indexArea=product_en&fsb=y&productId=1601012396256",
+                                        "title": "Brick Making Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "100007282",
+                                        "level": "4",
+                                        "titleEn": "Mine-Drilling-Rig",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0e65e522578a48dc8dc8300cc3eacca4q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007282&SearchText=Mine+Drilling+Rig&indexArea=product_en&fsb=y&productId=1601001606260",
+                                        "title": "Mine Drilling Rig"
+                                    },
+                                    {
+                                        "categoryIds": "132604",
+                                        "level": "4",
+                                        "titleEn": "Concrete-Mixers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc2075f2d87ee4e63b65ec0499c917b10m.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=132604&SearchText=Concrete+Mixers&indexArea=product_en&fsb=y&productId=1600609925281",
+                                        "title": "Concrete Mixers"
+                                    },
+                                    {
+                                        "categoryIds": "4320",
+                                        "level": "4",
+                                        "titleEn": "Mining-Machine-Parts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB10rzVguuSBuNjSsplq6ze8pXar.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=4320&SearchText=Mining+Machine+Parts&indexArea=product_en&fsb=y&productId=60746007701",
+                                        "title": "Mining Machine Parts"
+                                    },
+                                    {
+                                        "categoryIds": "431407",
+                                        "level": "3",
+                                        "titleEn": "Tile-Making-Machinery",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H63c78ab9e1b64d3a85c19202ef22c26eG.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=431407&SearchText=Tile+Making+Machinery&indexArea=product_en&fsb=y&productId=62463837605",
+                                        "title": "Tile Making Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "132699",
+                                        "level": "3",
+                                        "titleEn": "Other-Construction-Machinery",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A570c3fc637e0415ba565c8f958b6b98fq.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=132699&SearchText=Other+Construction+Machinery&indexArea=product_en&fsb=y&productId=11000013742737",
+                                        "title": "Other Construction Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "100010678",
+                                        "level": "4",
+                                        "titleEn": "Truck-Cranes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1s6mcdk5E3KVjSZFCq6zuzXXaC.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010678&SearchText=Truck+Cranes&indexArea=product_en&fsb=y&productId=62168316201",
+                                        "title": "Truck Cranes"
+                                    },
+                                    {
+                                        "categoryIds": "100007280",
+                                        "level": "4",
+                                        "titleEn": "Crusher",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcfe1e32d3adf4ee4aa3af86d5729504fI.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007280&SearchText=Crusher&indexArea=product_en&fsb=y&productId=1600541549842",
+                                        "title": "Crusher"
+                                    },
+                                    {
+                                        "categoryIds": "431403",
+                                        "level": "3",
+                                        "titleEn": "Stone-Machinery",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7463195885754020ba33259a1642c0172.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=431403&SearchText=Stone+Machinery&indexArea=product_en&fsb=y&productId=1600352025966",
+                                        "title": "Stone Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "100010822",
+                                        "level": "4",
+                                        "titleEn": "Other-Cranes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He6d62f33629642ce92a5dc328559095dG.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010822&SearchText=Other+Cranes&indexArea=product_en&fsb=y&productId=1600888061754",
+                                        "title": "Other Cranes"
+                                    },
+                                    {
+                                        "categoryIds": "100010665",
+                                        "level": "3",
+                                        "titleEn": "Mortar-Spray-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1J3eFrY5YBuNjSspoq6zeNFXaQ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010665&SearchText=Mortar+Spray+Machines&indexArea=product_en&fsb=y&productId=60760869328",
+                                        "title": "Mortar Spray Machines"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "4633260250",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 930857,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201943703",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "7186389760",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201943703/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403055085210924abb1e9b",
+                    "requestId": "ab97898001e79cde193512b540fec612",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403055006",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "0a29440ecd5b68b1dcb9626c38155e12",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "ab97898001e79cde193512b540fec612",
+                    "spm": "a2700.product_home_newuser.header.1234.2f9d67af20x9kd",
+                    "categoryIds": "201943703",
+                    "pvId": "ab97898001e79cde193512b540fec612",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "requestCommon": {
+                        "_fdl_request_cardList": {
+                            "params": "{\"cardType\":\"101002736\",\"categoryIds\":\"201943703\",\"modelId\":\"11134\"}",
+                            "_serverData": {
+                                "bucket": "false",
+                                "cardList": [
+                                    {
+                                        "titleEn": "Loaders",
+                                        "cardId": "132608",
+                                        "cardType": "101002736",
+                                        "title": "Loaders",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Ad05e0d72853a46faa94da8be0fab874ab.jpeg_220x220.jpeg",
+                                                "productId": "1600898202653",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600898202653&cardType=101002736&cardId=132608&categoryIds=201943703",
+                                                "subject": "CHEAP PRICE J.C.B 1CXT BACKHOE LOADER AVAILABLE FOR SELL",
+                                                "price": "$7,000.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 unit"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/A91b046dc2dc446faa043b044d7c6d58eC.jpeg_220x220.jpeg",
+                                                "productId": "1600952971617",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600952971617&cardType=101002736&cardId=132608&categoryIds=201943703",
+                                                "subject": "Backhoe loader with excellent material handling and excavating capabilities",
+                                                "price": "$2,500.00 - $3,000.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 unit"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/A7306ae0346e9453f899415efec2a8049U.jpeg_220x220.jpeg",
+                                                "productId": "1600988326389",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600988326389&cardType=101002736&cardId=132608&categoryIds=201943703",
+                                                "subject": "2020 Used original used mini skid loader caterpillar 272c 246c skid steer loader for sale cheap price UK made",
+                                                "price": "$1,000.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 unit"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "Crusher",
+                                        "cardId": "100007280",
+                                        "cardType": "101002736",
+                                        "title": "Crusher",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H5c1b012a711b4d5e90848a85d0a66a2dF.png_220x220.png",
+                                                "productId": "1601038427931",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1601038427931&cardType=101002736&cardId=100007280&categoryIds=201943703",
+                                                "subject": "Pe-250*400 Jaw Stone Crusher With Diesel Engine Portable Rock Crusher In China",
+                                                "price": "$900.00 - $1,100.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 set"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hab58e4d40dd749f1b8c9126d2cb52c3dV.jpg_220x220.jpg",
+                                                "productId": "1600996677321",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600996677321&cardType=101002736&cardId=100007280&categoryIds=201943703",
+                                                "subject": "Manufacturer Granite Rock Mobile Crusher Track Field Stone Crusher Machine Portable Concrete Mobile Jaw Crusher 200 Tph",
+                                                "price": "$5,500.00 - $9,900.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 set"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H6654eb1ffcc44faeb0a43861fdaf502cF.jpg_220x220.jpg",
+                                                "productId": "1600986600483",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600986600483&cardType=101002736&cardId=100007280&categoryIds=201943703",
+                                                "subject": "Eco-Friendly 400X600 Jaw Crusher Mobile Crusher Stone",
+                                                "price": "$10,000.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 set"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "Concrete Pumps",
+                                        "cardId": "132605",
+                                        "cardType": "101002736",
+                                        "title": "Concrete Pumps",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Ae9a4ee4d7be44cabb524b0cdb62ba409C.jpg_220x220.jpg",
+                                                "productId": "11000011683289",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=11000011683289&cardType=101002736&cardId=132605&categoryIds=201943703",
+                                                "subject": "Used second hand sany 47m truck mounted concrete pumps good condition sany pump truck low hours",
+                                                "price": "$30,000.00 - $45,000.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 unit"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H0f4d1ccc99114fae9d29861312405878S.jpg_220x220.jpg",
+                                                "productId": "1600974889000",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600974889000&cardType=101002736&cardId=132605&categoryIds=201943703",
+                                                "subject": "47 meters sany concrete pump price  used concrete pumps pumping machine concrete truck for sale",
+                                                "price": "$42,000.00 - $58,000.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 unit"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H5a22335ad8ad4043bb5f9bbbd850738f7.jpg_220x220.jpg",
+                                                "productId": "1600995195461",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600995195461&cardType=101002736&cardId=132605&categoryIds=201943703",
+                                                "subject": "Construction Engineering 47m Used Concrete Boom Pump Truck Used Sany Truck Mounted Concrete Pump",
+                                                "price": "$30,000.00 - $45,000.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 unit"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "Concrete Mixers",
+                                        "cardId": "132604",
+                                        "cardType": "101002736",
+                                        "title": "Concrete Mixers",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hf166427966c344db933ebf339ff4aab1b.png_220x220.png",
+                                                "productId": "1600381925548",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600381925548&cardType=101002736&cardId=132604&categoryIds=201943703",
+                                                "subject": "best quality concrete mixer 350L 500L automatic self-loading cement mixer machine factory price concrete mixer",
+                                                "price": "$850.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 set"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hf433043eab434e10b9bf9e2a4ee09ac8n.png_220x220.png",
+                                                "productId": "1600432724389",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600432724389&cardType=101002736&cardId=132604&categoryIds=201943703",
+                                                "subject": "120L/350L/400L/500L/750L diesel small self loading mobile concrete mixer for sale",
+                                                "price": "$750.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 set"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hcecf58a1584a4acda866f6010fafc3dbO.png_220x220.png",
+                                                "productId": "1600398700029",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600398700029&cardType=101002736&cardId=132604&categoryIds=201943703",
+                                                "subject": "120L/350L/400L/500L/750L concrete mixer new types concrete mixers truck",
+                                                "price": "$850.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 set"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "Mine Drilling Rig",
+                                        "cardId": "100007282",
+                                        "cardType": "101002736",
+                                        "title": "Mine Drilling Rig",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H92979c0c27af4d7292ddf5ce8d9805571.jpg_220x220.jpg",
+                                                "productId": "1600740564837",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600740564837&cardType=101002736&cardId=100007282&categoryIds=201943703",
+                                                "subject": "Deep Hydraulic 200m Water Well Drilling Rig With Drilling Pipes attachments for Sale",
+                                                "price": "$1,450.00 - $2,050.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 unit"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Ub39da55616e942fcbb25ab15dd014fe2K.jpg_220x220.jpg",
+                                                "productId": "1700002079364",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1700002079364&cardType=101002736&cardId=100007282&categoryIds=201943703",
+                                                "subject": "Rotary Table Drilling Rig Used Truck Mounted Water Well Drilling Rig Drilling Depth 2000m Max Egypt India Chain Diesel Belt Hook",
+                                                "price": "$90,000.00 - $95,000.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 unit"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H6f10fabb36a74b4c9ae665fc0aa91786W.jpg_220x220.jpg",
+                                                "productId": "1600894510920",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600894510920&cardType=101002736&cardId=100007282&categoryIds=201943703",
+                                                "subject": "used rotary rig SAN SR205",
+                                                "price": "$1,00,000.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 set"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "Brick Making Machinery",
+                                        "cardId": "431401",
+                                        "cardType": "101002736",
+                                        "title": "Brick Making Machinery",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hd0ab7342eee3454097b60001488ba90b8.png_220x220.png",
+                                                "productId": "1601040943995",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1601040943995&cardType=101002736&cardId=431401&categoryIds=201943703",
+                                                "subject": "QT 4-15 2023 Hot sales and after-sales time of one year concrete block making machine automatic(H)",
+                                                "price": "$11,900.00 - $12,900.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 set"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hb5d3fed5fe5a4021b9f213b43f424b17K.jpg_220x220.jpg",
+                                                "productId": "1600989845508",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600989845508&cardType=101002736&cardId=431401&categoryIds=201943703",
+                                                "subject": "High quality concrete block cement brick making machine with customizable molds",
+                                                "price": "$3,000.00 - $3,200.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 piece"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/He8e1653b2a134ce1849a05fdee1241c4S.jpg_220x220.jpg",
+                                                "productId": "1600989861416",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600989861416&cardType=101002736&cardId=431401&categoryIds=201943703",
+                                                "subject": "Easy to operate sand plastic automatic making machine manual hollow block concrete brick mold",
+                                                "price": "$3,599.00 - $3,999.00",
+                                                "firstCategoryId": "201943703",
+                                                "moq": "1 piece"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "floorTitle": "Expert-curated hot picks"
+                }
+            },
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "7186389760",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201943703",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "3542603940",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201943703/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403055085210924abb1e9b",
+                    "requestId": "c947adc26b992f034bedf37816206d74",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403055006",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "0a29440ecd5b68b1dcb9626c38155e12",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "c947adc26b992f034bedf37816206d74",
+                    "spm": "a2700.product_home_newuser.header.1234.2f9d67af20x9kd",
+                    "categoryIds": "201943703",
+                    "pvId": "c947adc26b992f034bedf37816206d74",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "countryListText": "US,CA,GB,DE,ES,FR,AU,RU,IL,BR,IT,SA,NL,PL,AE,KR,PT,CL,BE,JP,MX,UA,CZ,CH",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002560\",\"categoryIds\":\"201943703\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "bucket": "true",
+                                "cardList": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H4717cd77d9f242c5a6a1d1c12cd3f94b2.png_220x220.png",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_0_0#id-1600983343929#pos-0#matchType-5#fatherId-null#cateId-132608#cardId-101002560132608#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-7.208893731236458#logtime-1712403055123#@@realCtrParam:@@productId:1600983343929",
+                                        "deliveryText": "",
+                                        "productId": "1600983343929",
+                                        "titleEn": "Loaders",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600983343929&cardType=101002560&cardId=101002560132608&categoryIds=201943703",
+                                        "price": "$2,000.00 - $2,500.00",
+                                        "cardId": "101002560132608",
+                                        "cardType": "101002560",
+                                        "title": "Loaders",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hc6b0af042f8e41759bdee57d7abb1f37A.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_1_0#id-1600951375740#pos-0#matchType-5#fatherId-null#cateId-190000060#cardId-101002560190000060#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-7.1449396222829815#logtime-1712403055123#@@realCtrParam:@@productId:1600951375740",
+                                        "deliveryText": "",
+                                        "productId": "1600951375740",
+                                        "titleEn": "Window and Door Making Machinery",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600951375740&cardType=101002560&cardId=101002560190000060&categoryIds=201943703",
+                                        "price": "$2,900.00",
+                                        "cardId": "101002560190000060",
+                                        "cardType": "101002560",
+                                        "title": "Window and Door Making Machinery",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H7dc54249834d47c788435ee6a584eefaZ.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_2_0#id-1600424534859#pos-0#matchType-5#fatherId-null#cateId-132699#cardId-101002560132699#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-6.220704212784767#logtime-1712403055123#@@realCtrParam:@@productId:1600424534859",
+                                        "deliveryText": "",
+                                        "productId": "1600424534859",
+                                        "titleEn": "Other Construction Machinery",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600424534859&cardType=101002560&cardId=101002560132699&categoryIds=201943703",
+                                        "price": "$499.00",
+                                        "cardId": "101002560132699",
+                                        "cardType": "101002560",
+                                        "title": "Other Construction Machinery",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H9065a967d46e41899ed60cf190f40c5a2.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_3_0#id-1600845032124#pos-0#matchType-5#fatherId-null#cateId-132605#cardId-101002560132605#feedsId-137432490#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-5.979919117689133#logtime-1712403055123#@@realCtrParam:@@productId:1600845032124",
+                                        "deliveryText": "",
+                                        "productId": "1600845032124",
+                                        "titleEn": "Concrete Pumps",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600845032124&cardType=101002560&cardId=101002560132605&categoryIds=201943703",
+                                        "price": "$3,000.00 - $3,100.00",
+                                        "cardId": "101002560132605",
+                                        "cardType": "101002560",
+                                        "title": "Concrete Pumps",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H4e71c33774f1469da1bdc7d10c7208c9a.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_4_0#id-1600948771119#pos-0#matchType-5#fatherId-null#cateId-132606#cardId-101002560132606#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-5.974533730745316#logtime-1712403055123#@@realCtrParam:@@productId:1600948771119",
+                                        "productId": "1600948771119",
+                                        "titleEn": "Excavators",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600948771119&cardType=101002560&cardId=101002560132606&categoryIds=201943703",
+                                        "price": "$2,000.00 - $2,200.00",
+                                        "cardId": "101002560132606",
+                                        "cardType": "101002560",
+                                        "title": "Excavators",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H3c9b044d2f294c2fb7503a2073257994D.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_5_0#id-1600923660219#pos-0#matchType-5#fatherId-null#cateId-100007287#cardId-101002560100007287#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-5.021489042043686#logtime-1712403055123#@@realCtrParam:@@productId:1600923660219",
+                                        "deliveryText": "",
+                                        "productId": "1600923660219",
+                                        "titleEn": "Vibrating Screen",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600923660219&cardType=101002560&cardId=101002560100007287&categoryIds=201943703",
+                                        "price": "$119.00",
+                                        "cardId": "101002560100007287",
+                                        "cardType": "101002560",
+                                        "title": "Vibrating Screen",
+                                        "moq": "100"
+                                    }
+                                ],
+                                "cards": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H4717cd77d9f242c5a6a1d1c12cd3f94b2.png_220x220.png",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_0_0#id-1600983343929#pos-0#matchType-5#fatherId-null#cateId-132608#cardId-101002560132608#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-7.208893731236458#logtime-1712403055123#@@realCtrParam:@@productId:1600983343929",
+                                        "deliveryText": "",
+                                        "productId": "1600983343929",
+                                        "titleEn": "Loaders",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600983343929&cardType=101002560&cardId=101002560132608&categoryIds=201943703",
+                                        "price": "$2,000.00 - $2,500.00",
+                                        "cardId": "101002560132608",
+                                        "cardType": "101002560",
+                                        "title": "Loaders",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hc6b0af042f8e41759bdee57d7abb1f37A.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_1_0#id-1600951375740#pos-0#matchType-5#fatherId-null#cateId-190000060#cardId-101002560190000060#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-7.1449396222829815#logtime-1712403055123#@@realCtrParam:@@productId:1600951375740",
+                                        "deliveryText": "",
+                                        "productId": "1600951375740",
+                                        "titleEn": "Window and Door Making Machinery",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600951375740&cardType=101002560&cardId=101002560190000060&categoryIds=201943703",
+                                        "price": "$2,900.00",
+                                        "cardId": "101002560190000060",
+                                        "cardType": "101002560",
+                                        "title": "Window and Door Making Machinery",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H7dc54249834d47c788435ee6a584eefaZ.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_2_0#id-1600424534859#pos-0#matchType-5#fatherId-null#cateId-132699#cardId-101002560132699#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-6.220704212784767#logtime-1712403055123#@@realCtrParam:@@productId:1600424534859",
+                                        "deliveryText": "",
+                                        "productId": "1600424534859",
+                                        "titleEn": "Other Construction Machinery",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600424534859&cardType=101002560&cardId=101002560132699&categoryIds=201943703",
+                                        "price": "$499.00",
+                                        "cardId": "101002560132699",
+                                        "cardType": "101002560",
+                                        "title": "Other Construction Machinery",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H9065a967d46e41899ed60cf190f40c5a2.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_3_0#id-1600845032124#pos-0#matchType-5#fatherId-null#cateId-132605#cardId-101002560132605#feedsId-137432490#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-5.979919117689133#logtime-1712403055123#@@realCtrParam:@@productId:1600845032124",
+                                        "deliveryText": "",
+                                        "productId": "1600845032124",
+                                        "titleEn": "Concrete Pumps",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600845032124&cardType=101002560&cardId=101002560132605&categoryIds=201943703",
+                                        "price": "$3,000.00 - $3,100.00",
+                                        "cardId": "101002560132605",
+                                        "cardType": "101002560",
+                                        "title": "Concrete Pumps",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H4e71c33774f1469da1bdc7d10c7208c9a.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_4_0#id-1600948771119#pos-0#matchType-5#fatherId-null#cateId-132606#cardId-101002560132606#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-5.974533730745316#logtime-1712403055123#@@realCtrParam:@@productId:1600948771119",
+                                        "productId": "1600948771119",
+                                        "titleEn": "Excavators",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600948771119&cardType=101002560&cardId=101002560132606&categoryIds=201943703",
+                                        "price": "$2,000.00 - $2,200.00",
+                                        "cardId": "101002560132606",
+                                        "cardType": "101002560",
+                                        "title": "Excavators",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H3c9b044d2f294c2fb7503a2073257994D.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-e5a86e88-a0e9-437e-87d3-4e5ebb223739#realPos-0_5_0#id-1600923660219#pos-0#matchType-5#fatherId-null#cateId-100007287#cardId-101002560100007287#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-6.858179188768069#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201943703_101002560#srcChannel-PC#rankScore-5.021489042043686#logtime-1712403055123#@@realCtrParam:@@productId:1600923660219",
+                                        "deliveryText": "",
+                                        "productId": "1600923660219",
+                                        "titleEn": "Vibrating Screen",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600923660219&cardType=101002560&cardId=101002560100007287&categoryIds=201943703",
+                                        "price": "$119.00",
+                                        "cardId": "101002560100007287",
+                                        "cardType": "101002560",
+                                        "title": "Vibrating Screen",
+                                        "moq": "100"
+                                    }
+                                ],
+                                "subTitle": "",
+                                "title": "Local returns for free"
+                            }
+                        }
+                    },
+                    "floorTitle": "Order now, enjoy Easy Return",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3542603940",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "1883650990",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "8337184780",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "5236101110",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "9774789560",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "9699675020",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "3406643580",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "7350437250",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "1680985400",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "7992533920",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "2244002",
+        "name": "Construction & Building Machinery",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "01234567890000001712403055085210924abb1e9b",
+        "pageType": 0,
+        "path": "/category/products/201943703/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_201943703",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Construction & Building Machinery"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

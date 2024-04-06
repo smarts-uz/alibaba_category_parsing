@@ -1,0 +1,1198 @@
+{
+    "_pageModuleUUIDList": [
+        "6962533330",
+        "9572622020",
+        "5642369960",
+        "1123068440",
+        "3635653620",
+        "9261220120",
+        "9573087510",
+        "3076805150",
+        "6692667750",
+        "5444757480",
+        "8465093930",
+        "2261543150"
+    ],
+    "customContextParams": {
+        "path": "/category/products/2/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712402748950 | 0 | 1712402748950",
+        "process": "1712402749261 | 0 | 1712402749261",
+        "preRender": "1712402748950 | 8 | 1712402748958",
+        "assembleModuleData": "1712402749261 | 0 | 1712402749261",
+        "retrieveHtmlAndJson": "1712402748841 | 102 | 1712402748943",
+        "fetch": "1712402748964 | 297 | 1712402749261",
+        "seo": "1712402748950 | 0 | 1712402748950",
+        "preload": "1712402748950 | 0 | 1712402748950",
+        "render": "1712402749261 | 73 | 1712402749334"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "",
+                        "topBanner": "https://img.alicdn.com/imgextra/i4/O1CN01aOKkxl1fmUQyQFXjY_!!6000000004049-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_2",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "6962533330",
+                    "prefetchKey": "met",
+                    "path": "/category/products/2/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124027489502af9b6fc4da21",
+                    "requestId": "eb8748851601b785322e06c92fe42ddb",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402748841",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "efa78253c76cdfaddf5e023edadb8dff",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "eb8748851601b785322e06c92fe42ddb",
+                    "spm": "a2700.product_home_newuser.header.3501.608267afIwWdys",
+                    "categoryIds": "2",
+                    "pvId": "eb8748851601b785322e06c92fe42ddb",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "201329707",
+                                        "titleEn": "Beverages",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H7e45cce8e8f44a66a0e474eac6dc86e0W.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201329707&SearchText=Beverages&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Beverages",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100000380",
+                                        "titleEn": "Food-Ingredients",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc26990d8339342b287775f6cfdfa1c71O.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000380&SearchText=Food+Ingredients&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Food Ingredients",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "212",
+                                        "titleEn": "Seasonings-Condiments",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd163703008b942578395871aa23472cdX.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=212&SearchText=Seasonings+%26+Condiments&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Seasonings & Condiments",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "209",
+                                        "titleEn": "Dairy-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc15abd8073e94f1b8595b3b33473e4d3v.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=209&SearchText=Dairy+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Dairy Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "216",
+                                        "titleEn": "Instant-Food",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9850b36ae27d45f6b9ead5755062bb4ak.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=216&SearchText=Instant+Food&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Instant Food",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "104",
+                                        "titleEn": "Nuts-Kernels",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc0198c80005d4054bd89956a632a0d6bK.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=104&SearchText=Nuts+%26+Kernels&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Nuts & Kernels",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "109",
+                                        "titleEn": "Seafood",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc4ef50aa9e624d6c8fa51e9512ad937c6.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=109&SearchText=Seafood&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Seafood",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "136",
+                                        "titleEn": "Plant-Animal-Oil",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H70e71dc9a22d4f05a1776d596439f4904.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=136&SearchText=Plant+%26+Animal+Oil&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Plant & Animal Oil",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "208",
+                                        "titleEn": "Egg-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hef2d41ac51934f47a7da1c9cf00e77061.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=208&SearchText=Egg+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Egg Products",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "214",
+                                        "titleEn": "Canned-Food",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd62d42f75af54bdf946ae23f80efa1782.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=214&SearchText=Canned+Food&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Canned Food",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "218",
+                                        "titleEn": "Baked-Goods",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha2a6b5453347461cb6b6614d1fe35a57z.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=218&SearchText=Baked+Goods&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Baked Goods",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "225",
+                                        "titleEn": "Other-Food-Beverage",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hcb24b0ec60914caa9304973556459cf4q.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=225&SearchText=Other+Food+%26+Beverage&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Food & Beverage",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "235",
+                                        "titleEn": "Meat-Poultry",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hdb8525c8a20f496281d1f3856c773730k.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=235&SearchText=Meat+%26+Poultry&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Meat & Poultry",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "236",
+                                        "titleEn": "Confectionery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H68d7c3d33944463e8d2dacbfab34a398D.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=236&SearchText=Confectionery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Confectionery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "238",
+                                        "titleEn": "Grain-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4b18e088c99a46099fa8f6dac53fe906p.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=238&SearchText=Grain+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Grain Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100009103",
+                                        "titleEn": "Snacks",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H6e3406bf3a67402aac0f0464368c6f95o.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100009103&SearchText=Snacks&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Snacks",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100009057",
+                                        "titleEn": "Honey-Honey-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3ed95d03526b41e5a69e839fa957046aZ.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100009057&SearchText=Honey+%26+Honey+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Honey & Honey Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201345803",
+                                        "titleEn": "Frog-Escargot",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H40aa073984c54adfad2428b7ecedd846t.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201345803&SearchText=Frog+%26+Escargot&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Frog & Escargot",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201459231",
+                                        "titleEn": "Bean-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H678b76486b104714828e1d0d720333197.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201459231&SearchText=Bean+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Bean Products",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201331211",
+                                        "titleEn": "Fruit-Vegetable-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha4ae91fc37214ce28909f3250a97a4abE.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201331211&SearchText=Fruit+%26+Vegetable+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Fruit & Vegetable Products",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "2",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"2\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "100007486",
+                                        "level": "4",
+                                        "titleEn": "Slimming-Tea",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H48fadf9fd95548019215e265fc1c1c0bH.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007486&SearchText=Slimming+Tea&indexArea=product_en&fsb=y&productId=1600819318510",
+                                        "title": "Slimming Tea"
+                                    },
+                                    {
+                                        "categoryIds": "201901901",
+                                        "level": "4",
+                                        "titleEn": "Tea-Bag",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0f26a7d27089497483495daa75eb2ff22.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201901901&SearchText=Tea+Bag&indexArea=product_en&fsb=y&productId=1600808412313",
+                                        "title": "Tea Bag"
+                                    },
+                                    {
+                                        "categoryIds": "100007226",
+                                        "level": "3",
+                                        "titleEn": "Bakery-Decoration-Ingredients",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H09541291096443a7b703464d29085e083.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007226&SearchText=Bakery+Decoration+Ingredients&indexArea=product_en&fsb=y&productId=1600790562111",
+                                        "title": "Bakery Decoration Ingredients"
+                                    },
+                                    {
+                                        "categoryIds": "205",
+                                        "level": "3",
+                                        "titleEn": "Sugar",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A6b164a6217fd433983fb94f4271ad706Y.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=205&SearchText=Sugar&indexArea=product_en&fsb=y&productId=1600922235854",
+                                        "title": "Sugar"
+                                    },
+                                    {
+                                        "categoryIds": "20910",
+                                        "level": "4",
+                                        "titleEn": "Whey-and-whey-products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hbe10ad453bba4b2db3c16fab6e49b50eq.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=20910&SearchText=Whey+and+whey+products&indexArea=product_en&fsb=y&productId=1600398853482",
+                                        "title": "Whey and whey products"
+                                    },
+                                    {
+                                        "categoryIds": "21602",
+                                        "level": "3",
+                                        "titleEn": "Instant-Rice",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hbe6ea757fe1f44dbb41fd49cd7c1829fz.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21602&SearchText=Instant+Rice&indexArea=product_en&fsb=y&productId=1601005349500",
+                                        "title": "Instant Rice"
+                                    },
+                                    {
+                                        "categoryIds": "100009088",
+                                        "level": "4",
+                                        "titleEn": "Blooming-Tea",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb066b924b61d4c9e9b61417197348b71i.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100009088&SearchText=Blooming+Tea&indexArea=product_en&fsb=y&productId=1601070648184",
+                                        "title": "Blooming Tea"
+                                    },
+                                    {
+                                        "categoryIds": "21601",
+                                        "level": "3",
+                                        "titleEn": "Instant-Noodles",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A355125ea399b484b9e141442a008d6203.jpeg_220x220.jpeg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21601&SearchText=Instant+Noodles&indexArea=product_en&fsb=y&productId=1601023848107",
+                                        "title": "Instant Noodles"
+                                    },
+                                    {
+                                        "categoryIds": "20909",
+                                        "level": "4",
+                                        "titleEn": "Milk-powder-and-cream-powder-and-powder-analogues-plain-",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ac6c7c30d02844ee3a0265fc442b15107h.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=20909&SearchText=Milk+powder+and+cream+powder+and+powder+analogues+%28plain%29&indexArea=product_en&fsb=y&productId=1600974634777",
+                                        "title": "Milk powder and cream powder and powder analogues (plain)"
+                                    },
+                                    {
+                                        "categoryIds": "100007278",
+                                        "level": "4",
+                                        "titleEn": "Flavor-Tea",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6b22f3ab61dd4086be20b33e96626d53H.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007278&SearchText=Flavor+Tea&indexArea=product_en&fsb=y&productId=1601004253458",
+                                        "title": "Flavor Tea"
+                                    },
+                                    {
+                                        "categoryIds": "100009053",
+                                        "level": "3",
+                                        "titleEn": "Candy",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H01b0c859d4394ed980043fda9123b681Y.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100009053&SearchText=Candy&indexArea=product_en&fsb=y&productId=1600849789556",
+                                        "title": "Candy"
+                                    },
+                                    {
+                                        "categoryIds": "237",
+                                        "level": "3",
+                                        "titleEn": "Chocolate",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Aa5ad9e48236b44cc93185e6be8e5cd1cK.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=237&SearchText=Chocolate&indexArea=product_en&fsb=y&productId=11000003530770",
+                                        "title": "Chocolate"
+                                    },
+                                    {
+                                        "categoryIds": "100003281",
+                                        "level": "3",
+                                        "titleEn": "Food-Additives",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb238b9a7f5d641b1a3235946463c21b0B.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003281&SearchText=Food+Additives&indexArea=product_en&fsb=y&productId=62486407747",
+                                        "title": "Food Additives"
+                                    },
+                                    {
+                                        "categoryIds": "29102",
+                                        "level": "4",
+                                        "titleEn": "Energy-Drinks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H29b31241ea5b44daa711b9b869bf6c4aM.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=29102&SearchText=Energy+Drinks&indexArea=product_en&fsb=y&productId=1601020107250",
+                                        "title": "Energy Drinks"
+                                    },
+                                    {
+                                        "categoryIds": "23604",
+                                        "level": "3",
+                                        "titleEn": "Gum",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1827c574ffdb47ae8ec536938b2228b5B.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=23604&SearchText=Gum&indexArea=product_en&fsb=y&productId=1600935666993",
+                                        "title": "Gum"
+                                    },
+                                    {
+                                        "categoryIds": "100009042",
+                                        "level": "4",
+                                        "titleEn": "Instant-Coffee",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1918e098538848ed821078c3fc8d3470V.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100009042&SearchText=Instant+Coffee&indexArea=product_en&fsb=y&productId=1600869439383",
+                                        "title": "Instant Coffee"
+                                    },
+                                    {
+                                        "categoryIds": "21206",
+                                        "level": "4",
+                                        "titleEn": "Single-Spices-Herbs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/S6bcb21645db34c3f99526a0e0b111c17H.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21206&SearchText=Single+Spices+%26+Herbs&indexArea=product_en&fsb=y&productId=10000016289541",
+                                        "title": "Single Spices & Herbs"
+                                    },
+                                    {
+                                        "categoryIds": "225",
+                                        "level": "2",
+                                        "titleEn": "Other-Food-Beverage",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf0c40cf33cbf47468a827a4b396c7ad4R.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=225&SearchText=Other+Food+%26+Beverage&indexArea=product_en&fsb=y&productId=62517422683",
+                                        "title": "Other Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "20611",
+                                        "level": "4",
+                                        "titleEn": "Sunflower-Oil",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A9ce7684809164c029f77526a7d8a4e5fi.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=20611&SearchText=Sunflower+Oil&indexArea=product_en&fsb=y&productId=11000012670824",
+                                        "title": "Sunflower Oil"
+                                    },
+                                    {
+                                        "categoryIds": "29101",
+                                        "level": "4",
+                                        "titleEn": "Carbonated-Drinks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A7d198abba88645ce84cd6159005df69d8.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=29101&SearchText=Carbonated+Drinks&indexArea=product_en&fsb=y&productId=1600727768364",
+                                        "title": "Carbonated Drinks"
+                                    },
+                                    {
+                                        "categoryIds": "21801",
+                                        "level": "3",
+                                        "titleEn": "Biscuits",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3dc3eca5b3714036be003856738e7b84o.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21801&SearchText=Biscuits&indexArea=product_en&fsb=y&productId=1600793995870",
+                                        "title": "Biscuits"
+                                    },
+                                    {
+                                        "categoryIds": "229",
+                                        "level": "4",
+                                        "titleEn": "Dried-Fruit",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ad8e7c9a56a7346599fca2be327952cd8x.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=229&SearchText=Dried+Fruit&indexArea=product_en&fsb=y&productId=11000005221248",
+                                        "title": "Dried Fruit"
+                                    },
+                                    {
+                                        "categoryIds": "100007270",
+                                        "level": "4",
+                                        "titleEn": "Green-Tea",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H09b4acfa73d3492991959803507af970l.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007270&SearchText=Green+Tea&indexArea=product_en&fsb=y&productId=1600197398622",
+                                        "title": "Green Tea"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "6962533330",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920562,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_2",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "9572622020",
+                    "prefetchKey": "met",
+                    "path": "/category/products/2/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124027489502af9b6fc4da21",
+                    "requestId": "6e219dbf780b20d0554015e8361b3596",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402748841",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "efa78253c76cdfaddf5e023edadb8dff",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "6e219dbf780b20d0554015e8361b3596",
+                    "spm": "a2700.product_home_newuser.header.3501.608267afIwWdys",
+                    "categoryIds": "2",
+                    "pvId": "6e219dbf780b20d0554015e8361b3596",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "params": "{\"modelId\":\"10271\",\"offerLimit\":\"3\",\"pageSize\":\"20\",\"cardType\":\"101002650\",\"categoryIds\":\"2\"}",
+                            "_serverData": {
+                                "modelId": "10983",
+                                "finalModelId": "10983",
+                                "titleEn": "Trending right now",
+                                "themeGroupList": [
+                                    {
+                                        "titleEn": "chocolate",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_2_chocol&topOfferIds=10000012586839&categoryIds=2",
+                                        "cardId": "101002650_2_chocol",
+                                        "cardType": "101002650",
+                                        "id": "101002650_2_chocol",
+                                        "title": "chocolate",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Ab8421e8667c64fef9cb3170b937947e9T.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-0ff08da2-d6c8-47e5-8210-42b5ceb55b4e#realPos-0_0_0#id-10000012586839#pos-0#matchType-5#fatherId-null#cateId-237#cardId-101002650_2_chocol#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-8.821389431301698#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-2_101002650#srcChannel-PC#rankScore-9.921817156672478#logtime-1712402749005#@@realCtrParam:@@productId:10000012586839",
+                                                "productId": "10000012586839",
+                                                "firstCategoryId": "2",
+                                                "secondCategoryId": "236"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "prime drink",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_2_prime_drink&topOfferIds=11000011150345&categoryIds=2",
+                                        "cardId": "101002650_2_prime_drink",
+                                        "cardType": "101002650",
+                                        "id": "101002650_2_prime_drink",
+                                        "title": "prime drink",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Af8072fc4719646d38bf1fade427f3308z.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-0ff08da2-d6c8-47e5-8210-42b5ceb55b4e#realPos-0_1_0#id-11000011150345#pos-0#matchType-5#fatherId-null#cateId-29102#cardId-101002650_2_prime_drink#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-8.821389431301698#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-2_101002650#srcChannel-PC#rankScore-9.760287126898765#logtime-1712402749005#@@realCtrParam:@@productId:11000011150345",
+                                                "productId": "11000011150345",
+                                                "firstCategoryId": "2",
+                                                "secondCategoryId": "201329707"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "noodles",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_2_noodl&topOfferIds=1601004069540&categoryIds=2",
+                                        "cardId": "101002650_2_noodl",
+                                        "cardType": "101002650",
+                                        "id": "101002650_2_noodl",
+                                        "title": "noodles",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hdaaade5a75f0486f8e07399a3ad8b64ap.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-0ff08da2-d6c8-47e5-8210-42b5ceb55b4e#realPos-0_2_0#id-1601004069540#pos-0#matchType-5#fatherId-null#cateId-21601#cardId-101002650_2_noodl#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-8.821389431301698#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-2_101002650#srcChannel-PC#rankScore-6.782064010333852#logtime-1712402749005#@@realCtrParam:@@productId:1601004069540",
+                                                "productId": "1601004069540",
+                                                "firstCategoryId": "2",
+                                                "secondCategoryId": "216"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "snacks",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_2_snack&topOfferIds=1601000900956&categoryIds=2",
+                                        "cardId": "101002650_2_snack",
+                                        "cardType": "101002650",
+                                        "id": "101002650_2_snack",
+                                        "title": "snacks",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H913fdbcc834940c38fdb002f861e2c2a7.png_220x220.png",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-0ff08da2-d6c8-47e5-8210-42b5ceb55b4e#realPos-0_3_0#id-1601000900956#pos-0#matchType-5#fatherId-null#cateId-201340007#cardId-101002650_2_snack#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-8.821389431301698#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-2_101002650#srcChannel-PC#rankScore-5.300743150711059#logtime-1712402749005#@@realCtrParam:@@productId:1601000900956",
+                                                "productId": "1601000900956",
+                                                "firstCategoryId": "2",
+                                                "secondCategoryId": "100009103"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "candy",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_2_candy&topOfferIds=1600568260843&categoryIds=2",
+                                        "cardId": "101002650_2_candy",
+                                        "cardType": "101002650",
+                                        "id": "101002650_2_candy",
+                                        "title": "candy",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H580598f84d1945a5879a010fd88fa9f1b.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-0ff08da2-d6c8-47e5-8210-42b5ceb55b4e#realPos-0_4_0#id-1600568260843#pos-0#matchType-5#fatherId-null#cateId-100009053#cardId-101002650_2_candy#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-8.821389431301698#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-2_101002650#srcChannel-PC#rankScore-3.632204902172089#logtime-1712402749005#@@realCtrParam:@@productId:1600568260843",
+                                                "productId": "1600568260843",
+                                                "firstCategoryId": "2",
+                                                "secondCategoryId": "236"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "coffee",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_2_coffe&topOfferIds=1600466567918&categoryIds=2",
+                                        "cardId": "101002650_2_coffe",
+                                        "cardType": "101002650",
+                                        "id": "101002650_2_coffe",
+                                        "title": "coffee",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hf550743ad125407a85ae574a9cfae875z.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-0ff08da2-d6c8-47e5-8210-42b5ceb55b4e#realPos-0_5_0#id-1600466567918#pos-0#matchType-5#fatherId-null#cateId-100009042#cardId-101002650_2_coffe#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-8.821389431301698#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-2_101002650#srcChannel-PC#rankScore-3.5450427889823914#logtime-1712402749005#@@realCtrParam:@@productId:1600466567918",
+                                                "productId": "1600466567918",
+                                                "firstCategoryId": "2",
+                                                "secondCategoryId": "201329707"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "needRender": "true",
+                                "title": "Trending right now"
+                            }
+                        }
+                    ]
+                }
+            },
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "9572622020",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920562,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_2",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "5642369960",
+                    "prefetchKey": "met",
+                    "path": "/category/products/2/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124027489502af9b6fc4da21",
+                    "requestId": "54ed45078a8e624ca995abed6615aee9",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402748841",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "efa78253c76cdfaddf5e023edadb8dff",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "54ed45078a8e624ca995abed6615aee9",
+                    "spm": "a2700.product_home_newuser.header.3501.608267afIwWdys",
+                    "categoryIds": "2",
+                    "pvId": "54ed45078a8e624ca995abed6615aee9",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "params": "{\"modelId\":\"10271\",\"offerLimit\":\"3\",\"pageSize\":\"20\",\"cardType\":\"3505204\",\"categoryIds\":\"2\"}",
+                            "_serverData": {
+                                "modelId": "10583",
+                                "finalModelId": "10583",
+                                "titleEn": "Category-specific capabilities",
+                                "themeGroupList": [
+                                    {
+                                        "titleEn": "Source by certification",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3505204&cardId=3497008&topOfferIds=60517118756&categoryIds=2",
+                                        "backgroundImage": "",
+                                        "cardId": "3497008",
+                                        "subtitle": "",
+                                        "cardType": "3505204",
+                                        "backgroundMiniImage": "",
+                                        "title": "Source by certification",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/A2bda4560b6df436f89df3f0a28d10b10r.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7399ad03-66bb-4188-90f6-6771e6db2b24#realPos-0_0_0#id-60517118756#pos-0#matchType-13#fatherId-null#cateId-201330108#cardId-3497008#feedsId-#newsType-3505204#userTage-6_2_lost#finalScore-0.6950078566869099#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-904504226_0#srcChannel-PC#rankScore-1.0637316673994064#logtime-1712402748995#@@realCtrParam:@@productId:60517118756",
+                                                "productId": "60517118756"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Easy Return items",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3505204&cardId=3496604&topOfferIds=1600181949762&categoryIds=2",
+                                        "backgroundImage": "",
+                                        "cardId": "3496604",
+                                        "subtitle": "",
+                                        "cardType": "3505204",
+                                        "backgroundMiniImage": "",
+                                        "title": "Easy Return items",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H59c951503fe44d3ba23541c4443b154cB.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7399ad03-66bb-4188-90f6-6771e6db2b24#realPos-0_1_0#id-1600181949762#pos-0#matchType-13#fatherId-null#cateId-100007278#cardId-3496604#feedsId-#newsType-3505204#userTage-6_2_lost#finalScore-0.6950078566869099#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-904498027_0#srcChannel-PC#rankScore-1.0212919026613236#logtime-1712402748995#@@realCtrParam:@@productId:1600181949762",
+                                                "productId": "1600181949762"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "On-time delivery",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3505204&cardId=3506004&topOfferIds=1600350228205&categoryIds=2",
+                                        "backgroundImage": "",
+                                        "cardId": "3506004",
+                                        "subtitle": "",
+                                        "cardType": "3505204",
+                                        "backgroundMiniImage": "",
+                                        "title": "On-time delivery",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Ha196d91dbfa64bab99aedb143cf74b49c.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7399ad03-66bb-4188-90f6-6771e6db2b24#realPos-0_2_0#id-1600350228205#pos-0#matchType-13#fatherId-null#cateId-29101#cardId-3506004#feedsId-#newsType-3505204#userTage-6_2_lost#finalScore-0.6950078566869099#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-904501823_0#srcChannel-PC#rankScore-0.0#logtime-1712402748995#@@realCtrParam:@@productId:1600350228205",
+                                                "productId": "1600350228205"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "15 days delivery guaranteed",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=3505204&cardId=3503207&topOfferIds=1600568822939&categoryIds=2",
+                                        "backgroundImage": "",
+                                        "cardId": "3503207",
+                                        "subtitle": "",
+                                        "cardType": "3505204",
+                                        "backgroundMiniImage": "",
+                                        "title": "15 days delivery guaranteed",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H72593bf2d69a4f359913806f4d121189o.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7399ad03-66bb-4188-90f6-6771e6db2b24#realPos-0_3_0#id-1600568822939#pos-0#matchType-13#fatherId-null#cateId-201457831#cardId-3503207#feedsId-#newsType-3505204#userTage-6_2_lost#finalScore-0.6950078566869099#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-904502021_0#srcChannel-PC#rankScore-0.0#logtime-1712402748995#@@realCtrParam:@@productId:1600568822939",
+                                                "productId": "1600568822939"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    }
+                                ],
+                                "needRender": "true",
+                                "title": "Category-specific capabilities"
+                            }
+                        }
+                    ]
+                }
+            },
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "5642369960",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 945522,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "1123068440",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 945522,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3635653620",
+            "version": "1.0.8"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 945522,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "9261220120",
+            "version": "1.0.8"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "9573087510",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "3076805150",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "6692667750",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "5444757480",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "8465093930",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "2261543150",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687718",
+        "name": "Food & Beverage",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "012345678900000017124027489502af9b6fc4da21",
+        "pageType": 0,
+        "path": "/category/products/2/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_2",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Food & Beverage"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

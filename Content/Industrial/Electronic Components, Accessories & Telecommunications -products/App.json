@@ -1,0 +1,980 @@
+{
+    "_pageModuleUUIDList": [
+        "8738595630",
+        "5488191970",
+        "3425625810",
+        "8324266580",
+        "8152152900",
+        "9204391290",
+        "8851559990",
+        "1186561530",
+        "8455395340",
+        "6611648260"
+    ],
+    "customContextParams": {
+        "path": "/category/products/502/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403096875 | 0 | 1712403096875",
+        "process": "1712403096959 | 0 | 1712403096959",
+        "preRender": "1712403096875 | 8 | 1712403096883",
+        "assembleModuleData": "1712403096959 | 0 | 1712403096959",
+        "retrieveHtmlAndJson": "1712403096804 | 66 | 1712403096870",
+        "fetch": "1712403096889 | 70 | 1712403096959",
+        "seo": "1712403096875 | 0 | 1712403096875",
+        "preload": "1712403096875 | 0 | 1712403096875",
+        "render": "1712403096959 | 25 | 1712403096984"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i2/O1CN01Sk7Pfr1U7J2m1qAxW_!!6000000002470-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_502",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "8738595630",
+                    "prefetchKey": "met",
+                    "path": "/category/products/502/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124030968751c23b11665a79",
+                    "requestId": "62cd4cca5ef65cda6e426ec471e11b2e",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403096804",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "9d704cec71bc7236b7310a7d45957676",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "62cd4cca5ef65cda6e426ec471e11b2e",
+                    "spm": "a2700.product_home_newuser.header.1235.2f9d67af20x9kd",
+                    "categoryIds": "502",
+                    "pvId": "62cd4cca5ef65cda6e426ec471e11b2e",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "201228506",
+                                        "titleEn": "Telecommunications",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H77a36181bff74f42bf928de1f513963cs.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201228506&SearchText=Telecommunications&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Telecommunications",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201229805",
+                                        "titleEn": "Development-Boards-Electronic-Modules-and-Kits",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha9e205b77bd844d887c7fc7b72d366fcc.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201229805&SearchText=Development+Boards%2C+Electronic+Modules+and+Kits&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Development Boards, Electronic Modules and Kits",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "4003",
+                                        "titleEn": "Electronic-Accessories-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H79cd43e72cfb45eaaef2ceafcc9b56feA.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=4003&SearchText=Electronic+Accessories+%26+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Electronic Accessories & Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201217812",
+                                        "titleEn": "Displays-Signage-and-Optoelectronics",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0aac513a5c9a4effbfbb7a13a60111020.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201217812&SearchText=Displays%2C+Signage+and+Optoelectronics&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Displays, Signage and Optoelectronics",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201496807",
+                                        "titleEn": "Sensors",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2da66a8912c34ebeb9067d27452b7cac2.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201496807&SearchText=Sensors&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Sensors",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "521",
+                                        "titleEn": "PCB-PCBA",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He8882fc932324cd29103d0a6a5dbed64e.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=521&SearchText=PCB+%26+PCBA&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "PCB & PCBA",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201231404",
+                                        "titleEn": "Circuit-Protection",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Heb599f438a784687afb1cf32c0ce3943w.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201231404&SearchText=Circuit+Protection&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Circuit Protection",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201228806",
+                                        "titleEn": "Connectors-Terminals-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5a7f950f673646bf905dcb631585d1165.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201228806&SearchText=Connectors%2C+Terminals+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Connectors, Terminals & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "4005",
+                                        "titleEn": "Passive-Components",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H747492531e074db09cbdd8c1bb2e79f1j.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=4005&SearchText=Passive+Components&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Passive Components",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201956404",
+                                        "titleEn": "Isolators",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H039521b96a4c4f898e8dcd52aaa7ff79I.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201956404&SearchText=Isolators&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Isolators",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201956804",
+                                        "titleEn": "Audio-Components-and-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hbf99e149da3d4e24abde8c9a41341e0au.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201956804&SearchText=Audio+Components+and+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Audio Components and Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201970101",
+                                        "titleEn": "RF-Microwave-and-RFID",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf9c5c3c9d70f4328a5ac11ee5d2d90e2W.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201970101&SearchText=RF%2C+Microwave+and+RFID&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "RF, Microwave and RFID",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201223307",
+                                        "titleEn": "Discrete-Semiconductors",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hded7ed8593b34807a012619cba778a71z.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201223307&SearchText=Discrete+Semiconductors&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Discrete Semiconductors",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201223308",
+                                        "titleEn": "Wireless-IoT-Module-and-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hec1b842af88348d59b086ad977b080adl.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201223308&SearchText=Wireless+%26+IoT+Module+and+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Wireless & IoT Module and Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201963604",
+                                        "titleEn": "Power-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H89c5d208a0564015bdbeec977a1b76c1G.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201963604&SearchText=Power+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Power Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201964002",
+                                        "titleEn": "Relays",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc803ae8a8c624d4d906ecf4d364e17cfY.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201964002&SearchText=Relays&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Relays",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201962102",
+                                        "titleEn": "Integrated-Circuits",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1345597252384c4c9860b3a958049a61P.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201962102&SearchText=Integrated+Circuits&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Integrated Circuits",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "502",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"502\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "50914",
+                                        "level": "3",
+                                        "titleEn": "Other-Telecommunications-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H721abc0c78f64d29b8b6d74b3336e62ek.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=50914&SearchText=Other+Telecommunications+Products&indexArea=product_en&fsb=y&productId=1601056743499",
+                                        "title": "Other Telecommunications Products"
+                                    },
+                                    {
+                                        "categoryIds": "201220609",
+                                        "level": "3",
+                                        "titleEn": "Development-Boards-Kits",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2b4b1cc861334ebc9d406a10417f4f3c1.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201220609&SearchText=Development+Boards%2C+Kits&indexArea=product_en&fsb=y&productId=1600953864651",
+                                        "title": "Development Boards, Kits"
+                                    },
+                                    {
+                                        "categoryIds": "201221409",
+                                        "level": "3",
+                                        "titleEn": "Other-Electronic-Components",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0c97686a724641729eb988dce95e3e1eF.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201221409&SearchText=Other+Electronic+Components&indexArea=product_en&fsb=y&productId=1600440868473",
+                                        "title": "Other Electronic Components"
+                                    },
+                                    {
+                                        "categoryIds": "201519401",
+                                        "level": "3",
+                                        "titleEn": "LCD-Modules",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A0c1d194f20c14f888774e30a9ee6dafb2.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201519401&SearchText=LCD+Modules&indexArea=product_en&fsb=y&productId=60218054703",
+                                        "title": "LCD Modules"
+                                    },
+                                    {
+                                        "categoryIds": "201223108",
+                                        "level": "3",
+                                        "titleEn": "Education-Maker-Boards",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4b2a61155a5a488cb2687a7fb5f0ebccq.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201223108&SearchText=Education+%26+Maker+Boards&indexArea=product_en&fsb=y&productId=1600837863423",
+                                        "title": "Education & Maker Boards"
+                                    },
+                                    {
+                                        "categoryIds": "201514702",
+                                        "level": "3",
+                                        "titleEn": "Fiber-Optic-Equipment",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcf56a34d1b864dcd90e6bfcb8676fa3fw.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201514702&SearchText=Fiber+Optic+Equipment&indexArea=product_en&fsb=y&productId=62364470511",
+                                        "title": "Fiber Optic Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "202055411",
+                                        "level": "3",
+                                        "titleEn": "Touch-Screen",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4ab8629df35e43f98782d238dee85dcc9.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202055411&SearchText=Touch+Screen&indexArea=product_en&fsb=y&productId=62119183419",
+                                        "title": "Touch Screen"
+                                    },
+                                    {
+                                        "categoryIds": "201519601",
+                                        "level": "3",
+                                        "titleEn": "Other-Sensors",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6b2662f85b1d47b2858ba18a37d2ae4be.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201519601&SearchText=Other+Sensors&indexArea=product_en&fsb=y&productId=1601020311043",
+                                        "title": "Other Sensors"
+                                    },
+                                    {
+                                        "categoryIds": "201519501",
+                                        "level": "3",
+                                        "titleEn": "Other-PCB-PCBA",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3cf5ac2483a04e68952848655b2b2244G.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201519501&SearchText=Other+PCB+%26+PCBA&indexArea=product_en&fsb=y&productId=1601053963072",
+                                        "title": "Other PCB & PCBA"
+                                    },
+                                    {
+                                        "categoryIds": "201955603",
+                                        "level": "3",
+                                        "titleEn": "Other-ICs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf6d6aacff9a54e90a3881124097fb019H.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201955603&SearchText=Other+ICs&indexArea=product_en&fsb=y&productId=1600952220902",
+                                        "title": "Other ICs"
+                                    },
+                                    {
+                                        "categoryIds": "50912",
+                                        "level": "3",
+                                        "titleEn": "Communication-Cables",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6d2af2864a6647979ac949dc81789081r.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=50912&SearchText=Communication+Cables&indexArea=product_en&fsb=y&productId=1600441043544",
+                                        "title": "Communication Cables"
+                                    },
+                                    {
+                                        "categoryIds": "201219709",
+                                        "level": "3",
+                                        "titleEn": "PCBA",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H538dda89bd7d46b295bbd6f3cf9ed42bX.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201219709&SearchText=PCBA&indexArea=product_en&fsb=y&productId=1600688157331",
+                                        "title": "PCBA"
+                                    },
+                                    {
+                                        "categoryIds": "141903",
+                                        "level": "3",
+                                        "titleEn": "Insulation-Materials-Elements",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H92bf3ff760e44c0289f825e62fbb8a3fh.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=141903&SearchText=Insulation+Materials+%26+Elements&indexArea=product_en&fsb=y&productId=1600545544849",
+                                        "title": "Insulation Materials & Elements"
+                                    },
+                                    {
+                                        "categoryIds": "201515602",
+                                        "level": "3",
+                                        "titleEn": "Other-Communication-Networking-Product",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0a9030aee03941dcaa9e307aad27dc97w.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201515602&SearchText=Other+Communication+%26+Networking+Product&indexArea=product_en&fsb=y&productId=1600609702190",
+                                        "title": "Other Communication & Networking Product"
+                                    },
+                                    {
+                                        "categoryIds": "201220109",
+                                        "level": "3",
+                                        "titleEn": "Communication-Antennas",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1bbda4921faf494e87ec0a9e6c5f460eo.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201220109&SearchText=Communication+Antennas&indexArea=product_en&fsb=y&productId=1600621053282",
+                                        "title": "Communication Antennas"
+                                    },
+                                    {
+                                        "categoryIds": "5092201",
+                                        "level": "3",
+                                        "titleEn": "Repeaters",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He5170a50c4ca4a9387c1879ef6cb82adT.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=5092201&SearchText=Repeaters&indexArea=product_en&fsb=y&productId=1600563081802",
+                                        "title": "Repeaters"
+                                    },
+                                    {
+                                        "categoryIds": "5092204",
+                                        "level": "3",
+                                        "titleEn": "VoIP-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hce45cf8a4ff449b68bc78d7d9af189bbt.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=5092204&SearchText=VoIP+Products&indexArea=product_en&fsb=y&productId=1601007988310",
+                                        "title": "VoIP Products"
+                                    },
+                                    {
+                                        "categoryIds": "201230903",
+                                        "level": "3",
+                                        "titleEn": "Microcontrollers-and-Processors-FPGA",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb9c013c003314b5dbb37842bf6c9f827H.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201230903&SearchText=Microcontrollers+and+Processors%2C+FPGA&indexArea=product_en&fsb=y&productId=1600944735075",
+                                        "title": "Microcontrollers and Processors, FPGA"
+                                    },
+                                    {
+                                        "categoryIds": "201969301",
+                                        "level": "3",
+                                        "titleEn": "Specialized-ICs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1dae96259fbd494fa8704d5b5c28d3e4f.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201969301&SearchText=Specialized+ICs&indexArea=product_en&fsb=y&productId=1600887281395",
+                                        "title": "Specialized ICs"
+                                    },
+                                    {
+                                        "categoryIds": "400107",
+                                        "level": "3",
+                                        "titleEn": "Transistors",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0bfaecd4389e4fc488f85f971861847eK.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=400107&SearchText=Transistors&indexArea=product_en&fsb=y&productId=1600977525764",
+                                        "title": "Transistors"
+                                    },
+                                    {
+                                        "categoryIds": "201220506",
+                                        "level": "3",
+                                        "titleEn": "Connector-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8c42fb55adb64acf9e36a8e4712cb8f3p.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201220506&SearchText=Connector+Accessories&indexArea=product_en&fsb=y&productId=1313686483",
+                                        "title": "Connector Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201496605",
+                                        "level": "3",
+                                        "titleEn": "Force-Sensors-Load-Cells",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8279131a8e68455088ac6ce498ea28acP.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201496605&SearchText=Force+Sensors+%26+Load+Cells&indexArea=product_en&fsb=y&productId=60719803764",
+                                        "title": "Force Sensors & Load Cells"
+                                    },
+                                    {
+                                        "categoryIds": "201958902",
+                                        "level": "4",
+                                        "titleEn": "Other-Capacitors",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H988d4602d03f441fa9a48d6b93a7455f0.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201958902&SearchText=Other+Capacitors&indexArea=product_en&fsb=y&productId=60620815854",
+                                        "title": "Other Capacitors"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "8738595630",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_502",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "5488191970",
+                    "prefetchKey": "met",
+                    "path": "/category/products/502/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124030968751c23b11665a79",
+                    "requestId": "018b88902e09c54a876501d4c31a3c02",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403096804",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "9d704cec71bc7236b7310a7d45957676",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "018b88902e09c54a876501d4c31a3c02",
+                    "spm": "a2700.product_home_newuser.header.1235.2f9d67af20x9kd",
+                    "categoryIds": "502",
+                    "pvId": "018b88902e09c54a876501d4c31a3c02",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"502\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "5488191970",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_502",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "3425625810",
+                    "prefetchKey": "met",
+                    "path": "/category/products/502/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124030968751c23b11665a79",
+                    "requestId": "70afd5c895abf90c519fe9da4ad55efc",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403096804",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "9d704cec71bc7236b7310a7d45957676",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "70afd5c895abf90c519fe9da4ad55efc",
+                    "spm": "a2700.product_home_newuser.header.1235.2f9d67af20x9kd",
+                    "categoryIds": "502",
+                    "pvId": "70afd5c895abf90c519fe9da4ad55efc",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "productFields": {
+                        "isCenter": true,
+                        "fields": [
+                            "price"
+                        ]
+                    },
+                    "countryListText": "US,GB,AU,CA,NZ,DE,FR,ES,NL,IT,ID,PH,MY,VN,TH,JP,KR",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002781\",\"categoryIds\":\"502\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "cardList": []
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3425625810",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "8324266580",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "8152152900",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "9204391290",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "8851559990",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "1186561530",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "8455395340",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "6611648260",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687779",
+        "name": "Electronic Components, Accessories & Telecommunications -products",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "012345678900000017124030968751c23b11665a79",
+        "pageType": 0,
+        "path": "/category/products/502/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_502",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Electronic Components, Accessories & Telecommunications -products"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

@@ -1,0 +1,1066 @@
+{
+    "_pageModuleUUIDList": [
+        "1609356400",
+        "8096587060",
+        "2574855220",
+        "4854051180",
+        "6592682480",
+        "8033375530",
+        "4548115910",
+        "4214957350",
+        "8127921600",
+        "3913057190",
+        "3187967860",
+        "7295138160"
+    ],
+    "customContextParams": {
+        "path": "/category/products/17/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712402946527 | 0 | 1712402946527",
+        "process": "1712402946715 | 0 | 1712402946715",
+        "preRender": "1712402946527 | 10 | 1712402946537",
+        "assembleModuleData": "1712402946715 | 0 | 1712402946715",
+        "retrieveHtmlAndJson": "1712402946517 | 4 | 1712402946521",
+        "fetch": "1712402946543 | 172 | 1712402946715",
+        "seo": "1712402946527 | 0 | 1712402946527",
+        "preload": "1712402946527 | 0 | 1712402946527",
+        "render": "1712402946715 | 73 | 1712402946788"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i3/O1CN01AzElI51Hv98pLSt1d_!!6000000000819-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_17",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "1609356400",
+                    "prefetchKey": "met",
+                    "path": "/category/products/17/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240294652738cb4e303c2d7",
+                    "requestId": "7f0e2514d70a5aba4c2624cd014efd8e",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712402946517",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "4231c5522a0c6d9d2aa96db47665ee61",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "7f0e2514d70a5aba4c2624cd014efd8e",
+                    "spm": "a2700.product_home_newuser.header.843.2f9d67af20x9kd",
+                    "categoryIds": "17",
+                    "pvId": "7f0e2514d70a5aba4c2624cd014efd8e",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "201610305",
+                                        "titleEn": "Other-Gifts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H82bfb5f1550f4c659869d2af9bc9bbdcL.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201610305&SearchText=Other+Gifts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Gifts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201333407",
+                                        "titleEn": "Stickers",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9a1216256cd041a2afc56088493f0c6cx.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201333407&SearchText=Stickers&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Stickers",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201339611",
+                                        "titleEn": "Key-Chains",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2b740c1cc8a34c4b9349a6a890af0a5fN.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201339611&SearchText=Key+Chains&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Key Chains",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100001404",
+                                        "titleEn": "Crafts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd45b69eabd6f41c9b4eedcaa5bb06823R.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001404&SearchText=Crafts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Crafts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201397903",
+                                        "titleEn": "Promotional-Business-Gifts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H578f9708ed414a5d9a59b8d7304c3915i.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201397903&SearchText=Promotional+%26+Business+Gifts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Promotional & Business Gifts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201606704",
+                                        "titleEn": "Flags-Banners-Display-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H22656e427cb945ebbb18af22dd365b3f2.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201606704&SearchText=Flags%2C+Banners+%26+Display+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Flags, Banners & Display Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201334115",
+                                        "titleEn": "Lanyard",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H21f26e2a89344536a892fea0efe178ecd.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201334115&SearchText=Lanyard&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Lanyard",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "17",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"17\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "100001829",
+                                        "level": "3",
+                                        "titleEn": "Fireworks-Firecrackers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2c64d5cc972443149ebfe723fcf68370q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001829&SearchText=Fireworks+%26+Firecrackers&indexArea=product_en&fsb=y&productId=62104378171",
+                                        "title": "Fireworks & Firecrackers"
+                                    },
+                                    {
+                                        "categoryIds": "201345814",
+                                        "level": "3",
+                                        "titleEn": "Decorative-Stickers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H02bc36340dae4dee8e93f777e0c8da3bz.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201345814&SearchText=Decorative+Stickers&indexArea=product_en&fsb=y&productId=1600965138199",
+                                        "title": "Decorative Stickers"
+                                    },
+                                    {
+                                        "categoryIds": "201337917",
+                                        "level": "3",
+                                        "titleEn": "Rubber-Key-Chains",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3628ef7d2bb34a71a7afea0430d3b4abe.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201337917&SearchText=Rubber+Key+Chains&indexArea=product_en&fsb=y&productId=60301270953",
+                                        "title": "Rubber Key Chains"
+                                    },
+                                    {
+                                        "categoryIds": "1720",
+                                        "level": "3",
+                                        "titleEn": "Resin-Crafts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H69bffe95c6d1489cb5fe051c165f9cd9f.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1720&SearchText=Resin+Crafts&indexArea=product_en&fsb=y&productId=1600474496382",
+                                        "title": "Resin Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201611003",
+                                        "level": "3",
+                                        "titleEn": "Novelty-Gifts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H30309d55990b402a9a44ff649691597do.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201611003&SearchText=Novelty+Gifts&indexArea=product_en&fsb=y&productId=1600153699185",
+                                        "title": "Novelty Gifts"
+                                    },
+                                    {
+                                        "categoryIds": "201395903",
+                                        "level": "3",
+                                        "titleEn": "Other-Promotional-Business-Gifts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H27e00b8cfece4863a3898929cb603d7ew.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201395903&SearchText=Other+Promotional+%26+Business+Gifts&indexArea=product_en&fsb=y&productId=1601041418366",
+                                        "title": "Other Promotional & Business Gifts"
+                                    },
+                                    {
+                                        "categoryIds": "201331322",
+                                        "level": "3",
+                                        "titleEn": "Metal-Key-Chains",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc9e47bccf10a4ef7ac5c7ac78f397a4bf.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201331322&SearchText=Metal+Key+Chains&indexArea=product_en&fsb=y&productId=1600401145134",
+                                        "title": "Metal Key Chains"
+                                    },
+                                    {
+                                        "categoryIds": "1715",
+                                        "level": "3",
+                                        "titleEn": "Paper-Crafts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H47174bbf3254454f8904db5353e3680dg.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1715&SearchText=Paper+Crafts&indexArea=product_en&fsb=y&productId=62314519999",
+                                        "title": "Paper Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201345813",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Key-Chains",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1IbsHXc_vK1RkSmRyq6xwupXaF.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201345813&SearchText=Plastic+Key+Chains&indexArea=product_en&fsb=y&productId=60671930477",
+                                        "title": "Plastic Key Chains"
+                                    },
+                                    {
+                                        "categoryIds": "201394605",
+                                        "level": "3",
+                                        "titleEn": "Gift-Sets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H613f85ad47cb455b8b534cb528cb28228.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201394605&SearchText=Gift+Sets&indexArea=product_en&fsb=y&productId=1600752892003",
+                                        "title": "Gift Sets"
+                                    },
+                                    {
+                                        "categoryIds": "1716",
+                                        "level": "3",
+                                        "titleEn": "Metal-Crafts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H25dfce8f18134465964fc70543550638n.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1716&SearchText=Metal+Crafts&indexArea=product_en&fsb=y&productId=1600451907346",
+                                        "title": "Metal Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "1714",
+                                        "level": "3",
+                                        "titleEn": "Crystal-Crafts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5a7b1bf23916466d8ff70be595f2ee78X.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1714&SearchText=Crystal+Crafts&indexArea=product_en&fsb=y&productId=1600898757592",
+                                        "title": "Crystal Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "1744",
+                                        "level": "3",
+                                        "titleEn": "Wood-Crafts-Wooden-Boxes-Wall-Signs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hffc6b5a14a814b3faebc2ff29f72f798w.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1744&SearchText=Wood+Crafts%2C+Wooden+Boxes%2C+%26+Wall+Signs&indexArea=product_en&fsb=y&productId=1600882686208",
+                                        "title": "Wood Crafts, Wooden Boxes, & Wall Signs"
+                                    },
+                                    {
+                                        "categoryIds": "201768109",
+                                        "level": "3",
+                                        "titleEn": "Promotional-Keychains-Carabiners",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5f620027679149a68cbaf7f593d2c21fN.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201768109&SearchText=Promotional+Keychains+%26+Carabiners&indexArea=product_en&fsb=y&productId=1600955170990",
+                                        "title": "Promotional Keychains & Carabiners"
+                                    },
+                                    {
+                                        "categoryIds": "201607704",
+                                        "level": "3",
+                                        "titleEn": "Flags",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb2effeea6e2f4695a97ddd57b556a250W.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201607704&SearchText=Flags&indexArea=product_en&fsb=y&productId=1600890994517",
+                                        "title": "Flags"
+                                    },
+                                    {
+                                        "categoryIds": "201336217",
+                                        "level": "3",
+                                        "titleEn": "Other-Key-Chains",
+                                        "imageUrl": "//sc04.alicdn.com/kf/U2b219e1197d14dcfaa069fb362d054c8H.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201336217&SearchText=Other+Key+Chains&indexArea=product_en&fsb=y&productId=11000001089443",
+                                        "title": "Other Key Chains"
+                                    },
+                                    {
+                                        "categoryIds": "201330824",
+                                        "level": "3",
+                                        "titleEn": "Polyester-Lanyard",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf6f31c6524ad4bf8b60c8a4baf407b68V.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201330824&SearchText=Polyester+Lanyard&indexArea=product_en&fsb=y&productId=1600175826298",
+                                        "title": "Polyester Lanyard"
+                                    },
+                                    {
+                                        "categoryIds": "1717",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Crafts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3c836713cafc46ee844e506ddb85a8a7F.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1717&SearchText=Plastic+Crafts&indexArea=product_en&fsb=y&productId=1600324190531",
+                                        "title": "Plastic Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201781405",
+                                        "level": "3",
+                                        "titleEn": "Promotional-Wristbands",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hbc55bc2e492c41adb5a8383efaf2cc055.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201781405&SearchText=Promotional+Wristbands&indexArea=product_en&fsb=y&productId=1600761216611",
+                                        "title": "Promotional Wristbands"
+                                    },
+                                    {
+                                        "categoryIds": "201768806",
+                                        "level": "3",
+                                        "titleEn": "Promotional-Party-Supplies",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3603e7278db04a18adaa8801477038eay.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201768806&SearchText=Promotional+Party+Supplies&indexArea=product_en&fsb=y&productId=1600218850251",
+                                        "title": "Promotional Party Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "1710",
+                                        "level": "3",
+                                        "titleEn": "Bamboo-Crafts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcca1c2d10c15472a98dabce867a4fe939.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1710&SearchText=Bamboo+Crafts&indexArea=product_en&fsb=y&productId=1600595112673",
+                                        "title": "Bamboo Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201773309",
+                                        "level": "3",
+                                        "titleEn": "Promotional-Flags-Banners",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hbdee9875a30a49feb030dcc355d46ca0l.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201773309&SearchText=Promotional+Flags+%26+Banners&indexArea=product_en&fsb=y&productId=1600958801949",
+                                        "title": "Promotional Flags & Banners"
+                                    },
+                                    {
+                                        "categoryIds": "201605607",
+                                        "level": "3",
+                                        "titleEn": "Trophies-Medals-Plaques",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H47d7377b3bca4909bb54d999aa535c7a9.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201605607&SearchText=Trophies%2C+Medals%2C+%26+Plaques&indexArea=product_en&fsb=y&productId=1600930992513",
+                                        "title": "Trophies, Medals, & Plaques"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "1609356400",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_17",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "8096587060",
+                    "prefetchKey": "met",
+                    "path": "/category/products/17/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240294652738cb4e303c2d7",
+                    "requestId": "2d526c8f74972a04657f5c2eb68bcab4",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712402946517",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "4231c5522a0c6d9d2aa96db47665ee61",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "2d526c8f74972a04657f5c2eb68bcab4",
+                    "spm": "a2700.product_home_newuser.header.843.2f9d67af20x9kd",
+                    "categoryIds": "17",
+                    "pvId": "2d526c8f74972a04657f5c2eb68bcab4",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "US,CA,MX,GB,DE,FR,AU,NL",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"17\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "8096587060",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_17",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "2574855220",
+                    "prefetchKey": "met",
+                    "path": "/category/products/17/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240294652738cb4e303c2d7",
+                    "requestId": "9daf27d1314326f1034f1cb32e161a64",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712402946517",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "4231c5522a0c6d9d2aa96db47665ee61",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "9daf27d1314326f1034f1cb32e161a64",
+                    "spm": "a2700.product_home_newuser.header.843.2f9d67af20x9kd",
+                    "categoryIds": "17",
+                    "pvId": "9daf27d1314326f1034f1cb32e161a64",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "3",
+                    "productFields": {
+                        "isCenter": true,
+                        "showHalfTrust": false,
+                        "fields": [
+                            "subject"
+                        ]
+                    },
+                    "countryListText": "ES,RU,IL,BR,IT,SA,PL,AE,KR,PT,CL,BE,JP,UA,CZ,CH",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002560\",\"categoryIds\":\"17\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "bucket": "true",
+                                "cardList": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H9d6db402e3ce4026831235c1e1c930a79.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_0_0#id-1600229496037#pos-0#matchType-5#fatherId-null#cateId-1744#cardId-1010025601744#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-5.898712468147278#logtime-1712402946568#@@realCtrParam:@@productId:1600229496037",
+                                        "deliveryText": "",
+                                        "productId": "1600229496037",
+                                        "titleEn": "Wood Crafts, Wooden Boxes, & Wall Signs",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600229496037&cardType=101002560&cardId=1010025601744&categoryIds=17",
+                                        "price": "$4.40 - $5.20",
+                                        "cardId": "1010025601744",
+                                        "cardType": "101002560",
+                                        "title": "Wood Crafts, Wooden Boxes, & Wall Signs",
+                                        "moq": "3"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hc4be809e28f6464bb583020d853d625dt.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_1_0#id-1600055505174#pos-0#matchType-5#fatherId-null#cateId-201781405#cardId-101002560201781405#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-5.393133869767189#logtime-1712402946568#@@realCtrParam:@@productId:1600055505174",
+                                        "deliveryText": "",
+                                        "productId": "1600055505174",
+                                        "titleEn": "Promotional Wristbands",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600055505174&cardType=101002560&cardId=101002560201781405&categoryIds=17",
+                                        "price": "$0.04 - $0.07",
+                                        "cardId": "101002560201781405",
+                                        "cardType": "101002560",
+                                        "title": "Promotional Wristbands",
+                                        "moq": "500"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hb04fe448150842cab3e0071f40ce84e5g.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_2_0#id-62414047404#pos-0#matchType-5#fatherId-null#cateId-1720#cardId-1010025601720#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-4.269980481266975#logtime-1712402946568#@@realCtrParam:@@productId:62414047404",
+                                        "deliveryText": "",
+                                        "productId": "62414047404",
+                                        "titleEn": "Resin Crafts",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=62414047404&cardType=101002560&cardId=1010025601720&categoryIds=17",
+                                        "price": "$0.48 - $0.49",
+                                        "cardId": "1010025601720",
+                                        "cardType": "101002560",
+                                        "title": "Resin Crafts",
+                                        "moq": "5"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H81cf296420ea4d23a098f1dfcc7caf08C.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_3_0#id-1600609328835#pos-0#matchType-5#fatherId-null#cateId-201332211#cardId-101002560201332211#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-3.9840317994356154#logtime-1712402946568#@@realCtrParam:@@productId:1600609328835",
+                                        "deliveryText": "",
+                                        "productId": "1600609328835",
+                                        "titleEn": "Plush Key Chains",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600609328835&cardType=101002560&cardId=101002560201332211&categoryIds=17",
+                                        "price": "$0.50 - $0.65",
+                                        "cardId": "101002560201332211",
+                                        "cardType": "101002560",
+                                        "title": "Plush Key Chains",
+                                        "moq": "60"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hd374c636c5e9453fae91e91d0448d9d1B.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_4_0#id-1600851292833#pos-0#matchType-5#fatherId-null#cateId-201394605#cardId-101002560201394605#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-3.8272298127412796#logtime-1712402946568#@@realCtrParam:@@productId:1600851292833",
+                                        "deliveryText": "Delivery by May 21",
+                                        "productId": "1600851292833",
+                                        "titleEn": "Gift Sets",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600851292833&cardType=101002560&cardId=101002560201394605&categoryIds=17",
+                                        "price": "$6.50 - $7.50",
+                                        "cardId": "101002560201394605",
+                                        "cardType": "101002560",
+                                        "title": "Gift Sets",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H965e3378a53348c0965577024d489791y.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_5_0#id-1600462240226#pos-0#matchType-5#fatherId-null#cateId-1716#cardId-1010025601716#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-3.6976191490888595#logtime-1712402946568#@@realCtrParam:@@productId:1600462240226",
+                                        "productId": "1600462240226",
+                                        "titleEn": "Metal Crafts",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600462240226&cardType=101002560&cardId=1010025601716&categoryIds=17",
+                                        "price": "$0.22 - $0.30",
+                                        "cardId": "1010025601716",
+                                        "cardType": "101002560",
+                                        "title": "Metal Crafts",
+                                        "moq": "50"
+                                    }
+                                ],
+                                "cards": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H9d6db402e3ce4026831235c1e1c930a79.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_0_0#id-1600229496037#pos-0#matchType-5#fatherId-null#cateId-1744#cardId-1010025601744#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-5.898712468147278#logtime-1712402946568#@@realCtrParam:@@productId:1600229496037",
+                                        "deliveryText": "",
+                                        "productId": "1600229496037",
+                                        "titleEn": "Wood Crafts, Wooden Boxes, & Wall Signs",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600229496037&cardType=101002560&cardId=1010025601744&categoryIds=17",
+                                        "price": "$4.40 - $5.20",
+                                        "cardId": "1010025601744",
+                                        "cardType": "101002560",
+                                        "title": "Wood Crafts, Wooden Boxes, & Wall Signs",
+                                        "moq": "3"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hc4be809e28f6464bb583020d853d625dt.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_1_0#id-1600055505174#pos-0#matchType-5#fatherId-null#cateId-201781405#cardId-101002560201781405#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-5.393133869767189#logtime-1712402946568#@@realCtrParam:@@productId:1600055505174",
+                                        "deliveryText": "",
+                                        "productId": "1600055505174",
+                                        "titleEn": "Promotional Wristbands",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600055505174&cardType=101002560&cardId=101002560201781405&categoryIds=17",
+                                        "price": "$0.04 - $0.07",
+                                        "cardId": "101002560201781405",
+                                        "cardType": "101002560",
+                                        "title": "Promotional Wristbands",
+                                        "moq": "500"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hb04fe448150842cab3e0071f40ce84e5g.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_2_0#id-62414047404#pos-0#matchType-5#fatherId-null#cateId-1720#cardId-1010025601720#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-4.269980481266975#logtime-1712402946568#@@realCtrParam:@@productId:62414047404",
+                                        "deliveryText": "",
+                                        "productId": "62414047404",
+                                        "titleEn": "Resin Crafts",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=62414047404&cardType=101002560&cardId=1010025601720&categoryIds=17",
+                                        "price": "$0.48 - $0.49",
+                                        "cardId": "1010025601720",
+                                        "cardType": "101002560",
+                                        "title": "Resin Crafts",
+                                        "moq": "5"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H81cf296420ea4d23a098f1dfcc7caf08C.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_3_0#id-1600609328835#pos-0#matchType-5#fatherId-null#cateId-201332211#cardId-101002560201332211#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-3.9840317994356154#logtime-1712402946568#@@realCtrParam:@@productId:1600609328835",
+                                        "deliveryText": "",
+                                        "productId": "1600609328835",
+                                        "titleEn": "Plush Key Chains",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600609328835&cardType=101002560&cardId=101002560201332211&categoryIds=17",
+                                        "price": "$0.50 - $0.65",
+                                        "cardId": "101002560201332211",
+                                        "cardType": "101002560",
+                                        "title": "Plush Key Chains",
+                                        "moq": "60"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hd374c636c5e9453fae91e91d0448d9d1B.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_4_0#id-1600851292833#pos-0#matchType-5#fatherId-null#cateId-201394605#cardId-101002560201394605#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-3.8272298127412796#logtime-1712402946568#@@realCtrParam:@@productId:1600851292833",
+                                        "deliveryText": "Delivery by May 21",
+                                        "productId": "1600851292833",
+                                        "titleEn": "Gift Sets",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600851292833&cardType=101002560&cardId=101002560201394605&categoryIds=17",
+                                        "price": "$6.50 - $7.50",
+                                        "cardId": "101002560201394605",
+                                        "cardType": "101002560",
+                                        "title": "Gift Sets",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H965e3378a53348c0965577024d489791y.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-1b4aa927-0fec-42e4-af1d-d0d34d0b7230#realPos-0_5_0#id-1600462240226#pos-0#matchType-5#fatherId-null#cateId-1716#cardId-1010025601716#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-5.187275606393814#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-17_101002560#srcChannel-PC#rankScore-3.6976191490888595#logtime-1712402946568#@@realCtrParam:@@productId:1600462240226",
+                                        "productId": "1600462240226",
+                                        "titleEn": "Metal Crafts",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600462240226&cardType=101002560&cardId=1010025601716&categoryIds=17",
+                                        "price": "$0.22 - $0.30",
+                                        "cardId": "1010025601716",
+                                        "cardType": "101002560",
+                                        "title": "Metal Crafts",
+                                        "moq": "50"
+                                    }
+                                ],
+                                "subTitle": "",
+                                "title": "Local returns for free"
+                            }
+                        }
+                    },
+                    "floorTitle": "Order now, enjoy Easy Return",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "2574855220",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "4854051180",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "6592682480",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "8033375530",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "4548115910",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "4214957350",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "8127921600",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "3913057190",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "3187967860",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "7295138160",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687678",
+        "name": "Gifts, Crafts and Decorations",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240294652738cb4e303c2d7",
+        "pageType": 0,
+        "path": "/category/products/17/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_17",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Gifts, Crafts and Decorations"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

@@ -1,0 +1,1197 @@
+{
+    "_pageModuleUUIDList": [
+        "3358628110",
+        "9916324280",
+        "8767403270",
+        "1108093690",
+        "3481015100"
+    ],
+    "customContextParams": {
+        "path": "/category/products/21/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403447083 | 0 | 1712403447083",
+        "process": "1712403447341 | 0 | 1712403447341",
+        "preRender": "1712403447083 | 8 | 1712403447091",
+        "assembleModuleData": "1712403447341 | 0 | 1712403447341",
+        "retrieveHtmlAndJson": "1712403447025 | 53 | 1712403447078",
+        "fetch": "1712403447097 | 244 | 1712403447341",
+        "seo": "1712403447083 | 0 | 1712403447083",
+        "preload": "1712403447083 | 0 | 1712403447083",
+        "render": "1712403447341 | 123 | 1712403447464"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i3/O1CN010MJOsn22SYLym2rih_!!6000000007119-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_21",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "3358628110",
+                    "prefetchKey": "met",
+                    "path": "/category/products/21/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240344708313764e125c105",
+                    "requestId": "7a701b4591a6fac05ead34c8d34ca1ff",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403447024",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "81ee9cf276e654133848bd35101ec67e",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "7a701b4591a6fac05ead34c8d34ca1ff",
+                    "spm": "a2700.product_home_newuser.header.3670.2ce267afd3VBj7",
+                    "categoryIds": "21",
+                    "pvId": "7a701b4591a6fac05ead34c8d34ca1ff",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "2112",
+                                        "titleEn": "Office-Paper",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4526438a766044b194b0e80fb973fc91i.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2112&SearchText=Office+Paper&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Office Paper",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "2103",
+                                        "titleEn": "Pens",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2d7e0c0d151f4f258305924f48d029264.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2103&SearchText=Pens&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Pens",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "211107",
+                                        "titleEn": "Pencils",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb961c7afd853448ba85076ed8f7423f8N.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211107&SearchText=Pencils&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Pencils",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003155",
+                                        "titleEn": "Notebooks-Writing-Pads",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H99503be72ad84f4b9532e032e5b25c43r.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003155&SearchText=Notebooks+%26+Writing+Pads&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Notebooks & Writing Pads",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "2117",
+                                        "titleEn": "Stationery-Set",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H97dec6f9fb9f4edaa5e81935a54f1520U.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2117&SearchText=Stationery+Set&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Stationery Set",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "21110706",
+                                        "titleEn": "Markers-Highlighters",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hec217c9d607b41518741e0ae429f988aM.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21110706&SearchText=Markers+%26+Highlighters&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Markers & Highlighters",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "2113",
+                                        "titleEn": "Printer-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He0443b23939248c39da2e29679bcf329D.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2113&SearchText=Printer+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Printer Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003150",
+                                        "titleEn": "Pencil-Cases-Bags",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H203796a850ad4b16bd468e282d888477l.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003150&SearchText=Pencil+Cases+%26+Bags&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Pencil Cases & Bags",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "501",
+                                        "titleEn": "Calculators",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1245502fa9144f7b860371edd4147f41T.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=501&SearchText=Calculators&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Calculators",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "2102",
+                                        "titleEn": "Pencil-Sharpeners",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hec374d61f18e4bff8566ddaf79eb9036E.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2102&SearchText=Pencil+Sharpeners&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Pencil Sharpeners",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "2110",
+                                        "titleEn": "Letter-Pad-Paper",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H11625be47643489fa60bbb3487b77354h.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2110&SearchText=Letter+Pad%2FPaper&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Letter Pad/Paper",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "2114",
+                                        "titleEn": "Book-Covers",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H12595102528e4e799c21abb76828e884o.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2114&SearchText=Book+Covers&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Book Covers",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "2115",
+                                        "titleEn": "Other-Office-School-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf36a228428c140e09f65e8a0aedc8cdas.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2115&SearchText=Other+Office+%26+School+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Office & School Supplies",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "2138",
+                                        "titleEn": "Stamps",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He9fd431fccec449b848a0722c9c11be1W.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2138&SearchText=Stamps&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Stamps",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "2139",
+                                        "titleEn": "Drafting-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hef2ad3fa5b19496b9b5536500c060886C.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2139&SearchText=Drafting+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Drafting Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "2140",
+                                        "titleEn": "Stencils",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3bef128c96f84820b6284fd0e57c47e9K.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2140&SearchText=Stencils&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Stencils",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "2142",
+                                        "titleEn": "Electronic-Dictionary",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hcaa014e9d4074f0ab5c4d4265b4ac687K.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2142&SearchText=Electronic+Dictionary&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Electronic Dictionary",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "2202",
+                                        "titleEn": "Books",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H7eca5b19cad541a686e51ebd01911aefc.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2202&SearchText=Books&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Books",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "2209",
+                                        "titleEn": "Map",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H16152ccc857447d5910c6abfdeab8656k.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2209&SearchText=Map&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Map",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "2213",
+                                        "titleEn": "Magazines",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2999fdeb24404b9bbe5f3adf2697c4b4P.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2213&SearchText=Magazines&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Magazines",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "150415",
+                                        "titleEn": "Calendars",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf6580b3b01ac497182cd205928667af9R.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=150415&SearchText=Calendars&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Calendars",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201463101",
+                                        "titleEn": "Writing-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H96359837b7294ed081c2e483487b8d0fA.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201463101&SearchText=Writing+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Writing Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "21111107",
+                                        "titleEn": "Easels",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4c9910d161324f26b42bf7f92246fe8fM.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21111107&SearchText=Easels&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Easels",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100001129",
+                                        "titleEn": "Yellow-Pages",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H30f7ec0ce674477a8de696e8c3f7702em.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001129&SearchText=Yellow+Pages&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Yellow Pages",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201730902",
+                                        "titleEn": "Commercial-Office-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H7891f9b4a040458d8c8372e44514bdbbK.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201730902&SearchText=Commercial+Office+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Commercial Office Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003177",
+                                        "titleEn": "File-Folder-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H72dc489df22d408d865b6b4ec237a973s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003177&SearchText=File+Folder+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "File Folder Accessories",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100003125",
+                                        "titleEn": "Correction-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H96fb16660ed04f7789521797c73cf29ab.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003125&SearchText=Correction+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Correction Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003134",
+                                        "titleEn": "Office-Adhesives-Tapes",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H51967732675c417a8ba012ca59b3c37f0.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003134&SearchText=Office+Adhesives+%26+Tapes&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Office Adhesives & Tapes",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003135",
+                                        "titleEn": "Education-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H96d20333b2c54a248dbf486848a81ca6B.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003135&SearchText=Education+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Education Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003129",
+                                        "titleEn": "Office-Binding-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hff19391550ff44e88265dca2a058ed94B.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003129&SearchText=Office+Binding+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Office Binding Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003132",
+                                        "titleEn": "Board-Erasers",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hbb50361881b54c5289fbc818b72dc7a6y.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003132&SearchText=Board+Erasers&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Board Erasers",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100003131",
+                                        "titleEn": "Office-Cutting-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf7b83a5a666440f9bfb10bf3f5e50a40Y.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003131&SearchText=Office+Cutting+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Office Cutting Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "211103",
+                                        "titleEn": "Paper-Envelopes",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5680d402450944198bd2d56d61befb631.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211103&SearchText=Paper+Envelopes&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Paper Envelopes",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "211106",
+                                        "titleEn": "Desk-Organizers",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2e5613c4859a4c2a84330fee3ae0334cj.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211106&SearchText=Desk+Organizers&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Desk Organizers",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "211112",
+                                        "titleEn": "Badge-Holder-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H70661c709f4d42eda65bfb7d12d3cf64R.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211112&SearchText=Badge+Holder+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Badge Holder & Accessories",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "211111",
+                                        "titleEn": "Art-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3818b98167b44c679a6d467e1f3a9f44I.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211111&SearchText=Art+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Art Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "211110",
+                                        "titleEn": "Filing-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He0a8480c095949e18c3f9f33f94dbb887.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211110&SearchText=Filing+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Filing Products",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "21200204",
+                                        "titleEn": "Clipboards",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9d999727cb8a401bae380f1c2e816256N.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21200204&SearchText=Clipboards&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Clipboards",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "212002",
+                                        "titleEn": "Boards",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5ac128e40fed4efaa65cc3346234c812L.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=212002&SearchText=Boards&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Boards",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "21",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"21\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "211203",
+                                        "level": "3",
+                                        "titleEn": "Copy-Paper",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0d2b8a549bf24ae6aca684fae630d44cl.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211203&SearchText=Copy+Paper&indexArea=product_en&fsb=y&productId=1601040042454",
+                                        "title": "Copy Paper"
+                                    },
+                                    {
+                                        "categoryIds": "21110704",
+                                        "level": "3",
+                                        "titleEn": "Gel-Pens",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hfeb4ef11b86643ee93a7a528dbf6d4dcu.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21110704&SearchText=Gel+Pens&indexArea=product_en&fsb=y&productId=1600788766045",
+                                        "title": "Gel Pens"
+                                    },
+                                    {
+                                        "categoryIds": "21110708",
+                                        "level": "3",
+                                        "titleEn": "Standard-Pencils",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hbeee0ecc0e594d0faf0f06ab019bdcb9d.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21110708&SearchText=Standard+Pencils&indexArea=product_en&fsb=y&productId=1600428157494",
+                                        "title": "Standard Pencils"
+                                    },
+                                    {
+                                        "categoryIds": "211105",
+                                        "level": "3",
+                                        "titleEn": "Notebooks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb7906e82f0fe4bce8870dc6e7f74ca14R.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211105&SearchText=Notebooks&indexArea=product_en&fsb=y&productId=1600179427888",
+                                        "title": "Notebooks"
+                                    },
+                                    {
+                                        "categoryIds": "2117",
+                                        "level": "2",
+                                        "titleEn": "Stationery-Set",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9169a2ef97124cff97dc2ac8e2233dd9j.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2117&SearchText=Stationery+Set&indexArea=product_en&fsb=y&productId=1600754149101",
+                                        "title": "Stationery Set"
+                                    },
+                                    {
+                                        "categoryIds": "21110711",
+                                        "level": "3",
+                                        "titleEn": "Art-Markers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H393470da833c447fba732d97d915cf1dX.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21110711&SearchText=Art+Markers&indexArea=product_en&fsb=y&productId=1601014713182",
+                                        "title": "Art Markers"
+                                    },
+                                    {
+                                        "categoryIds": "211104",
+                                        "level": "3",
+                                        "titleEn": "Memo-Pads",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6bd6dd8ec2f34f57ae031b9d1b426897F.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211104&SearchText=Memo+Pads&indexArea=product_en&fsb=y&productId=1600474480988",
+                                        "title": "Memo Pads"
+                                    },
+                                    {
+                                        "categoryIds": "211399",
+                                        "level": "3",
+                                        "titleEn": "Other-Printer-Supplies",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H21c3e6e00a184a5295fc3ba536e06cb40.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211399&SearchText=Other+Printer+Supplies&indexArea=product_en&fsb=y&productId=1600477869351",
+                                        "title": "Other Printer Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21110701",
+                                        "level": "3",
+                                        "titleEn": "Ballpoint-Pens",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H75d19060b0284461bae628a1e5fe474cm.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21110701&SearchText=Ballpoint+Pens&indexArea=product_en&fsb=y&productId=1600564099036",
+                                        "title": "Ballpoint Pens"
+                                    },
+                                    {
+                                        "categoryIds": "211113",
+                                        "level": "3",
+                                        "titleEn": "Pencil-Cases",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3e91f9897c8145d69dc2982989577c50E.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211113&SearchText=Pencil+Cases&indexArea=product_en&fsb=y&productId=1600892509219",
+                                        "title": "Pencil Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2138",
+                                        "level": "2",
+                                        "titleEn": "Stamps",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf8b6f173ad8447d79ab53d636a8a756dz.jpeg_220x220.jpeg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2138&SearchText=Stamps&indexArea=product_en&fsb=y&productId=1600973188412",
+                                        "title": "Stamps"
+                                    },
+                                    {
+                                        "categoryIds": "211110",
+                                        "level": "2",
+                                        "titleEn": "Filing-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H16daa069512d45138965cb283d9c4111R.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211110&SearchText=Filing+Products&indexArea=product_en&fsb=y&productId=1600387633092",
+                                        "title": "Filing Products"
+                                    },
+                                    {
+                                        "categoryIds": "100005525",
+                                        "level": "3",
+                                        "titleEn": "Marker-Pens",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcd1f5a14f6a14ea0a94b41de91a62793L.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005525&SearchText=Marker+Pens&indexArea=product_en&fsb=y&productId=62453921212",
+                                        "title": "Marker Pens"
+                                    },
+                                    {
+                                        "categoryIds": "211307",
+                                        "level": "3",
+                                        "titleEn": "Toner-Cartridges",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H43fb7368194144a089e7a1ca485fb3f7N.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211307&SearchText=Toner+Cartridges&indexArea=product_en&fsb=y&productId=62479956610",
+                                        "title": "Toner Cartridges"
+                                    },
+                                    {
+                                        "categoryIds": "211604",
+                                        "level": "4",
+                                        "titleEn": "Medical-Science",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1LyYwdhiH3KVjSZPfq6xBiVXaX.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211604&SearchText=Medical+Science&indexArea=product_en&fsb=y&productId=60103691822",
+                                        "title": "Medical Science"
+                                    },
+                                    {
+                                        "categoryIds": "2104",
+                                        "level": "4",
+                                        "titleEn": "Copiers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8dc0b21d02f84ebaa5f21634c69c6599h.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2104&SearchText=Copiers&indexArea=product_en&fsb=y&productId=62001366317",
+                                        "title": "Copiers"
+                                    },
+                                    {
+                                        "categoryIds": "2108",
+                                        "level": "4",
+                                        "titleEn": "Graph-Plotter",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hfb797cc09e1741d9b93261cbbc1f4b383.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2108&SearchText=Graph+Plotter&indexArea=product_en&fsb=y&productId=429786463",
+                                        "title": "Graph Plotter"
+                                    },
+                                    {
+                                        "categoryIds": "211206",
+                                        "level": "3",
+                                        "titleEn": "Carbon-Paper",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcaa8e59cb29c47edae6f672667b35aafx.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211206&SearchText=Carbon+Paper&indexArea=product_en&fsb=y&productId=1600768255614",
+                                        "title": "Carbon Paper"
+                                    },
+                                    {
+                                        "categoryIds": "211305",
+                                        "level": "3",
+                                        "titleEn": "Ink-Cartridges",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9530317249484f54adca4d9c3b8ffc16m.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211305&SearchText=Ink+Cartridges&indexArea=product_en&fsb=y&productId=1600963636768",
+                                        "title": "Ink Cartridges"
+                                    },
+                                    {
+                                        "categoryIds": "211202",
+                                        "level": "3",
+                                        "titleEn": "Cash-Register-Paper",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd8ad1a9bd3804c27bdc9856de10f5dbbk.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211202&SearchText=Cash+Register+Paper&indexArea=product_en&fsb=y&productId=1601002638992",
+                                        "title": "Cash Register Paper"
+                                    },
+                                    {
+                                        "categoryIds": "211103",
+                                        "level": "2",
+                                        "titleEn": "Paper-Envelopes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9d836071caf747c99b2fe97ecba19004a.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=211103&SearchText=Paper+Envelopes&indexArea=product_en&fsb=y&productId=1600798697690",
+                                        "title": "Paper Envelopes"
+                                    },
+                                    {
+                                        "categoryIds": "501",
+                                        "level": "2",
+                                        "titleEn": "Calculators",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H899adf3c1e654beb810b456acbd2912bB.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=501&SearchText=Calculators&indexArea=product_en&fsb=y&productId=1600332141971",
+                                        "title": "Calculators"
+                                    },
+                                    {
+                                        "categoryIds": "21200201",
+                                        "level": "3",
+                                        "titleEn": "Whiteboards",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7b66189eef6b409bb4a924ba93c5e111i.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=21200201&SearchText=Whiteboards&indexArea=product_en&fsb=y&productId=62496509503",
+                                        "title": "Whiteboards"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "3358628110",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 951380,
+            "data": {
+                "_fdl_request_VR": {
+                    "VRConfig": {
+                        "entryType": "total",
+                        "topBackgroundImageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01in63711aCF3fkKPhm_!!6000000003293-2-tps-432-360.png",
+                        "subTitle": "",
+                        "position": "2",
+                        "title": "VR showroom"
+                    },
+                    "requestCommon": {
+                        "_fdl_request_VRRequest": {
+                            "params": "{\"categoryIds\":\"21\",\"modelId\":\"10597\",\"pageSize\":\"4\"}",
+                            "_serverData": {
+                                "venueUrl": "https://sale.alibaba.com/p/dbjzwq7y5/index.html?wx_navbar_transparent=true&path=/p/dbjzwq7y5/index.html&ncms_spm=a27aq.27943548&prefetchKey=met&wx_xpage=true&topOfferIds=&categoryIds=21",
+                                "list": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H41262bb80d264beb9fdcc1c04c846665D.jpg_220x220.jpg",
+                                        "companyId": "242315889",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15862_999#pvid-ab47f90e-c91c-4d45-ab22-1f8d1c02af45#realPos-0#id-1600142685723#pos-0#matchType-4#cateId-201463501#cardId-3026001#newsType-3024403#userTage-6_2_lost#isAIRefresh-false#btsInfo-new_prod:prom;ggs_resign:prom;xuqian:prom;comp_rdu:comp;comp_rdu2:prom;ggs_new:prom;new_prod1:prom;comp_neg1:prom01;fake_price:prom;comp_neg:prom#srcChannel-PC#rankScore-111.45218085110756#logtime-1712403447138#@@realCtrParam:@@productId:1600142685723",
+                                        "productId": "1600142685723",
+                                        "modelId": "3826013",
+                                        "venueUrl": "https://sale.alibaba.com/p/dbjzwq7y5/index.html?wx_navbar_transparent=true&path=/p/dbjzwq7y5/index.html&ncms_spm=a27aq.27943548&prefetchKey=met&wx_xpage=true&topOfferIds=1600142685723&categoryIds=21",
+                                        "minPrice": "$2.99",
+                                        "showroomImage": "//sc04.alicdn.com/kf/H8a00696fc38b4dd9ba7014dcd96781fcF.jpg",
+                                        "aliMemberId": "233132166",
+                                        "modelImage16x9": "//sc04.alicdn.com/kf/H07280a291d124ab68ba1b5e42df5a3ccn.jpg",
+                                        "showroomUrl": "https://policral.en.alibaba.com/view/showroom/immersed.htm?model_id=3826013&member_id=233132166&ali_id=3917276249&vaccount_id=242315889&wx_navbar_transparent=true&_aplus_page_enable=true&model=ailab&model_source=ailab&oss_key=c35f9f21-583b-4444-80da-621bf3dc4a79"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/HTB1L2ktqHSYBuNjSspiq6xNzpXa1.jpg_220x220.jpg",
+                                        "companyId": "230489664",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15862_999#pvid-ab47f90e-c91c-4d45-ab22-1f8d1c02af45#realPos-1#id-60280942048#pos-1#matchType-4#cateId-100003152#cardId-3026001#newsType-3024403#userTage-6_2_lost#isAIRefresh-false#btsInfo-new_prod:prom;ggs_resign:prom;xuqian:prom;comp_rdu:comp;comp_rdu2:prom;ggs_new:prom;new_prod1:prom;comp_neg1:prom01;fake_price:prom;comp_neg:prom#srcChannel-PC#rankScore-101.7197652475015#logtime-1712403447138#@@realCtrParam:@@productId:60280942048",
+                                        "productId": "60280942048",
+                                        "modelId": "5133001",
+                                        "venueUrl": "https://sale.alibaba.com/p/dbjzwq7y5/index.html?wx_navbar_transparent=true&path=/p/dbjzwq7y5/index.html&ncms_spm=a27aq.27943548&prefetchKey=met&wx_xpage=true&topOfferIds=60280942048&categoryIds=21",
+                                        "minPrice": "$1.60",
+                                        "showroomImage": "//sc04.alicdn.com/kf/H81f3cd8bcd574daabc1f16fa01d68de6R.jpg",
+                                        "aliMemberId": "220448917",
+                                        "modelImage16x9": "//sc04.alicdn.com/kf/Ha3d0b953429f4325b1c5bb3289c37ed2b.jpg",
+                                        "showroomUrl": "https://y.en.alibaba.com/view/showroom/immersed.htm?model_id=5133001&member_id=220448917&ali_id=1909709384&vaccount_id=230489664&wx_navbar_transparent=true&_aplus_page_enable=true&model=ailab&model_source=ailab&oss_key=9d8073c8-4073-4a73-913c-798b411d2d16"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hbf24550265ae4bcd9619da3d035eb8feV.jpg_220x220.jpg",
+                                        "companyId": "244592242",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15862_999#pvid-ab47f90e-c91c-4d45-ab22-1f8d1c02af45#realPos-2#id-1600690104844#pos-2#matchType-4#cateId-21110704#cardId-3026001#newsType-3024403#userTage-6_2_lost#isAIRefresh-false#btsInfo-new_prod:prom;ggs_resign:prom;xuqian:prom;comp_rdu:comp;comp_rdu2:prom;ggs_new:prom;new_prod1:prom;comp_neg1:prom01;fake_price:prom;comp_neg:prom#srcChannel-PC#rankScore-99.59431215088757#logtime-1712403447138#@@realCtrParam:@@productId:1600690104844",
+                                        "productId": "1600690104844",
+                                        "modelId": "3557037",
+                                        "venueUrl": "https://sale.alibaba.com/p/dbjzwq7y5/index.html?wx_navbar_transparent=true&path=/p/dbjzwq7y5/index.html&ncms_spm=a27aq.27943548&prefetchKey=met&wx_xpage=true&topOfferIds=1600690104844&categoryIds=21",
+                                        "minPrice": "$0.42",
+                                        "showroomImage": "//sc04.alicdn.com/kf/H8d71c38a4d344ae6b53e7252f4c15bd8h/235660081/H8d71c38a4d344ae6b53e7252f4c15bd8h.jpg",
+                                        "aliMemberId": "235660081",
+                                        "modelImage16x9": "//sc04.alicdn.com/kf/H1259dc309fd64378b2fd11032c19a5ceJ/235660081/H1259dc309fd64378b2fd11032c19a5ceJ.jpg",
+                                        "showroomUrl": "https://joytopcn.en.alibaba.com/view/showroom/immersed.htm?model_id=3557037&member_id=235660081&ali_id=2200550829995&vaccount_id=244592242&wx_navbar_transparent=true&_aplus_page_enable=true&model=ailab&model_source=ailab&oss_key=bfc45e7f-8d21-48b1-9790-e1c5b01c6ca4"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hc37d4578148c45f2935fa90734e62442m.jpg_220x220.jpg",
+                                        "companyId": "237887004",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15862_999#pvid-ab47f90e-c91c-4d45-ab22-1f8d1c02af45#realPos-3#id-60756630314#pos-3#matchType-4#cateId-201463501#cardId-3026001#newsType-3024403#userTage-6_2_lost#isAIRefresh-false#btsInfo-new_prod:prom;ggs_resign:prom;xuqian:prom;comp_rdu:comp;comp_rdu2:prom;ggs_new:prom;new_prod1:prom;comp_neg1:prom01;fake_price:prom;comp_neg:prom#srcChannel-PC#rankScore-107.29323886011842#logtime-1712403447138#@@realCtrParam:@@productId:60756630314",
+                                        "productId": "60756630314",
+                                        "modelId": "897019",
+                                        "venueUrl": "https://sale.alibaba.com/p/dbjzwq7y5/index.html?wx_navbar_transparent=true&path=/p/dbjzwq7y5/index.html&ncms_spm=a27aq.27943548&prefetchKey=met&wx_xpage=true&topOfferIds=60756630314&categoryIds=21",
+                                        "minPrice": "$9.99",
+                                        "showroomImage": "//sc04.alicdn.com/kf/Hfff59b49f7e94722986b3cded53e8f52n/228335861/Hfff59b49f7e94722986b3cded53e8f52n.jpg",
+                                        "aliMemberId": "228335861",
+                                        "modelImage16x9": "//sc04.alicdn.com/kf/Ha3f07f40742c4c02bc49c3ecd3dc1400X/228335861/Ha3f07f40742c4c02bc49c3ecd3dc1400X.jpg",
+                                        "showroomUrl": "https://sznewyes.en.alibaba.com/view/showroom/immersed.htm?model_id=897019&member_id=228335861&ali_id=2892030977&vaccount_id=237887004&wx_navbar_transparent=true&_aplus_page_enable=true&model=ailab&model_source=ailab&oss_key=322e38e8-7a12-47f2-bf19-590f5fcc4efa"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_21",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "9916324280",
+                    "prefetchKey": "met",
+                    "path": "/category/products/21/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240344708313764e125c105",
+                    "requestId": "b10d7aba8cfa892edf3825ee3f19076b",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403447024",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "81ee9cf276e654133848bd35101ec67e",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "b10d7aba8cfa892edf3825ee3f19076b",
+                    "spm": "a2700.product_home_newuser.header.3670.2ce267afd3VBj7",
+                    "categoryIds": "21",
+                    "pvId": "b10d7aba8cfa892edf3825ee3f19076b",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "cardListConfig": {
+                    "productFields": [
+                        "min-price"
+                    ],
+                    "configList": [
+                        {
+                            "blockId": "2379614",
+                            "entryType": "total",
+                            "topBackgroundImageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01CAwbG71Um4GhItlhi_!!6000000002559-0-tps-432-360.jpg",
+                            "regions": "",
+                            "subTitle": "",
+                            "title": "Promotional items"
+                        },
+                        {
+                            "blockId": "2386610",
+                            "entryType": "total",
+                            "topBackgroundImageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01hvWUVU1JpJIcdR6YO_!!6000000001077-0-tps-432-360.jpg",
+                            "regions": "",
+                            "subTitle": "",
+                            "title": "Certified products"
+                        }
+                    ]
+                }
+            },
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "9916324280",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920988,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_21",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "8767403270",
+                    "prefetchKey": "met",
+                    "path": "/category/products/21/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240344708313764e125c105",
+                    "requestId": "0ab8c9e3c70f26109929ed8238d2b709",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403447024",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "81ee9cf276e654133848bd35101ec67e",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "0ab8c9e3c70f26109929ed8238d2b709",
+                    "spm": "a2700.product_home_newuser.header.3670.2ce267afd3VBj7",
+                    "categoryIds": "21",
+                    "pvId": "0ab8c9e3c70f26109929ed8238d2b709",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestCommon": {
+                        "_fdl_request_supplierRequest": {
+                            "params": "{\"categoryIds\":\"21\",\"modelId\":\"10687\"}",
+                            "_serverData": {
+                                "list": []
+                            }
+                        }
+                    },
+                    "floorTitle": "mcms_00gevf__"
+                }
+            },
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "8767403270",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "1108093690",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "3481015100",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1691821",
+        "name": "Office & School Supplies",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240344708313764e125c105",
+        "pageType": 0,
+        "path": "/category/products/21/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_21",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Office & School Supplies"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

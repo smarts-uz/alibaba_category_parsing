@@ -1,0 +1,1074 @@
+{
+    "_pageModuleUUIDList": [
+        "7686527320",
+        "2689717490",
+        "4758121400",
+        "9010769590",
+        "6985747750",
+        "3786621300",
+        "5203536910",
+        "1280759920",
+        "1385831880",
+        "9231568630",
+        "5826079900",
+        "6471686710",
+        "8363246200"
+    ],
+    "customContextParams": {
+        "path": "/category/products/23/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712402642886 | 0 | 1712402642886",
+        "process": "1712402643108 | 0 | 1712402643108",
+        "preRender": "1712402642886 | 9 | 1712402642895",
+        "assembleModuleData": "1712402643108 | 0 | 1712402643108",
+        "retrieveHtmlAndJson": "1712402642842 | 38 | 1712402642880",
+        "fetch": "1712402642901 | 207 | 1712402643108",
+        "seo": "1712402642886 | 0 | 1712402642886",
+        "preload": "1712402642886 | 0 | 1712402642886",
+        "render": "1712402643108 | 77 | 1712402643185"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i1/O1CN01TA364c1XWRdBSNkv4_!!6000000002931-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_23",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "7686527320",
+                    "prefetchKey": "met",
+                    "path": "/category/products/23/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240264288660e3c6b659f39",
+                    "requestId": "9c79e9bdf694696b92e270ecfc3a97a9",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712402642842",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "b368ec4ebac96e8d8244fd2563d0a833",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "9c79e9bdf694696b92e270ecfc3a97a9",
+                    "spm": "a2700.product_home_newuser.header.1888.2f9d67af20x9kd",
+                    "categoryIds": "23",
+                    "pvId": "9c79e9bdf694696b92e270ecfc3a97a9",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "201152605",
+                                        "titleEn": "Glass-Packaging",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hea648bca9ef8416b9f3dedcd82f8dbd8g.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152605&SearchText=Glass+Packaging&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Glass Packaging",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201146601",
+                                        "titleEn": "Paper-Packaging",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H179236c6dce64121b6993008bf0d4f7eW.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201146601&SearchText=Paper+Packaging&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Paper Packaging",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201147201",
+                                        "titleEn": "Plastic-Packaging",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb8076059864444ef90e7b57fe44f7d99x.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201147201&SearchText=Plastic+Packaging&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Plastic Packaging",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201268782",
+                                        "titleEn": "Other-Packaging-Printing-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H08868d8d111d4e7386fcbb4957a921c7O.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201268782&SearchText=Other+Packaging+%26+Printing+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Packaging & Printing Products",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "3597",
+                                        "titleEn": "Packaging-Printing-Services",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hdb7352d7dc744b25950b19d48c65ca45y.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3597&SearchText=Packaging+%26+Printing+Services&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Packaging & Printing Services",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201756601",
+                                        "titleEn": "Packaging-Raw-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hdf4d847a420f4947a101e40df8a18d2b5.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201756601&SearchText=Packaging+Raw+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Packaging Raw Materials",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201153107",
+                                        "titleEn": "Logistics-Packaging",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4a5b6f8555d04abda521d229697d3785L.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201153107&SearchText=Logistics+Packaging&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Logistics Packaging",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201154509",
+                                        "titleEn": "Pharmaceutical-Packaging",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc38a136bc6744487938f3f092e5af460D.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201154509&SearchText=Pharmaceutical+Packaging&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Pharmaceutical Packaging",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201154205",
+                                        "titleEn": "Metal-Packaging",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hea818a87afaf40d9948d4f1491947e97O.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201154205&SearchText=Metal+Packaging&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Metal Packaging",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201151007",
+                                        "titleEn": "Textile-Packaging",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha17faa643d74426c9b473c7ce7402496t.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201151007&SearchText=Textile+Packaging&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Textile Packaging",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "190000086",
+                                        "titleEn": "Packaging-Auxiliary-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0668a2ed4cdf44a6b76d0277c5a91a18f.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=190000086&SearchText=Packaging+Auxiliary+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Packaging Auxiliary Materials",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201154707",
+                                        "titleEn": "Wooden-Bamboo-Packaging",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H761d503c5a7e42aca6d208bebb04a91ad.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201154707&SearchText=Wooden+%26+Bamboo+Packaging&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Wooden & Bamboo Packaging",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005067",
+                                        "titleEn": "Printing-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hbe6331dd62d1493d8c6bc5e706fde1e87.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005067&SearchText=Printing+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Printing Materials",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "23",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"23\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "201154507",
+                                        "level": "3",
+                                        "titleEn": "Glass-Bottles",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H85fa77936bb249ea9567e8ea8f9575e14.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201154507&SearchText=Glass+Bottles&indexArea=product_en&fsb=y&productId=1600211895612",
+                                        "title": "Glass Bottles"
+                                    },
+                                    {
+                                        "categoryIds": "201645401",
+                                        "level": "3",
+                                        "titleEn": "Paper-Paperboards",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb63254877b1948d89316e6195058ec8f6.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201645401&SearchText=Paper+%26+Paperboards&indexArea=product_en&fsb=y&productId=1600695747756",
+                                        "title": "Paper & Paperboards"
+                                    },
+                                    {
+                                        "categoryIds": "201154105",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Tubes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6d01378c800543d49237224448548813J.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201154105&SearchText=Plastic+Tubes&indexArea=product_en&fsb=y&productId=1600342737205",
+                                        "title": "Plastic Tubes"
+                                    },
+                                    {
+                                        "categoryIds": "201268985",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Bottles",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7c33dfc665604dc3bc45cd0bd9c08fe6A.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201268985&SearchText=Plastic+Bottles&indexArea=product_en&fsb=y&productId=1600739917357",
+                                        "title": "Plastic Bottles"
+                                    },
+                                    {
+                                        "categoryIds": "201268096",
+                                        "level": "3",
+                                        "titleEn": "Paper-Boxes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd1f11f74ca6f40e9b30177420b4a32d03.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201268096&SearchText=Paper+Boxes&indexArea=product_en&fsb=y&productId=1600830998435",
+                                        "title": "Paper Boxes"
+                                    },
+                                    {
+                                        "categoryIds": "201271492",
+                                        "level": "3",
+                                        "titleEn": "Paper-Bags",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H327eb367cb714e41b05b3b758796ce49N.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201271492&SearchText=Paper+Bags&indexArea=product_en&fsb=y&productId=1600380941282",
+                                        "title": "Paper Bags"
+                                    },
+                                    {
+                                        "categoryIds": "201645301",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Bags",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1b0386bc1dc84701a1669c0f5355102en.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201645301&SearchText=Plastic+Bags&indexArea=product_en&fsb=y&productId=1600091685506",
+                                        "title": "Plastic Bags"
+                                    },
+                                    {
+                                        "categoryIds": "201268782",
+                                        "level": "2",
+                                        "titleEn": "Other-Packaging-Printing-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He01b7ae499794e6f80dcef1c9f37c7f0D.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201268782&SearchText=Other+Packaging+%26+Printing+Products&indexArea=product_en&fsb=y&productId=1600848639669",
+                                        "title": "Other Packaging & Printing Products"
+                                    },
+                                    {
+                                        "categoryIds": "100002844",
+                                        "level": "3",
+                                        "titleEn": "Paper-Paperboard-Printing",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3895697c498140429161e619dd02db18N.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100002844&SearchText=Paper+%26+Paperboard+Printing&indexArea=product_en&fsb=y&productId=1600434069607",
+                                        "title": "Paper & Paperboard Printing"
+                                    },
+                                    {
+                                        "categoryIds": "201284004",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Boxes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Sdbd46c555f274154b82a9860df425e0ap.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201284004&SearchText=Plastic+Boxes&indexArea=product_en&fsb=y&productId=1601005366093",
+                                        "title": "Plastic Boxes"
+                                    },
+                                    {
+                                        "categoryIds": "201726904",
+                                        "level": "3",
+                                        "titleEn": "Packaging-Labels",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4a5c4f06e112426bbe7ead6c9d0c96c6B.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201726904&SearchText=Packaging+Labels&indexArea=product_en&fsb=y&productId=1600570013796",
+                                        "title": "Packaging Labels"
+                                    },
+                                    {
+                                        "categoryIds": "232006",
+                                        "level": "3",
+                                        "titleEn": "Mailing-Bags",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8679fbd3a98d4c17ba8c80f73980e2aaj.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=232006&SearchText=Mailing+Bags&indexArea=product_en&fsb=y&productId=1600711052881",
+                                        "title": "Mailing Bags"
+                                    },
+                                    {
+                                        "categoryIds": "201283717",
+                                        "level": "3",
+                                        "titleEn": "Adhesive-Paper-Film",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf5a45f26f4b84ade863072bdbe9cc042t.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201283717&SearchText=Adhesive+Paper+%26+Film&indexArea=product_en&fsb=y&productId=1600369725203",
+                                        "title": "Adhesive Paper & Film"
+                                    },
+                                    {
+                                        "categoryIds": "201151307",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Jars",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H81080afb62834eb78f075d3d792b82c3K.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201151307&SearchText=Plastic+Jars&indexArea=product_en&fsb=y&productId=1600803043840",
+                                        "title": "Plastic Jars"
+                                    },
+                                    {
+                                        "categoryIds": "230607",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Film",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H88452356ac3d4371a7d55b57f5a82978a.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=230607&SearchText=Plastic+Film&indexArea=product_en&fsb=y&productId=1600624097446",
+                                        "title": "Plastic Film"
+                                    },
+                                    {
+                                        "categoryIds": "201151105",
+                                        "level": "3",
+                                        "titleEn": "Metal-Cans",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hceb1825f98ab43c984089af6a9997416F.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201151105&SearchText=Metal+Cans&indexArea=product_en&fsb=y&productId=1600215901824",
+                                        "title": "Metal Cans"
+                                    },
+                                    {
+                                        "categoryIds": "230609",
+                                        "level": "3",
+                                        "titleEn": "Lids-Bottle-Caps-Closures",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hbed892bb6bc5455eb608950185ca9baf7.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=230609&SearchText=Lids%2C+Bottle+Caps+%26+Closures&indexArea=product_en&fsb=y&productId=1601012274068",
+                                        "title": "Lids, Bottle Caps & Closures"
+                                    },
+                                    {
+                                        "categoryIds": "201146801",
+                                        "level": "3",
+                                        "titleEn": "Paper-Cups",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hfd5e2df3a42f457896dd16b383f00566p.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201146801&SearchText=Paper+Cups&indexArea=product_en&fsb=y&productId=1600825255720",
+                                        "title": "Paper Cups"
+                                    },
+                                    {
+                                        "categoryIds": "201150608",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Cups",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf0c0ffb306f348eeb62ffbf4330e3118p.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201150608&SearchText=Plastic+Cups&indexArea=product_en&fsb=y&productId=1600918144507",
+                                        "title": "Plastic Cups"
+                                    },
+                                    {
+                                        "categoryIds": "3502",
+                                        "level": "3",
+                                        "titleEn": "Transfer-Printing",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7b8386d22e20497baefee5f5ff6f13e85.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3502&SearchText=Transfer+Printing&indexArea=product_en&fsb=y&productId=1600937789514",
+                                        "title": "Transfer Printing"
+                                    },
+                                    {
+                                        "categoryIds": "201152803",
+                                        "level": "3",
+                                        "titleEn": "Glass-Jars",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5d49e2934883407a9a19b201def23e9bL.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152803&SearchText=Glass+Jars&indexArea=product_en&fsb=y&productId=1600152685112",
+                                        "title": "Glass Jars"
+                                    },
+                                    {
+                                        "categoryIds": "201147001",
+                                        "level": "3",
+                                        "titleEn": "Paper-Tube",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H71367504393b4a95819f671207779ccb7.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201147001&SearchText=Paper+Tube&indexArea=product_en&fsb=y&productId=1600660541547",
+                                        "title": "Paper Tube"
+                                    },
+                                    {
+                                        "categoryIds": "3509",
+                                        "level": "3",
+                                        "titleEn": "Transfer-Paper-Film",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0337fb1bca784a449483852f3189df555.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3509&SearchText=Transfer+Paper+%26+Film&indexArea=product_en&fsb=y&productId=1600782387236",
+                                        "title": "Transfer Paper & Film"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "7686527320",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_23",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "2689717490",
+                    "prefetchKey": "met",
+                    "path": "/category/products/23/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240264288660e3c6b659f39",
+                    "requestId": "5699a7bc8224ee7b0f671d622940b853",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712402642842",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "b368ec4ebac96e8d8244fd2563d0a833",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "5699a7bc8224ee7b0f671d622940b853",
+                    "spm": "a2700.product_home_newuser.header.1888.2f9d67af20x9kd",
+                    "categoryIds": "23",
+                    "pvId": "5699a7bc8224ee7b0f671d622940b853",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "US,CA,MX,GB,DE,FR,AU,NL",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"23\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "2689717490",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920562,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_23",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "4758121400",
+                    "prefetchKey": "met",
+                    "path": "/category/products/23/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240264288660e3c6b659f39",
+                    "requestId": "cf17af6599221826354998a79013ed23",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712402642842",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "b368ec4ebac96e8d8244fd2563d0a833",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "cf17af6599221826354998a79013ed23",
+                    "spm": "a2700.product_home_newuser.header.1888.2f9d67af20x9kd",
+                    "categoryIds": "23",
+                    "pvId": "cf17af6599221826354998a79013ed23",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "params": "{\"modelId\":\"10271\",\"offerLimit\":\"3\",\"pageSize\":\"20\",\"cardType\":\"101002650\",\"categoryIds\":\"23\"}",
+                            "_serverData": {
+                                "modelId": "10983",
+                                "finalModelId": "10983",
+                                "titleEn": "Trending right now",
+                                "themeGroupList": [
+                                    {
+                                        "titleEn": "shipping boxes",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_23_shipping_box&topOfferIds=1601012965241&categoryIds=23",
+                                        "cardId": "101002650_23_shipping_box",
+                                        "cardType": "101002650",
+                                        "id": "101002650_23_shipping_box",
+                                        "title": "shipping boxes",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H812fcfd822174328a7143fbd5d25b0bcT.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-25bfdacc-8b30-46c4-b765-b75d1a41ec22#realPos-0_0_0#id-1601012965241#pos-0#matchType-5#fatherId-null#cateId-201268096#cardId-101002650_23_shipping_box#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-2.2759726484616594#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-23_101002650#srcChannel-PC#rankScore-2.9493692398071287#logtime-1712402642924#@@realCtrParam:@@productId:1601012965241",
+                                                "productId": "1601012965241",
+                                                "firstCategoryId": "23",
+                                                "secondCategoryId": "201146601"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "plastic bag",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_23_plastic_bag&topOfferIds=1600433527853&categoryIds=23",
+                                        "cardId": "101002650_23_plastic_bag",
+                                        "cardType": "101002650",
+                                        "id": "101002650_23_plastic_bag",
+                                        "title": "plastic bag",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H32d2c4592ed8472b9ec56dd2f8c97a2bf.png_220x220.png",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-25bfdacc-8b30-46c4-b765-b75d1a41ec22#realPos-0_1_0#id-1600433527853#pos-0#matchType-5#fatherId-null#cateId-201645301#cardId-101002650_23_plastic_bag#feedsId-134774746#newsType-101002650#userTage-6_2_lost#finalScore-2.2759726484616594#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-23_101002650#srcChannel-PC#rankScore-2.159946769475937#logtime-1712402642924#@@realCtrParam:@@productId:1600433527853",
+                                                "productId": "1600433527853",
+                                                "firstCategoryId": "23",
+                                                "secondCategoryId": "201147201"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "perfume bottle",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_23_perfum_bottl&topOfferIds=1600819285944&categoryIds=23",
+                                        "cardId": "101002650_23_perfum_bottl",
+                                        "cardType": "101002650",
+                                        "id": "101002650_23_perfum_bottl",
+                                        "title": "perfume bottle",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hda1a6c08b1f143fcbb5ef4a6d736eb03S.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-25bfdacc-8b30-46c4-b765-b75d1a41ec22#realPos-0_2_0#id-1600819285944#pos-0#matchType-5#fatherId-null#cateId-201154507#cardId-101002650_23_perfum_bottl#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-2.2759726484616594#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-23_101002650#srcChannel-PC#rankScore-1.7186019361019134#logtime-1712402642924#@@realCtrParam:@@productId:1600819285944",
+                                                "productId": "1600819285944",
+                                                "firstCategoryId": "23",
+                                                "secondCategoryId": "201152605"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "wrapping paper",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_23_wrapping_paper&topOfferIds=1600238972763&categoryIds=23",
+                                        "cardId": "101002650_23_wrapping_paper",
+                                        "cardType": "101002650",
+                                        "id": "101002650_23_wrapping_paper",
+                                        "title": "wrapping paper",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H618f66cf851b494095f39b273779ca90X.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-25bfdacc-8b30-46c4-b765-b75d1a41ec22#realPos-0_3_0#id-1600238972763#pos-0#matchType-5#fatherId-null#cateId-201645401#cardId-101002650_23_wrapping_paper#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-2.2759726484616594#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-23_101002650#srcChannel-PC#rankScore-1.6627218186855317#logtime-1712402642924#@@realCtrParam:@@productId:1600238972763",
+                                                "productId": "1600238972763",
+                                                "firstCategoryId": "23",
+                                                "secondCategoryId": "201146601"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "stickers",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_23_sticker&topOfferIds=1600576833230&categoryIds=23",
+                                        "cardId": "101002650_23_sticker",
+                                        "cardType": "101002650",
+                                        "id": "101002650_23_sticker",
+                                        "title": "stickers",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H84e5f4837cda46279de4ba9616fa1bc9j.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-25bfdacc-8b30-46c4-b765-b75d1a41ec22#realPos-0_4_0#id-1600576833230#pos-0#matchType-5#fatherId-null#cateId-201726904#cardId-101002650_23_sticker#feedsId-140767846#newsType-101002650#userTage-6_2_lost#finalScore-2.2759726484616594#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-23_101002650#srcChannel-PC#rankScore-1.3650042206048965#logtime-1712402642924#@@realCtrParam:@@productId:1600576833230",
+                                                "productId": "1600576833230",
+                                                "firstCategoryId": "23",
+                                                "secondCategoryId": "190000086"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "vinyl",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_23_vinyl&topOfferIds=1600248079657&categoryIds=23",
+                                        "cardId": "101002650_23_vinyl",
+                                        "cardType": "101002650",
+                                        "id": "101002650_23_vinyl",
+                                        "title": "vinyl",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H5782a8fb364c4463818415592f42cb23v.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-25bfdacc-8b30-46c4-b765-b75d1a41ec22#realPos-0_5_0#id-1600248079657#pos-0#matchType-5#fatherId-null#cateId-3509#cardId-101002650_23_vinyl#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-2.2759726484616594#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-23_101002650#srcChannel-PC#rankScore-1.3478504180908204#logtime-1712402642924#@@realCtrParam:@@productId:1600248079657",
+                                                "productId": "1600248079657",
+                                                "firstCategoryId": "23",
+                                                "secondCategoryId": "100005067"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "needRender": "true",
+                                "title": "Trending right now"
+                            }
+                        }
+                    ]
+                }
+            },
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "4758121400",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "9010769590",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "6985747750",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3786621300",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "5203536910",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "1280759920",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "1385831880",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "9231568630",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "5826079900",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "6471686710",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "8363246200",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687692",
+        "name": "Packaging & Printing",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240264288660e3c6b659f39",
+        "pageType": 0,
+        "path": "/category/products/23/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_23",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Packaging & Printing"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

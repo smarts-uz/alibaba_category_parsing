@@ -1,0 +1,988 @@
+{
+    "_pageModuleUUIDList": [
+        "5999513210",
+        "4927530840",
+        "6248401790",
+        "7083610100",
+        "5591343460",
+        "1492131810",
+        "9258389280",
+        "2670686350",
+        "8566172370",
+        "4675587800",
+        "7981853330",
+        "2565489420",
+        "6756992230"
+    ],
+    "customContextParams": {
+        "path": "/category/products/6/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403833887 | 0 | 1712403833887",
+        "process": "1712403833970 | 0 | 1712403833970",
+        "preRender": "1712403833887 | 8 | 1712403833895",
+        "assembleModuleData": "1712403833970 | 0 | 1712403833970",
+        "retrieveHtmlAndJson": "1712403833810 | 69 | 1712403833879",
+        "fetch": "1712403833901 | 69 | 1712403833970",
+        "seo": "1712403833887 | 0 | 1712403833887",
+        "preload": "1712403833887 | 0 | 1712403833887",
+        "render": "1712403833970 | 75 | 1712403834045"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i3/O1CN01cckJFQ1Jpll02kjLR_!!6000000001078-0-tps-1920-240.jpg",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_6",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "5999513210",
+                    "prefetchKey": "met",
+                    "path": "/category/products/6/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240383388727aa836237a44",
+                    "requestId": "1a3d273455abbc7d95b783564230b2c7",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403833810",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "4489ed37de780ff871d902c0fefe6010",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "1a3d273455abbc7d95b783564230b2c7",
+                    "spm": "a2700.product_home_newuser.header.2322.2f9d67af20x9kd",
+                    "categoryIds": "6",
+                    "pvId": "1a3d273455abbc7d95b783564230b2c7",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "100000040",
+                                        "titleEn": "Heating-Cooling-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H290579311431489bae3c981488111343U.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000040&SearchText=Heating+%26+Cooling+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Heating & Cooling Appliances",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201326902",
+                                        "titleEn": "Major-Kitchen-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H35413d94bb574458b4d61562d1ae7774h.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201326902&SearchText=Major+Kitchen+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Major Kitchen Appliances",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201756204",
+                                        "titleEn": "Smart-Home-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H819e0d162e6a453dbb4e5ce4257511d0k.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201756204&SearchText=Smart+Home+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Smart Home Appliances",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "200540008",
+                                        "titleEn": "Personal-Care-Beauty-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H90df8bb145d04b5c88d018416f2a675ev.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=200540008&SearchText=Personal+Care+%26+Beauty+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Personal Care & Beauty Appliances",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201607803",
+                                        "titleEn": "Cleaning-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H104db0aa3b664a6d9f02276e7c538476n.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201607803&SearchText=Cleaning+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Cleaning Appliances",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100000044",
+                                        "titleEn": "Water-Treatment-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H70c036656cbb475a9fb9e42db7f30a84j.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000044&SearchText=Water+Treatment+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Water Treatment Appliances",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "628",
+                                        "titleEn": "Other-Home-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H15e2af2eca224558bc2d4bf81f8ec5ccf.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=628&SearchText=Other+Home+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Home Appliances",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201743901",
+                                        "titleEn": "Second-hand-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hfd6d515465254b809aedcded44f564a45.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201743901&SearchText=Second-hand+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Second-hand Appliances",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100000136",
+                                        "titleEn": "Refrigerators-Freezers",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H07b70afc8c714227bdc429600587ea8c8.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000136&SearchText=Refrigerators+%26+Freezers&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Refrigerators & Freezers",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100000037",
+                                        "titleEn": "Air-Quality-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9b199c7ebb6c43428be455de847784c57.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000037&SearchText=Air+Quality+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Air Quality Appliances",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100000039",
+                                        "titleEn": "Home-Appliance-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf0ba6f78e92c454fa673a9172fa2ede51.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000039&SearchText=Home+Appliance+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Home Appliance Parts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100000042",
+                                        "titleEn": "Laundry-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hfe66f8bcaa2c4b008f2184f90bb078e9M.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000042&SearchText=Laundry+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Laundry Appliances",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100000041",
+                                        "titleEn": "Small-Kitchen-Appliances",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H11e514db72b14cd099a5effd49cdfeb1i.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000041&SearchText=Small+Kitchen+Appliances&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Small Kitchen Appliances",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100000043",
+                                        "titleEn": "Water-Heaters",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5a7c80f2fdcd4693814f89987293e0d03.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000043&SearchText=Water+Heaters&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Water Heaters",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "6",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"6\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "201336417",
+                                        "level": "4",
+                                        "titleEn": "Split-Air-Conditioners",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcd376bf5372f438ba3bf207d86cac2d7K.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201336417&SearchText=Split+Air+Conditioners&indexArea=product_en&fsb=y&productId=1600988904294",
+                                        "title": "Split Air Conditioners"
+                                    },
+                                    {
+                                        "categoryIds": "201339618",
+                                        "level": "4",
+                                        "titleEn": "Gas-Cooktops",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H627da8121bb54b7fbc1f559a2338e34eF.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201339618&SearchText=Gas+Cooktops&indexArea=product_en&fsb=y&productId=1601034360884",
+                                        "title": "Gas Cooktops"
+                                    },
+                                    {
+                                        "categoryIds": "201767201",
+                                        "level": "4",
+                                        "titleEn": "Smart-Air-Conditioners",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc92bd8bb48af4f0987795980c56fdc75W.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201767201&SearchText=Smart+Air+Conditioners&indexArea=product_en&fsb=y&productId=1600161669896",
+                                        "title": "Smart Air Conditioners"
+                                    },
+                                    {
+                                        "categoryIds": "200526008",
+                                        "level": "4",
+                                        "titleEn": "Water-Flosser",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H544c260486c245418a82d7c616b25432x.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=200526008&SearchText=Water+Flosser&indexArea=product_en&fsb=y&productId=1601009273527",
+                                        "title": "Water Flosser"
+                                    },
+                                    {
+                                        "categoryIds": "201334411",
+                                        "level": "3",
+                                        "titleEn": "Air-Coolers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf1c68205a38e41f7a122c562d0912681O.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201334411&SearchText=Air+Coolers&indexArea=product_en&fsb=y&productId=1600210411958",
+                                        "title": "Air Coolers"
+                                    },
+                                    {
+                                        "categoryIds": "201193201",
+                                        "level": "4",
+                                        "titleEn": "Robot-Vacuums",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H36b900dd79bc463c91da70d2939c135ev.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201193201&SearchText=Robot+Vacuums&indexArea=product_en&fsb=y&productId=1600623997255",
+                                        "title": "Robot Vacuums"
+                                    },
+                                    {
+                                        "categoryIds": "100000162",
+                                        "level": "4",
+                                        "titleEn": "Other-Water-Filters",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H521992eb16c542c8b30913f7a029cf6cq.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000162&SearchText=Other+Water+Filters&indexArea=product_en&fsb=y&productId=1600469250846",
+                                        "title": "Other Water Filters"
+                                    },
+                                    {
+                                        "categoryIds": "201335010",
+                                        "level": "4",
+                                        "titleEn": "Ceiling-Fans",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb00495bfa06e4df5841c7499d3b2cb43e.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201335010&SearchText=Ceiling+Fans&indexArea=product_en&fsb=y&productId=387641625",
+                                        "title": "Ceiling Fans"
+                                    },
+                                    {
+                                        "categoryIds": "201340406",
+                                        "level": "4",
+                                        "titleEn": "Tower-Pedestal-Fans",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcfac653365f1482ea5b1d637c35e77c1h.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201340406&SearchText=Tower+%26+Pedestal+Fans&indexArea=product_en&fsb=y&productId=1600955737749",
+                                        "title": "Tower & Pedestal Fans"
+                                    },
+                                    {
+                                        "categoryIds": "201339904",
+                                        "level": "4",
+                                        "titleEn": "Portable-Wearable-Fans",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd32d8a671297439dacfbf87dae6246cfR.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201339904&SearchText=Portable+%26+Wearable+Fans&indexArea=product_en&fsb=y&productId=1600997386103",
+                                        "title": "Portable & Wearable Fans"
+                                    },
+                                    {
+                                        "categoryIds": "64301",
+                                        "level": "3",
+                                        "titleEn": "Blenders",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9fca935f2f364fc4a8541162288dd427Z.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=64301&SearchText=Blenders&indexArea=product_en&fsb=y&productId=1600923750033",
+                                        "title": "Blenders"
+                                    },
+                                    {
+                                        "categoryIds": "66030111",
+                                        "level": "4",
+                                        "titleEn": "Hair-Trimmers-Clippers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc35df2fd5a6b4854b0046a9787c4b4cdT.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=66030111&SearchText=Hair+Trimmers+%26+Clippers&indexArea=product_en&fsb=y&productId=1600629611094",
+                                        "title": "Hair Trimmers & Clippers"
+                                    },
+                                    {
+                                        "categoryIds": "611",
+                                        "level": "3",
+                                        "titleEn": "Juicers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2d8e9be205a64cc9a1a1911cff80e223M.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=611&SearchText=Juicers&indexArea=product_en&fsb=y&productId=1600920146264",
+                                        "title": "Juicers"
+                                    },
+                                    {
+                                        "categoryIds": "201317302",
+                                        "level": "3",
+                                        "titleEn": "Air-Fryers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1adbd1fb565642d2811095bac9dde7cd8.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201317302&SearchText=Air+Fryers&indexArea=product_en&fsb=y&productId=1600150334765",
+                                        "title": "Air Fryers"
+                                    },
+                                    {
+                                        "categoryIds": "625",
+                                        "level": "3",
+                                        "titleEn": "Humidifiers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hfb6c260e2cc048daa19938b5cb38c873R.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=625&SearchText=Humidifiers&indexArea=product_en&fsb=y&productId=62252525135",
+                                        "title": "Humidifiers"
+                                    },
+                                    {
+                                        "categoryIds": "201599404",
+                                        "level": "3",
+                                        "titleEn": "Aroma-Diffusers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7adeb6ef7a98447e98120364cbab89ffD.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201599404&SearchText=Aroma+Diffusers&indexArea=product_en&fsb=y&productId=1600205439220",
+                                        "title": "Aroma Diffusers"
+                                    },
+                                    {
+                                        "categoryIds": "617",
+                                        "level": "4",
+                                        "titleEn": "Hair-Dryer",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He27742f8c9dd40dab670ea1621a065bbL.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=617&SearchText=Hair+Dryer&indexArea=product_en&fsb=y&productId=1600505437139",
+                                        "title": "Hair Dryer"
+                                    },
+                                    {
+                                        "categoryIds": "201338921",
+                                        "level": "4",
+                                        "titleEn": "Espresso-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Aae5f6c65c3a5489dbf41de82b837301a0.jpeg_220x220.jpeg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201338921&SearchText=Espresso+Machines&indexArea=product_en&fsb=y&productId=10000011480303",
+                                        "title": "Espresso Machines"
+                                    },
+                                    {
+                                        "categoryIds": "640",
+                                        "level": "3",
+                                        "titleEn": "Electric-Kettles",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4fe3b43ad1084d1da8feb75889184206y.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=640&SearchText=Electric+Kettles&indexArea=product_en&fsb=y&productId=1600342204760",
+                                        "title": "Electric Kettles"
+                                    },
+                                    {
+                                        "categoryIds": "64317",
+                                        "level": "3",
+                                        "titleEn": "Meat-Grinders-Slicers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H12b74444120c47fb848135671175ac96A.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=64317&SearchText=Meat+Grinders+%26+Slicers&indexArea=product_en&fsb=y&productId=1600896064906",
+                                        "title": "Meat Grinders & Slicers"
+                                    },
+                                    {
+                                        "categoryIds": "66030109",
+                                        "level": "4",
+                                        "titleEn": "Hair-Straightener",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4bf212f8be4347ac9dec1709f664558c8.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=66030109&SearchText=Hair+Straightener&indexArea=product_en&fsb=y&productId=1600856764208",
+                                        "title": "Hair Straightener"
+                                    },
+                                    {
+                                        "categoryIds": "201339903",
+                                        "level": "4",
+                                        "titleEn": "Table-Fans",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5fc96908e0bb465fb5a7f80888c060f0s.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201339903&SearchText=Table+Fans&indexArea=product_en&fsb=y&productId=1600981240429",
+                                        "title": "Table Fans"
+                                    },
+                                    {
+                                        "categoryIds": "612",
+                                        "level": "3",
+                                        "titleEn": "Food-Mixers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He516a38d7f2948fdbc36f54064d93062Y.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=612&SearchText=Food+Mixers&indexArea=product_en&fsb=y&productId=1601014062635",
+                                        "title": "Food Mixers"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "5999513210",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_6",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "4927530840",
+                    "prefetchKey": "met",
+                    "path": "/category/products/6/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240383388727aa836237a44",
+                    "requestId": "0b704c94a4ad13320b6ce1fc38ebd806",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403833810",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "4489ed37de780ff871d902c0fefe6010",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "0b704c94a4ad13320b6ce1fc38ebd806",
+                    "spm": "a2700.product_home_newuser.header.2322.2f9d67af20x9kd",
+                    "categoryIds": "6",
+                    "pvId": "0b704c94a4ad13320b6ce1fc38ebd806",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "US,CA,MX,GB,DE,FR,AU,NL",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"6\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "4927530840",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_6",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "6248401790",
+                    "prefetchKey": "met",
+                    "path": "/category/products/6/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240383388727aa836237a44",
+                    "requestId": "c9493e617ab5af12d164cb061f37cb4f",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403833810",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "4489ed37de780ff871d902c0fefe6010",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "c9493e617ab5af12d164cb061f37cb4f",
+                    "spm": "a2700.product_home_newuser.header.2322.2f9d67af20x9kd",
+                    "categoryIds": "6",
+                    "pvId": "c9493e617ab5af12d164cb061f37cb4f",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "3",
+                    "productFields": {
+                        "isCenter": true,
+                        "showHalfTrust": false,
+                        "fields": [
+                            "subject"
+                        ]
+                    },
+                    "countryListText": "ES,RU,IL,BR,IT,SA,PL,AE,KR,PT,CL,BE,JP,UA,CZ,CH",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002560\",\"categoryIds\":\"44\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "cardList": []
+                            }
+                        }
+                    },
+                    "floorTitle": "Order now, enjoy Easy Return",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "6248401790",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "7083610100",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "5591343460",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "1492131810",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "9258389280",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "2670686350",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "8566172370",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "4675587800",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "7981853330",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "2565489420",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "6756992230",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687682",
+        "name": "Home appliance",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240383388727aa836237a44",
+        "pageType": 0,
+        "path": "/category/products/6/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_6",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Home appliance"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

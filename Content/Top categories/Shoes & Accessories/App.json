@@ -1,0 +1,1093 @@
+{
+    "_pageModuleUUIDList": [
+        "8325583830",
+        "5289850640",
+        "8570780860",
+        "8904753360",
+        "3312230360",
+        "3950606940",
+        "5397872930",
+        "3391896900",
+        "8561972590",
+        "9977990090"
+    ],
+    "customContextParams": {
+        "path": "/category/products/322/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712404177366 | 0 | 1712404177366",
+        "process": "1712404177639 | 0 | 1712404177639",
+        "preRender": "1712404177366 | 10 | 1712404177376",
+        "assembleModuleData": "1712404177639 | 0 | 1712404177639",
+        "retrieveHtmlAndJson": "1712404177304 | 54 | 1712404177358",
+        "fetch": "1712404177382 | 257 | 1712404177639",
+        "seo": "1712404177366 | 0 | 1712404177366",
+        "preload": "1712404177366 | 0 | 1712404177366",
+        "render": "1712404177639 | 74 | 1712404177713"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i3/O1CN01VKZEym1ducEFbmUcO_!!6000000003796-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_322",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "8325583830",
+                    "prefetchKey": "met",
+                    "path": "/category/products/322/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712404177366207b0e3a39f6a",
+                    "requestId": "abcf1a6f8063c077a32928a674af1a15",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712404177304",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "4f078bd694821a5e04090850c4ca0f2c",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "abcf1a6f8063c077a32928a674af1a15",
+                    "spm": "a2700.product_home_l0.home_header.52.2ce267afNS401a",
+                    "categoryIds": "322",
+                    "pvId": "abcf1a6f8063c077a32928a674af1a15",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "32216",
+                                        "titleEn": "Shoes-Stock",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd99aacbb75d540b9a95ee079a74218c7e.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=32216&SearchText=Shoes+Stock&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Shoes Stock",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201152905",
+                                        "titleEn": "Men-s-Shoes",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1e5c101e24a24248874c59a57a942094H.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152905&SearchText=Men%27s+Shoes&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Men's Shoes",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "32210",
+                                        "titleEn": "Shoe-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hcf4b890d087747189fae44ad0164b840L.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=32210&SearchText=Shoe+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Shoe Parts & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201344908",
+                                        "titleEn": "Shoe-Care-Services",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H85b057c165ff4db99f9ec86a650a4b44w.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201344908&SearchText=Shoe+Care+%26+Services&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Shoe Care & Services",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201152202",
+                                        "titleEn": "Women-s-Shoes",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb5c99d8381684ae39968b201f90d6d39b.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152202&SearchText=Women%27s+Shoes&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Women's Shoes",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201338612",
+                                        "titleEn": "Outdoor-Shoes",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc68224926ec14b839ac53e8e0baff579a.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201338612&SearchText=Outdoor+Shoes&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Outdoor Shoes",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "32208",
+                                        "titleEn": "Functional-Shoes",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H8c5f776973c24a3a826793877d38fecbg.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=32208&SearchText=Functional+Shoes&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Functional Shoes",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "32299",
+                                        "titleEn": "Other-Shoes",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Haa645fe39705427fa61901d969ed4742D.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=32299&SearchText=Other+Shoes&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Shoes",
+                                        "isLeaf": true
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "322",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"322\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "32216",
+                                        "level": "2",
+                                        "titleEn": "Shoes-Stock",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8a4d6d4885e848f394856cd5f9fbd43d6.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=32216&SearchText=Shoes+Stock&indexArea=product_en&fsb=y&productId=1600367390524",
+                                        "title": "Shoes Stock"
+                                    },
+                                    {
+                                        "categoryIds": "201334413",
+                                        "level": "4",
+                                        "titleEn": "Walking-Style-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hffc37603f03146dca89875bfb1c76428o.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201334413&SearchText=Walking+Style+Shoes&indexArea=product_en&fsb=y&productId=1600799726993",
+                                        "title": "Walking Style Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "201339906",
+                                        "level": "4",
+                                        "titleEn": "Chunky-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H68102ba3c3a8442db2d1bec9876a7dbaA.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201339906&SearchText=Chunky+Shoes&indexArea=product_en&fsb=y&productId=1601038244637",
+                                        "title": "Chunky Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "201336512",
+                                        "level": "4",
+                                        "titleEn": "Basketball-Style-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H414dcd2ed4f144ba94e6397f8cea7f307.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201336512&SearchText=Basketball+Style+Shoes&indexArea=product_en&fsb=y&productId=1600991443965",
+                                        "title": "Basketball Style Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "201333410",
+                                        "level": "4",
+                                        "titleEn": "Canvas-Trendy-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H35a33541417646799fe599e00b3e2750t.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201333410&SearchText=Canvas+Trendy+Shoes&indexArea=product_en&fsb=y&productId=1600913712439",
+                                        "title": "Canvas Trendy Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "3221004",
+                                        "level": "3",
+                                        "titleEn": "Shoe-Decorations",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H384b0138a1b6410f837a2a809980485dI.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3221004&SearchText=Shoe+Decorations&indexArea=product_en&fsb=y&productId=1600946554124",
+                                        "title": "Shoe Decorations"
+                                    },
+                                    {
+                                        "categoryIds": "201340408",
+                                        "level": "4",
+                                        "titleEn": "Home-Slippers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8792c051cdc044ec923efebc3243551b4.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201340408&SearchText=Home+Slippers&indexArea=product_en&fsb=y&productId=1600924853355",
+                                        "title": "Home Slippers"
+                                    },
+                                    {
+                                        "categoryIds": "201333411",
+                                        "level": "4",
+                                        "titleEn": "Skateboarding-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha24382c930a14daca03dbe2dd7aaefb1X.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201333411&SearchText=Skateboarding+Shoes&indexArea=product_en&fsb=y&productId=1600590426862",
+                                        "title": "Skateboarding Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "201774304",
+                                        "level": "4",
+                                        "titleEn": "Martin-Boots",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf03fb183ed9e4fb1b4603d84deb4c7b2v.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201774304&SearchText=Martin+Boots&indexArea=product_en&fsb=y&productId=1600482448551",
+                                        "title": "Martin Boots"
+                                    },
+                                    {
+                                        "categoryIds": "201333311",
+                                        "level": "4",
+                                        "titleEn": "Other-Trendy-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H17b5e3c352d84cfd8a7de669b57180f7x.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201333311&SearchText=Other+Trendy+Shoes&indexArea=product_en&fsb=y&productId=11000003617747",
+                                        "title": "Other Trendy Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "201333014",
+                                        "level": "4",
+                                        "titleEn": "Walking-Style-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1c70d27997ff4bfdae3dda0d906c992dV.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201333014&SearchText=Walking+Style+Shoes&indexArea=product_en&fsb=y&productId=1600647791060",
+                                        "title": "Walking Style Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "201154905",
+                                        "level": "3",
+                                        "titleEn": "Dress-Shoes-Oxfords",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H476b9bcc9aff48efa6234788ad26995aa.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201154905&SearchText=Dress+Shoes+%26+Oxfords&indexArea=product_en&fsb=y&productId=1601007038732",
+                                        "title": "Dress Shoes & Oxfords"
+                                    },
+                                    {
+                                        "categoryIds": "201336015",
+                                        "level": "4",
+                                        "titleEn": "Heeled-Sandals",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H28d671a39ccf4e69b76acf6bb2e3a8036.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201336015&SearchText=Heeled+Sandals&indexArea=product_en&fsb=y&productId=1986113317",
+                                        "title": "Heeled Sandals"
+                                    },
+                                    {
+                                        "categoryIds": "201336721",
+                                        "level": "4",
+                                        "titleEn": "Slides-Slippers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H556f9049871047d7ae1b2e95b2da013ao.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201336721&SearchText=Slides+Slippers&indexArea=product_en&fsb=y&productId=1600948043182",
+                                        "title": "Slides Slippers"
+                                    },
+                                    {
+                                        "categoryIds": "201149005",
+                                        "level": "3",
+                                        "titleEn": "Pumps",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1rWNcHVXXXXbTXVXXq6xXFXXXo.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201149005&SearchText=Pumps&indexArea=product_en&fsb=y&productId=60239317416",
+                                        "title": "Pumps"
+                                    },
+                                    {
+                                        "categoryIds": "201330707",
+                                        "level": "4",
+                                        "titleEn": "Flat-Sandals",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hda104345815b4895b34fa75200840278v.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201330707&SearchText=Flat+Sandals&indexArea=product_en&fsb=y&productId=1600754432326",
+                                        "title": "Flat Sandals"
+                                    },
+                                    {
+                                        "categoryIds": "201336720",
+                                        "level": "4",
+                                        "titleEn": "Slides-Slippers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H944e24e92ef844c9abe64f4306c7789cZ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201336720&SearchText=Slides+Slippers&indexArea=product_en&fsb=y&productId=1600843000383",
+                                        "title": "Slides Slippers"
+                                    },
+                                    {
+                                        "categoryIds": "32211",
+                                        "level": "3",
+                                        "titleEn": "Safety-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcae1a3b8fb9c4ec889c0ba4ddb75113cO.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=32211&SearchText=Safety+Shoes&indexArea=product_en&fsb=y&productId=1600337945452",
+                                        "title": "Safety Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "201152005",
+                                        "level": "3",
+                                        "titleEn": "Flats",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Haa9a729c4e094e91bad851ec583ba7eaX.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152005&SearchText=Flats&indexArea=product_en&fsb=y&productId=1600251829578",
+                                        "title": "Flats"
+                                    },
+                                    {
+                                        "categoryIds": "201152907",
+                                        "level": "3",
+                                        "titleEn": "Sandals",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He90cbcf7224a4e5bad47f7fa9a388015L.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152907&SearchText=Sandals&indexArea=product_en&fsb=y&productId=1600216115394",
+                                        "title": "Sandals"
+                                    },
+                                    {
+                                        "categoryIds": "201332512",
+                                        "level": "4",
+                                        "titleEn": "Chunky-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7a433a0fcf4f40b6b2ef6bf6f187832bW.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201332512&SearchText=Chunky+Shoes&indexArea=product_en&fsb=y&productId=1600280845483",
+                                        "title": "Chunky Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "201339411",
+                                        "level": "4",
+                                        "titleEn": "Home-Slippers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc2d82ff3b93b45bc9b154be19f714806H.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201339411&SearchText=Home+Slippers&indexArea=product_en&fsb=y&productId=1600918195099",
+                                        "title": "Home Slippers"
+                                    },
+                                    {
+                                        "categoryIds": "201338011",
+                                        "level": "4",
+                                        "titleEn": "Wedges-Sandals",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He923e6c8f50646bc9eeb4ebff8e4e386P.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201338011&SearchText=Wedges+Sandals&indexArea=product_en&fsb=y&productId=1600544518913",
+                                        "title": "Wedges Sandals"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "8325583830",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_322",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "5289850640",
+                    "prefetchKey": "met",
+                    "path": "/category/products/322/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712404177366207b0e3a39f6a",
+                    "requestId": "ecc5402071a75d0ad9fb35739e28b60e",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712404177304",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "4f078bd694821a5e04090850c4ca0f2c",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "ecc5402071a75d0ad9fb35739e28b60e",
+                    "spm": "a2700.product_home_l0.home_header.52.2ce267afNS401a",
+                    "categoryIds": "322",
+                    "pvId": "ecc5402071a75d0ad9fb35739e28b60e",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"322\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "5289850640",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 930857,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_322",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "8570780860",
+                    "prefetchKey": "met",
+                    "path": "/category/products/322/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712404177366207b0e3a39f6a",
+                    "requestId": "91290c33ecbb8e1630df899bb25dcffc",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712404177304",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "4f078bd694821a5e04090850c4ca0f2c",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "91290c33ecbb8e1630df899bb25dcffc",
+                    "spm": "a2700.product_home_l0.home_header.52.2ce267afNS401a",
+                    "categoryIds": "322",
+                    "pvId": "91290c33ecbb8e1630df899bb25dcffc",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "requestCommon": {
+                        "_fdl_request_cardList": {
+                            "params": "{\"cardType\":\"101002736\",\"categoryIds\":\"322\",\"modelId\":\"11134\"}",
+                            "_serverData": {
+                                "bucket": "false",
+                                "cardList": [
+                                    {
+                                        "titleEn": "Clogs",
+                                        "cardId": "201153805",
+                                        "cardType": "101002736",
+                                        "title": "Clogs",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H1b9d489831a14441bcaa1411b020ff61g.jpg_220x220.jpg",
+                                                "productId": "1600995233649",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600995233649&cardType=101002736&cardId=201153805&categoryIds=322",
+                                                "subject": "Greatshoes Clog Shoe Sandals Unisex,Classic Clogs Custom,Clogs Shoes For Men Anti-Slippery",
+                                                "price": "$4.28 - $5.58",
+                                                "firstCategoryId": "322",
+                                                "moq": "2 pairs"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Ha260bf40b87e4a3c9840798d96dfe936L.jpg_220x220.jpg",
+                                                "productId": "1600805483524",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600805483524&cardType=101002736&cardId=201153805&categoryIds=322",
+                                                "subject": "HEVA Men's Sandals Summer Clogs & Mules Unisex Custom Logo Garden Clogs Shoes Eva Flat Men's And Women's Clogs Shoes",
+                                                "price": "$1.08 - $1.28",
+                                                "firstCategoryId": "322",
+                                                "moq": "1000 pairs"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H3d68093c94ea455a87a66ba566a1804dK.jpg_220x220.jpg",
+                                                "productId": "1600975659552",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600975659552&cardType=101002736&cardId=201153805&categoryIds=322",
+                                                "subject": "KLS Simple Clogs With Men Slipper Popular Eva Men's Clogs Shoes Light Cheap Gardening Clogs For Men Slippers",
+                                                "price": "$3.12 - $3.59",
+                                                "firstCategoryId": "322",
+                                                "moq": "2 pairs"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "Dress Shoes & Oxfords",
+                                        "cardId": "201154905",
+                                        "cardType": "101002736",
+                                        "title": "Dress Shoes & Oxfords",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H424fbee7df5c4964ba31db200380aeeec.jpg_220x220.jpg",
+                                                "productId": "1600387308861",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600387308861&cardType=101002736&cardId=201154905&categoryIds=322",
+                                                "subject": "2024 Wholesale Men's Luxury Loafer Shoes Pedal Alligator Party Leather Dress Shoes for Male",
+                                                "price": "$7.63 - $10.99",
+                                                "firstCategoryId": "322",
+                                                "moq": "2 pairs"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Haf8f89514dda4c24986f366ba325a425n.jpg_220x220.jpg",
+                                                "productId": "60729906790",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=60729906790&cardType=101002736&cardId=201154905&categoryIds=322",
+                                                "subject": "Men to driving traveling business casual fashion shoes",
+                                                "price": "$11.50 - $13.50",
+                                                "firstCategoryId": "322",
+                                                "moq": "2 pairs"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H2d0041a8b5cd4bbba3f4451c613fd738r.jpg_220x220.jpg",
+                                                "productId": "1600249254593",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600249254593&cardType=101002736&cardId=201154905&categoryIds=322",
+                                                "subject": "Wholesale Hot Fashion Formal Office Shoes Italian Leather Custom Design Dress Shoes men Big Size Classical Shoes for Men",
+                                                "price": "$30.50 - $46.90",
+                                                "firstCategoryId": "322",
+                                                "moq": "1 pair"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "Shoe Care Kits",
+                                        "cardId": "32210033",
+                                        "cardType": "101002736",
+                                        "title": "Shoe Care Kits",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H3844df75ad1a4367be16e07f1b3edfe2W.jpg_220x220.jpg",
+                                                "productId": "1600995211181",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600995211181&cardType=101002736&cardId=32210033&categoryIds=322",
+                                                "subject": "S-King Natural Color Remove Shoe Stains Sneaker Cleaner With Brush Wholesale Foam Shoe Cleaning Kit",
+                                                "price": "$2.64 - $3.15",
+                                                "firstCategoryId": "322",
+                                                "moq": "100 sets"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hab048845b4a144f7987cde95bb9e1403X.png_220x220.png",
+                                                "productId": "1601003243147",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1601003243147&cardType=101002736&cardId=32210033&categoryIds=322",
+                                                "subject": "Hot Saling Shoe Cleaning Liquid natural color Stain Remover Sneaker Cleaner Kit Sport Shoes Cleaner remove shoe stains",
+                                                "price": "$1.08 - $1.67",
+                                                "firstCategoryId": "322",
+                                                "moq": "2000 pieces"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H84f0334f03454658bb74071387880eb4B.jpg_220x220.jpg",
+                                                "productId": "1600810746970",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600810746970&cardType=101002736&cardId=32210033&categoryIds=322",
+                                                "subject": "2023 eco friendly shoe cleaner foaming cleaner shoe products remove shoe stains sneaker cleaner",
+                                                "price": "$1.22 - $1.85",
+                                                "firstCategoryId": "322",
+                                                "moq": "1000 pieces"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "Flats",
+                                        "cardId": "201152005",
+                                        "cardType": "101002736",
+                                        "title": "Flats",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hd8ea84625f9746188380abdb109b14d2t.jpg_220x220.jpg",
+                                                "productId": "1600975279894",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600975279894&cardType=101002736&cardId=201152005&categoryIds=322",
+                                                "subject": "New Wholesale Bling Frosted Upper Lady Shoes Women Flats Female Outdoor Daily Office Non-slip PU Leather Lightweight Flats",
+                                                "price": "$1.95 - $2.52",
+                                                "firstCategoryId": "322",
+                                                "moq": "2 pairs"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H31ac8a236c284381baccd9fe3f154d1fo.jpg_220x220.jpg",
+                                                "productId": "1600736024232",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600736024232&cardType=101002736&cardId=201152005&categoryIds=322",
+                                                "subject": "New casual soft sole single shoes breathable retro comfortable mom single flat shoes for women new styles",
+                                                "price": "$5.52 - $6.51",
+                                                "firstCategoryId": "322",
+                                                "moq": "2 pieces"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hc2d1d6eadd974027903c2075dc6cecedv.jpg_220x220.jpg",
+                                                "productId": "1600216543035",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600216543035&cardType=101002736&cardId=201152005&categoryIds=322",
+                                                "subject": "007- 2021 new women's cloth shoes knitted net surface soft non-slip casual shoes breathablelazy shoes print fashion sing  comfortable",
+                                                "price": "$2.50 - $3.30",
+                                                "firstCategoryId": "322",
+                                                "moq": "2 pairs"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "Orthotic Insoles",
+                                        "cardId": "201778402",
+                                        "cardType": "101002736",
+                                        "title": "Orthotic Insoles",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H17208ed0d8b14cbf93fa267e3cb9d4dcy.png_220x220.png",
+                                                "productId": "1600987101016",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600987101016&cardType=101002736&cardId=201778402&categoryIds=322",
+                                                "subject": "IDEASTEP Insole Foot Arch Best Orthotics Suppliers Flatfoot  Shoes Eva Running Orthopedic Breathable Sport Inserts Arch Support",
+                                                "price": "$2.76 - $3.12",
+                                                "firstCategoryId": "322",
+                                                "moq": "500 pairs"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H378e2fff08314f3ab9f97d0c6cff453eU.png_220x220.png",
+                                                "productId": "1600907786872",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600907786872&cardType=101002736&cardId=201778402&categoryIds=322",
+                                                "subject": "Ideastep plantar fasciitis high arch support insoles flat foot orthopedic insoles shoes insole manufacturer",
+                                                "price": "$2.30 - $2.60",
+                                                "firstCategoryId": "322",
+                                                "moq": "500 pairs"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H9cd07bcd1e514e55bfb467da5f3a83bah.png_220x220.png",
+                                                "productId": "1600961658003",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600961658003&cardType=101002736&cardId=201778402&categoryIds=322",
+                                                "subject": "Ideastep arch support insoles flat foot orthopedic insoles for flat feet arch support sport work insoles",
+                                                "price": "$3.28 - $3.71",
+                                                "firstCategoryId": "322",
+                                                "moq": "500 pairs"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "Safety Shoes",
+                                        "cardId": "32211",
+                                        "cardType": "101002736",
+                                        "title": "Safety Shoes",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/He7c3f84e841448b18ed3ea1519bfaa734.jpg_220x220.jpg",
+                                                "productId": "1600509868127",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600509868127&cardType=101002736&cardId=32211&categoryIds=322",
+                                                "subject": "Factory Price smashing puncture-proof lightweight man steel toe safety shoes",
+                                                "price": "$9.50 - $13.30",
+                                                "firstCategoryId": "322",
+                                                "moq": "2 pairs"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hba586139a5094c9ea86631d7b68692f0G.jpg_220x220.jpg",
+                                                "productId": "1600509084325",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600509084325&cardType=101002736&cardId=32211&categoryIds=322",
+                                                "subject": "safety shoes for welding,welding safety boots shoes,leather boot steel toe work safety shoes for men",
+                                                "price": "$12.24 - $15.30",
+                                                "firstCategoryId": "322",
+                                                "moq": "1 pair"
+                                            },
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hbb949b6b69f742da9b94a1aab8fbe874L.jpg_220x220.jpg",
+                                                "productId": "1600742741893",
+                                                "venueUrl": "https://sale.alibaba.com/category/rank_lp/index.html?wx_navbar_transparent=true&path=/category/rank_lp/index.html&topOfferIds=1600742741893&cardType=101002736&cardId=32211&categoryIds=322",
+                                                "subject": "Slip-on Steel Safety Shoes Men Rubber Toe Anti-smashing Anti-piercing Nonslip Breathable Work Safety Shoes",
+                                                "price": "$6.30 - $18.60",
+                                                "firstCategoryId": "322",
+                                                "moq": "2 pairs"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "floorTitle": "Expert-curated hot picks"
+                }
+            },
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "8570780860",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "8904753360",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "3312230360",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "3950606940",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "5397872930",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3391896900",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "8561972590",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "9977990090",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687696",
+        "name": "Shoes\u00a0&\u00a0Accessories",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "01234567890000001712404177366207b0e3a39f6a",
+        "pageType": 0,
+        "path": "/category/products/322/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_322",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Shoes\u00a0&\u00a0Accessories"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

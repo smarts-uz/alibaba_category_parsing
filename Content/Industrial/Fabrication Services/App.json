@@ -1,0 +1,722 @@
+{
+    "_pageModuleUUIDList": [
+        "4567417790",
+        "5667208090",
+        "4799351760",
+        "8451064410",
+        "3813736490"
+    ],
+    "customContextParams": {
+        "path": "/category/products/41/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403115905 | 0 | 1712403115905",
+        "process": "1712403116177 | 0 | 1712403116177",
+        "preRender": "1712403115905 | 9 | 1712403115914",
+        "assembleModuleData": "1712403116177 | 0 | 1712403116177",
+        "retrieveHtmlAndJson": "1712403115823 | 77 | 1712403115900",
+        "fetch": "1712403115932 | 245 | 1712403116177",
+        "seo": "1712403115905 | 0 | 1712403115905",
+        "preload": "1712403115905 | 0 | 1712403115905",
+        "render": "1712403116177 | 36 | 1712403116213"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 813159,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i3/O1CN01NdT4l51bvPgbeH3W1_!!6000000003527-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_41",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "4567417790",
+                    "prefetchKey": "met",
+                    "path": "/category/products/41/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124031159051bee3c842793a",
+                    "requestId": "7468c037f07b034b43a66a27c88170d1",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403115823",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "3e6c40e5cdd9c429b021d7b854ba00ef",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "7468c037f07b034b43a66a27c88170d1",
+                    "spm": "a2700.product_home_newuser.header.1227.2f9d67af20x9kd",
+                    "categoryIds": "41",
+                    "pvId": "7468c037f07b034b43a66a27c88170d1",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "1458",
+                                        "titleEn": "Moulds",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H667eb565d8274ceabafaa978fd75b8ebq.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1458&SearchText=Moulds&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Moulds",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100004566",
+                                        "titleEn": "Machining-Services",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H20d91eba55e94fe4995a0afb74a01806e.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004566&SearchText=Machining+Services&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Machining Services",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100004574",
+                                        "titleEn": "Other-Fabrication-Services",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H50d0d73205c04721be3daacd6a6e320fx.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004574&SearchText=Other+Fabrication+Services&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Fabrication Services",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100004572",
+                                        "titleEn": "Sheet-Metal-Fabrication",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Heec1937a0a514b39ae123d78087e3df4e.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004572&SearchText=Sheet+Metal+Fabrication&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Sheet Metal Fabrication",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100004570",
+                                        "titleEn": "Casting-Services",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H766a3ce8931542a78f52c51e63939858L.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004570&SearchText=Casting+Services&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Casting Services",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100004571",
+                                        "titleEn": "Forging-Services",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H8687a30f13af4297a3ba5d2b1e4d5da2M.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004571&SearchText=Forging+Services&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Forging Services",
+                                        "isLeaf": true
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "41",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"41\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "1458",
+                                        "level": "2",
+                                        "titleEn": "Moulds",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb0efdbb0a47748a8ab7067f39f3f42765.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1458&SearchText=Moulds&indexArea=product_en&fsb=y&productId=1600487056676",
+                                        "title": "Moulds"
+                                    },
+                                    {
+                                        "categoryIds": "100004566",
+                                        "level": "2",
+                                        "titleEn": "Machining-Services",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdf4b907114f24399b60d433ace74441bm.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004566&SearchText=Machining+Services&indexArea=product_en&fsb=y&productId=1601061981651",
+                                        "title": "Machining Services"
+                                    },
+                                    {
+                                        "categoryIds": "100004574",
+                                        "level": "2",
+                                        "titleEn": "Other-Fabrication-Services",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H018e5900f0374ffe8b7de4e9da8c1503H.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004574&SearchText=Other+Fabrication+Services&indexArea=product_en&fsb=y&productId=1600595633357",
+                                        "title": "Other Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "100004572",
+                                        "level": "2",
+                                        "titleEn": "Sheet-Metal-Fabrication",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb5369bd25e7f42e0919db411de5c75c7b.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004572&SearchText=Sheet+Metal+Fabrication&indexArea=product_en&fsb=y&productId=1600460755176",
+                                        "title": "Sheet Metal Fabrication"
+                                    },
+                                    {
+                                        "categoryIds": "100004570",
+                                        "level": "2",
+                                        "titleEn": "Casting-Services",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6fc753bd405a4a62ab21824d07917133q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004570&SearchText=Casting+Services&indexArea=product_en&fsb=y&productId=1600659805247",
+                                        "title": "Casting Services"
+                                    },
+                                    {
+                                        "categoryIds": "100004571",
+                                        "level": "2",
+                                        "titleEn": "Forging-Services",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H47d7757d07424ad7be65909319171c20v.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004571&SearchText=Forging+Services&indexArea=product_en&fsb=y&productId=1601031375278",
+                                        "title": "Forging Services"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "4567417790",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 795715,
+            "data": {
+                "_fdl_request_VR": {
+                    "VRConfig": {
+                        "entryType": "total",
+                        "topBackgroundImageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01in63711aCF3fkKPhm_!!6000000003293-2-tps-432-360.png",
+                        "subTitle": "",
+                        "position": "2",
+                        "title": "VR showroom"
+                    },
+                    "requestCommon": {
+                        "_fdl_request_VRRequest": {
+                            "params": "{\"categoryIds\":\"41\",\"modelId\":\"10597\",\"pageSize\":\"4\"}",
+                            "_serverData": {
+                                "venueUrl": "https://sale.alibaba.com/p/dbjzwq7y5/index.html?wx_navbar_transparent=true&path=/p/dbjzwq7y5/index.html&ncms_spm=a27aq.27943548&prefetchKey=met&wx_xpage=true&topOfferIds=&categoryIds=41",
+                                "list": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H374ba0ec894840ae9b2324539ff682dbX.png_220x220.png",
+                                        "companyId": "239929186",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15862_999#pvid-29ca70e3-b61b-4822-a37f-52d821a9395e#realPos-0#id-1600591911134#pos-0#matchType-4#cateId-100004574#cardId-3026001#newsType-3024403#userTage-6_2_lost#isAIRefresh-false#btsInfo-new_prod:prom;ggs_resign:prom;xuqian:prom;comp_rdu:comp;comp_rdu2:prom;ggs_new:prom;new_prod1:prom;comp_neg1:prom01;fake_price:prom;comp_neg:prom#srcChannel-PC#rankScore-97.50118950990468#logtime-1712403115971#@@realCtrParam:@@productId:1600591911134",
+                                        "productId": "1600591911134",
+                                        "modelId": "2654009",
+                                        "venueUrl": "https://sale.alibaba.com/p/dbjzwq7y5/index.html?wx_navbar_transparent=true&path=/p/dbjzwq7y5/index.html&ncms_spm=a27aq.27943548&prefetchKey=met&wx_xpage=true&topOfferIds=1600591911134&categoryIds=41",
+                                        "minPrice": "$7.80",
+                                        "showroomImage": "//sc04.alicdn.com/kf/H34fa6a05cf4f42d28d4cdf3f55900e702.jpg",
+                                        "aliMemberId": "230479810",
+                                        "modelImage16x9": "//sc04.alicdn.com/kf/H0a4343474955493d8838ca9547fdd137s.jpg",
+                                        "showroomUrl": "https://gxcase.en.alibaba.com/view/showroom/immersed.htm?model_id=2654009&member_id=230479810&ali_id=3235782491&vaccount_id=239929186&wx_navbar_transparent=true&_aplus_page_enable=true&model=ailab&model_source=ailab&oss_key=8ac9b7c3-316b-4518-881c-f41b07ee858f"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H726f3b2a635844fa9fd83ae74f62f008p.jpg_220x220.jpg",
+                                        "companyId": "200626026",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15862_999#pvid-29ca70e3-b61b-4822-a37f-52d821a9395e#realPos-1#id-1600218637634#pos-1#matchType-4#cateId-1458#cardId-3026001#newsType-3024403#userTage-6_2_lost#isAIRefresh-false#btsInfo-new_prod:prom;ggs_resign:prom;xuqian:prom;comp_rdu:comp;comp_rdu2:prom;ggs_new:prom;new_prod1:prom;comp_neg1:prom01;fake_price:prom;comp_neg:prom#srcChannel-PC#rankScore-95.3647441233397#logtime-1712403115971#@@realCtrParam:@@productId:1600218637634",
+                                        "productId": "1600218637634",
+                                        "modelId": "4416010",
+                                        "venueUrl": "https://sale.alibaba.com/p/dbjzwq7y5/index.html?wx_navbar_transparent=true&path=/p/dbjzwq7y5/index.html&ncms_spm=a27aq.27943548&prefetchKey=met&wx_xpage=true&topOfferIds=1600218637634&categoryIds=41",
+                                        "minPrice": "$3.20",
+                                        "showroomImage": "//sc04.alicdn.com/kf/Hcef2a6e54df44e83bffac62584f1f4bdg.jpg",
+                                        "aliMemberId": "200369066",
+                                        "modelImage16x9": "//sc04.alicdn.com/kf/H1ff2f54c6c93431caf77d46f06f4bcc91.jpg",
+                                        "showroomUrl": "https://gz-plastics.en.alibaba.com/view/showroom/immersed.htm?model_id=4416010&member_id=200369066&ali_id=17380238250&vaccount_id=200626026&wx_navbar_transparent=true&_aplus_page_enable=true&model=ailab&model_source=ailab&oss_key=2ebc5223-6047-4538-8676-1006d2072652"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hd4976327d99c4c4cb7852c1eca237f1e9.jpg_220x220.jpg",
+                                        "companyId": "258759532",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15862_999#pvid-29ca70e3-b61b-4822-a37f-52d821a9395e#realPos-2#id-1600338950499#pos-2#matchType-4#cateId-100004572#cardId-3026001#newsType-3024403#userTage-6_2_lost#isAIRefresh-false#btsInfo-new_prod:prom;ggs_resign:prom;xuqian:prom;comp_rdu:comp;comp_rdu2:prom;ggs_new:prom;new_prod1:prom;comp_neg1:prom01;fake_price:prom;comp_neg:prom#srcChannel-PC#rankScore-88.06340962990221#logtime-1712403115971#@@realCtrParam:@@productId:1600338950499",
+                                        "productId": "1600338950499",
+                                        "modelId": "4974022",
+                                        "venueUrl": "https://sale.alibaba.com/p/dbjzwq7y5/index.html?wx_navbar_transparent=true&path=/p/dbjzwq7y5/index.html&ncms_spm=a27aq.27943548&prefetchKey=met&wx_xpage=true&topOfferIds=1600338950499&categoryIds=41",
+                                        "minPrice": "$2.50",
+                                        "showroomImage": "//sc04.alicdn.com/kf/H503bd70ab5ef4ab49ccff61453c161f7p/251379860/H503bd70ab5ef4ab49ccff61453c161f7p.png",
+                                        "aliMemberId": "251379860",
+                                        "modelImage16x9": "//sc04.alicdn.com/kf/H1155689f3f8647b084c20442b02e3a49c/251379860/H1155689f3f8647b084c20442b02e3a49c.png",
+                                        "showroomUrl": "https://prefectgoods.en.alibaba.com/view/showroom/immersed.htm?model_id=4974022&member_id=251379860&ali_id=2211235465330&vaccount_id=258759532&wx_navbar_transparent=true&_aplus_page_enable=true&model=ailab&model_source=ailab&oss_key=1ef0e893-5269-4243-9d56-84818eec61f7"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H3ac6e025f659498a9ee50994742b7dbdL.png_220x220.png",
+                                        "companyId": "274807312",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15862_999#pvid-29ca70e3-b61b-4822-a37f-52d821a9395e#realPos-3#id-1600733762963#pos-3#matchType-4#cateId-100004574#cardId-3026001#newsType-3024403#userTage-6_2_lost#isAIRefresh-false#btsInfo-new_prod:prom;ggs_resign:prom;xuqian:prom;comp_rdu:comp;comp_rdu2:prom;ggs_new:prom;new_prod1:prom;comp_neg1:prom01;fake_price:prom;comp_neg:prom#srcChannel-PC#rankScore-89.14852219526722#logtime-1712403115971#@@realCtrParam:@@productId:1600733762963",
+                                        "productId": "1600733762963",
+                                        "modelId": "3340007",
+                                        "venueUrl": "https://sale.alibaba.com/p/dbjzwq7y5/index.html?wx_navbar_transparent=true&path=/p/dbjzwq7y5/index.html&ncms_spm=a27aq.27943548&prefetchKey=met&wx_xpage=true&topOfferIds=1600733762963&categoryIds=41",
+                                        "minPrice": "$1.00",
+                                        "showroomImage": "//sc04.alicdn.com/kf/Hdb25866f3fa54d3cad625f54cdade795B.jpg",
+                                        "aliMemberId": "267888521",
+                                        "modelImage16x9": "//sc04.alicdn.com/kf/H6170b7a8014b4a28a42e3c171b458e5fu/267888521/H6170b7a8014b4a28a42e3c171b458e5fu.jpg",
+                                        "showroomUrl": "https://forwelltoys.en.alibaba.com/view/showroom/immersed.htm?model_id=3340007&member_id=267888521&ali_id=2214732223086&vaccount_id=274807312&wx_navbar_transparent=true&_aplus_page_enable=true&model=ailab&model_source=ailab&oss_key=08f004ba-a7ef-4d99-b8e2-d0063e9a7afd"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_41",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "5667208090",
+                    "prefetchKey": "met",
+                    "path": "/category/products/41/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124031159051bee3c842793a",
+                    "requestId": "1615c07f4189ecc9b28b6581072fac51",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403115823",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "3e6c40e5cdd9c429b021d7b854ba00ef",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "1615c07f4189ecc9b28b6581072fac51",
+                    "spm": "a2700.product_home_newuser.header.1227.2f9d67af20x9kd",
+                    "categoryIds": "41",
+                    "pvId": "1615c07f4189ecc9b28b6581072fac51",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "params": "{\"modelId\":\"1157\",\"blockIds\":\"\",\"offerLimit\":\"1\",\"pageSize\":\"\"}",
+                            "_serverData": {
+                                "blockProduct": ":1"
+                            }
+                        }
+                    ]
+                },
+                "cardListConfig": {
+                    "isActivity": false,
+                    "configList": []
+                }
+            },
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "5667208090",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 806297,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_41",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "4799351760",
+                    "prefetchKey": "met",
+                    "path": "/category/products/41/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124031159051bee3c842793a",
+                    "requestId": "a2420392cfff03f6fc8ba16c10143864",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403115823",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "3e6c40e5cdd9c429b021d7b854ba00ef",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "a2420392cfff03f6fc8ba16c10143864",
+                    "spm": "a2700.product_home_newuser.header.1227.2f9d67af20x9kd",
+                    "categoryIds": "41",
+                    "pvId": "a2420392cfff03f6fc8ba16c10143864",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestCommon": {
+                        "_fdl_request_supplierRequest": {
+                            "params": "{\"categoryIds\":\"41\",\"modelId\":\"10687\"}",
+                            "_serverData": {
+                                "list": []
+                            }
+                        }
+                    },
+                    "floorTitle": "Verified Pro Supplier"
+                }
+            },
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "4799351760",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 813600,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "8451064410",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "3813736490",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1692057",
+        "name": "Fabrication Services",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "012345678900000017124031159051bee3c842793a",
+        "pageType": 0,
+        "path": "/category/products/41/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_41",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Fabrication Services"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

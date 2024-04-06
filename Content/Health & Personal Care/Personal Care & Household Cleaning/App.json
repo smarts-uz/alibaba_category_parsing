@@ -1,0 +1,1066 @@
+{
+    "_pageModuleUUIDList": [
+        "2413217490",
+        "2301537910",
+        "5077288630",
+        "2135519260",
+        "8284314500",
+        "1107426170",
+        "8308198360",
+        "7012403700",
+        "8117204860"
+    ],
+    "customContextParams": {
+        "path": "/category/products/201951502/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712402828866 | 0 | 1712402828866",
+        "process": "1712402829179 | 0 | 1712402829179",
+        "preRender": "1712402828866 | 10 | 1712402828876",
+        "assembleModuleData": "1712402829179 | 0 | 1712402829179",
+        "retrieveHtmlAndJson": "1712402828766 | 93 | 1712402828859",
+        "fetch": "1712402828882 | 297 | 1712402829179",
+        "seo": "1712402828866 | 0 | 1712402828866",
+        "preload": "1712402828866 | 0 | 1712402828866",
+        "render": "1712402829179 | 37 | 1712402829216"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i1/O1CN01JuHooU25Iss7lRkVe_!!6000000007504-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201951502",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "2413217490",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201951502/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124028288663704577628c59",
+                    "requestId": "b1ff95a39cb618adab4439f6aaeaba2c",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402828766",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "f7db82f3198d1bb7002beaa20fde3391",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "b1ff95a39cb618adab4439f6aaeaba2c",
+                    "spm": "a2700.product_home_newuser.header.3505.608267afIwWdys",
+                    "categoryIds": "201951502",
+                    "pvId": "b1ff95a39cb618adab4439f6aaeaba2c",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "201928102",
+                                        "titleEn": "Laundry-Cleaning-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H172e89bd3ec6403bb853ceb4113447a7c.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201928102&SearchText=Laundry+Cleaning+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Laundry Cleaning Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127720001",
+                                        "titleEn": "Hair-Care-Styling",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb4cd5b464f8a4df9aed522efbd41cf41U.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127720001&SearchText=Hair+Care+%26+Styling&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Hair Care & Styling",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127726030",
+                                        "titleEn": "Body-Care",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3e5400695b1a494bb880dc2337bf85d1o.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726030&SearchText=Body+Care&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Body Care",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201945705",
+                                        "titleEn": "Special-Household-Cleaning",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Had36f1ac799e42ecb502c1b78ff83d637.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201945705&SearchText=Special+Household+Cleaning&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Special Household Cleaning",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201951402",
+                                        "titleEn": "Kitchen-Bathroom-Cleaning",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H99d6e940786348a98ac0acf8375762c9u.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201951402&SearchText=Kitchen+%26+Bathroom+Cleaning&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Kitchen & Bathroom Cleaning",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1513",
+                                        "titleEn": "Hygiene-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H18e17581812a4e668ad6f35e94ab4154S.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1513&SearchText=Hygiene+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Hygiene Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201967105",
+                                        "titleEn": "Salon-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://img.alicdn.com/tfs/TB1nb3hw1T2gK0jSZFvXXXnFXXa-300-300.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201967105&SearchText=Salon+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Salon Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "3305",
+                                        "titleEn": "Oral-Care",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2bf7c0108fa3419f8fd525958d594da6s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3305&SearchText=Oral+Care&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Oral Care",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "660201",
+                                        "titleEn": "Bath-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hcc2d0ebe4b49429f921819875d20bee98.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=660201&SearchText=Bath+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Bath Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201330820",
+                                        "titleEn": "Men-s-Grooming",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hfaa242704e4d44b2987d6f8df317297dr.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201330820&SearchText=Men%27s+Grooming&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Men's Grooming",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100000618",
+                                        "titleEn": "Feminie-Care",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1beaf1d5e1f643a285b51a7636572c5a3.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000618&SearchText=Feminie+Care&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Feminie Care",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201943903",
+                                        "titleEn": "Pest-Control-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb9076ad44fe24dbfa4ae793e8e29d4d7K.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201943903&SearchText=Pest+Control+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Pest Control Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201942905",
+                                        "titleEn": "Other-Personal-Care-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha45fab96d97444829ef06aa73b8a5cbe2.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201942905&SearchText=Other+Personal+Care+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Personal Care Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201941507",
+                                        "titleEn": "Travel-Size-Gift-Sets",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H7a7d5b7e2c754961be6bce852851e1c69.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201941507&SearchText=Travel+Size+%26+Gift+Sets&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Travel Size & Gift Sets",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201941802",
+                                        "titleEn": "Room-Deodorizers",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd36aeaa897264fbfafa017c7885a732bN.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201941802&SearchText=Room+Deodorizers&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Room Deodorizers",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201948303",
+                                        "titleEn": "Floor-Cleaning",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3b1509860c184830bba0561a3704351a1.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201948303&SearchText=Floor+Cleaning&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Floor Cleaning",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127726033",
+                                        "titleEn": "Hands-Feet-Care",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0c49f1f71e8d44bdaa58e67370fe2dees.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726033&SearchText=Hands+%26+Feet+Care&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Hands & Feet Care",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "201951502",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"201951502\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "201952001",
+                                        "level": "3",
+                                        "titleEn": "Laundry-Detergent-Pods",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A67e9ca2a4b88449bb73f75d03dcb1ecfz.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201952001&SearchText=Laundry+Detergent+Pods&indexArea=product_en&fsb=y&productId=1600817305428",
+                                        "title": "Laundry Detergent Pods"
+                                    },
+                                    {
+                                        "categoryIds": "200766003",
+                                        "level": "4",
+                                        "titleEn": "Hairbrush",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H294a27009bf64480bb16621234d3b197e.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=200766003&SearchText=Hairbrush&indexArea=product_en&fsb=y&productId=1600917525841",
+                                        "title": "Hairbrush"
+                                    },
+                                    {
+                                        "categoryIds": "201930704",
+                                        "level": "3",
+                                        "titleEn": "Laundry-Detergent",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H953446a3c26c46df92b15eebdda9234eT.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201930704&SearchText=Laundry+Detergent&indexArea=product_en&fsb=y&productId=1600302723465",
+                                        "title": "Laundry Detergent"
+                                    },
+                                    {
+                                        "categoryIds": "201336316",
+                                        "level": "4",
+                                        "titleEn": "Hair-Treatment",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H792e24a789cf46a4b7c76b69ebdfdd79k.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201336316&SearchText=Hair+Treatment&indexArea=product_en&fsb=y&productId=1600772505007",
+                                        "title": "Hair Treatment"
+                                    },
+                                    {
+                                        "categoryIds": "202046001",
+                                        "level": "3",
+                                        "titleEn": "Herbal-Extracts-and-Essences",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H15e10dfae7cd4e0e8f660e414f7014edr.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202046001&SearchText=Herbal+Extracts+and+Essences&indexArea=product_en&fsb=y&productId=1601032199829",
+                                        "title": "Herbal Extracts and Essences"
+                                    },
+                                    {
+                                        "categoryIds": "100000623",
+                                        "level": "4",
+                                        "titleEn": "Hair-Extension-Tools",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hbb771fc38ded47b7bbe6dbe81317ef158.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000623&SearchText=Hair+Extension+Tools&indexArea=product_en&fsb=y&productId=1600654019471",
+                                        "title": "Hair Extension Tools"
+                                    },
+                                    {
+                                        "categoryIds": "201952501",
+                                        "level": "3",
+                                        "titleEn": "Wall-Cleaners",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3996027ad39e42fba39a72184f198b76e.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201952501&SearchText=Wall+Cleaners&indexArea=product_en&fsb=y&productId=1601043922017",
+                                        "title": "Wall Cleaners"
+                                    },
+                                    {
+                                        "categoryIds": "66030108",
+                                        "level": "4",
+                                        "titleEn": "Hair-Steamer",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha485d3788a0a4569962b6bbd786a1f02M.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=66030108&SearchText=Hair+Steamer&indexArea=product_en&fsb=y&productId=1600609886897",
+                                        "title": "Hair Steamer"
+                                    },
+                                    {
+                                        "categoryIds": "66030114",
+                                        "level": "4",
+                                        "titleEn": "Hairdressing-Foil",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2d42f04eb88f42fd8cbd73e4e684d383h.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=66030114&SearchText=Hairdressing+Foil&indexArea=product_en&fsb=y&productId=1600605218023",
+                                        "title": "Hairdressing Foil"
+                                    },
+                                    {
+                                        "categoryIds": "201340320",
+                                        "level": "4",
+                                        "titleEn": "Other-Hair-Styling-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hab05e19b34f54d649461fae77dceca2fX.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201340320&SearchText=Other+Hair+Styling+Products&indexArea=product_en&fsb=y&productId=1600903885759",
+                                        "title": "Other Hair Styling Products"
+                                    },
+                                    {
+                                        "categoryIds": "201274965",
+                                        "level": "3",
+                                        "titleEn": "Essential-Oil",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H60a77bc6064b4dffb359c0b2a866528ae.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201274965&SearchText=Essential+Oil&indexArea=product_en&fsb=y&productId=62280480409",
+                                        "title": "Essential Oil"
+                                    },
+                                    {
+                                        "categoryIds": "82103",
+                                        "level": "3",
+                                        "titleEn": "Soap",
+                                        "imageUrl": "//sc04.alicdn.com/kf/U1483ad6d26854f4ba28f81ab8f58f235N.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=82103&SearchText=Soap&indexArea=product_en&fsb=y&productId=1700002092728",
+                                        "title": "Soap"
+                                    },
+                                    {
+                                        "categoryIds": "201339023",
+                                        "level": "3",
+                                        "titleEn": "Body-Lotion",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1b6b79276ee84025930d1a7d4d618a22Y.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201339023&SearchText=Body+Lotion&indexArea=product_en&fsb=y&productId=1600762964330",
+                                        "title": "Body Lotion"
+                                    },
+                                    {
+                                        "categoryIds": "201336823",
+                                        "level": "4",
+                                        "titleEn": "Shampoo",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H353fa6649e524b50925c517610194babT.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201336823&SearchText=Shampoo&indexArea=product_en&fsb=y&productId=1600989391373",
+                                        "title": "Shampoo"
+                                    },
+                                    {
+                                        "categoryIds": "201346012",
+                                        "level": "4",
+                                        "titleEn": "Other-Teeth-Whitening-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H68387a75d8444b6697cd126ca18bafb7C.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201346012&SearchText=Other+Teeth+Whitening+Accessories&indexArea=product_en&fsb=y&productId=1600984126809",
+                                        "title": "Other Teeth Whitening Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201340520",
+                                        "level": "4",
+                                        "titleEn": "Hair-Mask",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H33746fdaddcb492aaf905d59be6e0e5ab.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201340520&SearchText=Hair+Mask&indexArea=product_en&fsb=y&productId=1600507766532",
+                                        "title": "Hair Mask"
+                                    },
+                                    {
+                                        "categoryIds": "100000653",
+                                        "level": "3",
+                                        "titleEn": "Breast-Enhancement-Cream",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0028c415e113487e9257eea545d898a4k.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100000653&SearchText=Breast+Enhancement+Cream&indexArea=product_en&fsb=y&productId=1600228843465",
+                                        "title": "Breast Enhancement Cream"
+                                    },
+                                    {
+                                        "categoryIds": "127726005",
+                                        "level": "4",
+                                        "titleEn": "Hair-Color",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HLB1t2mkRpzqK1RjSZFvq6AB7VXaF.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726005&SearchText=Hair+Color&indexArea=product_en&fsb=y&productId=62081707659",
+                                        "title": "Hair Color"
+                                    },
+                                    {
+                                        "categoryIds": "66030101",
+                                        "level": "4",
+                                        "titleEn": "Comb",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H641585bbc0344f9cb2aa0a66350cd1bcn.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=66030101&SearchText=Comb&indexArea=product_en&fsb=y&productId=1600877561753",
+                                        "title": "Comb"
+                                    },
+                                    {
+                                        "categoryIds": "151304",
+                                        "level": "3",
+                                        "titleEn": "Toilet-Tissues",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8ca184966ec541f8add24bd5ae00363b0.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=151304&SearchText=Toilet+Tissues&indexArea=product_en&fsb=y&productId=1600545209484",
+                                        "title": "Toilet Tissues"
+                                    },
+                                    {
+                                        "categoryIds": "127658023",
+                                        "level": "4",
+                                        "titleEn": "Other-Hair-Styling-Tools",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He7d3f00a05ee471c8111809bcd334031I.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127658023&SearchText=Other+Hair+Styling+Tools&indexArea=product_en&fsb=y&productId=62400386825",
+                                        "title": "Other Hair Styling Tools"
+                                    },
+                                    {
+                                        "categoryIds": "330507",
+                                        "level": "3",
+                                        "titleEn": "Toothpaste",
+                                        "imageUrl": "//sc04.alicdn.com/kf/U0e47b2cbd906487baa493955431b6c11K.jpeg_220x220.jpeg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=330507&SearchText=Toothpaste&indexArea=product_en&fsb=y&productId=1600229032976",
+                                        "title": "Toothpaste"
+                                    },
+                                    {
+                                        "categoryIds": "82104",
+                                        "level": "3",
+                                        "titleEn": "Air-Fresheners",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc02d26daddc24304934ef074596a39ac4.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=82104&SearchText=Air+Fresheners&indexArea=product_en&fsb=y&productId=1601026533947",
+                                        "title": "Air Fresheners"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "2413217490",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201951502",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "2301537910",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201951502/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124028288663704577628c59",
+                    "requestId": "015c11e9cb7534f9d7c6dd02940da099",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402828766",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "f7db82f3198d1bb7002beaa20fde3391",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "015c11e9cb7534f9d7c6dd02940da099",
+                    "spm": "a2700.product_home_newuser.header.3505.608267afIwWdys",
+                    "categoryIds": "201951502",
+                    "pvId": "015c11e9cb7534f9d7c6dd02940da099",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"201951502\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "2301537910",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920562,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201951502",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "5077288630",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201951502/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124028288663704577628c59",
+                    "requestId": "c0bde8f2aaa11666010d820272c11ae7",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712402828766",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "f7db82f3198d1bb7002beaa20fde3391",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "c0bde8f2aaa11666010d820272c11ae7",
+                    "spm": "a2700.product_home_newuser.header.3505.608267afIwWdys",
+                    "categoryIds": "201951502",
+                    "pvId": "c0bde8f2aaa11666010d820272c11ae7",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "params": "{\"modelId\":\"10271\",\"offerLimit\":\"3\",\"pageSize\":\"20\",\"cardType\":\"101002650\",\"categoryIds\":\"201951502\"}",
+                            "_serverData": {
+                                "modelId": "10983",
+                                "finalModelId": "10983",
+                                "titleEn": "Trending right now",
+                                "themeGroupList": [
+                                    {
+                                        "titleEn": "hair growth oil",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_201951502_hair_growth_oil&topOfferIds=60546092436&categoryIds=201951502",
+                                        "cardId": "101002650_201951502_hair_growth_oil",
+                                        "cardType": "101002650",
+                                        "id": "101002650_201951502_hair_growth_oil",
+                                        "title": "hair growth oil",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H4bb4592abd9645dba183228c0c18cb32Q.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-077d4f00-7959-4bb5-a3e0-c4acdca7779e#realPos-0_0_0#id-60546092436#pos-0#matchType-5#fatherId-null#cateId-201336316#cardId-101002650_201951502_hair_growth_oil#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-5.179562491178513#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201951502_101002650#srcChannel-PC#rankScore-6.1545827895402905#logtime-1712402828906#@@realCtrParam:@@productId:60546092436",
+                                                "productId": "60546092436",
+                                                "firstCategoryId": "201951502",
+                                                "secondCategoryId": "127720001"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "laundry detergent",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_201951502_laundri_deterg&topOfferIds=1600302204039&categoryIds=201951502",
+                                        "cardId": "101002650_201951502_laundri_deterg",
+                                        "cardType": "101002650",
+                                        "id": "101002650_201951502_laundri_deterg",
+                                        "title": "laundry detergent",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H07ba19f7203046b4a5020035cf75c06aa.png_220x220.png",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-077d4f00-7959-4bb5-a3e0-c4acdca7779e#realPos-0_1_0#id-1600302204039#pos-0#matchType-5#fatherId-null#cateId-201930704#cardId-101002650_201951502_laundri_deterg#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-5.179562491178513#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201951502_101002650#srcChannel-PC#rankScore-5.1900090873241425#logtime-1712402828906#@@realCtrParam:@@productId:1600302204039",
+                                                "productId": "1600302204039",
+                                                "firstCategoryId": "201951502",
+                                                "secondCategoryId": "201928102"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "hair products",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_201951502_hair_product&topOfferIds=60629556004&categoryIds=201951502",
+                                        "cardId": "101002650_201951502_hair_product",
+                                        "cardType": "101002650",
+                                        "id": "101002650_201951502_hair_product",
+                                        "title": "hair products",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Ha068ee6f10bb48df9f418b9aed2af808s.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-077d4f00-7959-4bb5-a3e0-c4acdca7779e#realPos-0_2_0#id-60629556004#pos-0#matchType-5#fatherId-null#cateId-201336823#cardId-101002650_201951502_hair_product#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-5.179562491178513#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201951502_101002650#srcChannel-PC#rankScore-4.194095596671104#logtime-1712402828906#@@realCtrParam:@@productId:60629556004",
+                                                "productId": "60629556004",
+                                                "firstCategoryId": "201951502",
+                                                "secondCategoryId": "127720001"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "body scrub",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_201951502_bodi_scrub&topOfferIds=1600955918326&categoryIds=201951502",
+                                        "cardId": "101002650_201951502_bodi_scrub",
+                                        "cardType": "101002650",
+                                        "id": "101002650_201951502_bodi_scrub",
+                                        "title": "body scrub",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H6afde2be7bfc45fd90e8180c0092d1b0l.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-077d4f00-7959-4bb5-a3e0-c4acdca7779e#realPos-0_3_0#id-1600955918326#pos-0#matchType-5#fatherId-null#cateId-100000645#cardId-101002650_201951502_bodi_scrub#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-5.179562491178513#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201951502_101002650#srcChannel-PC#rankScore-2.9086108207702637#logtime-1712402828906#@@realCtrParam:@@productId:1600955918326",
+                                                "productId": "1600955918326",
+                                                "firstCategoryId": "201951502",
+                                                "secondCategoryId": "127726030"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "fabric",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_201951502_fabric&topOfferIds=62010260080&categoryIds=201951502",
+                                        "cardId": "101002650_201951502_fabric",
+                                        "cardType": "101002650",
+                                        "id": "101002650_201951502_fabric",
+                                        "title": "fabric",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Ua5fde95374ab427eb610843577d459f6G.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-077d4f00-7959-4bb5-a3e0-c4acdca7779e#realPos-0_4_0#id-62010260080#pos-0#matchType-5#fatherId-null#cateId-151302#cardId-101002650_201951502_fabric#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-5.179562491178513#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201951502_101002650#srcChannel-PC#rankScore-2.5115754127502443#logtime-1712402828906#@@realCtrParam:@@productId:62010260080",
+                                                "productId": "62010260080",
+                                                "firstCategoryId": "201951502",
+                                                "secondCategoryId": "1513"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "titleEn": "hair brush",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&cardType=101002650&cardId=101002650_201951502_hair_brush&topOfferIds=1600908229090&categoryIds=201951502",
+                                        "cardId": "101002650_201951502_hair_brush",
+                                        "cardType": "101002650",
+                                        "id": "101002650_201951502_hair_brush",
+                                        "title": "hair brush",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/He30c22223a9f4307b173059ab83e43b3m.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-077d4f00-7959-4bb5-a3e0-c4acdca7779e#realPos-0_5_0#id-1600908229090#pos-0#matchType-5#fatherId-null#cateId-200766003#cardId-101002650_201951502_hair_brush#feedsId-#newsType-101002650#userTage-6_2_lost#finalScore-5.179562491178513#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201951502_101002650#srcChannel-PC#rankScore-2.496919336915016#logtime-1712402828906#@@realCtrParam:@@productId:1600908229090",
+                                                "productId": "1600908229090",
+                                                "firstCategoryId": "201951502",
+                                                "secondCategoryId": "127720001"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "needRender": "true",
+                                "title": "Trending right now"
+                            }
+                        }
+                    ]
+                }
+            },
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "5077288630",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "2135519260",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "8284314500",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "1107426170",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "8308198360",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "7012403700",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "8117204860",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "2242901",
+        "name": "Personal Care & Household Cleaning",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "012345678900000017124028288663704577628c59",
+        "pageType": 0,
+        "path": "/category/products/201951502/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_201951502",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Personal Care & Household Cleaning"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

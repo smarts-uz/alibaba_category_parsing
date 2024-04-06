@@ -1,0 +1,1168 @@
+{
+    "_pageModuleUUIDList": [
+        "7215411130",
+        "7714097260",
+        "8851329790",
+        "8610992010",
+        "9596019080",
+        "5721321980",
+        "1617042280",
+        "8383575650",
+        "5458968810",
+        "5740163100",
+        "4918484030"
+    ],
+    "customContextParams": {
+        "path": "/category/products/1420/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403278605 | 0 | 1712403278605",
+        "process": "1712403278814 | 0 | 1712403278814",
+        "preRender": "1712403278605 | 8 | 1712403278613",
+        "assembleModuleData": "1712403278814 | 0 | 1712403278814",
+        "retrieveHtmlAndJson": "1712403278525 | 74 | 1712403278599",
+        "fetch": "1712403278618 | 196 | 1712403278814",
+        "seo": "1712403278605 | 0 | 1712403278605",
+        "preload": "1712403278605 | 0 | 1712403278605",
+        "render": "1712403278814 | 66 | 1712403278880"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i3/O1CN0192F3vN1mDPP7qPNhH_!!6000000004920-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_1420",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "7215411130",
+                    "prefetchKey": "met",
+                    "path": "/category/products/1420/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240327860539b564732464c",
+                    "requestId": "1ac5d0657b45ec5da0393a506ffc393a",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403278525",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "1ea0bcec8f1df13afe9776c7a2a22a73",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "1ac5d0657b45ec5da0393a506ffc393a",
+                    "spm": "a2700.product_home_newuser.header.1229.2f9d67af20x9kd",
+                    "categoryIds": "1420",
+                    "pvId": "1ac5d0657b45ec5da0393a506ffc393a",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "201155304",
+                                        "titleEn": "Machining",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H32b5b07edc3b4c93bd77c6f2c37a6167P.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201155304&SearchText=Machining&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Machining",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127298018",
+                                        "titleEn": "Power-Tools",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4a39f15c1f3442909aedc8a93aaf01f8O.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127298018&SearchText=Power+Tools&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Power Tools",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127300019",
+                                        "titleEn": "Hand-Tools",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hebd0a8d819d84f598cb3d9ebbfb6b53bH.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127300019&SearchText=Hand+Tools&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Hand Tools",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201152406",
+                                        "titleEn": "Abrasives",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3bb17b599efd4cec8b24d04e1c32aa748.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152406&SearchText=Abrasives&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Abrasives",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100007504",
+                                        "titleEn": "Tool-Sets",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb241da0bd4264025831a1dfe716d3ba8M.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007504&SearchText=Tool+Sets&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Tool Sets",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100008951",
+                                        "titleEn": "Pumps-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2019e1dc0813451c89df74a36dc134e1x.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100008951&SearchText=Pumps+%26+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Pumps & Parts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127314007",
+                                        "titleEn": "Power-Tool-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He0c7563b04aa41d288d4d07dd2006e9aP.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127314007&SearchText=Power+Tool+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Power Tool Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127354006",
+                                        "titleEn": "Tool-Storage",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H6fe191e3532644e3b361b5e58cc233b9s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127354006&SearchText=Tool+Storage&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Tool Storage",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127288019",
+                                        "titleEn": "Fasteners",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H90f80ba8121d4aba90d402d569155451q.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127288019&SearchText=Fasteners&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Fasteners",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1427",
+                                        "titleEn": "Welding-Soldering-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H099dd0b3fb964250b9d7dfe97fc6a106e.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1427&SearchText=Welding+%26+Soldering+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Welding & Soldering Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127058040",
+                                        "titleEn": "Pneumatic-Tools",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc76316e7d05e4c5fb9084d74449e22d26.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127058040&SearchText=Pneumatic+Tools&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Pneumatic Tools",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201147908",
+                                        "titleEn": "Hardware",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H6aa2f487b38143b2936698eafd4f1103C.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201147908&SearchText=Hardware&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Hardware",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201153604",
+                                        "titleEn": "Valves",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H872724ead85244f094122ccfd7d59e73Z.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201153604&SearchText=Valves&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Valves",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "202036015",
+                                        "titleEn": "Garden-Tools",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf67c0b0a7c5f40158ae0aaba300b4d3bO.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202036015&SearchText=Garden+Tools&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Garden Tools",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "126986065",
+                                        "titleEn": "Hydraulic-Tools",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5de31ca6d520438d9301a6d51c339c35v.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=126986065&SearchText=Hydraulic+Tools&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Hydraulic Tools",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "142001",
+                                        "titleEn": "Tool-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He0189acc4c304876867ff3311a0410321.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=142001&SearchText=Tool+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Tool Parts",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "127314008",
+                                        "titleEn": "Drill-Bits",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0effe9cdc5654a5a9ab034fb7512b1daE.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127314008&SearchText=Drill+Bits&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Drill Bits",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127054037",
+                                        "titleEn": "Other-Tools",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha6ea1f0c6af6485bae35dbd3d88383f5n.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127054037&SearchText=Other+Tools&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Tools",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "131006",
+                                        "titleEn": "Pipe-Fittings",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H42cc523305cc496b9d714b04462c506bs.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=131006&SearchText=Pipe+Fittings&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Pipe Fittings",
+                                        "isLeaf": true
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "1420",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"1420\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "100007218",
+                                        "level": "3",
+                                        "titleEn": "Milling-Cutter",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf11776d92fb84422a729129c38bc16eaW.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007218&SearchText=Milling+Cutter&indexArea=product_en&fsb=y&productId=1601054300667",
+                                        "title": "Milling Cutter"
+                                    },
+                                    {
+                                        "categoryIds": "126976089",
+                                        "level": "3",
+                                        "titleEn": "Power-Drills",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Af23a730c6a1a407685f963336eebe4c3H.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=126976089&SearchText=Power+Drills&indexArea=product_en&fsb=y&productId=1600917056922",
+                                        "title": "Power Drills"
+                                    },
+                                    {
+                                        "categoryIds": "100007219",
+                                        "level": "3",
+                                        "titleEn": "Turning-Tool",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hef948c3d19f54dacbab55a8fd71ce28ej.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007219&SearchText=Turning+Tool&indexArea=product_en&fsb=y&productId=1600819685804",
+                                        "title": "Turning Tool"
+                                    },
+                                    {
+                                        "categoryIds": "14200306",
+                                        "level": "3",
+                                        "titleEn": "Knives",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2fac059f7da54d198591ccd39a3398c5u.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14200306&SearchText=Knives&indexArea=product_en&fsb=y&productId=1601009330513",
+                                        "title": "Knives"
+                                    },
+                                    {
+                                        "categoryIds": "14200399",
+                                        "level": "3",
+                                        "titleEn": "Other-Hand-Tools",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ae02917a090fb435faadfc44407f9476dD.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14200399&SearchText=Other+Hand+Tools&indexArea=product_en&fsb=y&productId=1601028333583",
+                                        "title": "Other Hand Tools"
+                                    },
+                                    {
+                                        "categoryIds": "4204",
+                                        "level": "3",
+                                        "titleEn": "Abrasive-Tools",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2f59bf948a1e430a859716a253d970a1Q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=4204&SearchText=Abrasive+Tools&indexArea=product_en&fsb=y&productId=1600683378167",
+                                        "title": "Abrasive Tools"
+                                    },
+                                    {
+                                        "categoryIds": "201155507",
+                                        "level": "3",
+                                        "titleEn": "Tool-Sets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0b28161623424f5f817b807f0b93ffddB.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201155507&SearchText=Tool+Sets&indexArea=product_en&fsb=y&productId=1600598076600",
+                                        "title": "Tool Sets"
+                                    },
+                                    {
+                                        "categoryIds": "14200310",
+                                        "level": "3",
+                                        "titleEn": "Screwdriver",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H85ce86f444824ba5992d604e641e7492w.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14200310&SearchText=Screwdriver&indexArea=product_en&fsb=y&productId=1600990777328",
+                                        "title": "Screwdriver"
+                                    },
+                                    {
+                                        "categoryIds": "201271372",
+                                        "level": "3",
+                                        "titleEn": "Pumps",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha11e4795909a40b9a062bf441d619b690.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201271372&SearchText=Pumps&indexArea=product_en&fsb=y&productId=1600425720981",
+                                        "title": "Pumps"
+                                    },
+                                    {
+                                        "categoryIds": "100006471",
+                                        "level": "3",
+                                        "titleEn": "Saw-Blade",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1db91a93094146208345947d919ca237r.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006471&SearchText=Saw+Blade&indexArea=product_en&fsb=y&productId=1600400110570",
+                                        "title": "Saw Blade"
+                                    },
+                                    {
+                                        "categoryIds": "142099",
+                                        "level": "3",
+                                        "titleEn": "Other-Tools",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A4596003dfb5f4492ad1a548c86a95cc9x.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=142099&SearchText=Other+Tools&indexArea=product_en&fsb=y&productId=11000011863196",
+                                        "title": "Other Tools"
+                                    },
+                                    {
+                                        "categoryIds": "131006",
+                                        "level": "2",
+                                        "titleEn": "Pipe-Fittings",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8092e175b9db45feafd8338809790ee3N.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=131006&SearchText=Pipe+Fittings&indexArea=product_en&fsb=y&productId=1600324066349",
+                                        "title": "Pipe Fittings"
+                                    },
+                                    {
+                                        "categoryIds": "127052054",
+                                        "level": "3",
+                                        "titleEn": "Lawn-Mowers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A835751a304554d67a1176227fefe7b1at.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127052054&SearchText=Lawn+Mowers&indexArea=product_en&fsb=y&productId=1600923821777",
+                                        "title": "Lawn Mowers"
+                                    },
+                                    {
+                                        "categoryIds": "127056042",
+                                        "level": "3",
+                                        "titleEn": "Chain-Saws",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf19195c80e1a4ab8ab52a7fb0c38eaf58.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127056042&SearchText=Chain+Saws&indexArea=product_en&fsb=y&productId=1600386084199",
+                                        "title": "Chain Saws"
+                                    },
+                                    {
+                                        "categoryIds": "1407",
+                                        "level": "3",
+                                        "titleEn": "Seals",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H94dfa5ac046c48239a54e9269945c96e3.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1407&SearchText=Seals&indexArea=product_en&fsb=y&productId=1600474631289",
+                                        "title": "Seals"
+                                    },
+                                    {
+                                        "categoryIds": "14200514",
+                                        "level": "3",
+                                        "titleEn": "Power-Spray-Guns",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H23dfad3d7deb40d3a09b2a4f4f1784d8a.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14200514&SearchText=Power+Spray+Guns&indexArea=product_en&fsb=y&productId=1600380675542",
+                                        "title": "Power Spray Guns"
+                                    },
+                                    {
+                                        "categoryIds": "145906",
+                                        "level": "4",
+                                        "titleEn": "Screws",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha86ff98153244eccb9c28d0f857011e2X.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=145906&SearchText=Screws&indexArea=product_en&fsb=y&productId=1600746711029",
+                                        "title": "Screws"
+                                    },
+                                    {
+                                        "categoryIds": "100007491",
+                                        "level": "3",
+                                        "titleEn": "Tool-Cases",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A7217c18323914544bf34e82f2c21963di.jpeg_220x220.jpeg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007491&SearchText=Tool+Cases&indexArea=product_en&fsb=y&productId=10000010856975",
+                                        "title": "Tool Cases"
+                                    },
+                                    {
+                                        "categoryIds": "100007492",
+                                        "level": "3",
+                                        "titleEn": "Tool-Cabinets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1d3b50af9a3248699e973b9d2fc60c44o.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007492&SearchText=Tool+Cabinets&indexArea=product_en&fsb=y&productId=1600939233141",
+                                        "title": "Tool Cabinets"
+                                    },
+                                    {
+                                        "categoryIds": "100006468",
+                                        "level": "3",
+                                        "titleEn": "Drill-Bits",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1h95vum8YBeNkSnb4q6yevFXaD.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006468&SearchText=Drill+Bits&indexArea=product_en&fsb=y&productId=60740336952",
+                                        "title": "Drill Bits"
+                                    },
+                                    {
+                                        "categoryIds": "14200311",
+                                        "level": "3",
+                                        "titleEn": "Wrench",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H42653b9b89d54e148facbdab9289a68bi.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14200311&SearchText=Wrench&indexArea=product_en&fsb=y&productId=1600509337145",
+                                        "title": "Wrench"
+                                    },
+                                    {
+                                        "categoryIds": "141799",
+                                        "level": "3",
+                                        "titleEn": "Other-Power-Tools",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H687a9487fca24b58919f1a2e27ea408bs.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=141799&SearchText=Other+Power+Tools&indexArea=product_en&fsb=y&productId=1600560951403",
+                                        "title": "Other Power Tools"
+                                    },
+                                    {
+                                        "categoryIds": "141714",
+                                        "level": "3",
+                                        "titleEn": "Power-Wrenches",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hae0d3667277447708b2337c8da277b0dO.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=141714&SearchText=Power+Wrenches&indexArea=product_en&fsb=y&productId=1600495652555",
+                                        "title": "Power Wrenches"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "7215411130",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_1420",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "7714097260",
+                    "prefetchKey": "met",
+                    "path": "/category/products/1420/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240327860539b564732464c",
+                    "requestId": "53255784d344c5bfc0e791b933dfc439",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403278525",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "1ea0bcec8f1df13afe9776c7a2a22a73",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "53255784d344c5bfc0e791b933dfc439",
+                    "spm": "a2700.product_home_newuser.header.1229.2f9d67af20x9kd",
+                    "categoryIds": "1420",
+                    "pvId": "53255784d344c5bfc0e791b933dfc439",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "countryListText": "US,CA,UK,GB,DK,ZA,DE,ES,FR,AU,RU,IL,BR,IT,SA,NL,PL,AE,KR,PT,CL,BE,JP,MX,UA,CZ,CH",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002560\",\"categoryIds\":\"1420\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "bucket": "true",
+                                "cardList": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H0f4f59e434e64f19bc80af378e098ec3y.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_0_0#id-1600598107408#pos-0#matchType-5#fatherId-null#cateId-126998070#cardId-101002560126998070#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-9.778495147824287#logtime-1712403278650#@@realCtrParam:@@productId:1600598107408",
+                                        "deliveryText": "",
+                                        "productId": "1600598107408",
+                                        "titleEn": "Power Saws",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600598107408&cardType=101002560&cardId=101002560126998070&categoryIds=1420",
+                                        "price": "$11.69 - $12.69",
+                                        "cardId": "101002560126998070",
+                                        "cardType": "101002560",
+                                        "title": "Power Saws",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H5b67be44c90e47f8a5dcf425efca95eem.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_1_0#id-1601021626066#pos-0#matchType-5#fatherId-null#cateId-141714#cardId-101002560141714#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-9.555700972676277#logtime-1712403278650#@@realCtrParam:@@productId:1601021626066",
+                                        "deliveryText": "",
+                                        "productId": "1601021626066",
+                                        "titleEn": "Power Wrenches",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1601021626066&cardType=101002560&cardId=101002560141714&categoryIds=1420",
+                                        "price": "$12.00 - $15.00",
+                                        "cardId": "101002560141714",
+                                        "cardType": "101002560",
+                                        "title": "Power Wrenches",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H338c67d81e8f448cabc7a1d9475e5662t.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_2_0#id-62574957936#pos-0#matchType-5#fatherId-null#cateId-141799#cardId-101002560141799#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-8.927127125859261#logtime-1712403278650#@@realCtrParam:@@productId:62574957936",
+                                        "deliveryText": "",
+                                        "productId": "62574957936",
+                                        "titleEn": "Other Power Tools",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=62574957936&cardType=101002560&cardId=101002560141799&categoryIds=1420",
+                                        "price": "$36.00 - $38.50",
+                                        "cardId": "101002560141799",
+                                        "cardType": "101002560",
+                                        "title": "Other Power Tools",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Ha80fd7cbe40748b7bd80e5345b83075dk.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_3_0#id-1600913705887#pos-0#matchType-5#fatherId-null#cateId-14200514#cardId-10100256014200514#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-8.489802038669586#logtime-1712403278650#@@realCtrParam:@@productId:1600913705887",
+                                        "deliveryText": "",
+                                        "productId": "1600913705887",
+                                        "titleEn": "Power Spray Guns",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600913705887&cardType=101002560&cardId=10100256014200514&categoryIds=1420",
+                                        "price": "$99.99 - $109.00",
+                                        "cardId": "10100256014200514",
+                                        "cardType": "101002560",
+                                        "title": "Power Spray Guns",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H68dfef68f319476cb2395639820518f6r.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_4_0#id-1600661161451#pos-0#matchType-5#fatherId-null#cateId-126976089#cardId-101002560126976089#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-8.065244284272193#logtime-1712403278650#@@realCtrParam:@@productId:1600661161451",
+                                        "deliveryText": "",
+                                        "productId": "1600661161451",
+                                        "titleEn": "Power Drills",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600661161451&cardType=101002560&cardId=101002560126976089&categoryIds=1420",
+                                        "price": "$6.50 - $9.75",
+                                        "cardId": "101002560126976089",
+                                        "cardType": "101002560",
+                                        "title": "Power Drills",
+                                        "moq": "5"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hd75566f3dfc14d0da772a636ec93c16e5.png_220x220.png",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_5_0#id-1600919203776#pos-0#matchType-5#fatherId-null#cateId-145903#cardId-101002560145903#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-7.79274147254182#logtime-1712403278650#@@realCtrParam:@@productId:1600919203776",
+                                        "deliveryText": "",
+                                        "productId": "1600919203776",
+                                        "titleEn": "Nails",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600919203776&cardType=101002560&cardId=101002560145903&categoryIds=1420",
+                                        "price": "$0.01 - $0.02",
+                                        "cardId": "101002560145903",
+                                        "cardType": "101002560",
+                                        "title": "Nails",
+                                        "moq": "1000"
+                                    }
+                                ],
+                                "cards": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H0f4f59e434e64f19bc80af378e098ec3y.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_0_0#id-1600598107408#pos-0#matchType-5#fatherId-null#cateId-126998070#cardId-101002560126998070#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-9.778495147824287#logtime-1712403278650#@@realCtrParam:@@productId:1600598107408",
+                                        "deliveryText": "",
+                                        "productId": "1600598107408",
+                                        "titleEn": "Power Saws",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600598107408&cardType=101002560&cardId=101002560126998070&categoryIds=1420",
+                                        "price": "$11.69 - $12.69",
+                                        "cardId": "101002560126998070",
+                                        "cardType": "101002560",
+                                        "title": "Power Saws",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H5b67be44c90e47f8a5dcf425efca95eem.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_1_0#id-1601021626066#pos-0#matchType-5#fatherId-null#cateId-141714#cardId-101002560141714#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-9.555700972676277#logtime-1712403278650#@@realCtrParam:@@productId:1601021626066",
+                                        "deliveryText": "",
+                                        "productId": "1601021626066",
+                                        "titleEn": "Power Wrenches",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1601021626066&cardType=101002560&cardId=101002560141714&categoryIds=1420",
+                                        "price": "$12.00 - $15.00",
+                                        "cardId": "101002560141714",
+                                        "cardType": "101002560",
+                                        "title": "Power Wrenches",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H338c67d81e8f448cabc7a1d9475e5662t.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_2_0#id-62574957936#pos-0#matchType-5#fatherId-null#cateId-141799#cardId-101002560141799#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-8.927127125859261#logtime-1712403278650#@@realCtrParam:@@productId:62574957936",
+                                        "deliveryText": "",
+                                        "productId": "62574957936",
+                                        "titleEn": "Other Power Tools",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=62574957936&cardType=101002560&cardId=101002560141799&categoryIds=1420",
+                                        "price": "$36.00 - $38.50",
+                                        "cardId": "101002560141799",
+                                        "cardType": "101002560",
+                                        "title": "Other Power Tools",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Ha80fd7cbe40748b7bd80e5345b83075dk.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_3_0#id-1600913705887#pos-0#matchType-5#fatherId-null#cateId-14200514#cardId-10100256014200514#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-8.489802038669586#logtime-1712403278650#@@realCtrParam:@@productId:1600913705887",
+                                        "deliveryText": "",
+                                        "productId": "1600913705887",
+                                        "titleEn": "Power Spray Guns",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600913705887&cardType=101002560&cardId=10100256014200514&categoryIds=1420",
+                                        "price": "$99.99 - $109.00",
+                                        "cardId": "10100256014200514",
+                                        "cardType": "101002560",
+                                        "title": "Power Spray Guns",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H68dfef68f319476cb2395639820518f6r.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_4_0#id-1600661161451#pos-0#matchType-5#fatherId-null#cateId-126976089#cardId-101002560126976089#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-8.065244284272193#logtime-1712403278650#@@realCtrParam:@@productId:1600661161451",
+                                        "deliveryText": "",
+                                        "productId": "1600661161451",
+                                        "titleEn": "Power Drills",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600661161451&cardType=101002560&cardId=101002560126976089&categoryIds=1420",
+                                        "price": "$6.50 - $9.75",
+                                        "cardId": "101002560126976089",
+                                        "cardType": "101002560",
+                                        "title": "Power Drills",
+                                        "moq": "5"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hd75566f3dfc14d0da772a636ec93c16e5.png_220x220.png",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-82cceab8-1397-48aa-a4e0-a10587980bff#realPos-0_5_0#id-1600919203776#pos-0#matchType-5#fatherId-null#cateId-145903#cardId-101002560145903#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.420441082119941#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1420_101002560#srcChannel-PC#rankScore-7.79274147254182#logtime-1712403278650#@@realCtrParam:@@productId:1600919203776",
+                                        "deliveryText": "",
+                                        "productId": "1600919203776",
+                                        "titleEn": "Nails",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600919203776&cardType=101002560&cardId=101002560145903&categoryIds=1420",
+                                        "price": "$0.01 - $0.02",
+                                        "cardId": "101002560145903",
+                                        "cardType": "101002560",
+                                        "title": "Nails",
+                                        "moq": "1000"
+                                    }
+                                ],
+                                "subTitle": "",
+                                "title": "Local returns for free"
+                            }
+                        }
+                    },
+                    "floorTitle": "Order now, enjoy Easy Return",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "7714097260",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_1420",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "8851329790",
+                    "prefetchKey": "met",
+                    "path": "/category/products/1420/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240327860539b564732464c",
+                    "requestId": "650891567ddd66a89fb068a242f25ad0",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403278525",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "1ea0bcec8f1df13afe9776c7a2a22a73",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "650891567ddd66a89fb068a242f25ad0",
+                    "spm": "a2700.product_home_newuser.header.1229.2f9d67af20x9kd",
+                    "categoryIds": "1420",
+                    "pvId": "650891567ddd66a89fb068a242f25ad0",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"1420\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "8851329790",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "8610992010",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "9596019080",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "5721321980",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "1617042280",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "8383575650",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "5458968810",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "5740163100",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "4918484030",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687695",
+        "name": "Tools & Hardware ",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240327860539b564732464c",
+        "pageType": 0,
+        "path": "/category/products/1420/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_1420",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Tools & Hardware "
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

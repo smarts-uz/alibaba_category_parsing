@@ -1,0 +1,1082 @@
+{
+    "_pageModuleUUIDList": [
+        "1541570650",
+        "5703110560",
+        "9565366430",
+        "3897015210",
+        "7423314200",
+        "3641398370",
+        "6693973010",
+        "6499601350",
+        "3458102640",
+        "7214823770",
+        "9516771760",
+        "9327501460",
+        "8908721350",
+        "2123050770",
+        "7382928150",
+        "2046522410"
+    ],
+    "customContextParams": {
+        "path": "/category/products/201726502/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403258023 | 0 | 1712403258023",
+        "process": "1712403258267 | 0 | 1712403258267",
+        "preRender": "1712403258023 | 9 | 1712403258032",
+        "assembleModuleData": "1712403258267 | 0 | 1712403258267",
+        "retrieveHtmlAndJson": "1712403257958 | 59 | 1712403258017",
+        "fetch": "1712403258038 | 229 | 1712403258267",
+        "seo": "1712403258023 | 0 | 1712403258023",
+        "preload": "1712403258023 | 0 | 1712403258023",
+        "render": "1712403258267 | 71 | 1712403258338"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i1/O1CN01jCEb8Q1ipBbzy4T0C_!!6000000004461-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201726502",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "1541570650",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201726502/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403258023ed9a7a512c61a",
+                    "requestId": "6b597d827e8def1ec2caf62b8a7914ca",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403257958",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "dd55dc6cc76c347f18a03d602f5e045b",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "6b597d827e8def1ec2caf62b8a7914ca",
+                    "spm": "a2700.product_home_newuser.header.1228.2f9d67af20x9kd",
+                    "categoryIds": "201726502",
+                    "pvId": "6b597d827e8def1ec2caf62b8a7914ca",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "1007",
+                                        "titleEn": "Solar-Energy-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hfd3fb88df0a74cccac7abc77cbfcfcb5O.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1007&SearchText=Solar+Energy+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Solar Energy Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "528",
+                                        "titleEn": "Batteries",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hab610c922b804858a229077f03d8cd816.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=528&SearchText=Batteries&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Batteries",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201729901",
+                                        "titleEn": "Solar-Applications",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5f6e8205935b4560aee566fc71d3b02fx.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201729901&SearchText=Solar+Applications&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Solar Applications",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "202013302",
+                                        "titleEn": "Hydrogen-Energy",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf165ef53114d43ab9ac5019731b19c93X.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202013302&SearchText=Hydrogen+Energy&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Hydrogen Energy",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201722102",
+                                        "titleEn": "Energy-Storage-System",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd66b02aad71949109d3fd7722f4d82baf.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201722102&SearchText=Energy+Storage+System&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Energy Storage System",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201465202",
+                                        "titleEn": "Other-Renewable-Energy",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H19a93462acc84540a46d35fcba7214adS.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201465202&SearchText=Other+Renewable+Energy&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Renewable Energy",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201879307",
+                                        "titleEn": "Wind-Power-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H8feba2e0b8444bb1b4a85ca272c47710V.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201879307&SearchText=Wind+Power+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Wind Power Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201467801",
+                                        "titleEn": "Hydro-Generator",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf8cac835db6149599488fa3db1b02c36d.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201467801&SearchText=Hydro+Generator&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Hydro Generator",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "202013702",
+                                        "titleEn": "Solar-Thermal-Energy",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf165ef53114d43ab9ac5019731b19c93X.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202013702&SearchText=Solar+Thermal+Energy&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Solar Thermal Energy",
+                                        "isLeaf": true
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "201726502",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"201726502\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "201272588",
+                                        "level": "3",
+                                        "titleEn": "Solar-Panels",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb11102172fd846679cbc4180345c1392G.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201272588&SearchText=Solar+Panels&indexArea=product_en&fsb=y&productId=1601011650069",
+                                        "title": "Solar Panels"
+                                    },
+                                    {
+                                        "categoryIds": "201271671",
+                                        "level": "3",
+                                        "titleEn": "Lithium-Ion-Batteries",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd73bbfb359ee46c4a0dfe743e8fb0409o.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201271671&SearchText=Lithium+Ion+Batteries&indexArea=product_en&fsb=y&productId=1600855164855",
+                                        "title": "Lithium Ion Batteries"
+                                    },
+                                    {
+                                        "categoryIds": "201273080",
+                                        "level": "3",
+                                        "titleEn": "Solar-Energy-System",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3bea6c7ad20c42f790979e8e4ea8660df.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201273080&SearchText=Solar+Energy+System&indexArea=product_en&fsb=y&productId=10000012993804",
+                                        "title": "Solar Energy System"
+                                    },
+                                    {
+                                        "categoryIds": "202002202",
+                                        "level": "3",
+                                        "titleEn": "Solar-Refrigerator",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4b2a755a8a88420e9ada02d1f317b674I.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202002202&SearchText=Solar+Refrigerator&indexArea=product_en&fsb=y&productId=1600926589760",
+                                        "title": "Solar Refrigerator"
+                                    },
+                                    {
+                                        "categoryIds": "201727902",
+                                        "level": "3",
+                                        "titleEn": "Solar-Air-Conditioner",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H67fcfd658ea54a35b26d90269367fb53V.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201727902&SearchText=Solar+Air+Conditioner&indexArea=product_en&fsb=y&productId=1600925642611",
+                                        "title": "Solar Air Conditioner"
+                                    },
+                                    {
+                                        "categoryIds": "201725702",
+                                        "level": "3",
+                                        "titleEn": "Solar-Fan",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb6ad3eb9fc73448e9ff6fed6d9b8ee79V.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201725702&SearchText=Solar+Fan&indexArea=product_en&fsb=y&productId=1600914992363",
+                                        "title": "Solar Fan"
+                                    },
+                                    {
+                                        "categoryIds": "201721802",
+                                        "level": "3",
+                                        "titleEn": "Solar-Production-Line",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha109bd7449e64dbbaae9fc9b46cccddfB.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201721802&SearchText=Solar+Production+Line&indexArea=product_en&fsb=y&productId=1600886033642",
+                                        "title": "Solar Production Line"
+                                    },
+                                    {
+                                        "categoryIds": "202009202",
+                                        "level": "3",
+                                        "titleEn": "Sodium-ion-Batteries",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb4438ec753f04d1486318f5664215a85w.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202009202&SearchText=Sodium-ion+Batteries&indexArea=product_en&fsb=y&productId=1600997523589",
+                                        "title": "Sodium-ion Batteries"
+                                    },
+                                    {
+                                        "categoryIds": "201726503",
+                                        "level": "3",
+                                        "titleEn": "Panel-Cleaning-Machine",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H23eba729b09f4a09bc39bc6334714ab53.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201726503&SearchText=Panel+Cleaning+Machine&indexArea=product_en&fsb=y&productId=1600934905062",
+                                        "title": "Panel Cleaning Machine"
+                                    },
+                                    {
+                                        "categoryIds": "202010103",
+                                        "level": "3",
+                                        "titleEn": "Hydrogen-Fuel-Cell",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H62d73e47b3fc4ca2a024c628fc818e3b0.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202010103&SearchText=Hydrogen+Fuel+Cell&indexArea=product_en&fsb=y&productId=1601022661525",
+                                        "title": "Hydrogen Fuel Cell"
+                                    },
+                                    {
+                                        "categoryIds": "201268983",
+                                        "level": "3",
+                                        "titleEn": "Solar-Inverters",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5b24cb5a120749e7ad800bffa7a6483fY.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201268983&SearchText=Solar+Inverters&indexArea=product_en&fsb=y&productId=62216090732",
+                                        "title": "Solar Inverters"
+                                    },
+                                    {
+                                        "categoryIds": "201724502",
+                                        "level": "3",
+                                        "titleEn": "Portable-Power-Stations",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H346f1cfd615c4abb989ae09bb3430775i.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201724502&SearchText=Portable+Power+Stations&indexArea=product_en&fsb=y&productId=1600875011450",
+                                        "title": "Portable Power Stations"
+                                    },
+                                    {
+                                        "categoryIds": "201778102",
+                                        "level": "3",
+                                        "titleEn": "Home-Energy-Storage",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H44458020650d4af5801eb87a7221e594k.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201778102&SearchText=Home+Energy+Storage&indexArea=product_en&fsb=y&productId=1600387837025",
+                                        "title": "Home Energy Storage"
+                                    },
+                                    {
+                                        "categoryIds": "201272862",
+                                        "level": "3",
+                                        "titleEn": "Lead-Acid-Batteries",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc90badc9b6054d36a73bbd605870b335U.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201272862&SearchText=Lead+Acid+Batteries&indexArea=product_en&fsb=y&productId=1600104240869",
+                                        "title": "Lead Acid Batteries"
+                                    },
+                                    {
+                                        "categoryIds": "201267991",
+                                        "level": "3",
+                                        "titleEn": "Solar-Water-Pump",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd0230e94c526460dbfbfe3098f169256V.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201267991&SearchText=Solar+Water+Pump&indexArea=product_en&fsb=y&productId=1600989402099",
+                                        "title": "Solar Water Pump"
+                                    },
+                                    {
+                                        "categoryIds": "201284202",
+                                        "level": "3",
+                                        "titleEn": "Other-Batteries",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5504e991b3574dd1abe86d37b10ee91af.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201284202&SearchText=Other+Batteries&indexArea=product_en&fsb=y&productId=1600449514301",
+                                        "title": "Other Batteries"
+                                    },
+                                    {
+                                        "categoryIds": "201467701",
+                                        "level": "3",
+                                        "titleEn": "Wind-Generators",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8bc9547287b747e0b3c080c365ea55653.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201467701&SearchText=Wind+Generators&indexArea=product_en&fsb=y&productId=1600553669570",
+                                        "title": "Wind Generators"
+                                    },
+                                    {
+                                        "categoryIds": "14191106",
+                                        "level": "3",
+                                        "titleEn": "Uninterruptible-Power-Supplies-UPS-",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc845e6558552488698512c0d973cc6den.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14191106&SearchText=Uninterruptible+Power+Supplies+%28UPS%29&indexArea=product_en&fsb=y&productId=1600903680175",
+                                        "title": "Uninterruptible Power Supplies (UPS)"
+                                    },
+                                    {
+                                        "categoryIds": "201268586",
+                                        "level": "3",
+                                        "titleEn": "Solar-Charge-Controller",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2bcc575c3ada4e07a8ff9033dabdff3ft.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201268586&SearchText=Solar+Charge+Controller&indexArea=product_en&fsb=y&productId=1600414154650",
+                                        "title": "Solar Charge Controller"
+                                    },
+                                    {
+                                        "categoryIds": "201273173",
+                                        "level": "3",
+                                        "titleEn": "Primary-Batteries",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H732a357307c344c29b462dd641a52cc1q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201273173&SearchText=Primary+Batteries&indexArea=product_en&fsb=y&productId=1600719858063",
+                                        "title": "Primary Batteries"
+                                    },
+                                    {
+                                        "categoryIds": "201730601",
+                                        "level": "3",
+                                        "titleEn": "Flexible-Solar-Panels",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He40b081993614bc89d38a5ae15afe5e7J.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201730601&SearchText=Flexible+Solar+Panels&indexArea=product_en&fsb=y&productId=1600067903362",
+                                        "title": "Flexible Solar Panels"
+                                    },
+                                    {
+                                        "categoryIds": "201274667",
+                                        "level": "3",
+                                        "titleEn": "Solar-Mounting-System",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4d226324cd794e5e94af1bef6d734c399.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201274667&SearchText=Solar+Mounting+System&indexArea=product_en&fsb=y&productId=1600524395909",
+                                        "title": "Solar Mounting System"
+                                    },
+                                    {
+                                        "categoryIds": "100799",
+                                        "level": "3",
+                                        "titleEn": "Solar-Related-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H577bb2f209f340bd8667674c2316d0f8T.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100799&SearchText=Solar+Related+Products&indexArea=product_en&fsb=y&productId=1601029730749",
+                                        "title": "Solar Related Products"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "1541570650",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201726502",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "5703110560",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201726502/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403258023ed9a7a512c61a",
+                    "requestId": "49cbb65a6962aa1b9f327b7fd7b7696d",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403257958",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "dd55dc6cc76c347f18a03d602f5e045b",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "49cbb65a6962aa1b9f327b7fd7b7696d",
+                    "spm": "a2700.product_home_newuser.header.1228.2f9d67af20x9kd",
+                    "categoryIds": "201726502",
+                    "pvId": "49cbb65a6962aa1b9f327b7fd7b7696d",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"201726502\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "5703110560",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 920562,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201726502",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "9565366430",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201726502/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403258023ed9a7a512c61a",
+                    "requestId": "0f3014d7b2b8211effa79d7d10a77f09",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403257958",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "dd55dc6cc76c347f18a03d602f5e045b",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "0f3014d7b2b8211effa79d7d10a77f09",
+                    "spm": "a2700.product_home_newuser.header.1228.2f9d67af20x9kd",
+                    "categoryIds": "201726502",
+                    "pvId": "0f3014d7b2b8211effa79d7d10a77f09",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds",
+                            "params": "{\"modelId\":\"10271\",\"offerLimit\":\"3\",\"pageSize\":\"20\",\"cardType\":\"2797001\"}",
+                            "_serverData": {
+                                "modelId": "10583",
+                                "finalModelId": "10583",
+                                "titleEn": "Source by energy application",
+                                "themeGroupList": [
+                                    {
+                                        "titleEn": "Off-grid solar energy systems",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2797001&cardId=2792402&topOfferIds=1600363624489&categoryIds=201726502",
+                                        "backgroundImage": "",
+                                        "cardId": "2792402",
+                                        "subtitle": "",
+                                        "cardType": "2797001",
+                                        "backgroundMiniImage": "",
+                                        "title": "Off-grid solar energy systems",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Hf05d0cbb3cc14f7a8c8248ff7f4b2fc8d.png_220x220.png",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-516bbba1-e03e-41fb-8317-663914f008f9#realPos-0_0_0#id-1600363624489#pos-0#matchType-6#fatherId-null#cateId-201273080#cardId-2792402#feedsId-#newsType-2797001#userTage-6_2_lost#finalScore-2.048573261499405#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_2797001#srcChannel-PC#rankScore-2.6298427402973177#logtime-1712403258068#@@realCtrParam:@@productId:1600363624489",
+                                                "productId": "1600363624489"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Industrial Energy Storage",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2797001&cardId=2991402&topOfferIds=1600414824477&categoryIds=201726502",
+                                        "backgroundImage": "",
+                                        "cardId": "2991402",
+                                        "subtitle": "",
+                                        "cardType": "2797001",
+                                        "backgroundMiniImage": "",
+                                        "title": "Industrial Energy Storage",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H32875c69561a44ebafe67d92d297d645T.png_220x220.png",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-516bbba1-e03e-41fb-8317-663914f008f9#realPos-0_1_0#id-1600414824477#pos-0#matchType-6#fatherId-null#cateId-201272588#cardId-2991402#feedsId-138488134#newsType-2797001#userTage-6_2_lost#finalScore-2.048573261499405#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId--1_2797001#srcChannel-PC#rankScore-1.8732861816883086#logtime-1712403258068#@@realCtrParam:@@productId:1600414824477",
+                                                "productId": "1600414824477"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Solar gadgets",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2797001&cardId=2797601&topOfferIds=62098999356&categoryIds=201726502",
+                                        "backgroundImage": "",
+                                        "cardId": "2797601",
+                                        "subtitle": "",
+                                        "cardType": "2797001",
+                                        "backgroundMiniImage": "",
+                                        "title": "Solar gadgets",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H3af06242e8d9473dbf488cbe35c7387dw.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-516bbba1-e03e-41fb-8317-663914f008f9#realPos-0_2_0#id-62098999356#pos-0#matchType-13#fatherId-null#cateId-201730001#cardId-2797601#feedsId-#newsType-2797001#userTage-6_2_lost#finalScore-2.048573261499405#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-903633602_0#srcChannel-PC#rankScore-1.6425908625125885#logtime-1712403258068#@@realCtrParam:@@productId:62098999356",
+                                                "productId": "62098999356"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Home energy storage systems",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2797001&cardId=2797202&topOfferIds=1600442338209&categoryIds=201726502",
+                                        "backgroundImage": "",
+                                        "cardId": "2797202",
+                                        "subtitle": "",
+                                        "cardType": "2797001",
+                                        "backgroundMiniImage": "",
+                                        "title": "Home energy storage systems",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/H2eb0723105f0466285eb8161b7e0cd44s.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-516bbba1-e03e-41fb-8317-663914f008f9#realPos-0_3_0#id-1600442338209#pos-0#matchType-13#fatherId-null#cateId-201778102#cardId-2797202#feedsId-#newsType-2797001#userTage-6_2_lost#finalScore-2.048573261499405#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-902911077_0#srcChannel-PC#rankScore-1.5857387125492095#logtime-1712403258068#@@realCtrParam:@@productId:1600442338209",
+                                                "productId": "1600442338209"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Portable power stations",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2797001&cardId=2797401&topOfferIds=62578303810&categoryIds=201726502",
+                                        "backgroundImage": "",
+                                        "cardId": "2797401",
+                                        "subtitle": "",
+                                        "cardType": "2797001",
+                                        "backgroundMiniImage": "",
+                                        "title": "Portable power stations",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/Habfec733419b48648af231e21b5205aaO.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-516bbba1-e03e-41fb-8317-663914f008f9#realPos-0_4_0#id-62578303810#pos-0#matchType-13#fatherId-null#cateId-201724502#cardId-2797401#feedsId-#newsType-2797001#userTage-6_2_lost#finalScore-2.048573261499405#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-902700625_0#srcChannel-PC#rankScore-1.287882885336876#logtime-1712403258068#@@realCtrParam:@@productId:62578303810",
+                                                "productId": "62578303810"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    },
+                                    {
+                                        "titleEn": "Wind-solar hybrid systems",
+                                        "venueUrl": "https://sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=2797001&cardId=2797201&topOfferIds=60723358841&categoryIds=201726502",
+                                        "backgroundImage": "",
+                                        "cardId": "2797201",
+                                        "subtitle": "",
+                                        "cardType": "2797001",
+                                        "backgroundMiniImage": "",
+                                        "title": "Wind-solar hybrid systems",
+                                        "subtitleEn": "",
+                                        "productList": [
+                                            {
+                                                "image": "https://s.alicdn.com/@sc04/kf/HTB1otjyXirxK1RkHFCcq6AQCVXaR.jpg_220x220.jpg",
+                                                "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-516bbba1-e03e-41fb-8317-663914f008f9#realPos-0_5_0#id-60723358841#pos-0#matchType-13#fatherId-null#cateId-201884108#cardId-2797201#feedsId-#newsType-2797001#userTage-6_2_lost#finalScore-2.048573261499405#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-903239001_0#srcChannel-PC#rankScore-1.269134697318077#logtime-1712403258068#@@realCtrParam:@@productId:60723358841",
+                                                "productId": "60723358841"
+                                            }
+                                        ],
+                                        "templateUrl": "https://m-sale.alibaba.com/category/theme/index.html?wx_navbar_transparent=true&path=/category/theme/index.html&ncms_spm=a27aq.27059075&prefetchKey=met&cardType=#{cardType}&cardId=#{cardId}&topOfferIds=#{topOfferIds}&categoryIds=#{firstCategoryIds}"
+                                    }
+                                ],
+                                "needRender": "true",
+                                "title": "Source by energy application"
+                            }
+                        }
+                    ]
+                }
+            },
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "9565366430",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "3897015210",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "7423314200",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3641398370",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 930857,
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "6693973010",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "6499601350",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3458102640",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 879041,
+            "fullName": "@ali/alimod-new-energy-tool",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-new-energy-tool",
+            "settings": {},
+            "uuid": "7214823770",
+            "version": "1.0.6"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "9516771760",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "9327501460",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "8908721350",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "2123050770",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "7382928150",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "2046522410",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687700",
+        "name": "Renewable Energy",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "01234567890000001712403258023ed9a7a512c61a",
+        "pageType": 0,
+        "path": "/category/products/201726502/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_201726502",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Renewable Energy"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

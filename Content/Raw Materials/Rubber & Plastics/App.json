@@ -1,0 +1,914 @@
+{
+    "_pageModuleUUIDList": [
+        "9626491930",
+        "9167240380",
+        "5201330290",
+        "7984177030",
+        "2937964070",
+        "3931521880",
+        "7093102600",
+        "2341227550",
+        "1326373700",
+        "7764393530",
+        "8896186570",
+        "9401698400"
+    ],
+    "customContextParams": {
+        "path": "/category/products/80/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403757021 | 0 | 1712403757021",
+        "process": "1712403757114 | 0 | 1712403757114",
+        "preRender": "1712403757021 | 8 | 1712403757029",
+        "assembleModuleData": "1712403757114 | 0 | 1712403757114",
+        "retrieveHtmlAndJson": "1712403756897 | 118 | 1712403757015",
+        "fetch": "1712403757035 | 79 | 1712403757114",
+        "seo": "1712403757021 | 0 | 1712403757021",
+        "preload": "1712403757021 | 0 | 1712403757021",
+        "render": "1712403757114 | 69 | 1712403757183"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i2/O1CN01fCrjUJ1eakfRe3yqO_!!6000000003888-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_80",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "9626491930",
+                    "prefetchKey": "met",
+                    "path": "/category/products/80/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403757021375933c34e7d3",
+                    "requestId": "3cdd3c51aabfe02930d7b3db1a2eff4a",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403756897",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "0e2a7137cfb3798c21bd442c02767fbf",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "3cdd3c51aabfe02930d7b3db1a2eff4a",
+                    "spm": "a2700.product_home_newuser.header.2831.2f9d67af20x9kd",
+                    "categoryIds": "80",
+                    "pvId": "3cdd3c51aabfe02930d7b3db1a2eff4a",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "8005",
+                                        "titleEn": "Plastic-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H94d2e71c9b0549afad4a7670bae9f3bdn.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=8005&SearchText=Plastic+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Plastic Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "8008",
+                                        "titleEn": "Recycled-Plastic",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9f88328193f6405686d0f49f838e0a367.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=8008&SearchText=Recycled+Plastic&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Recycled Plastic",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "8009",
+                                        "titleEn": "Recycled-Rubber",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H69d3b71fb85841609888561c984dc687Q.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=8009&SearchText=Recycled+Rubber&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Recycled Rubber",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "808",
+                                        "titleEn": "Rubber-Raw-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb90fff7453674d42b9a217ad86243dd4X.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=808&SearchText=Rubber+Raw+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Rubber Raw Materials",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "807",
+                                        "titleEn": "Plastic-Raw-Materials",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H468e21fa5519449a8bf8a741b9989261y.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=807&SearchText=Plastic+Raw+Materials&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Plastic Raw Materials",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "8012",
+                                        "titleEn": "Rubber-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5130604fff4a44e6a719a203e7939509G.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=8012&SearchText=Rubber+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Rubber Products",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "8006",
+                                        "titleEn": "Plastic-Projects",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf54c030e30554cbab59e2835b4c3d76e5.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=8006&SearchText=Plastic+Projects&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Plastic Projects",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "8007",
+                                        "titleEn": "Plastic-Stocks",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He5660a09ab864af981034ee619bdb6fe5.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=8007&SearchText=Plastic+Stocks&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Plastic Stocks",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "8013",
+                                        "titleEn": "Rubber-Projects",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2d756a0ddd5b4bcbbfd7fcb4999f888ad.png\tH2d756a0ddd5b4bcbbfd7fcb4999f888ad.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=8013&SearchText=Rubber+Projects&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Rubber Projects",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "8014",
+                                        "titleEn": "Rubber-Stock",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha43dda4414884159b25a40046cc6989c0.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=8014&SearchText=Rubber+Stock&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Rubber Stock",
+                                        "isLeaf": true
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "80",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"80\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "800509",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Rods",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H426046a129334d9eb86c936b79f647cfh.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=800509&SearchText=Plastic+Rods&indexArea=product_en&fsb=y&productId=1600486435860",
+                                        "title": "Plastic Rods"
+                                    },
+                                    {
+                                        "categoryIds": "8008",
+                                        "level": "2",
+                                        "titleEn": "Recycled-Plastic",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A38e157971c0441b9a2a73944f02828eeD.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=8008&SearchText=Recycled+Plastic&indexArea=product_en&fsb=y&productId=1600923222328",
+                                        "title": "Recycled Plastic"
+                                    },
+                                    {
+                                        "categoryIds": "8009",
+                                        "level": "2",
+                                        "titleEn": "Recycled-Rubber",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ae41f23bdc0924b8b88f420e0f83b7ddbn.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=8009&SearchText=Recycled+Rubber&indexArea=product_en&fsb=y&productId=1600928756484",
+                                        "title": "Recycled Rubber"
+                                    },
+                                    {
+                                        "categoryIds": "80807",
+                                        "level": "3",
+                                        "titleEn": "Neoprene",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H803855287cda44538aacbd8acb1ea5d8V.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=80807&SearchText=Neoprene&indexArea=product_en&fsb=y&productId=1600517230468",
+                                        "title": "Neoprene"
+                                    },
+                                    {
+                                        "categoryIds": "807003",
+                                        "level": "4",
+                                        "titleEn": "EPS",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3ee0e46764e146a5a02873b057194c2cM.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=807003&SearchText=EPS&indexArea=product_en&fsb=y&productId=1600792297659",
+                                        "title": "EPS"
+                                    },
+                                    {
+                                        "categoryIds": "800508",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Sheets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8f87e2dc6c6e4fd3998e14c125529539G.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=800508&SearchText=Plastic+Sheets&indexArea=product_en&fsb=y&productId=62444527616",
+                                        "title": "Plastic Sheets"
+                                    },
+                                    {
+                                        "categoryIds": "807012",
+                                        "level": "4",
+                                        "titleEn": "PET",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A883254f45c6240389bdde81b0546d912E.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=807012&SearchText=PET&indexArea=product_en&fsb=y&productId=11000003913616",
+                                        "title": "PET"
+                                    },
+                                    {
+                                        "categoryIds": "807005",
+                                        "level": "4",
+                                        "titleEn": "HDPE",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ab777623c060e4c178480bf537e7bdf47W.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=807005&SearchText=HDPE&indexArea=product_en&fsb=y&productId=1601030169856",
+                                        "title": "HDPE"
+                                    },
+                                    {
+                                        "categoryIds": "800507",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Nets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1ceb28c9a5b945f58279bcf4166c8b7ck.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=800507&SearchText=Plastic+Nets&indexArea=product_en&fsb=y&productId=1600868753274",
+                                        "title": "Plastic Nets"
+                                    },
+                                    {
+                                        "categoryIds": "801208",
+                                        "level": "3",
+                                        "titleEn": "Rubber-Sheets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1648039a8a7e4bfbaec102dcacec533aR.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=801208&SearchText=Rubber+Sheets&indexArea=product_en&fsb=y&productId=1600992698252",
+                                        "title": "Rubber Sheets"
+                                    },
+                                    {
+                                        "categoryIds": "801299",
+                                        "level": "3",
+                                        "titleEn": "Other-Rubber-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H52c6ea365621448db2279c75795a901ek.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=801299&SearchText=Other+Rubber+Products&indexArea=product_en&fsb=y&productId=1600541330811",
+                                        "title": "Other Rubber Products"
+                                    },
+                                    {
+                                        "categoryIds": "800599",
+                                        "level": "3",
+                                        "titleEn": "Other-Plastic-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Head939bbc54d45859fba29813ba1958cg.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=800599&SearchText=Other+Plastic+Products&indexArea=product_en&fsb=y&productId=1600543378088",
+                                        "title": "Other Plastic Products"
+                                    },
+                                    {
+                                        "categoryIds": "801209",
+                                        "level": "3",
+                                        "titleEn": "Rubber-Hoses",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H625c8105938644a0bc00d6ba227403d4L.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=801209&SearchText=Rubber+Hoses&indexArea=product_en&fsb=y&productId=1600252602178",
+                                        "title": "Rubber Hoses"
+                                    },
+                                    {
+                                        "categoryIds": "80812",
+                                        "level": "3",
+                                        "titleEn": "Silicone-Rubber",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Haf71dd7707a245608228f71ec8861fe37.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=80812&SearchText=Silicone+Rubber&indexArea=product_en&fsb=y&productId=1600444037569",
+                                        "title": "Silicone Rubber"
+                                    },
+                                    {
+                                        "categoryIds": "800504",
+                                        "level": "3",
+                                        "titleEn": "Agricultural-Plastic-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha3845396633140cabd4239ae3a7b88391.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=800504&SearchText=Agricultural+Plastic+Products&indexArea=product_en&fsb=y&productId=1600739925688",
+                                        "title": "Agricultural Plastic Products"
+                                    },
+                                    {
+                                        "categoryIds": "801202",
+                                        "level": "3",
+                                        "titleEn": "Automotive-Rubber",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He10102d2fc3c4c55ae23282d08a3e8c91.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=801202&SearchText=Automotive+Rubber&indexArea=product_en&fsb=y&productId=1600899661109",
+                                        "title": "Automotive Rubber"
+                                    },
+                                    {
+                                        "categoryIds": "807015",
+                                        "level": "4",
+                                        "titleEn": "PP",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Haf8b64e9b3684eada95c883de7548f7fI.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=807015&SearchText=PP&indexArea=product_en&fsb=y&productId=1600954540608",
+                                        "title": "PP"
+                                    },
+                                    {
+                                        "categoryIds": "801207",
+                                        "level": "3",
+                                        "titleEn": "Rubber-Belts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7d8ed58ff87d4fd5a705f75b6f59749cB.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=801207&SearchText=Rubber+Belts&indexArea=product_en&fsb=y&productId=60613104044",
+                                        "title": "Rubber Belts"
+                                    },
+                                    {
+                                        "categoryIds": "807001",
+                                        "level": "3",
+                                        "titleEn": "Plastic-Masterbatches",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H13f6580ea98b40ee80deb478e0fdff9eN.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=807001&SearchText=Plastic+Masterbatches&indexArea=product_en&fsb=y&productId=1600271915403",
+                                        "title": "Plastic Masterbatches"
+                                    },
+                                    {
+                                        "categoryIds": "807099",
+                                        "level": "3",
+                                        "titleEn": "Other-Plastic-Raw-Materials",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H57a087c9522f4ad1bc635b322fdafd2cn.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=807099&SearchText=Other+Plastic+Raw+Materials&indexArea=product_en&fsb=y&productId=1600061981314",
+                                        "title": "Other Plastic Raw Materials"
+                                    },
+                                    {
+                                        "categoryIds": "807019",
+                                        "level": "4",
+                                        "titleEn": "PTFE",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H090dd1060af24ce98cfc64d360b786afO.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=807019&SearchText=PTFE&indexArea=product_en&fsb=y&productId=1600986380889",
+                                        "title": "PTFE"
+                                    },
+                                    {
+                                        "categoryIds": "807020",
+                                        "level": "4",
+                                        "titleEn": "PVC",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd57d6cd758714c488d616b618d93666cd.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=807020&SearchText=PVC&indexArea=product_en&fsb=y&productId=1600339831796",
+                                        "title": "PVC"
+                                    },
+                                    {
+                                        "categoryIds": "801204",
+                                        "level": "3",
+                                        "titleEn": "Household-Rubber",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3556bd75a11c4891bb58a5921cf399afX.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=801204&SearchText=Household+Rubber&indexArea=product_en&fsb=y&productId=60729019416",
+                                        "title": "Household Rubber"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "9626491930",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 930857,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_80",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "9167240380",
+                    "prefetchKey": "met",
+                    "path": "/category/products/80/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403757021375933c34e7d3",
+                    "requestId": "d02d4c4f8f152b753ded76d9701ee081",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403756897",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "0e2a7137cfb3798c21bd442c02767fbf",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "d02d4c4f8f152b753ded76d9701ee081",
+                    "spm": "a2700.product_home_newuser.header.2831.2f9d67af20x9kd",
+                    "categoryIds": "80",
+                    "pvId": "d02d4c4f8f152b753ded76d9701ee081",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "requestCommon": {
+                        "_fdl_request_cardList": {
+                            "params": "{\"cardType\":\"101002736\",\"categoryIds\":\"80\",\"modelId\":\"11134\"}",
+                            "_serverData": {
+                                "bucket": "false",
+                                "cardList": []
+                            }
+                        }
+                    },
+                    "floorTitle": "Expert-curated hot picks"
+                }
+            },
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "9167240380",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_80",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "5201330290",
+                    "prefetchKey": "met",
+                    "path": "/category/products/80/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403757021375933c34e7d3",
+                    "requestId": "a078f6e07515f30e76608398ef92c845",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403756897",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "0e2a7137cfb3798c21bd442c02767fbf",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "a078f6e07515f30e76608398ef92c845",
+                    "spm": "a2700.product_home_newuser.header.2831.2f9d67af20x9kd",
+                    "categoryIds": "80",
+                    "pvId": "a078f6e07515f30e76608398ef92c845",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "countryListText": "US,CA,UK,GB,DK,ZA,DE,ES,FR,AU,RU,IL,BR,IT,SA,NL,PL,AE,KR,PT,CL,BE,JP,MX,UA,CZ,CH",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002560\",\"categoryIds\":\"80\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "cardList": []
+                            }
+                        }
+                    },
+                    "floorTitle": "Order now, enjoy Easy Return",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "5201330290",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "7984177030",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "2937964070",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "3931521880",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "7093102600",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "2341227550",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "1326373700",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "7764393530",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "8896186570",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "9401698400",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1688970",
+        "name": "Rubber & Plastics",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "01234567890000001712403757021375933c34e7d3",
+        "pageType": 0,
+        "path": "/category/products/80/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_80",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Rubber & Plastics"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

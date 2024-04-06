@@ -1,0 +1,1094 @@
+{
+    "_pageModuleUUIDList": [
+        "6590955380",
+        "4905858310",
+        "6458043110",
+        "8336287070",
+        "8353432600",
+        "2233400050",
+        "1607502960",
+        "8636029530",
+        "1917166290",
+        "9147300130",
+        "9365739390"
+    ],
+    "customContextParams": {
+        "path": "/category/products/43/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712404140432 | 0 | 1712404140432",
+        "process": "1712404140539 | 0 | 1712404140539",
+        "preRender": "1712404140432 | 8 | 1712404140440",
+        "assembleModuleData": "1712404140539 | 0 | 1712404140539",
+        "retrieveHtmlAndJson": "1712404140294 | 132 | 1712404140426",
+        "fetch": "1712404140461 | 78 | 1712404140539",
+        "seo": "1712404140432 | 0 | 1712404140432",
+        "preload": "1712404140432 | 0 | 1712404140432",
+        "render": "1712404140539 | 80 | 1712404140619"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i1/O1CN01fKea2q1DgFnaPGCN6_!!6000000000245-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_43",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "6590955380",
+                    "prefetchKey": "met",
+                    "path": "/category/products/43/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240414043225c6941f18abe",
+                    "requestId": "7ca39adff07d38e7a13d6472ef471793",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712404140293",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "dacd103000a35803c6e056aba12aa596",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "7ca39adff07d38e7a13d6472ef471793",
+                    "spm": "a2700.product_home_l0.home_header.48.2ce267afNS401a",
+                    "categoryIds": "43",
+                    "pvId": "7ca39adff07d38e7a13d6472ef471793",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "100010705",
+                                        "titleEn": "Cleaning-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha4c85d89e8d244aca9e004c9f3096506n.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010705&SearchText=Cleaning+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Cleaning Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100010631",
+                                        "titleEn": "Agricultural-Machinery-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf5bc35078c81430b85ec34e98e754ad3n.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010631&SearchText=Agricultural+Machinery+%26+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Agricultural Machinery & Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1431",
+                                        "titleEn": "Woodworking-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He3e23ddcda2b4750a108ef9c2fe2e4aeZ.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1431&SearchText=Woodworking+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Woodworking Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100010667",
+                                        "titleEn": "Industry-Laser-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0f3deae2022e4cfb8e091a1f312fc9f4I.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010667&SearchText=Industry+Laser+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Industry Laser Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100010652",
+                                        "titleEn": "Apparel-Textile-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha46e59cb136e4d8eacafbd501bdeab59W.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010652&SearchText=Apparel+%26+Textile+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Apparel & Textile Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201940603",
+                                        "titleEn": "Used-Industrial-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H461fc5fbe2334f6881cbabd633745f72H.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201940603&SearchText=Used+Industrial+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Used Industrial Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1530",
+                                        "titleEn": "Home-Product-Manufacturing-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hdf51fb4d164445139bf7b0b350ddf659h.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1530&SearchText=Home+Product+Manufacturing+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Home Product Manufacturing Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1408",
+                                        "titleEn": "Electronic-Products-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H7075539857f645809b44664f758bcb47E.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1408&SearchText=Electronic+Products+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Electronic Products Machinery",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "1426",
+                                        "titleEn": "Metal-Metallurgy-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Heb96d33516374cd3922e49878a5dd835j.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1426&SearchText=Metal+%26+Metallurgy+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Metal & Metallurgy Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1440",
+                                        "titleEn": "Welding-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hebee56d3a302467f9d7a32bb049225f9i.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1440&SearchText=Welding+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Welding Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201199102",
+                                        "titleEn": "Industrial-Compressors-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H821993879bae44aabd3172a2ec870991M.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201199102&SearchText=Industrial+Compressors+%26+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Industrial Compressors & Parts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201721505",
+                                        "titleEn": "Production-Line",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H564b96cc26534e3a8f4f58fe9c9b74056.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201721505&SearchText=Production+Line&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Production Line",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100010695",
+                                        "titleEn": "Printing-Machine",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hbe24499e4576459dbbf796a24f8ee915P.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010695&SearchText=Printing+Machine&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Printing Machine",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100010696",
+                                        "titleEn": "Paper-Production-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/HTB1a0KCOXYqK1RjSZLeq6zXppXag.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010696&SearchText=Paper+Production+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Paper Production Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100010697",
+                                        "titleEn": "Plastic-Rubber-Processing-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H8bf74fb16b6a4d15ae3feb0480eba08bD.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010697&SearchText=Plastic+%26+Rubber+Processing+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Plastic & Rubber Processing Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100010668",
+                                        "titleEn": "Packaging-Machines",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H30d1591b0ecf44ed89b1b75dcb46ad8ex.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010668&SearchText=Packaging+Machines&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Packaging Machines",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100010655",
+                                        "titleEn": "Chemical-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hfe5b21644f81467ebed2e0043e8b87b4k.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010655&SearchText=Chemical+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Chemical Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "4002",
+                                        "titleEn": "Electronics-Production-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H71c6f4f9b6d246c8b898a0fe4566cb0ci.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=4002&SearchText=Electronics+Production+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Electronics Production Machinery",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "4399",
+                                        "titleEn": "Other-Machinery-Industrial-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H7c3b0a57ea3b44d4807a2b29b1fe9f1bm.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=4399&SearchText=Other+Machinery+%26+Industrial+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Machinery & Industrial Equipment",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "201152510",
+                                        "titleEn": "Environmental-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hcc9126c8214a4f1990015e8cfbd6b030i.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201152510&SearchText=Environmental+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Environmental Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201150607",
+                                        "titleEn": "Machinery-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Haa1e1a3e3ed7444aab92ffc965318796U.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201150607&SearchText=Machinery+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Machinery Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201336403",
+                                        "titleEn": "Tobacco-Cigarette-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H22317ca3a71141099708e6e32fe20fca9.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201336403&SearchText=Tobacco+%26+Cigarette+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Tobacco & Cigarette Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201154706",
+                                        "titleEn": "Machinery-Service",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hfb02840ea24b44e78ad8ef17a79b15bas.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201154706&SearchText=Machinery+Service&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Machinery Service",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "127726101",
+                                        "titleEn": "Industrial-Robots",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H6a807e399b23421dba3fe1f4f2443d8dg.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726101&SearchText=Industrial+Robots&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Industrial Robots",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100007236",
+                                        "titleEn": "Food-Beverage-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5b7538eaf14c4494be1791e92b5d5b4bJ.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007236&SearchText=Food+%26+Beverage+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Food & Beverage Machinery",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100007188",
+                                        "titleEn": "Machine-Tool-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H577acda90dac447f983cab9659c58af0R.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007188&SearchText=Machine+Tool+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Machine Tool Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100007142",
+                                        "titleEn": "Refrigeration-Heat-Exchange-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/HTB1..OFObrpK1RjSZTEq6AWAVXay.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007142&SearchText=Refrigeration+%26+Heat+Exchange+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Refrigeration & Heat Exchange Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201191801",
+                                        "titleEn": "Electrical-Equipment-Manufacturing-Machinery",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2bfe8ce70b864ee88194fc03a88b6bb4Q.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201191801&SearchText=Electrical+Equipment+Manufacturing+Machinery&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Electrical Equipment Manufacturing Machinery",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "43",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"43\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "1418",
+                                        "level": "3",
+                                        "titleEn": "Cleaning-Equipment-Parts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3b8af3c5c30e4be8af7fe6ad501a329fh.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1418&SearchText=Cleaning+Equipment+Parts&indexArea=product_en&fsb=y&productId=1600897123524",
+                                        "title": "Cleaning Equipment Parts"
+                                    },
+                                    {
+                                        "categoryIds": "12808",
+                                        "level": "3",
+                                        "titleEn": "Tractors",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6b771ec629284ac79b5da69a30787ec2B.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=12808&SearchText=Tractors&indexArea=product_en&fsb=y&productId=1600430003257",
+                                        "title": "Tractors"
+                                    },
+                                    {
+                                        "categoryIds": "100007229",
+                                        "level": "3",
+                                        "titleEn": "Wood-Routers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8bd7e4e1c55149eea127aee0f129b9744.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007229&SearchText=Wood+Routers&indexArea=product_en&fsb=y&productId=1600395628595",
+                                        "title": "Wood Routers"
+                                    },
+                                    {
+                                        "categoryIds": "144004",
+                                        "level": "3",
+                                        "titleEn": "Laser-Welders",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H754e4f7569a54b658489efe2dadfbc19u.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=144004&SearchText=Laser+Welders&indexArea=product_en&fsb=y&productId=1600912485574",
+                                        "title": "Laser Welders"
+                                    },
+                                    {
+                                        "categoryIds": "100010749",
+                                        "level": "3",
+                                        "titleEn": "Laser-Cutting-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H070fce1120954306a72f902255c4fc0eo.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010749&SearchText=Laser+Cutting+Machines&indexArea=product_en&fsb=y&productId=1600132361158",
+                                        "title": "Laser Cutting Machines"
+                                    },
+                                    {
+                                        "categoryIds": "100010723",
+                                        "level": "4",
+                                        "titleEn": "Rhinestone-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H33119ec328d24a5cae7723b75a7eb912b.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010723&SearchText=Rhinestone+Machines&indexArea=product_en&fsb=y&productId=1601018331248",
+                                        "title": "Rhinestone Machines"
+                                    },
+                                    {
+                                        "categoryIds": "201730402",
+                                        "level": "4",
+                                        "titleEn": "Used-Knitting-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H56179ea0e37e4f1a84fef4883622efc5x.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201730402&SearchText=Used+Knitting+Machines&indexArea=product_en&fsb=y&productId=1600336493467",
+                                        "title": "Used Knitting Machines"
+                                    },
+                                    {
+                                        "categoryIds": "33001",
+                                        "level": "4",
+                                        "titleEn": "Button-Making-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0f0e3039ea044fbda1d6fe5e7959eb51W.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=33001&SearchText=Button+Making+Machines&indexArea=product_en&fsb=y&productId=758184352",
+                                        "title": "Button Making Machines"
+                                    },
+                                    {
+                                        "categoryIds": "13104",
+                                        "level": "3",
+                                        "titleEn": "Egg-Incubators",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9490149221c8475e920b41011c8f7ee5l.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=13104&SearchText=Egg+Incubators&indexArea=product_en&fsb=y&productId=1600436432230",
+                                        "title": "Egg Incubators"
+                                    },
+                                    {
+                                        "categoryIds": "153003",
+                                        "level": "3",
+                                        "titleEn": "Toothpick-Making-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd34fc41f10294700b1806bc94c7c5579Y.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=153003&SearchText=Toothpick+Making+Machines&indexArea=product_en&fsb=y&productId=1600548149137",
+                                        "title": "Toothpick Making Machines"
+                                    },
+                                    {
+                                        "categoryIds": "100010776",
+                                        "level": "3",
+                                        "titleEn": "Inkjet-Printers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A2450bdf0812a4d05b50cc715dac3cd32c.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010776&SearchText=Inkjet+Printers&indexArea=product_en&fsb=y&productId=11000005781256",
+                                        "title": "Inkjet Printers"
+                                    },
+                                    {
+                                        "categoryIds": "201150405",
+                                        "level": "4",
+                                        "titleEn": "Other-Snack-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H76fc5e2a3af94f679fba813d4d71ff284.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201150405&SearchText=Other+Snack+Machines&indexArea=product_en&fsb=y&productId=1601062625408",
+                                        "title": "Other Snack Machines"
+                                    },
+                                    {
+                                        "categoryIds": "100010756",
+                                        "level": "3",
+                                        "titleEn": "Filling-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H77cb5fbee2c14fdcbc72e8d46dbdefc7z.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010756&SearchText=Filling+Machines&indexArea=product_en&fsb=y&productId=1600378890019",
+                                        "title": "Filling Machines"
+                                    },
+                                    {
+                                        "categoryIds": "329",
+                                        "level": "4",
+                                        "titleEn": "Sewing-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb60ad657321e4df89d8eab7e89c24e61g.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=329&SearchText=Sewing+Machines&indexArea=product_en&fsb=y&productId=60100209941",
+                                        "title": "Sewing Machines"
+                                    },
+                                    {
+                                        "categoryIds": "100010770",
+                                        "level": "3",
+                                        "titleEn": "Multi-Function-Packaging-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf83faaeb1783425ea488733f3ede528eh.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010770&SearchText=Multi-Function+Packaging+Machines&indexArea=product_en&fsb=y&productId=1600344093395",
+                                        "title": "Multi-Function Packaging Machines"
+                                    },
+                                    {
+                                        "categoryIds": "1101",
+                                        "level": "3",
+                                        "titleEn": "Water-Treatment-Machinery",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hde79f6b0601948d5b1c358dd15b5dbaaV.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1101&SearchText=Water+Treatment+Machinery&indexArea=product_en&fsb=y&productId=1600622769542",
+                                        "title": "Water Treatment Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "100010780",
+                                        "level": "3",
+                                        "titleEn": "Heat-Press-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5293c1a0c8a646048e5d0f82280f18c80.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010780&SearchText=Heat+Press+Machines&indexArea=product_en&fsb=y&productId=1600302921273",
+                                        "title": "Heat Press Machines"
+                                    },
+                                    {
+                                        "categoryIds": "1430",
+                                        "level": "4",
+                                        "titleEn": "Machinery-Engine-Parts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H94bc1bd565de48daa019e68054e0dc92Q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1430&SearchText=Machinery+Engine+Parts&indexArea=product_en&fsb=y&productId=1600994904927",
+                                        "title": "Machinery Engine Parts"
+                                    },
+                                    {
+                                        "categoryIds": "202022601",
+                                        "level": "3",
+                                        "titleEn": "DTF-Printer",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H04e49c91dd5b44ccb7737e0150fa725cF.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202022601&SearchText=DTF+Printer&indexArea=product_en&fsb=y&productId=1600492332302",
+                                        "title": "DTF Printer"
+                                    },
+                                    {
+                                        "categoryIds": "12802",
+                                        "level": "3",
+                                        "titleEn": "Cultivators",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdc5e35ae9abf45fb9b6e2f7e8bbad68d7.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=12802&SearchText=Cultivators&indexArea=product_en&fsb=y&productId=1600967510378",
+                                        "title": "Cultivators"
+                                    },
+                                    {
+                                        "categoryIds": "33003",
+                                        "level": "4",
+                                        "titleEn": "Embroidery-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8475a58227954a39b9c80f9bc9a4525ag.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=33003&SearchText=Embroidery+Machines&indexArea=product_en&fsb=y&productId=1600519067780",
+                                        "title": "Embroidery Machines"
+                                    },
+                                    {
+                                        "categoryIds": "100007305",
+                                        "level": "3",
+                                        "titleEn": "Feed-Processing-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha9d0e09006bb4a45a919c1b580c0054c3.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007305&SearchText=Feed+Processing+Machines&indexArea=product_en&fsb=y&productId=1600685287915",
+                                        "title": "Feed Processing Machines"
+                                    },
+                                    {
+                                        "categoryIds": "100010765",
+                                        "level": "3",
+                                        "titleEn": "Sealing-Machines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc9c74c498c914e45b95f20232d370e5bM.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010765&SearchText=Sealing+Machines&indexArea=product_en&fsb=y&productId=1600327894886",
+                                        "title": "Sealing Machines"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "6590955380",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_43",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "4905858310",
+                    "prefetchKey": "met",
+                    "path": "/category/products/43/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240414043225c6941f18abe",
+                    "requestId": "00737e049f72010f363dfe4fde38efa2",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712404140293",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "dacd103000a35803c6e056aba12aa596",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "00737e049f72010f363dfe4fde38efa2",
+                    "spm": "a2700.product_home_l0.home_header.48.2ce267afNS401a",
+                    "categoryIds": "43",
+                    "pvId": "00737e049f72010f363dfe4fde38efa2",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"43\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "4905858310",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 930857,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_43",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "6458043110",
+                    "prefetchKey": "met",
+                    "path": "/category/products/43/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240414043225c6941f18abe",
+                    "requestId": "c31b7fd8e86ba2a6380f7ad842da4600",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712404140293",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "dacd103000a35803c6e056aba12aa596",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "c31b7fd8e86ba2a6380f7ad842da4600",
+                    "spm": "a2700.product_home_l0.home_header.48.2ce267afNS401a",
+                    "categoryIds": "43",
+                    "pvId": "c31b7fd8e86ba2a6380f7ad842da4600",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "requestCommon": {
+                        "_fdl_request_cardList": {
+                            "params": "{\"cardType\":\"101002736\",\"categoryIds\":\"43\",\"modelId\":\"11134\"}",
+                            "_serverData": {
+                                "bucket": "false",
+                                "cardList": []
+                            }
+                        }
+                    },
+                    "floorTitle": "Expert-curated hot picks"
+                }
+            },
+            "fullName": "@ali/alimod-industry-rank-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-rank-floor",
+            "settings": {},
+            "uuid": "6458043110",
+            "version": "1.0.1"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "8336287070",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "8353432600",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "2233400050",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "1607502960",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "8636029530",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "1917166290",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "9147300130",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "9365739390",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687713",
+        "name": "Machinery",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240414043225c6941f18abe",
+        "pageType": 0,
+        "path": "/category/products/43/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_43",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Machinery"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

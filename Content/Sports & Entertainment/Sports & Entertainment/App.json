@@ -1,0 +1,1132 @@
+{
+    "_pageModuleUUIDList": [
+        "5385421380",
+        "3125155510",
+        "8321335470",
+        "7671292270",
+        "9070605040",
+        "7093514500",
+        "3532167160",
+        "7833867290",
+        "2444378450"
+    ],
+    "customContextParams": {
+        "path": "/category/products/18/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403852688 | 0 | 1712403852688",
+        "process": "1712403852873 | 0 | 1712403852873",
+        "preRender": "1712403852688 | 8 | 1712403852696",
+        "assembleModuleData": "1712403852873 | 0 | 1712403852873",
+        "retrieveHtmlAndJson": "1712403852644 | 38 | 1712403852682",
+        "fetch": "1712403852702 | 171 | 1712403852873",
+        "seo": "1712403852688 | 0 | 1712403852688",
+        "preload": "1712403852688 | 0 | 1712403852688",
+        "render": "1712403852873 | 72 | 1712403852945"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i3/O1CN01lqkJWZ1Fp4mvhVeWo_!!6000000000535-0-tps-1920-240.jpg",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_18",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "5385421380",
+                    "prefetchKey": "met",
+                    "path": "/category/products/18/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124038526881593c72d18f6b",
+                    "requestId": "7416e1777e9f73a70284a174ba7f01f5",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403852643",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "af785ff8f85628261e5535080e74f3a4",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "7416e1777e9f73a70284a174ba7f01f5",
+                    "spm": "a2700.product_home_newuser.header.2323.2f9d67af20x9kd",
+                    "categoryIds": "18",
+                    "pvId": "7416e1777e9f73a70284a174ba7f01f5",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "127726076",
+                                        "titleEn": "Cycling",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H20296ea26ebf4e23ab8becfa48a40149n.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726076&SearchText=Cycling&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Cycling",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005528",
+                                        "titleEn": "Outdoor-Affordable-Luxury-Sports",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H23c219d4f379496faa3e59de26de73f6A.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005528&SearchText=Outdoor+Affordable+Luxury+Sports&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Outdoor Affordable Luxury Sports",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005371",
+                                        "titleEn": "Fitness-Body-Building",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1c67224324e943368c1756c655e229895.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005371&SearchText=Fitness+%26+Body+Building&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Fitness & Body Building",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "2021",
+                                        "titleEn": "Scooters",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2f2762c935f248d2aac47a249c0e904d9.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=2021&SearchText=Scooters&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Scooters",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127652035",
+                                        "titleEn": "Luxury-Travel-Equipments",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1d459b900cb247059296ecc633bf9fe8q.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127652035&SearchText=Luxury+Travel+Equipments&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Luxury Travel Equipments",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201960901",
+                                        "titleEn": "Artificial-Grass-Sports-Flooring-Sports-Court-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H120d46cfcf1942e28aa53cdff0e15f95C.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201960901&SearchText=Artificial+Grass%26Sports+Flooring%26Sports+Court+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Artificial Grass&Sports Flooring&Sports Court Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201270280",
+                                        "titleEn": "Other-Sports-Entertainment-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/HTB1AkuTUgHqK1RjSZJn762NLpXa2.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201270280&SearchText=Other+Sports+%26+Entertainment+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Sports & Entertainment Products",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "100005679",
+                                        "titleEn": "Winter-Sports",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf33c38013a9141f6b1b40d3d1184982es.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005679&SearchText=Winter+Sports&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Winter Sports",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005657",
+                                        "titleEn": "Water-Sports",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd111f8c82ac4473b945deacf4fcd7250C.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005657&SearchText=Water+Sports&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Water Sports",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005607",
+                                        "titleEn": "Ball-Sports-Equipments",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He042757d012a4d92b616aa22d0a7dcf5Y.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005607&SearchText=Ball+Sports+Equipments&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Ball Sports Equipments",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005588",
+                                        "titleEn": "Sports-Safety-Rehabilitation",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2e494159fd204bedb702b16273b7e79aa.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005588&SearchText=Sports+Safety%26Rehabilitation&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Sports Safety&Rehabilitation",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005537",
+                                        "titleEn": "Fishing",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5e30d5abb9de440c8f7afc55ae4f2c8eD.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005537&SearchText=Fishing&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Fishing",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005529",
+                                        "titleEn": "Camping-Hiking",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H3996a0b8bea649de8898b5175534ae21P.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005529&SearchText=Camping+%26+Hiking&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Camping & Hiking",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005481",
+                                        "titleEn": "Musical-Instruments",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb0ef25c7ae0d4d4b955665844697d2f2q.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005481&SearchText=Musical+Instruments&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Musical Instruments",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005427",
+                                        "titleEn": "Billiards-Board-Game-Coin-Operated-Games",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H08335ece4e344310bd830bfb09cf0abd9.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005427&SearchText=Billiards%2C+Board+Game%2CCoin+Operated+Games&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Billiards, Board Game,Coin Operated Games",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005410",
+                                        "titleEn": "Amusement-Park-Facilities",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1467511465a7425b8fc73758009f994b7.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005410&SearchText=Amusement+Park+Facilities&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Amusement Park Facilities",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005360",
+                                        "titleEn": "Golf",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hbcefb998f3da466e871d74093c9145c3A.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005360&SearchText=Golf&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Golf",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127726074",
+                                        "titleEn": "Sports-Shoes-Bags-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc0c62e054f744069b5593cc90c98ac8eo.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726074&SearchText=Sports+Shoes%2C+Bags+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Sports Shoes, Bags & Accessories",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "18",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"18\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "122208",
+                                        "level": "4",
+                                        "titleEn": "Bicycle-Handlebar",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha08f2a69fa574996a1b62b0b9d2f927aJ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=122208&SearchText=Bicycle+Handlebar&indexArea=product_en&fsb=y&productId=1600486556618",
+                                        "title": "Bicycle Handlebar"
+                                    },
+                                    {
+                                        "categoryIds": "201588601",
+                                        "level": "4",
+                                        "titleEn": "Mountain-Bike",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H786a0ef25a6d4f4bb56e9058a317fe7cG.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201588601&SearchText=Mountain+Bike&indexArea=product_en&fsb=y&productId=1600704880151",
+                                        "title": "Mountain Bike"
+                                    },
+                                    {
+                                        "categoryIds": "201589101",
+                                        "level": "4",
+                                        "titleEn": "Folding-Bike",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8ee6e4469d2f43a08800e48b49ebf26a9.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201589101&SearchText=Folding+Bike&indexArea=product_en&fsb=y&productId=1600359838137",
+                                        "title": "Folding Bike"
+                                    },
+                                    {
+                                        "categoryIds": "201588901",
+                                        "level": "4",
+                                        "titleEn": "Hybrid-Bike",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd69f797372b141b28154f8f6882b1e6fH.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201588901&SearchText=Hybrid+Bike&indexArea=product_en&fsb=y&productId=60597801118",
+                                        "title": "Hybrid Bike"
+                                    },
+                                    {
+                                        "categoryIds": "122202",
+                                        "level": "4",
+                                        "titleEn": "Bicycle-Fork",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd2dfe3263ba34fa5a9cbc613e78d91696.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=122202&SearchText=Bicycle+Fork&indexArea=product_en&fsb=y&productId=1600883302309",
+                                        "title": "Bicycle Fork"
+                                    },
+                                    {
+                                        "categoryIds": "122201",
+                                        "level": "4",
+                                        "titleEn": "Bicycle-Brake",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H77937c1d8a394fc5a09bd6517caf4746C.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=122201&SearchText=Bicycle+Brake&indexArea=product_en&fsb=y&productId=1600207195584",
+                                        "title": "Bicycle Brake"
+                                    },
+                                    {
+                                        "categoryIds": "202052811",
+                                        "level": "4",
+                                        "titleEn": "Arrows",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H50d7ab96c1be42c78aaa30aa53f08da1F.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202052811&SearchText=Arrows&indexArea=product_en&fsb=y&productId=1600531515921",
+                                        "title": "Arrows"
+                                    },
+                                    {
+                                        "categoryIds": "100007351",
+                                        "level": "4",
+                                        "titleEn": "Other-Shooting-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4813c74bdcb94506880b4ca0e89c21cff.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007351&SearchText=Other+Shooting+Products&indexArea=product_en&fsb=y&productId=1600957584558",
+                                        "title": "Other Shooting Products"
+                                    },
+                                    {
+                                        "categoryIds": "100006466",
+                                        "level": "4",
+                                        "titleEn": "Bows",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He9bb8e64fbfe4585b4485ba783a83d71J.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006466&SearchText=Bows&indexArea=product_en&fsb=y&productId=1600330893034",
+                                        "title": "Bows"
+                                    },
+                                    {
+                                        "categoryIds": "201334614",
+                                        "level": "4",
+                                        "titleEn": "Hand-Grips",
+                                        "imageUrl": "//sc04.alicdn.com/kf/U8b9a1b38e7c442189116f0b176aa7504T.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201334614&SearchText=Hand+Grips&indexArea=product_en&fsb=y&productId=10000003190883",
+                                        "title": "Hand Grips"
+                                    },
+                                    {
+                                        "categoryIds": "100006091",
+                                        "level": "3",
+                                        "titleEn": "Electric-Scooters",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H90b58e3ebde54248ba3d916a7386f4e48.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006091&SearchText=Electric+Scooters&indexArea=product_en&fsb=y&productId=1600328839894",
+                                        "title": "Electric Scooters"
+                                    },
+                                    {
+                                        "categoryIds": "201590201",
+                                        "level": "4",
+                                        "titleEn": "Electric-City-Bike",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4c5173e5e60442c9a73ad2138bbfbabbx.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201590201&SearchText=Electric+City+Bike&indexArea=product_en&fsb=y&productId=1600979204580",
+                                        "title": "Electric City Bike"
+                                    },
+                                    {
+                                        "categoryIds": "127734036",
+                                        "level": "4",
+                                        "titleEn": "Soccer-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H67edf46651c84f87bde96c74ddb41a70I.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127734036&SearchText=Soccer+Shoes&indexArea=product_en&fsb=y&productId=1600984377206",
+                                        "title": "Soccer Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "201270280",
+                                        "level": "2",
+                                        "titleEn": "Other-Sports-Entertainment-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0ceeca9f4c504c4bb650c5546cf5a22dJ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201270280&SearchText=Other+Sports+%26+Entertainment+Products&indexArea=product_en&fsb=y&productId=1600636362811",
+                                        "title": "Other Sports & Entertainment Products"
+                                    },
+                                    {
+                                        "categoryIds": "201590001",
+                                        "level": "4",
+                                        "titleEn": "Electric-Mountain-Bike",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hec8d8842e5c34cafa1e210403f6a09c77.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201590001&SearchText=Electric+Mountain+Bike&indexArea=product_en&fsb=y&productId=1601034684761",
+                                        "title": "Electric Mountain Bike"
+                                    },
+                                    {
+                                        "categoryIds": "201584203",
+                                        "level": "4",
+                                        "titleEn": "Electric-Hybrid-Bike",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd53d4bd8421b4b7d885941a461901519G.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201584203&SearchText=Electric+Hybrid+Bike&indexArea=product_en&fsb=y&productId=1600700947178",
+                                        "title": "Electric Hybrid Bike"
+                                    },
+                                    {
+                                        "categoryIds": "28290103",
+                                        "level": "4",
+                                        "titleEn": "Trade-Show-Tents",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1e5cdce392c9408fa52c3a90df00304dt.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=28290103&SearchText=Trade+Show+Tents&indexArea=product_en&fsb=y&productId=1600370382023",
+                                        "title": "Trade Show Tents"
+                                    },
+                                    {
+                                        "categoryIds": "180601",
+                                        "level": "4",
+                                        "titleEn": "Coin-Operated-Games",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H961668e0b00544feaaa8a3b0852173bbf.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=180601&SearchText=Coin+Operated+Games&indexArea=product_en&fsb=y&productId=1600545959677",
+                                        "title": "Coin Operated Games"
+                                    },
+                                    {
+                                        "categoryIds": "127734032",
+                                        "level": "4",
+                                        "titleEn": "Running-Shoes",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hef4c201910ec493486b84258e510050eS.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127734032&SearchText=Running+Shoes&indexArea=product_en&fsb=y&productId=60794776298",
+                                        "title": "Running Shoes"
+                                    },
+                                    {
+                                        "categoryIds": "100005668",
+                                        "level": "4",
+                                        "titleEn": "Other-Pool-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hbd1332ccf9f84a118000b224c3bacdaaO.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005668&SearchText=Other+Pool+%26+Accessories&indexArea=product_en&fsb=y&productId=1600511937383",
+                                        "title": "Other Pool & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "100005531",
+                                        "level": "4",
+                                        "titleEn": "Other-Camping-Hiking-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc7ba10c6366145bcbed73a38b93d32122.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005531&SearchText=Other+Camping+%26+Hiking+Products&indexArea=product_en&fsb=y&productId=1600339750488",
+                                        "title": "Other Camping & Hiking Products"
+                                    },
+                                    {
+                                        "categoryIds": "100005406",
+                                        "level": "4",
+                                        "titleEn": "Playing-Cards",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3a2a0df0424642abbc9ca1ae1bf53f5f7.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005406&SearchText=Playing+Cards&indexArea=product_en&fsb=y&productId=1600496258996",
+                                        "title": "Playing Cards"
+                                    },
+                                    {
+                                        "categoryIds": "201877307",
+                                        "level": "4",
+                                        "titleEn": "Other-Tent",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H152b53b90ed148a8b4b65a362be56b0eR.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201877307&SearchText=Other+Tent&indexArea=product_en&fsb=y&productId=1600545732297",
+                                        "title": "Other Tent"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "5385421380",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_18",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "3125155510",
+                    "prefetchKey": "met",
+                    "path": "/category/products/18/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124038526881593c72d18f6b",
+                    "requestId": "336924c1cc7d976b8d57b219d0a1cf15",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403852643",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "af785ff8f85628261e5535080e74f3a4",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "336924c1cc7d976b8d57b219d0a1cf15",
+                    "spm": "a2700.product_home_newuser.header.2323.2f9d67af20x9kd",
+                    "categoryIds": "18",
+                    "pvId": "336924c1cc7d976b8d57b219d0a1cf15",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "US,CA,MX,GB,DE,FR,AU,NL",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"18\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3125155510",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_18",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "8321335470",
+                    "prefetchKey": "met",
+                    "path": "/category/products/18/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "012345678900000017124038526881593c72d18f6b",
+                    "requestId": "c71ec6214203351b88ed4b99bbab5429",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403852643",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "af785ff8f85628261e5535080e74f3a4",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "c71ec6214203351b88ed4b99bbab5429",
+                    "spm": "a2700.product_home_newuser.header.2323.2f9d67af20x9kd",
+                    "categoryIds": "18",
+                    "pvId": "c71ec6214203351b88ed4b99bbab5429",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "3",
+                    "productFields": {
+                        "isCenter": true,
+                        "showHalfTrust": false,
+                        "fields": [
+                            "subject"
+                        ]
+                    },
+                    "countryListText": "ES,RU,IL,BR,IT,SA,PL,AE,KR,PT,CL,BE,JP,UA,CZ,CH",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002560\",\"categoryIds\":\"18\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "bucket": "true",
+                                "cardList": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H6df5de59641047a59a7f5f4b8ad09e028.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_0_0#id-1600892640059#pos-0#matchType-5#fatherId-null#cateId-100005474#cardId-101002560100005474#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-9.875430864095687#logtime-1712403852728#@@realCtrParam:@@productId:1600892640059",
+                                        "productId": "1600892640059",
+                                        "titleEn": "Snooker & Billiard Tables",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600892640059&cardType=101002560&cardId=101002560100005474&categoryIds=18",
+                                        "price": "$380.00 - $395.00",
+                                        "cardId": "101002560100005474",
+                                        "cardType": "101002560",
+                                        "title": "Snooker & Billiard Tables",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H8a07cbfe13b549df9fa12b8c8856c28cO.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_1_0#id-1600494478886#pos-0#matchType-5#fatherId-null#cateId-201888904#cardId-101002560201888904#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-9.073664969205856#logtime-1712403852728#@@realCtrParam:@@productId:1600494478886",
+                                        "productId": "1600494478886",
+                                        "titleEn": "Balls",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600494478886&cardType=101002560&cardId=101002560201888904&categoryIds=18",
+                                        "price": "$5.90 - $6.00",
+                                        "cardId": "101002560201888904",
+                                        "cardType": "101002560",
+                                        "title": "Balls",
+                                        "moq": "1000"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hb4f68f8cc1c648c6825d23dffd6746a3H.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_2_0#id-1601001794617#pos-0#matchType-5#fatherId-null#cateId-100005473#cardId-101002560100005473#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-8.673694291710854#logtime-1712403852728#@@realCtrParam:@@productId:1601001794617",
+                                        "productId": "1601001794617",
+                                        "titleEn": "Snooker & Billiard Cues",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1601001794617&cardType=101002560&cardId=101002560100005473&categoryIds=18",
+                                        "price": "$8.80 - $9.80",
+                                        "cardId": "101002560100005473",
+                                        "cardType": "101002560",
+                                        "title": "Snooker & Billiard Cues",
+                                        "moq": "25"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H86372b5e56444b079e0b16fa75f2db9bX.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_3_0#id-1600931965512#pos-0#matchType-5#fatherId-null#cateId-201271074#cardId-101002560201271074#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-8.31058773100376#logtime-1712403852728#@@realCtrParam:@@productId:1600931965512",
+                                        "productId": "1600931965512",
+                                        "titleEn": "Mutli Function Station",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600931965512&cardType=101002560&cardId=101002560201271074&categoryIds=18",
+                                        "price": "$130.00",
+                                        "cardId": "101002560201271074",
+                                        "cardType": "101002560",
+                                        "title": "Mutli Function Station",
+                                        "moq": "20"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hb55a47e83c894ecbbf2e19148afb152aK.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_4_0#id-1600532326914#pos-0#matchType-5#fatherId-null#cateId-201584203#cardId-101002560201584203#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-8.163512608408928#logtime-1712403852728#@@realCtrParam:@@productId:1600532326914",
+                                        "productId": "1600532326914",
+                                        "titleEn": "Electric Hybrid Bike",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600532326914&cardType=101002560&cardId=101002560201584203&categoryIds=18",
+                                        "price": "$640.00 - $660.00",
+                                        "cardId": "101002560201584203",
+                                        "cardType": "101002560",
+                                        "title": "Electric Hybrid Bike",
+                                        "moq": "2"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H5ca4f48f503e49389dbf2a376fc73cf2h.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_5_0#id-1600954633584#pos-0#matchType-5#fatherId-null#cateId-201590001#cardId-101002560201590001#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-8.114898181610624#logtime-1712403852728#@@realCtrParam:@@productId:1600954633584",
+                                        "deliveryText": "Delivery by May 2",
+                                        "productId": "1600954633584",
+                                        "titleEn": "Electric Mountain Bike",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600954633584&cardType=101002560&cardId=101002560201590001&categoryIds=18",
+                                        "price": "$153.00 - $185.00",
+                                        "cardId": "101002560201590001",
+                                        "cardType": "101002560",
+                                        "title": "Electric Mountain Bike",
+                                        "moq": "5"
+                                    }
+                                ],
+                                "cards": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H6df5de59641047a59a7f5f4b8ad09e028.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_0_0#id-1600892640059#pos-0#matchType-5#fatherId-null#cateId-100005474#cardId-101002560100005474#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-9.875430864095687#logtime-1712403852728#@@realCtrParam:@@productId:1600892640059",
+                                        "productId": "1600892640059",
+                                        "titleEn": "Snooker & Billiard Tables",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600892640059&cardType=101002560&cardId=101002560100005474&categoryIds=18",
+                                        "price": "$380.00 - $395.00",
+                                        "cardId": "101002560100005474",
+                                        "cardType": "101002560",
+                                        "title": "Snooker & Billiard Tables",
+                                        "moq": "1"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H8a07cbfe13b549df9fa12b8c8856c28cO.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_1_0#id-1600494478886#pos-0#matchType-5#fatherId-null#cateId-201888904#cardId-101002560201888904#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-9.073664969205856#logtime-1712403852728#@@realCtrParam:@@productId:1600494478886",
+                                        "productId": "1600494478886",
+                                        "titleEn": "Balls",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600494478886&cardType=101002560&cardId=101002560201888904&categoryIds=18",
+                                        "price": "$5.90 - $6.00",
+                                        "cardId": "101002560201888904",
+                                        "cardType": "101002560",
+                                        "title": "Balls",
+                                        "moq": "1000"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hb4f68f8cc1c648c6825d23dffd6746a3H.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_2_0#id-1601001794617#pos-0#matchType-5#fatherId-null#cateId-100005473#cardId-101002560100005473#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-8.673694291710854#logtime-1712403852728#@@realCtrParam:@@productId:1601001794617",
+                                        "productId": "1601001794617",
+                                        "titleEn": "Snooker & Billiard Cues",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1601001794617&cardType=101002560&cardId=101002560100005473&categoryIds=18",
+                                        "price": "$8.80 - $9.80",
+                                        "cardId": "101002560100005473",
+                                        "cardType": "101002560",
+                                        "title": "Snooker & Billiard Cues",
+                                        "moq": "25"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H86372b5e56444b079e0b16fa75f2db9bX.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_3_0#id-1600931965512#pos-0#matchType-5#fatherId-null#cateId-201271074#cardId-101002560201271074#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-8.31058773100376#logtime-1712403852728#@@realCtrParam:@@productId:1600931965512",
+                                        "productId": "1600931965512",
+                                        "titleEn": "Mutli Function Station",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600931965512&cardType=101002560&cardId=101002560201271074&categoryIds=18",
+                                        "price": "$130.00",
+                                        "cardId": "101002560201271074",
+                                        "cardType": "101002560",
+                                        "title": "Mutli Function Station",
+                                        "moq": "20"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hb55a47e83c894ecbbf2e19148afb152aK.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_4_0#id-1600532326914#pos-0#matchType-5#fatherId-null#cateId-201584203#cardId-101002560201584203#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-8.163512608408928#logtime-1712403852728#@@realCtrParam:@@productId:1600532326914",
+                                        "productId": "1600532326914",
+                                        "titleEn": "Electric Hybrid Bike",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600532326914&cardType=101002560&cardId=101002560201584203&categoryIds=18",
+                                        "price": "$640.00 - $660.00",
+                                        "cardId": "101002560201584203",
+                                        "cardType": "101002560",
+                                        "title": "Electric Hybrid Bike",
+                                        "moq": "2"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H5ca4f48f503e49389dbf2a376fc73cf2h.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-4be5f319-1332-4262-8a79-8e5b9091c4f6#realPos-0_5_0#id-1600954633584#pos-0#matchType-5#fatherId-null#cateId-201590001#cardId-101002560201590001#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-9.207596708337464#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-18_101002560#srcChannel-PC#rankScore-8.114898181610624#logtime-1712403852728#@@realCtrParam:@@productId:1600954633584",
+                                        "deliveryText": "Delivery by May 2",
+                                        "productId": "1600954633584",
+                                        "titleEn": "Electric Mountain Bike",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600954633584&cardType=101002560&cardId=101002560201590001&categoryIds=18",
+                                        "price": "$153.00 - $185.00",
+                                        "cardId": "101002560201590001",
+                                        "cardType": "101002560",
+                                        "title": "Electric Mountain Bike",
+                                        "moq": "5"
+                                    }
+                                ],
+                                "subTitle": "",
+                                "title": "Local returns for free"
+                            }
+                        }
+                    },
+                    "floorTitle": "Order now, enjoy Easy Return",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "8321335470",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "7671292270",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "9070605040",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "7093514500",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "3532167160",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "7833867290",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "2444378450",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687706",
+        "name": "Sports & Entertainment",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "012345678900000017124038526881593c72d18f6b",
+        "pageType": 0,
+        "path": "/category/products/18/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_18",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Sports & Entertainment"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

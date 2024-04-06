@@ -1,0 +1,1954 @@
+{
+    "_pageModuleUUIDList": [
+        "5837883380",
+        "7239745210",
+        "3752747680",
+        "6792596280",
+        "2443931670",
+        "5738852840",
+        "9907201930",
+        "3533631140",
+        "4336846090",
+        "7221882690",
+        "9337679020",
+        "9048331070",
+        "1438575360",
+        "1058790430"
+    ],
+    "customContextParams": {
+        "path": "/category/products/34/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403312519 | 0 | 1712403312519",
+        "process": "1712403312624 | 0 | 1712403312624",
+        "preRender": "1712403312519 | 11 | 1712403312530",
+        "assembleModuleData": "1712403312624 | 0 | 1712403312624",
+        "retrieveHtmlAndJson": "1712403312399 | 113 | 1712403312512",
+        "fetch": "1712403312569 | 55 | 1712403312624",
+        "seo": "1712403312519 | 0 | 1712403312519",
+        "preload": "1712403312519 | 0 | 1712403312519",
+        "render": "1712403312624 | 68 | 1712403312692"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 921023,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i4/O1CN01dH30gj1lVRNoLkpeE_!!6000000004824-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_34",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "5837883380",
+                    "prefetchKey": "met",
+                    "path": "/category/products/34/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240331251919fa063f24d92",
+                    "requestId": "4e71adbf5e96d370031a8a06da79ad9a",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403312399",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "f5c6e14484f3ce81e11584a5aadeb3b3",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "4e71adbf5e96d370031a8a06da79ad9a",
+                    "spm": "a2700.product_home_newuser.header.1233.2f9d67af20x9kd",
+                    "categoryIds": "34",
+                    "pvId": "4e71adbf5e96d370031a8a06da79ad9a",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "127674031",
+                                        "titleEn": "Wheels-Tires-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He3e658e1d8ce472c8d126a8f9d313dc1E.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127674031&SearchText=Wheels%2C+Tires+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Wheels, Tires & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "3406",
+                                        "titleEn": "Motorcycle-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1142364609864a53953427215558c170w.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3406&SearchText=Motorcycle+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Motorcycle Parts & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127840001",
+                                        "titleEn": "Auto-Body-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd62bb8d9291f417eb39e2298cdb32adc6.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127840001&SearchText=Auto+Body+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Auto Body Systems",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127838001",
+                                        "titleEn": "Auto-Electrical-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H460fc8c9771144e2908ba9f55df52e96T.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127838001&SearchText=Auto+Electrical+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Auto Electrical Systems",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127666031",
+                                        "titleEn": "Auto-Lighting-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hfc3e5bdb9aa14830abeaf79eb8b917b2T.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127666031&SearchText=Auto+Lighting+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Auto Lighting Systems",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127686030",
+                                        "titleEn": "Air-Conditioning-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H8eb39f83ea844945b9dc5758ea97692fE.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127686030&SearchText=Air+Conditioning+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Air Conditioning Systems",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1206",
+                                        "titleEn": "Train-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5e737dc6a95040cf907cd9ffaabd0ed4d.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1206&SearchText=Train+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Train Parts & Accessories",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "1215",
+                                        "titleEn": "Universal-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H7bb565d66b1946888ba4abfc20da9e88i.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1215&SearchText=Universal+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Universal Parts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "1239",
+                                        "titleEn": "Railway-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H43efb4c7382140f49d4e56a076d30e91B.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=1239&SearchText=Railway+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Railway Parts & Accessories",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "127668037",
+                                        "titleEn": "New-Energy-Vehicle-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hb93e9b5db3354f00a70d3ac28b1db9faJ.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127668037&SearchText=New+Energy+Vehicle+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "New Energy Vehicle Parts & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127684042",
+                                        "titleEn": "Cooling-System",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H0b29c7431f8e4e6fb8de2d40d7bffb62p.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127684042&SearchText=Cooling+System&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Cooling System",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127684033",
+                                        "titleEn": "Auto-Performance-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd89a3bf013014187b4e6496102c5b63dW.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127684033&SearchText=Auto+Performance+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Auto Performance Parts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100010935",
+                                        "titleEn": "Auto-Transmission-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H620d25649e0246219eb397e8bce96502j.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100010935&SearchText=Auto+Transmission+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Auto Transmission Systems",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127686029",
+                                        "titleEn": "Go-Kart-Kart-Racer-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H7211aef5d97c4ef0aea39fd3dead3c294.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127686029&SearchText=Go-Kart+%26+Kart+Racer+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Go-Kart & Kart Racer Parts & Accessories",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "202054017",
+                                        "titleEn": "Interior-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://img.alicdn.com/tfs/TB1nb3hw1T2gK0jSZFvXXXnFXXa-300-300.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202054017&SearchText=Interior+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Interior Systems",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127672036",
+                                        "titleEn": "Auto-Steering-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hc474b4ddb8b545c08cea2b2b106b2f0ef.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127672036&SearchText=Auto+Steering+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Auto Steering Systems",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100001052",
+                                        "titleEn": "Auto-Drive-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hefc8bed0cd8745e5826898fe0523a3a4i.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001052&SearchText=Auto+Drive+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Auto Drive Systems",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127674039",
+                                        "titleEn": "Bus-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He866e81a6e7f463f84ef31cbefd1a4aey.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127674039&SearchText=Bus+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Bus Parts & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100001648",
+                                        "titleEn": "Marine-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hef44604f5d14406d8bc70b1db251cb985.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001648&SearchText=Marine+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Marine Parts & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100001610",
+                                        "titleEn": "ATV-UTV-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf41defec0cc14bca9382073444c33491T.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001610&SearchText=ATV%2FUTV+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "ATV/UTV Parts & Accessories",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "127690033",
+                                        "titleEn": "Heavy-Duty-Vehicle-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He3747ada24c040c192266ef82691cda2I.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127690033&SearchText=Heavy+Duty+Vehicle+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Heavy Duty Vehicle Parts & Accessories",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "190000191",
+                                        "titleEn": "Container-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H4d0d3b69d522411abc8be2ab11a59cc2J.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=190000191&SearchText=Container+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Container Parts & Accessories",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "127658034",
+                                        "titleEn": "Truck-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hf454df86ce9044098c21a3c0538ba3a1J.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127658034&SearchText=Truck+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Truck Parts & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127658032",
+                                        "titleEn": "Aviation-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H6a0b7967673141e2b7a5953a02ecbac5I.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127658032&SearchText=Aviation+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Aviation Parts & Accessories",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "127658031",
+                                        "titleEn": "Auto-Brake-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H217a13cd3ccc4dc3b579dba3b2850da0D.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127658031&SearchText=Auto+Brake+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Auto Brake Systems",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100005315",
+                                        "titleEn": "Trailer-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hfc6dfece2cb04d8a92cf467a9360d8cdg.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100005315&SearchText=Trailer+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Trailer Parts & Accessories",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "127842001",
+                                        "titleEn": "Auto-Engine-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H922da69737f64e96bfa684420e3920f9k.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127842001&SearchText=Auto+Engine+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Auto Engine Systems",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "100004517",
+                                        "titleEn": "Other-Auto-Parts",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hed6bb2a9fd9e46f2a15bf5f14439ed5ev.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004517&SearchText=Other+Auto+Parts&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Other Auto Parts",
+                                        "isLeaf": true
+                                    },
+                                    {
+                                        "categoryIds": "127664038",
+                                        "titleEn": "Auto-Suspension-Systems",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H04dcc7a171174936aafec034f855c3bcN.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127664038&SearchText=Auto+Suspension+Systems&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Auto Suspension Systems",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "34"
+                }
+            },
+            "fullName": "@ali/alimod-industry-first-category-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-first-category-nav",
+            "settings": {},
+            "uuid": "5837883380",
+            "version": "1.0.6"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 879315,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_34",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "7239745210",
+                    "prefetchKey": "met",
+                    "path": "/category/products/34/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240331251919fa063f24d92",
+                    "requestId": "0b7bfdbf1a36a3f6b8457093040214bd",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403312399",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "f5c6e14484f3ce81e11584a5aadeb3b3",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "0b7bfdbf1a36a3f6b8457093040214bd",
+                    "spm": "a2700.product_home_newuser.header.1233.2f9d67af20x9kd",
+                    "categoryIds": "34",
+                    "pvId": "0b7bfdbf1a36a3f6b8457093040214bd",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "buttonText": "Search",
+                    "select": {
+                        "makeTitle": "Make",
+                        "modelTitle": "Model"
+                    },
+                    "recentText": "Previous search:",
+                    "icon": "https://gw.alicdn.com/imgextra/i2/O1CN016jv68v29lW9fuHpie_!!6000000008108-2-tps-200-200.png",
+                    "categoryMobileHref": "https://m-sale.alibaba.com/category/vehicle_categoy_page/index.html?wx_navbar_transparent=true&path=/category/vehicle_categoy_page/index.html&ncms_spm=a27aq.28401920&prefetchKey=allcategoriesv2&wx_xpage=true",
+                    "requestCommon": {
+                        "_fdl_request_modelList": {
+                            "params": "{\"modelId\":\"10736\"}",
+                            "_serverData": {
+                                "list": [
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842236",
+                                                "name": "hilux"
+                                            },
+                                            {
+                                                "kgId": "10000842186",
+                                                "name": "agya"
+                                            },
+                                            {
+                                                "kgId": "10000842197",
+                                                "name": "c-hr"
+                                            },
+                                            {
+                                                "kgId": "10000842201",
+                                                "name": "calya (b401_)"
+                                            },
+                                            {
+                                                "kgId": "10000842202",
+                                                "name": "camry"
+                                            },
+                                            {
+                                                "kgId": "10000842210",
+                                                "name": "corolla"
+                                            },
+                                            {
+                                                "kgId": "10000842229",
+                                                "name": "fortuner"
+                                            },
+                                            {
+                                                "kgId": "10000842237",
+                                                "name": "hilux closed off-road vehicle (_n1_)"
+                                            },
+                                            {
+                                                "kgId": "10000842242",
+                                                "name": "innova i (_n4_)"
+                                            },
+                                            {
+                                                "kgId": "10000842248",
+                                                "name": "land cruiser"
+                                            },
+                                            {
+                                                "kgId": "10000842271",
+                                                "name": "rav4"
+                                            },
+                                            {
+                                                "kgId": "10000842279",
+                                                "name": "sienta"
+                                            },
+                                            {
+                                                "kgId": "10000842298",
+                                                "name": "vios"
+                                            },
+                                            {
+                                                "kgId": "10000842303",
+                                                "name": "yaris"
+                                            }
+                                        ],
+                                        "kgId": "10000842170",
+                                        "name": "Toyota"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842192",
+                                                "name": "asx"
+                                            },
+                                            {
+                                                "kgId": "10000842246",
+                                                "name": "l200"
+                                            },
+                                            {
+                                                "kgId": "10000842247",
+                                                "name": "lancer"
+                                            },
+                                            {
+                                                "kgId": "10000842301",
+                                                "name": "xpander"
+                                            }
+                                        ],
+                                        "kgId": "10000842150",
+                                        "name": "Mitsubishi"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842209",
+                                                "name": "cooper"
+                                            }
+                                        ],
+                                        "kgId": "10000842149",
+                                        "name": "Mini"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842184",
+                                                "name": "accent"
+                                            },
+                                            {
+                                                "kgId": "10000842212",
+                                                "name": "creta"
+                                            },
+                                            {
+                                                "kgId": "10000842221",
+                                                "name": "elantra"
+                                            },
+                                            {
+                                                "kgId": "10000842234",
+                                                "name": "grand i10"
+                                            },
+                                            {
+                                                "kgId": "10000842238",
+                                                "name": "i20"
+                                            },
+                                            {
+                                                "kgId": "10000842239",
+                                                "name": "i30"
+                                            },
+                                            {
+                                                "kgId": "10000842281",
+                                                "name": "solaris saloon"
+                                            },
+                                            {
+                                                "kgId": "10000842282",
+                                                "name": "sonata"
+                                            },
+                                            {
+                                                "kgId": "10000842293",
+                                                "name": "tucson"
+                                            }
+                                        ],
+                                        "kgId": "10000842137",
+                                        "name": "Hyundai"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842218",
+                                                "name": "duster"
+                                            },
+                                            {
+                                                "kgId": "10000842275",
+                                                "name": "sandero"
+                                            }
+                                        ],
+                                        "kgId": "10000842132",
+                                        "name": "Dacia"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842182",
+                                                "name": "a3"
+                                            },
+                                            {
+                                                "kgId": "10000842183",
+                                                "name": "a4"
+                                            }
+                                        ],
+                                        "kgId": "10000842129",
+                                        "name": "Audi"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842193",
+                                                "name": "aveo"
+                                            },
+                                            {
+                                                "kgId": "10000842213",
+                                                "name": "cruze"
+                                            },
+                                            {
+                                                "kgId": "10000842260",
+                                                "name": "onix"
+                                            },
+                                            {
+                                                "kgId": "10000842261",
+                                                "name": "optra"
+                                            },
+                                            {
+                                                "kgId": "10000842280",
+                                                "name": "silverado"
+                                            },
+                                            {
+                                                "kgId": "10000842283",
+                                                "name": "spark"
+                                            }
+                                        ],
+                                        "kgId": "10000842130",
+                                        "name": "Chevrolet"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842198",
+                                                "name": "c3"
+                                            },
+                                            {
+                                                "kgId": "10000842199",
+                                                "name": "c3 i"
+                                            },
+                                            {
+                                                "kgId": "10000842200",
+                                                "name": "c4"
+                                            }
+                                        ],
+                                        "kgId": "10000842131",
+                                        "name": "Citroen"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842180",
+                                                "name": "500"
+                                            },
+                                            {
+                                                "kgId": "10000842181",
+                                                "name": "500x"
+                                            },
+                                            {
+                                                "kgId": "10000842263",
+                                                "name": "palio"
+                                            },
+                                            {
+                                                "kgId": "10000842264",
+                                                "name": "panda"
+                                            },
+                                            {
+                                                "kgId": "10000842285",
+                                                "name": "strada"
+                                            },
+                                            {
+                                                "kgId": "10000842292",
+                                                "name": "tipo"
+                                            },
+                                            {
+                                                "kgId": "10000842294",
+                                                "name": "uno"
+                                            }
+                                        ],
+                                        "kgId": "10000842133",
+                                        "name": "Fiat"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842220",
+                                                "name": "ecosport"
+                                            },
+                                            {
+                                                "kgId": "10000842222",
+                                                "name": "escape"
+                                            },
+                                            {
+                                                "kgId": "10000842223",
+                                                "name": "explorer"
+                                            },
+                                            {
+                                                "kgId": "10000842224",
+                                                "name": "f-150"
+                                            },
+                                            {
+                                                "kgId": "10000842225",
+                                                "name": "f-550"
+                                            },
+                                            {
+                                                "kgId": "10000842227",
+                                                "name": "fiesta"
+                                            },
+                                            {
+                                                "kgId": "10000842228",
+                                                "name": "focus"
+                                            },
+                                            {
+                                                "kgId": "10000842231",
+                                                "name": "freestyle"
+                                            },
+                                            {
+                                                "kgId": "10000842232",
+                                                "name": "fusion"
+                                            },
+                                            {
+                                                "kgId": "10000842289",
+                                                "name": "taurus"
+                                            }
+                                        ],
+                                        "kgId": "10000843734",
+                                        "name": "For ford"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842191",
+                                                "name": "astro"
+                                            }
+                                        ],
+                                        "kgId": "10000842135",
+                                        "name": "Gmc"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842185",
+                                                "name": "accord"
+                                            },
+                                            {
+                                                "kgId": "10000842207",
+                                                "name": "civic"
+                                            }
+                                        ],
+                                        "kgId": "10000842136",
+                                        "name": "Honda"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842216",
+                                                "name": "d-max"
+                                            }
+                                        ],
+                                        "kgId": "10000842138",
+                                        "name": "Isuzu"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842217",
+                                                "name": "d-max pickup"
+                                            }
+                                        ],
+                                        "kgId": "10000842139",
+                                        "name": "Isuzu (jiangxi)"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842272",
+                                                "name": "renegade"
+                                            }
+                                        ],
+                                        "kgId": "10000842140",
+                                        "name": "Jeep"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842204",
+                                                "name": "carnival"
+                                            },
+                                            {
+                                                "kgId": "10000842206",
+                                                "name": "cerato saloon"
+                                            },
+                                            {
+                                                "kgId": "10000842273",
+                                                "name": "rio"
+                                            },
+                                            {
+                                                "kgId": "10000842284",
+                                                "name": "sportage"
+                                            }
+                                        ],
+                                        "kgId": "10000842141",
+                                        "name": "Kia"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842266",
+                                                "name": "picanto"
+                                            }
+                                        ],
+                                        "kgId": "10000842142",
+                                        "name": "Kia - europe"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842235",
+                                                "name": "granta"
+                                            },
+                                            {
+                                                "kgId": "10000842297",
+                                                "name": "vesta"
+                                            }
+                                        ],
+                                        "kgId": "10000842143",
+                                        "name": "Lada"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842304",
+                                                "name": "ypsilon"
+                                            }
+                                        ],
+                                        "kgId": "10000842144",
+                                        "name": "Lancia"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842252",
+                                                "name": "ls"
+                                            }
+                                        ],
+                                        "kgId": "10000842145",
+                                        "name": "Lexus"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842251",
+                                                "name": "logan"
+                                            }
+                                        ],
+                                        "kgId": "10000842146",
+                                        "name": "Mahindra renault"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842174",
+                                                "name": "2"
+                                            },
+                                            {
+                                                "kgId": "10000842177",
+                                                "name": "3"
+                                            },
+                                            {
+                                                "kgId": "10000842214",
+                                                "name": "cx-3"
+                                            },
+                                            {
+                                                "kgId": "10000842215",
+                                                "name": "cx-5"
+                                            }
+                                        ],
+                                        "kgId": "10000842147",
+                                        "name": "Mazda"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842194",
+                                                "name": "b-class"
+                                            },
+                                            {
+                                                "kgId": "10000842196",
+                                                "name": "c-class"
+                                            },
+                                            {
+                                                "kgId": "10000842274",
+                                                "name": "s-class"
+                                            }
+                                        ],
+                                        "kgId": "10000842148",
+                                        "name": "Mercedes-benz"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842262",
+                                                "name": "pajero sport (k9_)"
+                                            }
+                                        ],
+                                        "kgId": "10000842151",
+                                        "name": "Mitsubishi (bjc)"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842187",
+                                                "name": "altima"
+                                            },
+                                            {
+                                                "kgId": "10000842250",
+                                                "name": "livina / grand livina"
+                                            },
+                                            {
+                                                "kgId": "10000842258",
+                                                "name": "np300"
+                                            },
+                                            {
+                                                "kgId": "10000842268",
+                                                "name": "qashqai"
+                                            },
+                                            {
+                                                "kgId": "10000842277",
+                                                "name": "sentra"
+                                            },
+                                            {
+                                                "kgId": "10000842286",
+                                                "name": "sunny"
+                                            },
+                                            {
+                                                "kgId": "10000842290",
+                                                "name": "terrano"
+                                            },
+                                            {
+                                                "kgId": "10000842296",
+                                                "name": "versa"
+                                            },
+                                            {
+                                                "kgId": "10000842300",
+                                                "name": "x-trail"
+                                            }
+                                        ],
+                                        "kgId": "10000843752",
+                                        "name": "For nissan"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842253",
+                                                "name": "march"
+                                            }
+                                        ],
+                                        "kgId": "10000842153",
+                                        "name": "Nissan (dongfeng)"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842278",
+                                                "name": "serena"
+                                            }
+                                        ],
+                                        "kgId": "10000842154",
+                                        "name": "Nissan - europe"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842290",
+                                                "name": "terrano"
+                                            }
+                                        ],
+                                        "kgId": "10000842155",
+                                        "name": "Nissan-europe"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842189",
+                                                "name": "astra"
+                                            },
+                                            {
+                                                "kgId": "10000842190",
+                                                "name": "astra j"
+                                            },
+                                            {
+                                                "kgId": "10000842243",
+                                                "name": "insignia"
+                                            }
+                                        ],
+                                        "kgId": "10000842156",
+                                        "name": "Opel"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842256",
+                                                "name": "myvi"
+                                            }
+                                        ],
+                                        "kgId": "10000842157",
+                                        "name": "Perodua"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842175",
+                                                "name": "2008"
+                                            },
+                                            {
+                                                "kgId": "10000842176",
+                                                "name": "208"
+                                            },
+                                            {
+                                                "kgId": "10000842178",
+                                                "name": "3008"
+                                            },
+                                            {
+                                                "kgId": "10000842179",
+                                                "name": "308"
+                                            }
+                                        ],
+                                        "kgId": "10000842158",
+                                        "name": "Peugeot"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842269",
+                                                "name": "ram series"
+                                            }
+                                        ],
+                                        "kgId": "10000842159",
+                                        "name": "Ram"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842203",
+                                                "name": "captur"
+                                            },
+                                            {
+                                                "kgId": "10000842208",
+                                                "name": "clio"
+                                            },
+                                            {
+                                                "kgId": "10000842218",
+                                                "name": "duster"
+                                            },
+                                            {
+                                                "kgId": "10000842254",
+                                                "name": "megane"
+                                            },
+                                            {
+                                                "kgId": "10000842255",
+                                                "name": "megane iv saloon"
+                                            },
+                                            {
+                                                "kgId": "10000842275",
+                                                "name": "sandero"
+                                            }
+                                        ],
+                                        "kgId": "10000842160",
+                                        "name": "Renault"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842208",
+                                                "name": "clio"
+                                            },
+                                            {
+                                                "kgId": "10000842254",
+                                                "name": "megane"
+                                            }
+                                        ],
+                                        "kgId": "10000842161",
+                                        "name": "Renault - europe car"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842240",
+                                                "name": "ibiza"
+                                            },
+                                            {
+                                                "kgId": "10000842249",
+                                                "name": "leon"
+                                            }
+                                        ],
+                                        "kgId": "10000842162",
+                                        "name": "Seat - europe car"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842226",
+                                                "name": "fabia"
+                                            },
+                                            {
+                                                "kgId": "10000842259",
+                                                "name": "octavia"
+                                            },
+                                            {
+                                                "kgId": "10000842270",
+                                                "name": "rapid"
+                                            }
+                                        ],
+                                        "kgId": "10000842163",
+                                        "name": "Skoda"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842259",
+                                                "name": "octavia"
+                                            }
+                                        ],
+                                        "kgId": "10000842164",
+                                        "name": "Skoda - europe car"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842302",
+                                                "name": "xv"
+                                            }
+                                        ],
+                                        "kgId": "10000842165",
+                                        "name": "Subaru"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842205",
+                                                "name": "carry box"
+                                            },
+                                            {
+                                                "kgId": "10000842219",
+                                                "name": "dzire"
+                                            },
+                                            {
+                                                "kgId": "10000842287",
+                                                "name": "swift"
+                                            }
+                                        ],
+                                        "kgId": "10000842166",
+                                        "name": "Suzuki"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842241",
+                                                "name": "ignis"
+                                            }
+                                        ],
+                                        "kgId": "10000842167",
+                                        "name": "Suzuki - europe"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842245",
+                                                "name": "jimny"
+                                            }
+                                        ],
+                                        "kgId": "10000842168",
+                                        "name": "Suzuki - europe car"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842257",
+                                                "name": "nexon"
+                                            }
+                                        ],
+                                        "kgId": "10000842169",
+                                        "name": "Tata"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842189",
+                                                "name": "astra"
+                                            },
+                                            {
+                                                "kgId": "10000842211",
+                                                "name": "corsa"
+                                            }
+                                        ],
+                                        "kgId": "10000842171",
+                                        "name": "Vauxhall"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842188",
+                                                "name": "amarok"
+                                            },
+                                            {
+                                                "kgId": "10000842230",
+                                                "name": "fox"
+                                            },
+                                            {
+                                                "kgId": "10000842233",
+                                                "name": "golf"
+                                            },
+                                            {
+                                                "kgId": "10000842244",
+                                                "name": "jetta"
+                                            },
+                                            {
+                                                "kgId": "10000842265",
+                                                "name": "passat"
+                                            },
+                                            {
+                                                "kgId": "10000842267",
+                                                "name": "polo"
+                                            },
+                                            {
+                                                "kgId": "10000842276",
+                                                "name": "santana"
+                                            },
+                                            {
+                                                "kgId": "10000842288",
+                                                "name": "t-roc"
+                                            },
+                                            {
+                                                "kgId": "10000842291",
+                                                "name": "tiguan"
+                                            },
+                                            {
+                                                "kgId": "10000842295",
+                                                "name": "vento"
+                                            },
+                                            {
+                                                "kgId": "10000842299",
+                                                "name": "voyage"
+                                            }
+                                        ],
+                                        "kgId": "10000842172",
+                                        "name": "Vw"
+                                    },
+                                    {
+                                        "models": [
+                                            {
+                                                "kgId": "10000842195",
+                                                "name": "baojun 630"
+                                            }
+                                        ],
+                                        "kgId": "10000842173",
+                                        "name": "Wuling (sgmw)"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "title": "Find parts and accessories",
+                    "topBackground": "https://img.alicdn.com/imgextra/i1/O1CN01vySca51GS0PpAKKUn_!!6000000000620-2-tps-752-242.png",
+                    "placeHolder": {
+                        "or": "Looking for an exact part?",
+                        "oe": "Enter OE number",
+                        "model": "Select model",
+                        "make": "Select make"
+                    },
+                    "isShow": true
+                }
+            },
+            "fullName": "@ali/alimod-industry-choose-vehicle",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-choose-vehicle",
+            "settings": {},
+            "uuid": "7239745210",
+            "version": "1.0.3"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 921028,
+            "data": {
+                "_serverUrlData": {
+                    "country": "IN",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_34",
+                    "language": "en",
+                    "ipCountry": "IN",
+                    "uuid": "3752747680",
+                    "prefetchKey": "met",
+                    "path": "/category/products/34/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "0123456789000000171240331251919fa063f24d92",
+                    "requestId": "cf13ffe2c051993d54c961c69f38a849",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "23.64.12.79",
+                    "reqTimestamp": "1712403312399",
+                    "ip": "23.64.12.79",
+                    "envStatus": "ONLINE",
+                    "versionCode": "f5c6e14484f3ce81e11584a5aadeb3b3",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "cf13ffe2c051993d54c961c69f38a849",
+                    "spm": "a2700.product_home_newuser.header.1233.2f9d67af20x9kd",
+                    "categoryIds": "34",
+                    "pvId": "cf13ffe2c051993d54c961c69f38a849",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "categorySliderTitle": "Source by category",
+                    "previewLevel1CategoryId": "34",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"34\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "123006",
+                                        "level": "4",
+                                        "titleEn": "Truck-Tire",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1E.TRXTwKL1JjSZFgq6z6aVXas.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=123006&SearchText=Truck+Tire&indexArea=product_en&fsb=y&productId=1600208898899",
+                                        "title": "Truck Tire"
+                                    },
+                                    {
+                                        "categoryIds": "100006500",
+                                        "level": "4",
+                                        "titleEn": "Motorcycle-Fuel-System",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4b49173cdaa74d85b918beb9081bdae4K.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006500&SearchText=Motorcycle+Fuel+System&indexArea=product_en&fsb=y&productId=1600710297481",
+                                        "title": "Motorcycle Fuel System"
+                                    },
+                                    {
+                                        "categoryIds": "120601",
+                                        "level": "3",
+                                        "titleEn": "Car-Bumpers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H120bd608fefa4faf95411cf2a4118f81N.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=120601&SearchText=Car+Bumpers&indexArea=product_en&fsb=y&productId=1600143071472",
+                                        "title": "Car Bumpers"
+                                    },
+                                    {
+                                        "categoryIds": "12020305",
+                                        "level": "3",
+                                        "titleEn": "Speaker-Horn",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H067a27e243244240bffee6949bd3410cA.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=12020305&SearchText=Speaker+%26+Horn&indexArea=product_en&fsb=y&productId=1600866794271",
+                                        "title": "Speaker & Horn"
+                                    },
+                                    {
+                                        "categoryIds": "127678036",
+                                        "level": "3",
+                                        "titleEn": "Other-Wheels-Tires-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb244c82ef91a48c09ee36ff040fce9c26.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127678036&SearchText=Other+Wheels%2C+Tires+%26+Accessories&indexArea=product_en&fsb=y&productId=1600953803560",
+                                        "title": "Other Wheels, Tires & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "127678021",
+                                        "level": "3",
+                                        "titleEn": "LED-Headlights",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3ee75b820a64446cbea2ed46a5bb3a9cl.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127678021&SearchText=LED+Headlights&indexArea=product_en&fsb=y&productId=1600954615948",
+                                        "title": "LED Headlights"
+                                    },
+                                    {
+                                        "categoryIds": "127684049",
+                                        "level": "3",
+                                        "titleEn": "Other-Air-Conditioning-Systems",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H467353ae01334dee9a93f7bf71dd751bk.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127684049&SearchText=Other+Air+Conditioning+Systems&indexArea=product_en&fsb=y&productId=1600554197548",
+                                        "title": "Other Air Conditioning Systems"
+                                    },
+                                    {
+                                        "categoryIds": "127654030",
+                                        "level": "3",
+                                        "titleEn": "Others-Car-Light-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6f72943b2b644e879ae52669793c5b97B.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127654030&SearchText=Others+Car+Light+Accessories&indexArea=product_en&fsb=y&productId=1600795818826",
+                                        "title": "Others Car Light Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "127658024",
+                                        "level": "3",
+                                        "titleEn": "LED-Fog-Driving-Lights",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H15564e0135384783bbb6e4e3dd00f6bfd.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127658024&SearchText=LED+Fog%2FDriving+Lights&indexArea=product_en&fsb=y&productId=1600441355502",
+                                        "title": "LED Fog/Driving Lights"
+                                    },
+                                    {
+                                        "categoryIds": "100001664",
+                                        "level": "3",
+                                        "titleEn": "Motorcycle-Lighting-Systems",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hce86ba1980444f73b7fdf3dbbb386832F.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001664&SearchText=Motorcycle+Lighting+Systems&indexArea=product_en&fsb=y&productId=1600834597805",
+                                        "title": "Motorcycle Lighting Systems"
+                                    },
+                                    {
+                                        "categoryIds": "100004517",
+                                        "level": "2",
+                                        "titleEn": "Other-Auto-Parts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha77728c8a43a42f9ba8f0f3e19913f52o.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004517&SearchText=Other+Auto+Parts&indexArea=product_en&fsb=y&productId=1600935116549",
+                                        "title": "Other Auto Parts"
+                                    },
+                                    {
+                                        "categoryIds": "127670031",
+                                        "level": "4",
+                                        "titleEn": "Passenger-Car-Wheels",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1XCDda.GF3KVjSZFoq6zmpFXai.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127670031&SearchText=Passenger+Car+Wheels&indexArea=product_en&fsb=y&productId=62142312340",
+                                        "title": "Passenger Car Wheels"
+                                    },
+                                    {
+                                        "categoryIds": "127726289",
+                                        "level": "3",
+                                        "titleEn": "Other-Engine-Parts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9df2a65814d049c8b754d60efeadb7b3Z.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127726289&SearchText=Other+Engine+Parts&indexArea=product_en&fsb=y&productId=1600951371530",
+                                        "title": "Other Engine Parts"
+                                    },
+                                    {
+                                        "categoryIds": "127834004",
+                                        "level": "4",
+                                        "titleEn": "Other-Motorcycle-Body-Systems",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc463f6903fad4c51a5197b7b8ec02bfdW.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127834004&SearchText=Other+Motorcycle+Body+Systems&indexArea=product_en&fsb=y&productId=1600799609103",
+                                        "title": "Other Motorcycle Body Systems"
+                                    },
+                                    {
+                                        "categoryIds": "120204",
+                                        "level": "3",
+                                        "titleEn": "Engine-Assembly",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Haf5f53724ecf427aa9f08f343698723fW.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=120204&SearchText=Engine+Assembly&indexArea=product_en&fsb=y&productId=1600992997781",
+                                        "title": "Engine Assembly"
+                                    },
+                                    {
+                                        "categoryIds": "127668040",
+                                        "level": "3",
+                                        "titleEn": "Other-Body-Parts",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H41fc0bc355634b9695d3c46d8375aee8q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127668040&SearchText=Other+Body+Parts&indexArea=product_en&fsb=y&productId=1600489135287",
+                                        "title": "Other Body Parts"
+                                    },
+                                    {
+                                        "categoryIds": "127666033",
+                                        "level": "3",
+                                        "titleEn": "Halogen-Xenon-Headlights",
+                                        "imageUrl": "//sc04.alicdn.com/kf/S6b0ba2dab1524026bb2811142a83e0a17.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127666033&SearchText=Halogen+%26+Xenon+Headlights&indexArea=product_en&fsb=y&productId=10000012210058",
+                                        "title": "Halogen & Xenon Headlights"
+                                    },
+                                    {
+                                        "categoryIds": "127664030",
+                                        "level": "3",
+                                        "titleEn": "LED-Tail-Lights",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2d956ecedecf422fa5fc229eda94e99e9.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127664030&SearchText=LED+Tail+Lights&indexArea=product_en&fsb=y&productId=1600582946700",
+                                        "title": "LED Tail Lights"
+                                    },
+                                    {
+                                        "categoryIds": "340702",
+                                        "level": "4",
+                                        "titleEn": "Motorcycle-Helmets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9e342b763d564123a1276a1b267040f7e.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=340702&SearchText=Motorcycle+Helmets&indexArea=product_en&fsb=y&productId=1600785939215",
+                                        "title": "Motorcycle Helmets"
+                                    },
+                                    {
+                                        "categoryIds": "120607",
+                                        "level": "3",
+                                        "titleEn": "Car-Grills",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H98c7614abd844b7c924a5fe72975b592U.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=120607&SearchText=Car+Grills&indexArea=product_en&fsb=y&productId=1600839341530",
+                                        "title": "Car Grills"
+                                    },
+                                    {
+                                        "categoryIds": "340799",
+                                        "level": "4",
+                                        "titleEn": "Other-Motorcycle-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb47d5149ef284efaa591356389a0459fP.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=340799&SearchText=Other+Motorcycle+Accessories&indexArea=product_en&fsb=y&productId=1600533678165",
+                                        "title": "Other Motorcycle Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "100001654",
+                                        "level": "3",
+                                        "titleEn": "Boat-Engines",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A540e9ae2a23d4637af29e23d15716025p.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001654&SearchText=Boat+Engines&indexArea=product_en&fsb=y&productId=1600904810383",
+                                        "title": "Boat Engines"
+                                    },
+                                    {
+                                        "categoryIds": "127656048",
+                                        "level": "3",
+                                        "titleEn": "Other-Auto-Transmission-Systems",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H61d7537b9ea549608966d7c9fc56ae49i.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=127656048&SearchText=Other+Auto+Transmission+Systems&indexArea=product_en&fsb=y&productId=62374332533",
+                                        "title": "Other Auto Transmission Systems"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-second-category-slider",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-second-category-slider",
+            "settings": {},
+            "uuid": "3752747680",
+            "version": "1.0.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "6792596280",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "2443931670",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "5738852840",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "9907201930",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 963225,
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "3533631140",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "4336846090",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "7221882690",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "9337679020",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "9048331070",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "1438575360",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "1058790430",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1687703",
+        "name": "Vehicle Parts & Accessories",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "0123456789000000171240331251919fa063f24d92",
+        "pageType": 0,
+        "path": "/category/products/34/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_34",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Vehicle Parts & Accessories"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}

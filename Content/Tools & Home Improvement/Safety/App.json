@@ -1,0 +1,998 @@
+{
+    "_pageModuleUUIDList": [
+        "1887566410",
+        "7201042230",
+        "1722173760",
+        "3523230330",
+        "5203356770",
+        "5967027490",
+        "7507226470",
+        "5529585930",
+        "5576226320"
+    ],
+    "customContextParams": {
+        "path": "/category/products/201727804/index.html",
+        "templatePath": "/ncms/category/products/index.html"
+    },
+    "debugInfoMap": {
+        "prepare": "1712403990162 | 0 | 1712403990162",
+        "process": "1712403990356 | 0 | 1712403990356",
+        "preRender": "1712403990162 | 8 | 1712403990170",
+        "assembleModuleData": "1712403990356 | 0 | 1712403990356",
+        "retrieveHtmlAndJson": "1712403990067 | 91 | 1712403990158",
+        "fetch": "1712403990176 | 180 | 1712403990356",
+        "seo": "1712403990162 | 0 | 1712403990162",
+        "preload": "1712403990162 | 0 | 1712403990162",
+        "render": "1712403990356 | 74 | 1712403990430"
+    },
+    "device": "pc",
+    "modules": [
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 952347,
+            "data": {
+                "ui": {
+                    "pc": {
+                        "bannerSubTitle": "Discover new and trending products",
+                        "topBanner": "https://img.alicdn.com/imgextra/i1/O1CN01z8GJWo1o1A2xGa4qm_!!6000000005164-2-tps-1920-240.png",
+                        "navTitle": "Source by category"
+                    }
+                },
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201727804",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "1887566410",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201727804/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403990162f777b9335549e",
+                    "requestId": "2a6534dbd4250ccd262bc6b8d63b55bc",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403990067",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "961d26daa4cfebe5b2b99f2a8a104d52",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "2a6534dbd4250ccd262bc6b8d63b55bc",
+                    "spm": "a2700.product_home_newuser.header.3847.608267afIwWdys",
+                    "categoryIds": "201727804",
+                    "pvId": "2a6534dbd4250ccd262bc6b8d63b55bc",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "requestList": [
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "firstLevelNavFloor",
+                            "params": "{\"modelId\":\"10177\"}",
+                            "_serverData": {
+                                "preferFirstAllCategory": [
+                                    {
+                                        "categoryIds": "201727804",
+                                        "titleEn": "Safety",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01mswIfe1sg9zSln3tL_!!6000000005795-2-tps-200-200.png",
+                                        "title": "Safety"
+                                    },
+                                    {
+                                        "categoryIds": "201275273",
+                                        "titleEn": "Vehicles-Transportation",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png",
+                                        "title": "Vehicles & Transportation"
+                                    },
+                                    {
+                                        "categoryIds": "2829",
+                                        "titleEn": "Commercial-Service-Equipment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01pbpLad1tk6uA15t5q_!!6000000005939-2-tps-200-200.png",
+                                        "title": "Commercial Service Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201943703",
+                                        "titleEn": "Construction-Building-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01YET30q1jWhGdnsiRH_!!6000000004556-2-tps-200-200.png",
+                                        "title": "Construction & Building Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "44",
+                                        "titleEn": "Consumer-Electronics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png",
+                                        "title": "Consumer Electronics"
+                                    },
+                                    {
+                                        "categoryIds": "18",
+                                        "titleEn": "Sports-Entertainment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png",
+                                        "title": "Sports & Entertainment"
+                                    },
+                                    {
+                                        "categoryIds": "34",
+                                        "titleEn": "Vehicle-Parts-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01kxhWs527Gi6Fzc3zF_!!6000000007770-2-tps-200-200.png",
+                                        "title": "Vehicle Parts & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "3",
+                                        "titleEn": "Apparel-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png",
+                                        "title": "Apparel & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
+                                    },
+                                    {
+                                        "categoryIds": "26",
+                                        "titleEn": "Mother-Kids-Toys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
+                                        "title": "Mother, Kids & Toys"
+                                    },
+                                    {
+                                        "categoryIds": "100002908",
+                                        "titleEn": "Health-Care",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
+                                        "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "43",
+                                        "titleEn": "Industrial-Machinery",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png",
+                                        "title": "Industrial Machinery"
+                                    },
+                                    {
+                                        "categoryIds": "66",
+                                        "titleEn": "Beauty",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png",
+                                        "title": "Beauty"
+                                    },
+                                    {
+                                        "categoryIds": "23",
+                                        "titleEn": "Packaging-Printing",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png",
+                                        "title": "Packaging & Printing"
+                                    },
+                                    {
+                                        "categoryIds": "322",
+                                        "titleEn": "Shoes-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png",
+                                        "title": "Shoes & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "36",
+                                        "titleEn": "Jewelry-Eyewear-Watches-Accessories",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
+                                        "title": "Jewelry, Eyewear, Watches & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "1420",
+                                        "titleEn": "Tools-Hardware",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png",
+                                        "title": "Tools & Hardware"
+                                    },
+                                    {
+                                        "categoryIds": "6",
+                                        "titleEn": "Home-Appliances",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png",
+                                        "title": "Home Appliances"
+                                    },
+                                    {
+                                        "categoryIds": "1524",
+                                        "titleEn": "Luggage-Bags-Cases",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wtbYT71vJfGaj4BK8_!!6000000006152-2-tps-200-200.png",
+                                        "title": "Luggage, Bags & Cases"
+                                    },
+                                    {
+                                        "categoryIds": "13",
+                                        "titleEn": "Construction-Real-Estate",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01wmYqD51WrDtOCBmav_!!6000000002841-2-tps-200-200.png",
+                                        "title": "Construction & Real Estate"
+                                    },
+                                    {
+                                        "categoryIds": "201951502",
+                                        "titleEn": "Personal-Care-Household-Cleaning",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png",
+                                        "title": "Personal Care & Household Cleaning"
+                                    },
+                                    {
+                                        "categoryIds": "202014504",
+                                        "titleEn": "Vehicle-Accessories-Electronics-Tools",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN018aGwXj1YidrbjBVAY_!!6000000003093-2-tps-200-200.png",
+                                        "title": "Vehicle Accessories, Electronics, & Tools"
+                                    },
+                                    {
+                                        "categoryIds": "39",
+                                        "titleEn": "Lights-Lighting",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01z9EKU11JLXUJcG1Vh_!!6000000001012-2-tps-200-200.png",
+                                        "title": "Lights & Lighting"
+                                    },
+                                    {
+                                        "categoryIds": "17",
+                                        "titleEn": "Gifts-Crafts",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01rOPzCa1ZbbEGb8a30_!!6000000003213-2-tps-200-200.png",
+                                        "title": "Gifts & Crafts"
+                                    },
+                                    {
+                                        "categoryIds": "201726502",
+                                        "titleEn": "Renewable-Energy",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01xrBf6U1pR67WIk42d_!!6000000005356-2-tps-200-200.png",
+                                        "title": "Renewable Energy"
+                                    },
+                                    {
+                                        "categoryIds": "5",
+                                        "titleEn": "Electrical-Equipment-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN017Hcgjs1cJgaN8JoYh_!!6000000003580-2-tps-200-200.png",
+                                        "title": "Electrical Equipment & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "21",
+                                        "titleEn": "School-Office-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01RkwLHr1Hq6gvqLWtp_!!6000000000808-2-tps-200-200.png",
+                                        "title": "School & Office Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "16",
+                                        "titleEn": "Medical-devices-Supplies",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01jTWsuf1UZFH9HKZFV_!!6000000002531-2-tps-200-200.png",
+                                        "title": "Medical devices & Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "502",
+                                        "titleEn": "Electronic-Components-Accessories-Telecommunications",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01Sksz1Z1YcgYJqip4w_!!6000000003080-2-tps-200-200.png",
+                                        "title": "Electronic Components, Accessories & Telecommunications"
+                                    },
+                                    {
+                                        "categoryIds": "2",
+                                        "titleEn": "Food-Beverage",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01xIExD31nnQ4HHosm7_!!6000000005134-2-tps-200-200.png",
+                                        "title": "Food & Beverage"
+                                    },
+                                    {
+                                        "categoryIds": "201946504",
+                                        "titleEn": "Pet-Supplies",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01Ceoni61ObdbmQL9S6_!!6000000001724-2-tps-200-200.png",
+                                        "title": "Pet Supplies"
+                                    },
+                                    {
+                                        "categoryIds": "30",
+                                        "titleEn": "Security",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i2/O1CN01QyVDt11d7bscVohLd_!!6000000003689-2-tps-200-200.png",
+                                        "title": "Security"
+                                    },
+                                    {
+                                        "categoryIds": "8",
+                                        "titleEn": "Chemicals",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01dHfom21dRIms583K7_!!6000000003732-2-tps-200-200.png",
+                                        "title": "Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "201734802",
+                                        "titleEn": "Testing-Instrument-Equipment",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Bjousj1NmLFYz6v5G_!!6000000001612-2-tps-200-200.png",
+                                        "title": "Testing Instrument & Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "4",
+                                        "titleEn": "Fabric-Textile-Raw-Material",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01b9aLcc1GCtA0OZtjo_!!6000000000587-2-tps-200-200.png",
+                                        "title": "Fabric & Textile Raw Material"
+                                    },
+                                    {
+                                        "categoryIds": "9",
+                                        "titleEn": "Metals-Alloys",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01cJCsO31WHxWFRMNTj_!!6000000002764-2-tps-200-200.png",
+                                        "title": "Metals & Alloys"
+                                    },
+                                    {
+                                        "categoryIds": "28",
+                                        "titleEn": "Business-Services",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png",
+                                        "title": "Business Services"
+                                    },
+                                    {
+                                        "categoryIds": "80",
+                                        "titleEn": "Rubber-Plastics",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN015jOuvl2A2Scj8wr0t_!!6000000008145-2-tps-200-200.png",
+                                        "title": "Rubber & Plastics"
+                                    },
+                                    {
+                                        "categoryIds": "201725504",
+                                        "titleEn": "Material-Handling",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01LWLxJO1yKWuJno4Ae_!!6000000006560-2-tps-200-200.png",
+                                        "title": "Material Handling"
+                                    },
+                                    {
+                                        "categoryIds": "201723202",
+                                        "titleEn": "Power-Transmission",
+                                        "imageUrl": "https://img.alicdn.com/imgextra/i3/O1CN01w4GvVc28geGm7o1Ar_!!6000000007962-2-tps-200-200.png",
+                                        "title": "Power Transmission"
+                                    },
+                                    {
+                                        "categoryIds": "41",
+                                        "titleEn": "Fabrication-Services",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01h9OSMd1rN5lYYjP3L_!!6000000005618-2-tps-200-200.png",
+                                        "title": "Fabrication Services"
+                                    },
+                                    {
+                                        "categoryIds": "1",
+                                        "titleEn": "Agriculture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01Ybvy8D1SCgMy5CYuG_!!6000000002211-2-tps-200-199.png",
+                                        "title": "Agriculture"
+                                    },
+                                    {
+                                        "categoryIds": "11",
+                                        "titleEn": "Environment",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png",
+                                        "title": "Environment"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "urlKeys": "categoryIds,forceFetch",
+                            "floorType": "secondLevelNavFloor",
+                            "params": "{\"modelId\":\"10178\"}",
+                            "_serverData": {
+                                "prefer": {
+                                    "pcCateTreeBucket": "leaf"
+                                },
+                                "isNew": "true",
+                                "list": [
+                                    {
+                                        "categoryIds": "3007",
+                                        "titleEn": "Personal-Protective-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd1eeaaaea68c4ddc83a7e8ea34fa89a1n.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3007&SearchText=Personal+Protective+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Personal Protective Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "3005",
+                                        "titleEn": "Tactical-Personal-Defense-Equipment",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5811b3b1eedd4b149497b727045b0c89s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3005&SearchText=Tactical+%26+Personal+Defense+Equipment&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Tactical & Personal Defense Equipment",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "3015",
+                                        "titleEn": "Roadway-Safety",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H1f635c5750314eb8a57a6a4957e879c9i.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3015&SearchText=Roadway+Safety&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Roadway Safety",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "3009",
+                                        "titleEn": "Firefighting-Supplies",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H122fa902e8d449a0a4b81078e1f65d77s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3009&SearchText=Firefighting+Supplies&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Firefighting Supplies",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "3006",
+                                        "titleEn": "Water-Safety-Products",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H114289492b1047ffac0cf96391e294beW.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3006&SearchText=Water+Safety+Products&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Water Safety Products",
+                                        "isLeaf": false
+                                    }
+                                ],
+                                "title": "Top categories"
+                            }
+                        }
+                    ],
+                    "previewLevel1CategoryId": "201727804",
+                    "requestCommon": {
+                        "_fdl_request_thirdCategory": {
+                            "params": "{\"cateType\":\"\",\"categoryIds\":\"201727804\",\"itemCount\":\"23\",\"level\":\"1:3\",\"modelId\":\"10521\",\"priority\":\"1\"}",
+                            "_serverData": {
+                                "finalModelId": "10590",
+                                "cateLevel": "3",
+                                "list": [
+                                    {
+                                        "categoryIds": "300705",
+                                        "level": "3",
+                                        "titleEn": "Safety-Gloves",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8c25cc0692bf4a55a9cb06c9deb9eb91o.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300705&SearchText=Safety+Gloves&indexArea=product_en&fsb=y&productId=1601036238420",
+                                        "title": "Safety Gloves"
+                                    },
+                                    {
+                                        "categoryIds": "300504",
+                                        "level": "3",
+                                        "titleEn": "Handcuffs",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hde8ba6c4a2e14ef9984788a21aa1d6e4Y.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300504&SearchText=Handcuffs&indexArea=product_en&fsb=y&productId=60670024093",
+                                        "title": "Handcuffs"
+                                    },
+                                    {
+                                        "categoryIds": "301504",
+                                        "level": "3",
+                                        "titleEn": "Reflective-Safety-Clothing",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H15ce68831cbb4e799ae62d0ce45511e1g.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=301504&SearchText=Reflective+Safety+Clothing&indexArea=product_en&fsb=y&productId=1600051068414",
+                                        "title": "Reflective Safety Clothing"
+                                    },
+                                    {
+                                        "categoryIds": "300706",
+                                        "level": "3",
+                                        "titleEn": "Eye-Protection",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H62986eae2f8749d58d16055854c874b2n.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300706&SearchText=Eye+Protection&indexArea=product_en&fsb=y&productId=1600983214711",
+                                        "title": "Eye Protection"
+                                    },
+                                    {
+                                        "categoryIds": "300707",
+                                        "level": "3",
+                                        "titleEn": "Hard-Hats",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H3ce55f91a1124c8ca1374ef7d791e28bj.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300707&SearchText=Hard+Hats&indexArea=product_en&fsb=y&productId=1601009965854",
+                                        "title": "Hard Hats"
+                                    },
+                                    {
+                                        "categoryIds": "201593401",
+                                        "level": "3",
+                                        "titleEn": "Reflective-Fabric",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H789c96e8fc1445d88eadc96a1669e199F.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201593401&SearchText=Reflective+Fabric&indexArea=product_en&fsb=y&productId=1600899361132",
+                                        "title": "Reflective Fabric"
+                                    },
+                                    {
+                                        "categoryIds": "301502",
+                                        "level": "3",
+                                        "titleEn": "Alcohol-Testers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Haad6f44314554e969ad52273c69b19644.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=301502&SearchText=Alcohol+Testers&indexArea=product_en&fsb=y&productId=62232940992",
+                                        "title": "Alcohol Testers"
+                                    },
+                                    {
+                                        "categoryIds": "300906",
+                                        "level": "3",
+                                        "titleEn": "Fire-Extinguishers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1QjThaXY7gK0jSZKzq6yikpXaM.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300906&SearchText=Fire+Extinguishers&indexArea=product_en&fsb=y&productId=60575234089",
+                                        "title": "Fire Extinguishers"
+                                    },
+                                    {
+                                        "categoryIds": "300702",
+                                        "level": "3",
+                                        "titleEn": "Respirators-Masks",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb169013fb656442197b5dc074b1d3bc8A.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300702&SearchText=Respirators+%26+Masks&indexArea=product_en&fsb=y&productId=1600975660590",
+                                        "title": "Respirators & Masks"
+                                    },
+                                    {
+                                        "categoryIds": "300710",
+                                        "level": "3",
+                                        "titleEn": "Hearing-Protection",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hef2e63a0b0a448c7b0a4aba6277195e8M.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300710&SearchText=Hearing+Protection&indexArea=product_en&fsb=y&productId=1601002563258",
+                                        "title": "Hearing Protection"
+                                    },
+                                    {
+                                        "categoryIds": "300599",
+                                        "level": "3",
+                                        "titleEn": "Other-Personal-Defense-Equipment",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H61ee116455de4b95b812c618d16000150.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300599&SearchText=Other++Personal+Defense+Equipment&indexArea=product_en&fsb=y&productId=1600250593992",
+                                        "title": "Other  Personal Defense Equipment"
+                                    },
+                                    {
+                                        "categoryIds": "201228706",
+                                        "level": "3",
+                                        "titleEn": "Boots",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9f99ddf96d684bcb93168417f42a5da7C.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201228706&SearchText=Boots&indexArea=product_en&fsb=y&productId=1600059059220",
+                                        "title": "Boots"
+                                    },
+                                    {
+                                        "categoryIds": "300799",
+                                        "level": "3",
+                                        "titleEn": "Other-Safety-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hba2f11de897448918787866a6e98797cZ.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300799&SearchText=Other+Safety+Products&indexArea=product_en&fsb=y&productId=1600822713892",
+                                        "title": "Other Safety Products"
+                                    },
+                                    {
+                                        "categoryIds": "300709",
+                                        "level": "3",
+                                        "titleEn": "Safety-Clothing",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ac3f44a5f01b34a4a95fb068f2963b6a7U.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300709&SearchText=Safety+Clothing&indexArea=product_en&fsb=y&productId=11000005064338",
+                                        "title": "Safety Clothing"
+                                    },
+                                    {
+                                        "categoryIds": "201454534",
+                                        "level": "3",
+                                        "titleEn": "Firefighting-Equipment-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H999d0abf07ec4a2d8dc05bd0ef31cbfbC.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201454534&SearchText=Firefighting+Equipment+%26+Accessories&indexArea=product_en&fsb=y&productId=1601048893162",
+                                        "title": "Firefighting Equipment & Accessories"
+                                    },
+                                    {
+                                        "categoryIds": "301510",
+                                        "level": "3",
+                                        "titleEn": "Traffic-Barriers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A7dbb03d62b184494b38bf6fd3de18a5ao.jpeg_220x220.jpeg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=301510&SearchText=Traffic+Barriers&indexArea=product_en&fsb=y&productId=60706069026",
+                                        "title": "Traffic Barriers"
+                                    },
+                                    {
+                                        "categoryIds": "301508",
+                                        "level": "3",
+                                        "titleEn": "Reflective-Material",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd0569bc33c9349848ed0051eb0a3e077q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=301508&SearchText=Reflective+Material&indexArea=product_en&fsb=y&productId=475297034",
+                                        "title": "Reflective Material"
+                                    },
+                                    {
+                                        "categoryIds": "201154903",
+                                        "level": "3",
+                                        "titleEn": "Traffic-Warning-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8d97b307948045e6af864bde09432c5fQ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201154903&SearchText=Traffic+Warning+Products&indexArea=product_en&fsb=y&productId=1600949395687",
+                                        "title": "Traffic Warning Products"
+                                    },
+                                    {
+                                        "categoryIds": "201151505",
+                                        "level": "3",
+                                        "titleEn": "Fall-Protection",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H60a43941677e480aa907e245d72f9bc2P.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201151505&SearchText=Fall+Protection&indexArea=product_en&fsb=y&productId=1600976791838",
+                                        "title": "Fall Protection"
+                                    },
+                                    {
+                                        "categoryIds": "301503",
+                                        "level": "3",
+                                        "titleEn": "Traffic-Lights",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Acc0f5d828860416dba4e3b6677642b63p.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=301503&SearchText=Traffic+Lights&indexArea=product_en&fsb=y&productId=60786411684",
+                                        "title": "Traffic Lights"
+                                    },
+                                    {
+                                        "categoryIds": "300507",
+                                        "level": "3",
+                                        "titleEn": "Holsters",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8e35ae67100e424184d42e65b96ab599T.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300507&SearchText=Holsters&indexArea=product_en&fsb=y&productId=62352580997",
+                                        "title": "Holsters"
+                                    },
+                                    {
+                                        "categoryIds": "300699",
+                                        "level": "3",
+                                        "titleEn": "Other-Water-Safety-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1A.uVB2iSBuNkSnhJ762DcpXag.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=300699&SearchText=Other+Water+Safety+Products&indexArea=product_en&fsb=y&productId=60429684000",
+                                        "title": "Other Water Safety Products"
+                                    },
+                                    {
+                                        "categoryIds": "301599",
+                                        "level": "3",
+                                        "titleEn": "Other-Roadway-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5b9f1129ae3947ae94069d6a15883602J.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=301599&SearchText=Other+Roadway+Products&indexArea=product_en&fsb=y&productId=1600825799903",
+                                        "title": "Other Roadway Products"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "fullName": "@ali/alimod-industry-nav",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-nav",
+            "settings": {},
+            "uuid": "1887566410",
+            "version": "1.1.37"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201727804",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "7201042230",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201727804/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403990162f777b9335549e",
+                    "requestId": "856d5023aa5691491f4ec5e840898b95",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403990067",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "961d26daa4cfebe5b2b99f2a8a104d52",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "856d5023aa5691491f4ec5e840898b95",
+                    "spm": "a2700.product_home_newuser.header.3847.608267afIwWdys",
+                    "categoryIds": "201727804",
+                    "pvId": "856d5023aa5691491f4ec5e840898b95",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "appColumn": "2",
+                    "productFields": {
+                        "isCenter": false,
+                        "showHalfTrust": true,
+                        "fields": [
+                            "price",
+                            "moq",
+                            "delivery-half-trust"
+                        ]
+                    },
+                    "countryListText": "",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002784\",\"categoryIds\":\"201727804\",\"modelId\":\"11188\"}",
+                            "_serverData": {
+                                "subTitle": "Shipping-included prices with guaranteed delivery",
+                                "cardIdList": "1010027841000000000",
+                                "title": "Alibaba Guaranteed products"
+                            }
+                        }
+                    },
+                    "floorTitle": "",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "7201042230",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 200,
+            "__ncmsFetchMsg": "success",
+            "componentVersionId": 963225,
+            "data": {
+                "_serverUrlData": {
+                    "country": "RU",
+                    "modelId": "312",
+                    "ncms_spm": "a27aq.cp_201727804",
+                    "language": "en",
+                    "ipCountry": "RU",
+                    "uuid": "1722173760",
+                    "prefetchKey": "met",
+                    "path": "/category/products/201727804/index.html",
+                    "endpoint": "pc",
+                    "pageDeduplicateId": "01234567890000001712403990162f777b9335549e",
+                    "requestId": "51c3dc117275ea49cb62b74e8c1375ea",
+                    "currency": "USD",
+                    "wx_navbar_transparent": "true",
+                    "visitorIp": "45.150.24.108",
+                    "reqTimestamp": "1712403990067",
+                    "ip": "45.150.24.108",
+                    "envStatus": "ONLINE",
+                    "versionCode": "961d26daa4cfebe5b2b99f2a8a104d52",
+                    "templatePath": "/ncms/category/products/index.html",
+                    "terminalType": "pc",
+                    "reqId": "51c3dc117275ea49cb62b74e8c1375ea",
+                    "spm": "a2700.product_home_newuser.header.3847.608267afIwWdys",
+                    "categoryIds": "201727804",
+                    "pvId": "51c3dc117275ea49cb62b74e8c1375ea",
+                    "landlordTrafficId": "RU"
+                },
+                "isMerge": true,
+                "_fdl_request": {
+                    "sceneName": "",
+                    "countryListText": "US,CA,GB,DE,ES,FR,AU,RU,IL,BR,IT,SA,NL,PL,AE,KR,PT,CL,BE,JP,MX,UA,CZ,CH",
+                    "requestCommon": {
+                        "_fdl_request_navList": {
+                            "params": "{\"cardType\":\"101002560\",\"categoryIds\":\"201727804\",\"modelId\":\"10728\"}",
+                            "_serverData": {
+                                "bucket": "true",
+                                "cardList": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H46901ba918e04138bc04cc38c899e0912.png_220x220.png",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_0_0#id-1600700762266#pos-0#matchType-5#fatherId-null#cateId-201454534#cardId-101002560201454534#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-8.635461020469666#logtime-1712403990199#@@realCtrParam:@@productId:1600700762266",
+                                        "productId": "1600700762266",
+                                        "titleEn": "Firefighting Equipment & Accessories",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600700762266&cardType=101002560&cardId=101002560201454534&categoryIds=201727804",
+                                        "price": "$55.00 - $60.00",
+                                        "cardId": "101002560201454534",
+                                        "cardType": "101002560",
+                                        "title": "Firefighting Equipment & Accessories",
+                                        "moq": "2"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H255855a79a9249a19fbf60ba526e58404.png_220x220.png",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_1_0#id-1600658419376#pos-0#matchType-5#fatherId-null#cateId-300705#cardId-101002560300705#feedsId-136105027#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-7.5502784788608555#logtime-1712403990199#@@realCtrParam:@@productId:1600658419376",
+                                        "deliveryText": "",
+                                        "productId": "1600658419376",
+                                        "titleEn": "Safety Gloves",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600658419376&cardType=101002560&cardId=101002560300705&categoryIds=201727804",
+                                        "price": "$0.04 - $0.06",
+                                        "cardId": "101002560300705",
+                                        "cardType": "101002560",
+                                        "title": "Safety Gloves",
+                                        "moq": "10000"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H89a31ac977e6480cb12132f2f6491862h.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_2_0#id-1600219186514#pos-0#matchType-5#fatherId-null#cateId-300599#cardId-101002560300599#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-6.42014394402504#logtime-1712403990199#@@realCtrParam:@@productId:1600219186514",
+                                        "deliveryText": "",
+                                        "productId": "1600219186514",
+                                        "titleEn": "Other  Personal Defense Equipment",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600219186514&cardType=101002560&cardId=101002560300599&categoryIds=201727804",
+                                        "price": "$40.80 - $43.90",
+                                        "cardId": "101002560300599",
+                                        "cardType": "101002560",
+                                        "title": "Other  Personal Defense Equipment",
+                                        "moq": "2"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hdebfc5642f8544c9bc8d5eb6915f9c4cZ.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_3_0#id-1600998261648#pos-0#matchType-5#fatherId-null#cateId-301504#cardId-101002560301504#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-5.789375779032707#logtime-1712403990199#@@realCtrParam:@@productId:1600998261648",
+                                        "productId": "1600998261648",
+                                        "titleEn": "Reflective Safety Clothing",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600998261648&cardType=101002560&cardId=101002560301504&categoryIds=201727804",
+                                        "price": "$2.50 - $5.20",
+                                        "cardId": "101002560301504",
+                                        "cardType": "101002560",
+                                        "title": "Reflective Safety Clothing",
+                                        "moq": "2"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/A1ba67934b1ae462f866817958c56d40eT.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_4_0#id-1600872948893#pos-0#matchType-5#fatherId-null#cateId-300709#cardId-101002560300709#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-5.440596279501915#logtime-1712403990199#@@realCtrParam:@@productId:1600872948893",
+                                        "deliveryText": "",
+                                        "productId": "1600872948893",
+                                        "titleEn": "Safety Clothing",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600872948893&cardType=101002560&cardId=101002560300709&categoryIds=201727804",
+                                        "price": "$25.00 - $28.50",
+                                        "cardId": "101002560300709",
+                                        "cardType": "101002560",
+                                        "title": "Safety Clothing",
+                                        "moq": "1000"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Ha47e8968d15f455a8dec742e7ad4029av.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_5_0#id-1600851248377#pos-0#matchType-5#fatherId-null#cateId-300799#cardId-101002560300799#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-4.88231348991394#logtime-1712403990199#@@realCtrParam:@@productId:1600851248377",
+                                        "productId": "1600851248377",
+                                        "titleEn": "Other Safety Products",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600851248377&cardType=101002560&cardId=101002560300799&categoryIds=201727804",
+                                        "price": "$0.36 - $0.45",
+                                        "cardId": "101002560300799",
+                                        "cardType": "101002560",
+                                        "title": "Other Safety Products",
+                                        "moq": "10"
+                                    }
+                                ],
+                                "cards": [
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H46901ba918e04138bc04cc38c899e0912.png_220x220.png",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_0_0#id-1600700762266#pos-0#matchType-5#fatherId-null#cateId-201454534#cardId-101002560201454534#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-8.635461020469666#logtime-1712403990199#@@realCtrParam:@@productId:1600700762266",
+                                        "productId": "1600700762266",
+                                        "titleEn": "Firefighting Equipment & Accessories",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600700762266&cardType=101002560&cardId=101002560201454534&categoryIds=201727804",
+                                        "price": "$55.00 - $60.00",
+                                        "cardId": "101002560201454534",
+                                        "cardType": "101002560",
+                                        "title": "Firefighting Equipment & Accessories",
+                                        "moq": "2"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H255855a79a9249a19fbf60ba526e58404.png_220x220.png",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_1_0#id-1600658419376#pos-0#matchType-5#fatherId-null#cateId-300705#cardId-101002560300705#feedsId-136105027#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-7.5502784788608555#logtime-1712403990199#@@realCtrParam:@@productId:1600658419376",
+                                        "deliveryText": "",
+                                        "productId": "1600658419376",
+                                        "titleEn": "Safety Gloves",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600658419376&cardType=101002560&cardId=101002560300705&categoryIds=201727804",
+                                        "price": "$0.04 - $0.06",
+                                        "cardId": "101002560300705",
+                                        "cardType": "101002560",
+                                        "title": "Safety Gloves",
+                                        "moq": "10000"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H89a31ac977e6480cb12132f2f6491862h.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_2_0#id-1600219186514#pos-0#matchType-5#fatherId-null#cateId-300599#cardId-101002560300599#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-6.42014394402504#logtime-1712403990199#@@realCtrParam:@@productId:1600219186514",
+                                        "deliveryText": "",
+                                        "productId": "1600219186514",
+                                        "titleEn": "Other  Personal Defense Equipment",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600219186514&cardType=101002560&cardId=101002560300599&categoryIds=201727804",
+                                        "price": "$40.80 - $43.90",
+                                        "cardId": "101002560300599",
+                                        "cardType": "101002560",
+                                        "title": "Other  Personal Defense Equipment",
+                                        "moq": "2"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Hdebfc5642f8544c9bc8d5eb6915f9c4cZ.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_3_0#id-1600998261648#pos-0#matchType-5#fatherId-null#cateId-301504#cardId-101002560301504#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-5.789375779032707#logtime-1712403990199#@@realCtrParam:@@productId:1600998261648",
+                                        "productId": "1600998261648",
+                                        "titleEn": "Reflective Safety Clothing",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600998261648&cardType=101002560&cardId=101002560301504&categoryIds=201727804",
+                                        "price": "$2.50 - $5.20",
+                                        "cardId": "101002560301504",
+                                        "cardType": "101002560",
+                                        "title": "Reflective Safety Clothing",
+                                        "moq": "2"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/A1ba67934b1ae462f866817958c56d40eT.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_4_0#id-1600872948893#pos-0#matchType-5#fatherId-null#cateId-300709#cardId-101002560300709#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-5.440596279501915#logtime-1712403990199#@@realCtrParam:@@productId:1600872948893",
+                                        "deliveryText": "",
+                                        "productId": "1600872948893",
+                                        "titleEn": "Safety Clothing",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600872948893&cardType=101002560&cardId=101002560300709&categoryIds=201727804",
+                                        "price": "$25.00 - $28.50",
+                                        "cardId": "101002560300709",
+                                        "cardType": "101002560",
+                                        "title": "Safety Clothing",
+                                        "moq": "1000"
+                                    },
+                                    {
+                                        "image": "https://s.alicdn.com/@sc04/kf/Ha47e8968d15f455a8dec742e7ad4029av.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-7ce2e2ad-d4f8-4730-8e41-45437071fa59#realPos-0_5_0#id-1600851248377#pos-0#matchType-5#fatherId-null#cateId-300799#cardId-101002560300799#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-7.5352944811185205#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-201727804_101002560#srcChannel-PC#rankScore-4.88231348991394#logtime-1712403990199#@@realCtrParam:@@productId:1600851248377",
+                                        "productId": "1600851248377",
+                                        "titleEn": "Other Safety Products",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600851248377&cardType=101002560&cardId=101002560300799&categoryIds=201727804",
+                                        "price": "$0.36 - $0.45",
+                                        "cardId": "101002560300799",
+                                        "cardType": "101002560",
+                                        "title": "Other Safety Products",
+                                        "moq": "10"
+                                    }
+                                ],
+                                "subTitle": "",
+                                "title": "Local returns for free"
+                            }
+                        }
+                    },
+                    "floorTitle": "Order now, enjoy Easy Return",
+                    "isShow": true,
+                    "floorSubtitle": ""
+                }
+            },
+            "fullName": "@ali/alimod-industry-common-entrance-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-common-entrance-floor",
+            "settings": {},
+            "uuid": "1722173760",
+            "version": "1.0.10"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920562,
+            "fullName": "@ali/alimod-industry-theme-list-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-theme-list-floor",
+            "settings": {},
+            "uuid": "3523230330",
+            "version": "1.0.14"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920581,
+            "fullName": "@ali/alimod-industry-combo-buy-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-combo-buy-floor",
+            "settings": {},
+            "uuid": "5203356770",
+            "version": "1.0.9"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951380,
+            "fullName": "@ali/alimod-industry-feature-service",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-feature-service",
+            "settings": {},
+            "uuid": "5967027490",
+            "version": "1.1.35"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 920988,
+            "fullName": "@ali/alimod-industry-supplier-leader-floor",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-supplier-leader-floor",
+            "settings": {},
+            "uuid": "7507226470",
+            "version": "1.0.5"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 951364,
+            "fullName": "@ali/alimod-industry-products-waterfall",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-industry-products-waterfall",
+            "settings": {},
+            "uuid": "5529585930",
+            "version": "1.1.4"
+        },
+        {
+            "__ncmsFetchCode": 0,
+            "componentVersionId": 810063,
+            "fullName": "@ali/alimod-fixed-icon",
+            "hidden": "false",
+            "limitConfig": {},
+            "name": "alimod-fixed-icon",
+            "settings": {},
+            "uuid": "5576226320",
+            "version": "2.0.0"
+        }
+    ],
+    "pageInfo": {
+        "bottomSEOModAmount": 0,
+        "buildLevel": "serverRender",
+        "extranetTime": 0,
+        "fetchModuleDataModelId": "",
+        "firstScreenModAmount": 3,
+        "id": "1689104",
+        "name": "Safety",
+        "offlineTime": 1867132799000,
+        "offlineUrl": "https://www.alibaba.com",
+        "pageDeduplicateId": "01234567890000001712403990162f777b9335549e",
+        "pageType": 0,
+        "path": "/category/products/201727804/index.html",
+        "sourcePage": false,
+        "spma": "a27aq",
+        "spmb": "cp_201727804",
+        "theme": {
+            "backgroundColor": "#f2f3f7"
+        },
+        "title": "Safety"
+    },
+    "removeSeed": true,
+    "renderConfig": {
+        "asyncSsr": "false",
+        "entry": "index-pc",
+        "lib": "react",
+        "ssr": "true",
+        "streamingRender": true
+    },
+    "sysInfo": {
+        "isAliIntranet": "false",
+        "whEnv": "production"
+    }
+}
