@@ -32,10 +32,11 @@ def find_content_location(mhtml_files:list):
 def run_y2z(urls:list):
     for line in urls:
         for dirs,url in line.items():
-            execute = subprocess.Popen(
-                [f'C:/Users/Администратор/Desktop/smarts software/Cmdline/y2z/1_2_1/monolith.exe', f'{url}', '-o',f'{dirs}.html'])
-            code = execute.wait()
-            print(code)
+            print(dirs)
+            # execute = subprocess.Popen(
+            #     [f'C:/Users/Администратор/Desktop/smarts software/Cmdline/y2z/1_2_1/monolith.exe', f'{url}', '-o',f'{dirs}.html'])
+            # code = execute.wait()
+            # print(code)
 
 a = mhtml_search('Content/')
 urls = find_content_location(mhtml_files=a)
