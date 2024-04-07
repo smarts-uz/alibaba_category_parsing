@@ -1,0 +1,37 @@
+{
+    "id": 1609,
+    "name": "\u0421\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u0442\u0430\u043d\u043a\u0430",
+    "slug": "stalnaja-katanka",
+    "parent": 1586,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23012,
+        "date_created": "2024-04-07T17:50:34",
+        "date_created_gmt": "2024-04-07T12:50:34",
+        "date_modified": "2024-04-07T17:50:34",
+        "date_modified_gmt": "2024-04-07T12:50:34",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h1a6dc24ce80f4999bd7903b268e13d39q.png_220x220.webp",
+        "name": "h1a6dc24ce80f4999bd7903b268e13d39q.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1609"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1586"
+            }
+        ]
+    }
+}

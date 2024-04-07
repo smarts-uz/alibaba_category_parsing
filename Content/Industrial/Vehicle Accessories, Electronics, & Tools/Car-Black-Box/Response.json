@@ -1,0 +1,37 @@
+{
+    "id": 1249,
+    "name": "\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c-\u0447\u0435\u0440\u043d\u044b\u0439 \u044f\u0449\u0438\u043a",
+    "slug": "avtomobil-chernyj-jashhik",
+    "parent": 1248,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22638,
+        "date_created": "2024-04-07T17:38:01",
+        "date_created_gmt": "2024-04-07T12:38:01",
+        "date_modified": "2024-04-07T17:38:01",
+        "date_modified_gmt": "2024-04-07T12:38:01",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h2f633f19a20442e8905b1ce7ab826a1dk.jpg_220x220.webp",
+        "name": "h2f633f19a20442e8905b1ce7ab826a1dk.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1249"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1248"
+            }
+        ]
+    }
+}

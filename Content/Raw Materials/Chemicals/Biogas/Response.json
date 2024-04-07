@@ -1,0 +1,37 @@
+{
+    "id": 1541,
+    "name": "\u0411\u0438\u043e\u0433\u0430\u0437",
+    "slug": "biogaz",
+    "parent": 1538,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22936,
+        "date_created": "2024-04-07T17:47:44",
+        "date_created_gmt": "2024-04-07T12:47:44",
+        "date_modified": "2024-04-07T17:47:44",
+        "date_modified_gmt": "2024-04-07T12:47:44",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h8931f17cf86444948f5a341691264ef5t.png_220x220.webp",
+        "name": "h8931f17cf86444948f5a341691264ef5t.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1541"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1538"
+            }
+        ]
+    }
+}

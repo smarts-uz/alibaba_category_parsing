@@ -1,0 +1,37 @@
+{
+    "id": 850,
+    "name": "\u0413\u043e\u0440\u043d\u044b\u0439 \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+    "slug": "gornyj-velosiped",
+    "parent": 837,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22236,
+        "date_created": "2024-04-07T17:24:28",
+        "date_created_gmt": "2024-04-07T12:24:28",
+        "date_modified": "2024-04-07T17:24:28",
+        "date_modified_gmt": "2024-04-07T12:24:28",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hc7b1b04d5a1c4be6b86f339c93df04d8w.jpg_220x220.webp",
+        "name": "hc7b1b04d5a1c4be6b86f339c93df04d8w.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/850"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/837"
+            }
+        ]
+    }
+}

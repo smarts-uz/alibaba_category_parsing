@@ -1,0 +1,37 @@
+{
+    "id": 1078,
+    "name": "\u0410\u0432\u0442\u043e\u043a\u0440\u0430\u043d\u044b \u0431/\u0443",
+    "slug": "avtokrany-b-u",
+    "parent": 1055,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22461,
+        "date_created": "2024-04-07T17:31:23",
+        "date_created_gmt": "2024-04-07T12:31:23",
+        "date_modified": "2024-04-07T17:31:23",
+        "date_modified_gmt": "2024-04-07T12:31:23",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hf39f7d4e25c44f5c9d22146502a668195.jpg_220x220.webp",
+        "name": "hf39f7d4e25c44f5c9d22146502a668195.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1078"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1055"
+            }
+        ]
+    }
+}

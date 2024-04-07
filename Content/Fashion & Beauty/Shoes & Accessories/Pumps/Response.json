@@ -1,0 +1,37 @@
+{
+    "id": 682,
+    "name": "\u041d\u0430\u0441\u043e\u0441\u044b",
+    "slug": "nasosy",
+    "parent": 672,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22072,
+        "date_created": "2024-04-07T17:18:22",
+        "date_created_gmt": "2024-04-07T12:18:22",
+        "date_modified": "2024-04-07T17:18:22",
+        "date_modified_gmt": "2024-04-07T12:18:22",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hadf0dd9d6bd3419281ca7bb69533aa02x.jpg_220x220.webp",
+        "name": "hadf0dd9d6bd3419281ca7bb69533aa02x.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/682"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/672"
+            }
+        ]
+    }
+}

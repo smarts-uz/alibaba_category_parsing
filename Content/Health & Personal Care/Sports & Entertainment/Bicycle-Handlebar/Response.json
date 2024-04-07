@@ -1,0 +1,37 @@
+{
+    "id": 840,
+    "name": "\u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434-\u0420\u0443\u043b\u044c",
+    "slug": "velosiped-rul",
+    "parent": 837,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22223,
+        "date_created": "2024-04-07T17:24:08",
+        "date_created_gmt": "2024-04-07T12:24:08",
+        "date_modified": "2024-04-07T17:24:08",
+        "date_modified_gmt": "2024-04-07T12:24:08",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h70a72a2c6def4577939092f3c6ca1bdf3.jpg_220x220.webp",
+        "name": "h70a72a2c6def4577939092f3c6ca1bdf3.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/840"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/837"
+            }
+        ]
+    }
+}

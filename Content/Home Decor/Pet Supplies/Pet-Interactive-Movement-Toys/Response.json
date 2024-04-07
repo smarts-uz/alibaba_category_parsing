@@ -1,0 +1,37 @@
+{
+    "id": 1025,
+    "name": "\u0418\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0435 \u0438\u0433\u0440\u0443\u0448\u043a\u0438 \u0434\u043b\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445",
+    "slug": "interaktivnye-igrushki-dlja-domashnih-zhivotnyh",
+    "parent": 1006,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22411,
+        "date_created": "2024-04-07T17:29:49",
+        "date_created_gmt": "2024-04-07T12:29:49",
+        "date_modified": "2024-04-07T17:29:49",
+        "date_modified_gmt": "2024-04-07T12:29:49",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hd88835d21661432f9af5e96416e5fce73.jpg_220x220.webp",
+        "name": "hd88835d21661432f9af5e96416e5fce73.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1025"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1006"
+            }
+        ]
+    }
+}

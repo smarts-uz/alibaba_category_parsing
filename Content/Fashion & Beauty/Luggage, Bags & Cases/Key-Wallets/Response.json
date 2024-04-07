@@ -1,0 +1,37 @@
+{
+    "id": 630,
+    "name": "\u041a\u043b\u044e\u0447-\u043a\u043e\u0448\u0435\u043b\u044c\u043a\u0438",
+    "slug": "kljuch-koshelki",
+    "parent": 624,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22016,
+        "date_created": "2024-04-07T17:16:43",
+        "date_created_gmt": "2024-04-07T12:16:43",
+        "date_modified": "2024-04-07T17:16:43",
+        "date_modified_gmt": "2024-04-07T12:16:43",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h9d3ade70b8f6401b8552fae548a2ed743.png_220x220-2.webp",
+        "name": "h9d3ade70b8f6401b8552fae548a2ed743.png_220x220-2.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/630"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/624"
+            }
+        ]
+    }
+}

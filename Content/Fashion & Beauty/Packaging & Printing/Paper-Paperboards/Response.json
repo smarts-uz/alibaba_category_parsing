@@ -1,0 +1,37 @@
+{
+    "id": 661,
+    "name": "\u0411\u0443\u043c\u0430\u0433\u0430-\u043a\u0430\u0440\u0442\u043e\u043d",
+    "slug": "bumaga-karton",
+    "parent": 648,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22052,
+        "date_created": "2024-04-07T17:17:44",
+        "date_created_gmt": "2024-04-07T12:17:44",
+        "date_modified": "2024-04-07T17:17:44",
+        "date_modified_gmt": "2024-04-07T12:17:44",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h6790b24b589d4ad9a9e2c4716049928ei.jpg_220x220-2.webp",
+        "name": "h6790b24b589d4ad9a9e2c4716049928ei.jpg_220x220-2.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/661"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/648"
+            }
+        ]
+    }
+}

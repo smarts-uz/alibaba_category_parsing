@@ -1,0 +1,37 @@
+{
+    "id": 1260,
+    "name": "\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u043d\u0430\u043a\u043b\u0435\u0439\u043a\u0438",
+    "slug": "avtomobilnye-naklejki",
+    "parent": 1248,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22649,
+        "date_created": "2024-04-07T17:38:22",
+        "date_created_gmt": "2024-04-07T12:38:22",
+        "date_modified": "2024-04-07T17:38:22",
+        "date_modified_gmt": "2024-04-07T12:38:22",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h7c46b002ad104851bcbefacd0c9be123u.png_220x220.webp",
+        "name": "h7c46b002ad104851bcbefacd0c9be123u.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1260"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1248"
+            }
+        ]
+    }
+}

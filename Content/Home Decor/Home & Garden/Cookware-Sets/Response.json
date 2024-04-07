@@ -1,0 +1,37 @@
+{
+    "id": 964,
+    "name": "\u041d\u0430\u0431\u043e\u0440\u044b \u043f\u043e\u0441\u0443\u0434\u044b",
+    "slug": "nabory-posudy",
+    "parent": 958,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22350,
+        "date_created": "2024-04-07T17:28:00",
+        "date_created_gmt": "2024-04-07T12:28:00",
+        "date_modified": "2024-04-07T17:28:00",
+        "date_modified_gmt": "2024-04-07T12:28:00",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hf4022a5841bc4754a595f7e312658862v.jpg_220x220.webp",
+        "name": "hf4022a5841bc4754a595f7e312658862v.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/964"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/958"
+            }
+        ]
+    }
+}

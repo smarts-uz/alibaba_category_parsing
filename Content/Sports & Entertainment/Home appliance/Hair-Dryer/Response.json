@@ -1,0 +1,37 @@
+{
+    "id": 1669,
+    "name": "\u0424\u0435\u043d",
+    "slug": "fen",
+    "parent": 1659,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23118,
+        "date_created": "2024-04-07T18:50:08",
+        "date_created_gmt": "2024-04-07T13:50:08",
+        "date_modified": "2024-04-07T18:50:08",
+        "date_modified_gmt": "2024-04-07T13:50:08",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/he27742f8c9dd40dab670ea1621a065bbl.jpg_220x220.webp",
+        "name": "he27742f8c9dd40dab670ea1621a065bbl.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1669"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1659"
+            }
+        ]
+    }
+}

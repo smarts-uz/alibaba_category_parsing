@@ -41,3 +41,16 @@ def create_json(src,subcategory):
             print(f'[cyan]Created json file')
     except Exception as e:
         print(e)
+
+import os
+def create_json_response(src,response):
+    if os.path.exists(f"{src}/Response.json"):
+        print('[yellow]Json file already exists')
+    else:
+        try:
+            with open(f'{src}/Response.json', mode='w', encoding='utf-8') as f:
+                json_object = json.dumps(response, indent=4)
+                f.write(json_object)
+                print(f'[cyan]Created json file')
+        except Exception as e:
+            print(e)

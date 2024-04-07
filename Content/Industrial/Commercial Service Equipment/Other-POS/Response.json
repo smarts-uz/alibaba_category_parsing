@@ -1,0 +1,37 @@
+{
+    "id": 1046,
+    "name": "\u0414\u0440\u0443\u0433\u043e\u0435-POS",
+    "slug": "drugoe-pos",
+    "parent": 1031,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22430,
+        "date_created": "2024-04-07T17:30:27",
+        "date_created_gmt": "2024-04-07T12:30:27",
+        "date_modified": "2024-04-07T17:30:27",
+        "date_modified_gmt": "2024-04-07T12:30:27",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hf6ac7f67b92b4dcd9db0b8bab477d7d1f.jpg_220x220.webp",
+        "name": "hf6ac7f67b92b4dcd9db0b8bab477d7d1f.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1046"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1031"
+            }
+        ]
+    }
+}

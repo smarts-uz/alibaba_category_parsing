@@ -1,0 +1,37 @@
+{
+    "id": 879,
+    "name": "RC-\u0412\u0435\u0440\u0442\u043e\u043b\u0435\u0442\u044b",
+    "slug": "rc-vertolety",
+    "parent": 861,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22264,
+        "date_created": "2024-04-07T17:25:20",
+        "date_created_gmt": "2024-04-07T12:25:20",
+        "date_modified": "2024-04-07T17:25:20",
+        "date_modified_gmt": "2024-04-07T12:25:20",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h294c478d67ee4749b788a7dc878c91d5d.jpg_220x220.webp",
+        "name": "h294c478d67ee4749b788a7dc878c91d5d.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/879"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/861"
+            }
+        ]
+    }
+}

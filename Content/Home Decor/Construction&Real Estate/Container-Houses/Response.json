@@ -1,0 +1,37 @@
+{
+    "id": 890,
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043c\u0430",
+    "slug": "kontejnernye-doma",
+    "parent": 886,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22273,
+        "date_created": "2024-04-07T17:25:44",
+        "date_created_gmt": "2024-04-07T12:25:44",
+        "date_modified": "2024-04-07T17:25:44",
+        "date_modified_gmt": "2024-04-07T12:25:44",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hfba8d434414248bdb503f928bf547306r.jpg_220x220.webp",
+        "name": "hfba8d434414248bdb503f928bf547306r.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/890"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/886"
+            }
+        ]
+    }
+}

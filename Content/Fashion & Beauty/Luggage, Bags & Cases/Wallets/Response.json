@@ -1,0 +1,37 @@
+{
+    "id": 641,
+    "name": "\u041a\u043e\u0448\u0435\u043b\u044c\u043a\u0438",
+    "slug": "koshelki",
+    "parent": 624,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22030,
+        "date_created": "2024-04-07T17:17:04",
+        "date_created_gmt": "2024-04-07T12:17:04",
+        "date_modified": "2024-04-07T17:17:04",
+        "date_modified_gmt": "2024-04-07T12:17:04",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/aa2bdd3461d424c38b9fe6c1dae7d9351n.jpg_220x220-2.webp",
+        "name": "aa2bdd3461d424c38b9fe6c1dae7d9351n.jpg_220x220-2.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/641"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/624"
+            }
+        ]
+    }
+}

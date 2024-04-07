@@ -1,0 +1,37 @@
+{
+    "id": 1054,
+    "name": "\u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0435 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u044b",
+    "slug": "torgovye-avtomaty",
+    "parent": 1031,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22438,
+        "date_created": "2024-04-07T17:30:40",
+        "date_created_gmt": "2024-04-07T12:30:40",
+        "date_modified": "2024-04-07T17:30:40",
+        "date_modified_gmt": "2024-04-07T12:30:40",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hcfea001726b443ce8f539340265374273.jpg_220x220.webp",
+        "name": "hcfea001726b443ce8f539340265374273.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1054"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1031"
+            }
+        ]
+    }
+}

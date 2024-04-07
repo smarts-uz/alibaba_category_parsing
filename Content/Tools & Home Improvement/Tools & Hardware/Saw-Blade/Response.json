@@ -1,0 +1,37 @@
+{
+    "id": 1915,
+    "name": "\u041b\u0435\u0437\u0432\u0438\u0435 \u043f\u0438\u043b\u044b",
+    "slug": "lezvie-pily",
+    "parent": 1898,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23354,
+        "date_created": "2024-04-07T18:58:12",
+        "date_created_gmt": "2024-04-07T13:58:12",
+        "date_modified": "2024-04-07T18:58:12",
+        "date_modified_gmt": "2024-04-07T13:58:12",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h2c884bd5362145db87703a85ed7efd2aj.jpg_220x220.webp",
+        "name": "h2c884bd5362145db87703a85ed7efd2aj.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1915"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1898"
+            }
+        ]
+    }
+}

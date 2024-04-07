@@ -1,0 +1,37 @@
+{
+    "id": 1029,
+    "name": "\u0423\u0442\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u043e\u0442\u0445\u043e\u0434\u043e\u0432",
+    "slug": "utilizacija-domashnih-othodov",
+    "parent": 1006,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22415,
+        "date_created": "2024-04-07T17:29:56",
+        "date_created_gmt": "2024-04-07T12:29:56",
+        "date_modified": "2024-04-07T17:29:56",
+        "date_modified_gmt": "2024-04-07T12:29:56",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h62cb0f2733a14286a5b93b5a2ad43390c.jpg_220x220.webp",
+        "name": "h62cb0f2733a14286a5b93b5a2ad43390c.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1029"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1006"
+            }
+        ]
+    }
+}

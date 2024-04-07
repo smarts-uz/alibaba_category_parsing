@@ -1,0 +1,37 @@
+{
+    "id": 1462,
+    "name": "\u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0435 \u0431\u0430\u0440\u044c\u0435\u0440\u044b",
+    "slug": "transportnye-barery",
+    "parent": 1441,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22863,
+        "date_created": "2024-04-07T17:44:48",
+        "date_created_gmt": "2024-04-07T12:44:48",
+        "date_modified": "2024-04-07T17:44:48",
+        "date_modified_gmt": "2024-04-07T12:44:48",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h3947537d3af6438584e930225578f538j.jpg_220x220.webp",
+        "name": "h3947537d3af6438584e930225578f538j.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1462"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1441"
+            }
+        ]
+    }
+}

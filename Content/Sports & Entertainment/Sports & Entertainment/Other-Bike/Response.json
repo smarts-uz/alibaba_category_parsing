@@ -1,0 +1,37 @@
+{
+    "id": 1694,
+    "name": "\u0414\u0440\u0443\u0433\u043e\u0435-\u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+    "slug": "drugoe-velosiped",
+    "parent": 1683,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23142,
+        "date_created": "2024-04-07T18:50:58",
+        "date_created_gmt": "2024-04-07T13:50:58",
+        "date_modified": "2024-04-07T18:50:58",
+        "date_modified_gmt": "2024-04-07T13:50:58",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h76f260a6b1ef458791c653a863e3da43l.jpg_220x220.webp",
+        "name": "h76f260a6b1ef458791c653a863e3da43l.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1694"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1683"
+            }
+        ]
+    }
+}

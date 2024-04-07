@@ -1,0 +1,23 @@
+{
+    "id": 1922,
+    "name": "\u0422\u043e\u043f \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438",
+    "slug": "top-kategorii",
+    "parent": 0,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1922"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ]
+    }
+}

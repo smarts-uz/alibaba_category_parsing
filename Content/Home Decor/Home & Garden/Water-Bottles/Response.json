@@ -1,0 +1,37 @@
+{
+    "id": 981,
+    "name": "\u0411\u0443\u0442\u044b\u043b\u043a\u0438 \u0432\u043e\u0434\u044b",
+    "slug": "butylki-vody",
+    "parent": 958,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22367,
+        "date_created": "2024-04-07T17:28:30",
+        "date_created_gmt": "2024-04-07T12:28:30",
+        "date_modified": "2024-04-07T17:28:30",
+        "date_modified_gmt": "2024-04-07T12:28:30",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/heb5bc2a7eea74f379c59e31e16cb2a0cg.jpg_220x220.webp",
+        "name": "heb5bc2a7eea74f379c59e31e16cb2a0cg.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/981"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/958"
+            }
+        ]
+    }
+}

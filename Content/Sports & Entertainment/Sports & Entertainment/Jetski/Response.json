@@ -1,0 +1,37 @@
+{
+    "id": 1692,
+    "name": "\u0413\u0438\u0434\u0440\u043e\u0446\u0438\u043a\u043b",
+    "slug": "gidrocikl",
+    "parent": 1683,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23140,
+        "date_created": "2024-04-07T18:50:54",
+        "date_created_gmt": "2024-04-07T13:50:54",
+        "date_modified": "2024-04-07T18:50:54",
+        "date_modified_gmt": "2024-04-07T13:50:54",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/ha0a778c14a22416e8798ae08762ccc3fw.jpg_220x220.webp",
+        "name": "ha0a778c14a22416e8798ae08762ccc3fw.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1692"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1683"
+            }
+        ]
+    }
+}

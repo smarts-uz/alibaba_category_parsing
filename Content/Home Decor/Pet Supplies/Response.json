@@ -1,0 +1,28 @@
+{
+    "id": 1006,
+    "name": "\u0417\u043e\u043e\u0442\u043e\u0432\u0430\u0440\u044b",
+    "slug": "zootovary",
+    "parent": 885,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1006"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/885"
+            }
+        ]
+    }
+}

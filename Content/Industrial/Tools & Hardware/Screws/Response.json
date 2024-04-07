@@ -1,0 +1,37 @@
+{
+    "id": 1241,
+    "name": "\u0412\u0438\u043d\u0442\u044b",
+    "slug": "vinty",
+    "parent": 1224,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22631,
+        "date_created": "2024-04-07T17:37:48",
+        "date_created_gmt": "2024-04-07T12:37:48",
+        "date_modified": "2024-04-07T17:37:48",
+        "date_modified_gmt": "2024-04-07T12:37:48",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/ha86ff98153244eccb9c28d0f857011e2x.jpg_220x220.webp",
+        "name": "ha86ff98153244eccb9c28d0f857011e2x.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1241"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1224"
+            }
+        ]
+    }
+}

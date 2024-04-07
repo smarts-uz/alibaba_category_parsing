@@ -1,0 +1,37 @@
+{
+    "id": 1598,
+    "name": "\u0421\u0432\u0438\u043d\u0446\u043e\u0432\u044b\u0439 \u043b\u043e\u043c",
+    "slug": "svincovyj-lom",
+    "parent": 1586,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22995,
+        "date_created": "2024-04-07T17:49:47",
+        "date_created_gmt": "2024-04-07T12:49:47",
+        "date_modified": "2024-04-07T17:49:47",
+        "date_modified_gmt": "2024-04-07T12:49:47",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/a8e63259d90934f29bb707e46b3b5c0e6k.png_220x220.webp",
+        "name": "a8e63259d90934f29bb707e46b3b5c0e6k.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1598"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1586"
+            }
+        ]
+    }
+}

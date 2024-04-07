@@ -1,0 +1,37 @@
+{
+    "id": 768,
+    "name": "\u0411\u0430\u043d\u043a\u0438",
+    "slug": "banki",
+    "parent": 765,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22154,
+        "date_created": "2024-04-07T17:21:49",
+        "date_created_gmt": "2024-04-07T12:21:49",
+        "date_modified": "2024-04-07T17:21:49",
+        "date_modified_gmt": "2024-04-07T12:21:49",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h443d20be2a2e4c05815342cd05df1e374.jpg_220x220.webp",
+        "name": "h443d20be2a2e4c05815342cd05df1e374.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/768"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/765"
+            }
+        ]
+    }
+}

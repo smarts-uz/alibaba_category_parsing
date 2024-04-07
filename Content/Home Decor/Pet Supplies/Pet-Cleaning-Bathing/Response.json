@@ -1,0 +1,37 @@
+{
+    "id": 1019,
+    "name": "\u0427\u0438\u0441\u0442\u043a\u0430-\u041a\u0443\u043f\u0430\u043d\u0438\u0435 \u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0416\u0438\u0432\u043e\u0442\u043d\u044b\u0445",
+    "slug": "chistka-kupanie-domashnih-zhivotnyh",
+    "parent": 1006,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22405,
+        "date_created": "2024-04-07T17:29:38",
+        "date_created_gmt": "2024-04-07T12:29:38",
+        "date_modified": "2024-04-07T17:29:38",
+        "date_modified_gmt": "2024-04-07T12:29:38",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h22f17ab0e1f644f6a01d3b494f9b49a5d.jpg_220x220.webp",
+        "name": "h22f17ab0e1f644f6a01d3b494f9b49a5d.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1019"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1006"
+            }
+        ]
+    }
+}

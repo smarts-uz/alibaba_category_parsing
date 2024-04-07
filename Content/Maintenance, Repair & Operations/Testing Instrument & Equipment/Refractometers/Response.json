@@ -1,0 +1,37 @@
+{
+    "id": 1505,
+    "name": "\u0420\u0435\u0444\u0440\u0430\u043a\u0442\u043e\u043c\u0435\u0442\u0440\u044b",
+    "slug": "refraktometry",
+    "parent": 1487,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22905,
+        "date_created": "2024-04-07T17:46:28",
+        "date_created_gmt": "2024-04-07T12:46:28",
+        "date_modified": "2024-04-07T17:46:28",
+        "date_modified_gmt": "2024-04-07T12:46:28",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hc78b8c33a47d4491b562b619f0426e83t.jpg_220x220.webp",
+        "name": "hc78b8c33a47d4491b562b619f0426e83t.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1505"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1487"
+            }
+        ]
+    }
+}

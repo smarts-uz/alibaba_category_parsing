@@ -1,0 +1,37 @@
+{
+    "id": 1583,
+    "name": "\u041d\u0438\u0442\u044c",
+    "slug": "nit",
+    "parent": 1562,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22981,
+        "date_created": "2024-04-07T17:49:17",
+        "date_created_gmt": "2024-04-07T12:49:17",
+        "date_modified": "2024-04-07T17:49:17",
+        "date_modified_gmt": "2024-04-07T12:49:17",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/aff384e0be42747a29300d4e07e958a69w.jpeg_220x220.webp",
+        "name": "aff384e0be42747a29300d4e07e958a69w.jpeg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1583"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1562"
+            }
+        ]
+    }
+}

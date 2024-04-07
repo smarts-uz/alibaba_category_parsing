@@ -1,0 +1,37 @@
+{
+    "id": 945,
+    "name": "\u041d\u043e\u0432\u0438\u043d\u043a\u0438-\u041f\u043e\u0434\u0430\u0440\u043a\u0438",
+    "slug": "novinki-podarki",
+    "parent": 934,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22329,
+        "date_created": "2024-04-07T17:27:25",
+        "date_created_gmt": "2024-04-07T12:27:25",
+        "date_modified": "2024-04-07T17:27:25",
+        "date_modified_gmt": "2024-04-07T12:27:25",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h30309d55990b402a9a44ff649691597do.jpg_220x220.webp",
+        "name": "h30309d55990b402a9a44ff649691597do.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/945"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/934"
+            }
+        ]
+    }
+}

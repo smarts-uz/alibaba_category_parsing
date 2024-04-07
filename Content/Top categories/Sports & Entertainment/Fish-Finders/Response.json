@@ -1,0 +1,37 @@
+{
+    "id": 2118,
+    "name": "\u042d\u0445\u043e\u043b\u043e\u0442\u044b",
+    "slug": "jeholoty-sport-i-razvlechenija-top-kategorii",
+    "parent": 2111,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23551,
+        "date_created": "2024-04-07T19:06:31",
+        "date_created_gmt": "2024-04-07T14:06:31",
+        "date_modified": "2024-04-07T19:06:31",
+        "date_modified_gmt": "2024-04-07T14:06:31",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/ad37c63dd94bf4782be17085e41d52d1de.jpg_220x220-1.webp",
+        "name": "ad37c63dd94bf4782be17085e41d52d1de.jpg_220x220-1.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2118"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2111"
+            }
+        ]
+    }
+}

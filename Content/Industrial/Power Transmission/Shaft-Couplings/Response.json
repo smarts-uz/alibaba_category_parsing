@@ -1,0 +1,37 @@
+{
+    "id": 1194,
+    "name": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u044f \u0432\u0430\u043b\u0430",
+    "slug": "soedinenija-vala",
+    "parent": 1176,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22577,
+        "date_created": "2024-04-07T17:35:28",
+        "date_created_gmt": "2024-04-07T12:35:28",
+        "date_modified": "2024-04-07T17:35:28",
+        "date_modified_gmt": "2024-04-07T12:35:28",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h17469d033c4d4e1e84e0f294a99213a8q.jpg_220x220.webp",
+        "name": "h17469d033c4d4e1e84e0f294a99213a8q.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1194"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1176"
+            }
+        ]
+    }
+}

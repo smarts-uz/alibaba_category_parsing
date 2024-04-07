@@ -1,0 +1,37 @@
+{
+    "id": 1053,
+    "name": "\u0424\u0435\u0440\u043c\u0435\u043d\u043d\u044b\u0435 \u0434\u0438\u0441\u043f\u043b\u0435\u0438",
+    "slug": "fermennye-displei",
+    "parent": 1031,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22437,
+        "date_created": "2024-04-07T17:30:38",
+        "date_created_gmt": "2024-04-07T12:30:38",
+        "date_modified": "2024-04-07T17:30:38",
+        "date_modified_gmt": "2024-04-07T12:30:38",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/haf7fe7a996f8490ead1817f50ac06c2c2.jpg_220x220.webp",
+        "name": "haf7fe7a996f8490ead1817f50ac06c2c2.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1053"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1031"
+            }
+        ]
+    }
+}

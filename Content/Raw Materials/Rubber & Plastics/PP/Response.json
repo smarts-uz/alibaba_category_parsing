@@ -1,0 +1,37 @@
+{
+    "id": 1625,
+    "name": "\u041f\u041f",
+    "slug": "pp",
+    "parent": 1610,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23030,
+        "date_created": "2024-04-07T17:51:11",
+        "date_created_gmt": "2024-04-07T12:51:11",
+        "date_modified": "2024-04-07T17:51:11",
+        "date_modified_gmt": "2024-04-07T12:51:11",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/ha401416bec4246fa916067093885b500e.jpg_220x220.webp",
+        "name": "ha401416bec4246fa916067093885b500e.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1625"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1610"
+            }
+        ]
+    }
+}

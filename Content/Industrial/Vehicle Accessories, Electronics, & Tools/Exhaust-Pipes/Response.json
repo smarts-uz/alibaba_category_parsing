@@ -1,0 +1,37 @@
+{
+    "id": 1263,
+    "name": "\u0412\u044b\u0445\u043b\u043e\u043f\u043d\u044b\u0435 \u0442\u0440\u0443\u0431\u044b",
+    "slug": "vyhlopnye-truby",
+    "parent": 1248,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22652,
+        "date_created": "2024-04-07T17:38:28",
+        "date_created_gmt": "2024-04-07T12:38:28",
+        "date_modified": "2024-04-07T17:38:28",
+        "date_modified_gmt": "2024-04-07T12:38:28",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h7f43f576965648c2a046198a364afbb4f.jpg_220x220.webp",
+        "name": "h7f43f576965648c2a046198a364afbb4f.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1263"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1248"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 1161,
+    "name": "\u041f\u043e\u0434\u044a\u0435\u043c\u043d\u044b\u0435 \u0441\u0442\u043e\u043b\u044b",
+    "slug": "podemnye-stoly",
+    "parent": 1153,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22542,
+        "date_created": "2024-04-07T17:34:20",
+        "date_created_gmt": "2024-04-07T12:34:20",
+        "date_modified": "2024-04-07T17:34:20",
+        "date_modified_gmt": "2024-04-07T12:34:20",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hd274d964b0024c219a548e6a8a2cfc6ad.jpg_220x220.webp",
+        "name": "hd274d964b0024c219a548e6a8a2cfc6ad.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1161"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1153"
+            }
+        ]
+    }
+}

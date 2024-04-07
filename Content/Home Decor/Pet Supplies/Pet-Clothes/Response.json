@@ -1,0 +1,37 @@
+{
+    "id": 1020,
+    "name": "\u041e\u0434\u0435\u0436\u0434\u0430 \u0434\u043b\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445",
+    "slug": "odezhda-dlja-domashnih-zhivotnyh",
+    "parent": 1006,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22406,
+        "date_created": "2024-04-07T17:29:40",
+        "date_created_gmt": "2024-04-07T12:29:40",
+        "date_modified": "2024-04-07T17:29:40",
+        "date_modified_gmt": "2024-04-07T12:29:40",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/a05e3bfae938c4264996319f8c9dc2e02m.jpg_220x220.webp",
+        "name": "a05e3bfae938c4264996319f8c9dc2e02m.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1020"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1006"
+            }
+        ]
+    }
+}

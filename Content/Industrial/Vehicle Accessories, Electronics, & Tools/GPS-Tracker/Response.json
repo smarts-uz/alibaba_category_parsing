@@ -1,0 +1,37 @@
+{
+    "id": 1264,
+    "name": "GPS-\u0422\u0440\u0435\u043a\u0435\u0440",
+    "slug": "gps-treker",
+    "parent": 1248,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22653,
+        "date_created": "2024-04-07T17:38:30",
+        "date_created_gmt": "2024-04-07T12:38:30",
+        "date_modified": "2024-04-07T17:38:30",
+        "date_modified_gmt": "2024-04-07T12:38:30",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/ha9329915872c4b3696eeade7449f9416d.jpg_220x220.webp",
+        "name": "ha9329915872c4b3696eeade7449f9416d.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1264"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1248"
+            }
+        ]
+    }
+}

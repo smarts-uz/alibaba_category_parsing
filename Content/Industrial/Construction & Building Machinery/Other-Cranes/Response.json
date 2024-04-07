@@ -1,0 +1,37 @@
+{
+    "id": 1070,
+    "name": "\u0414\u0440\u0443\u0433\u043e\u0435-\u041a\u0440\u0430\u043d\u044b",
+    "slug": "drugoe-krany",
+    "parent": 1055,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22453,
+        "date_created": "2024-04-07T17:31:09",
+        "date_created_gmt": "2024-04-07T12:31:09",
+        "date_modified": "2024-04-07T17:31:09",
+        "date_modified_gmt": "2024-04-07T12:31:09",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/he6d62f33629642ce92a5dc328559095dg.png_220x220.webp",
+        "name": "he6d62f33629642ce92a5dc328559095dg.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1070"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1055"
+            }
+        ]
+    }
+}

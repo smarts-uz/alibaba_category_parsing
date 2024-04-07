@@ -1,0 +1,37 @@
+{
+    "id": 1228,
+    "name": "\u041d\u043e\u0436\u0438",
+    "slug": "nozhi",
+    "parent": 1224,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22615,
+        "date_created": "2024-04-07T17:36:55",
+        "date_created_gmt": "2024-04-07T12:36:55",
+        "date_modified": "2024-04-07T17:36:55",
+        "date_modified_gmt": "2024-04-07T12:36:55",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h5c5a38f0b90c471ea65f53d8a0d9c9a84.jpg_220x220.webp",
+        "name": "h5c5a38f0b90c471ea65f53d8a0d9c9a84.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1228"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1224"
+            }
+        ]
+    }
+}

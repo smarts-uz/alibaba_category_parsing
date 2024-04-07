@@ -1,0 +1,37 @@
+{
+    "id": 725,
+    "name": "\u0421\u0443\u0445\u043e\u0444\u0440\u0443\u043a\u0442",
+    "slug": "suhofrukt",
+    "parent": 717,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22112,
+        "date_created": "2024-04-07T17:19:41",
+        "date_created_gmt": "2024-04-07T12:19:41",
+        "date_modified": "2024-04-07T17:19:41",
+        "date_modified_gmt": "2024-04-07T12:19:41",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/aa179161e8f3e4afb98e87a9c1fb27a423.png_220x220.webp",
+        "name": "aa179161e8f3e4afb98e87a9c1fb27a423.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/725"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/717"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 1220,
+    "name": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b, \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0435 \u0441 \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0439 \u044d\u043d\u0435\u0440\u0433\u0438\u0435\u0439",
+    "slug": "produkty-svjazannye-s-solnechnoj-jenergiej",
+    "parent": 1200,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22605,
+        "date_created": "2024-04-07T17:36:16",
+        "date_created_gmt": "2024-04-07T12:36:16",
+        "date_modified": "2024-04-07T17:36:16",
+        "date_modified_gmt": "2024-04-07T12:36:16",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hc77e83700d044de0b73ce5e8a259f84bj.jpg_220x220.webp",
+        "name": "hc77e83700d044de0b73ce5e8a259f84bj.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1220"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1200"
+            }
+        ]
+    }
+}

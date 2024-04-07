@@ -1,0 +1,37 @@
+{
+    "id": 1355,
+    "name": "\u041f\u043e\u0434\u0430\u0447\u0430-\u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b",
+    "slug": "podacha-produkty",
+    "parent": 1346,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22747,
+        "date_created": "2024-04-07T17:41:25",
+        "date_created_gmt": "2024-04-07T12:41:25",
+        "date_modified": "2024-04-07T17:41:25",
+        "date_modified_gmt": "2024-04-07T12:41:25",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h634e8bede2044f6fbec6a7451a718cc9y.jpg_220x220.webp",
+        "name": "h634e8bede2044f6fbec6a7451a718cc9y.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1355"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1346"
+            }
+        ]
+    }
+}

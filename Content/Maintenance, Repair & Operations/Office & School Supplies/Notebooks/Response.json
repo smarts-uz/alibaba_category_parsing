@@ -1,0 +1,37 @@
+{
+    "id": 1363,
+    "name": "\u041d\u043e\u0443\u0442\u0431\u0443\u043a\u0438",
+    "slug": "noutbuki",
+    "parent": 1346,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22755,
+        "date_created": "2024-04-07T17:41:39",
+        "date_created_gmt": "2024-04-07T12:41:39",
+        "date_modified": "2024-04-07T17:41:39",
+        "date_modified_gmt": "2024-04-07T12:41:39",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hb7906e82f0fe4bce8870dc6e7f74ca14r.png_220x220.webp",
+        "name": "hb7906e82f0fe4bce8870dc6e7f74ca14r.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1363"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1346"
+            }
+        ]
+    }
+}

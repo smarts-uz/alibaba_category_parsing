@@ -1,0 +1,37 @@
+{
+    "id": 2064,
+    "name": "\u0422\u0440\u0430\u043a\u0442\u043e\u0440\u044b",
+    "slug": "traktory-mashiny-top-kategorii",
+    "parent": 2043,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23500,
+        "date_created": "2024-04-07T19:04:45",
+        "date_created_gmt": "2024-04-07T14:04:45",
+        "date_modified": "2024-04-07T19:04:45",
+        "date_modified_gmt": "2024-04-07T14:04:45",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h73dd99f577fe4bb882390ba160118ea8s.png_220x220-1.webp",
+        "name": "h73dd99f577fe4bb882390ba160118ea8s.png_220x220-1.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2064"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2043"
+            }
+        ]
+    }
+}

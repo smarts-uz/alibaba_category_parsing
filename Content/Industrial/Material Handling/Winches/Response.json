@@ -1,0 +1,37 @@
+{
+    "id": 1175,
+    "name": "\u041b\u0435\u0431\u0435\u0434\u043a\u0438",
+    "slug": "lebedki",
+    "parent": 1153,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22559,
+        "date_created": "2024-04-07T17:34:46",
+        "date_created_gmt": "2024-04-07T12:34:46",
+        "date_modified": "2024-04-07T17:34:46",
+        "date_modified_gmt": "2024-04-07T12:34:46",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hd2fa54f35ad44baabaf6655e11d4427eb.jpg_220x220.webp",
+        "name": "hd2fa54f35ad44baabaf6655e11d4427eb.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1175"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1153"
+            }
+        ]
+    }
+}

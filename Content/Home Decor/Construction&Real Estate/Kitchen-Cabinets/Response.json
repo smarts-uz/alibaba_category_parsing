@@ -1,0 +1,37 @@
+{
+    "id": 893,
+    "name": "\u041a\u0443\u0445\u043e\u043d\u043d\u044b\u0435 \u0448\u043a\u0430\u0444\u044b",
+    "slug": "kuhonnye-shkafy",
+    "parent": 886,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22276,
+        "date_created": "2024-04-07T17:25:50",
+        "date_created_gmt": "2024-04-07T12:25:50",
+        "date_modified": "2024-04-07T17:25:50",
+        "date_modified_gmt": "2024-04-07T12:25:50",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hd1e6b2b3fd2440e5a3d7e09c5556cad0a.png_220x220.webp",
+        "name": "hd1e6b2b3fd2440e5a3d7e09c5556cad0a.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/893"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/886"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 639,
+    "name": "\u0414\u043e\u0440\u043e\u0436\u043d\u044b\u0435 \u0441\u0443\u043c\u043a\u0438",
+    "slug": "dorozhnye-sumki",
+    "parent": 624,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22028,
+        "date_created": "2024-04-07T17:17:00",
+        "date_created_gmt": "2024-04-07T12:17:00",
+        "date_modified": "2024-04-07T17:17:00",
+        "date_modified_gmt": "2024-04-07T12:17:00",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h1c02474d4d6646778423f8b8a6c3b2e1o.jpg_220x220-2.webp",
+        "name": "h1c02474d4d6646778423f8b8a6c3b2e1o.jpg_220x220-2.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/639"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/624"
+            }
+        ]
+    }
+}

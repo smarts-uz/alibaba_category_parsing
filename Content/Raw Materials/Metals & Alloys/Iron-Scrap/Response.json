@@ -1,0 +1,37 @@
+{
+    "id": 1596,
+    "name": "\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043b\u043e\u043c",
+    "slug": "zheleznyj-lom",
+    "parent": 1586,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22993,
+        "date_created": "2024-04-07T17:49:43",
+        "date_created_gmt": "2024-04-07T12:49:43",
+        "date_modified": "2024-04-07T17:49:43",
+        "date_modified_gmt": "2024-04-07T12:49:43",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h55bd275df861429e8d8ee91b48f97883j.jpg_220x220.webp",
+        "name": "h55bd275df861429e8d8ee91b48f97883j.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1596"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1586"
+            }
+        ]
+    }
+}

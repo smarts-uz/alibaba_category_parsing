@@ -1,0 +1,37 @@
+{
+    "id": 1032,
+    "name": "\u0420\u0435\u043a\u043b\u0430\u043c\u043d\u044b\u0435 \u0449\u0438\u0442\u044b",
+    "slug": "reklamnye-shhity",
+    "parent": 1031,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22416,
+        "date_created": "2024-04-07T17:30:01",
+        "date_created_gmt": "2024-04-07T12:30:01",
+        "date_modified": "2024-04-07T17:30:01",
+        "date_modified_gmt": "2024-04-07T12:30:01",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h71ee9ee48f3c4137a3f611c31b0ab036q.jpg_220x220.webp",
+        "name": "h71ee9ee48f3c4137a3f611c31b0ab036q.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1032"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1031"
+            }
+        ]
+    }
+}

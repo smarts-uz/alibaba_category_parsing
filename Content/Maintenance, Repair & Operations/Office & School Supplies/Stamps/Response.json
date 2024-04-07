@@ -1,0 +1,37 @@
+{
+    "id": 1366,
+    "name": "\u041c\u0430\u0440\u043a\u0438",
+    "slug": "marki",
+    "parent": 1346,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22758,
+        "date_created": "2024-04-07T17:41:45",
+        "date_created_gmt": "2024-04-07T12:41:45",
+        "date_modified": "2024-04-07T17:41:45",
+        "date_modified_gmt": "2024-04-07T12:41:45",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hb38f8b06d2784238a982dfba4b9262a8o.jpg_220x220.webp",
+        "name": "hb38f8b06d2784238a982dfba4b9262a8o.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1366"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1346"
+            }
+        ]
+    }
+}

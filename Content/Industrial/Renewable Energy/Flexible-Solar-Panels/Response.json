@@ -1,0 +1,37 @@
+{
+    "id": 1201,
+    "name": "\u0413\u0438\u0431\u043a\u0438\u0435 \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0435 \u043f\u0430\u043d\u0435\u043b\u0438",
+    "slug": "gibkie-solnechnye-paneli",
+    "parent": 1200,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22583,
+        "date_created": "2024-04-07T17:35:41",
+        "date_created_gmt": "2024-04-07T12:35:41",
+        "date_modified": "2024-04-07T17:35:41",
+        "date_modified_gmt": "2024-04-07T12:35:41",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hd2cd5c78f433423ab70bfb5f0370016b1.jpg_220x220.webp",
+        "name": "hd2cd5c78f433423ab70bfb5f0370016b1.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1201"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1200"
+            }
+        ]
+    }
+}

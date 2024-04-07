@@ -1,0 +1,37 @@
+{
+    "id": 1058,
+    "name": "\u0411\u0435\u0442\u043e\u043d\u043e\u043d\u0430\u0441\u043e\u0441\u044b",
+    "slug": "betononasosy",
+    "parent": 1055,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22441,
+        "date_created": "2024-04-07T17:30:47",
+        "date_created_gmt": "2024-04-07T12:30:47",
+        "date_modified": "2024-04-07T17:30:47",
+        "date_modified_gmt": "2024-04-07T12:30:47",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h73d9fb24ee3f4f948cb60f23989ad34cj.jpg_220x220.webp",
+        "name": "h73d9fb24ee3f4f948cb60f23989ad34cj.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1058"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1055"
+            }
+        ]
+    }
+}

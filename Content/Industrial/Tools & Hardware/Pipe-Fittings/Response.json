@@ -1,0 +1,37 @@
+{
+    "id": 1235,
+    "name": "\u0424\u0438\u0442\u0438\u043d\u0433\u0438",
+    "slug": "fitingi",
+    "parent": 1224,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22622,
+        "date_created": "2024-04-07T17:37:09",
+        "date_created_gmt": "2024-04-07T12:37:09",
+        "date_modified": "2024-04-07T17:37:09",
+        "date_modified_gmt": "2024-04-07T12:37:09",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hbedf381e58464dc8a9eecdd14c35c1f39.jpg_220x220.webp",
+        "name": "hbedf381e58464dc8a9eecdd14c35c1f39.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1235"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1224"
+            }
+        ]
+    }
+}

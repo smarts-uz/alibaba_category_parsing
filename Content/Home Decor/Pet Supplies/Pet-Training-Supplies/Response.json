@@ -1,0 +1,37 @@
+{
+    "id": 1028,
+    "name": "\u0422\u043e\u0432\u0430\u0440\u044b \u0434\u043b\u044f \u0434\u0440\u0435\u0441\u0441\u0438\u0440\u043e\u0432\u043a\u0438 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445",
+    "slug": "tovary-dlja-dressirovki-domashnih-zhivotnyh",
+    "parent": 1006,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22414,
+        "date_created": "2024-04-07T17:29:54",
+        "date_created_gmt": "2024-04-07T12:29:54",
+        "date_modified": "2024-04-07T17:29:54",
+        "date_modified_gmt": "2024-04-07T12:29:54",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h784ec376d5f247d99b2fbbfb4449aa55h.png_220x220.webp",
+        "name": "h784ec376d5f247d99b2fbbfb4449aa55h.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1028"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1006"
+            }
+        ]
+    }
+}

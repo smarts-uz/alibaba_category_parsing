@@ -1,0 +1,37 @@
+{
+    "id": 832,
+    "name": "\u041c\u044b\u043b\u043e",
+    "slug": "mylo",
+    "parent": 813,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22216,
+        "date_created": "2024-04-07T17:23:53",
+        "date_created_gmt": "2024-04-07T12:23:53",
+        "date_modified": "2024-04-07T17:23:53",
+        "date_modified_gmt": "2024-04-07T12:23:53",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h92c1c997322a47e387c1844afb948baer.jpg_220x220.webp",
+        "name": "h92c1c997322a47e387c1844afb948baer.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/832"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/813"
+            }
+        ]
+    }
+}

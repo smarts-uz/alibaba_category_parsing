@@ -1,0 +1,37 @@
+{
+    "id": 1289,
+    "name": "\u0414\u0440\u0443\u0433\u043e\u0435-\u041c\u043e\u0442\u043e\u0446\u0438\u043a\u043b\u044b",
+    "slug": "drugoe-motocikly",
+    "parent": 1273,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22679,
+        "date_created": "2024-04-07T17:39:15",
+        "date_created_gmt": "2024-04-07T12:39:15",
+        "date_modified": "2024-04-07T17:39:15",
+        "date_modified_gmt": "2024-04-07T12:39:15",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/a7f29788c1d6c4aa881aa2767d5300b80o.png_220x220.webp",
+        "name": "a7f29788c1d6c4aa881aa2767d5300b80o.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1289"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1273"
+            }
+        ]
+    }
+}

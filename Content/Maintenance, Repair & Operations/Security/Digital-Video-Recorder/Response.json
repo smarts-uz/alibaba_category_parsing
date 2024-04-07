@@ -1,0 +1,37 @@
+{
+    "id": 1472,
+    "name": "\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u043c\u0435\u0440\u0430",
+    "slug": "videokamera",
+    "parent": 1441,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22873,
+        "date_created": "2024-04-07T17:45:13",
+        "date_created_gmt": "2024-04-07T12:45:13",
+        "date_modified": "2024-04-07T17:45:13",
+        "date_modified_gmt": "2024-04-07T12:45:13",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hc798fec3964e41298026a4a48ef13d78t.jpg_220x220.webp",
+        "name": "hc798fec3964e41298026a4a48ef13d78t.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1472"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1441"
+            }
+        ]
+    }
+}

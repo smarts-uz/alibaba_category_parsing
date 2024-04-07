@@ -1,0 +1,37 @@
+{
+    "id": 952,
+    "name": "\u041f\u043b\u0430\u043a\u0430\u0442\u044b",
+    "slug": "plakaty",
+    "parent": 934,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22336,
+        "date_created": "2024-04-07T17:27:40",
+        "date_created_gmt": "2024-04-07T12:27:40",
+        "date_modified": "2024-04-07T17:27:40",
+        "date_modified_gmt": "2024-04-07T12:27:40",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hd5acf65132ff485f936c532a6abb8d51t.png_220x220.webp",
+        "name": "hd5acf65132ff485f936c532a6abb8d51t.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/952"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/934"
+            }
+        ]
+    }
+}

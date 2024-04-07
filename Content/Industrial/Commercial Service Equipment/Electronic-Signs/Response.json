@@ -1,0 +1,37 @@
+{
+    "id": 1041,
+    "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u0432\u044b\u0432\u0435\u0441\u043a\u0438",
+    "slug": "jelektronnye-vyveski",
+    "parent": 1031,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22425,
+        "date_created": "2024-04-07T17:30:17",
+        "date_created_gmt": "2024-04-07T12:30:17",
+        "date_modified": "2024-04-07T17:30:17",
+        "date_modified_gmt": "2024-04-07T12:30:17",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hf37af2fef4a340b08c1d39271c67bcf5c.jpg_220x220.webp",
+        "name": "hf37af2fef4a340b08c1d39271c67bcf5c.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1041"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1031"
+            }
+        ]
+    }
+}

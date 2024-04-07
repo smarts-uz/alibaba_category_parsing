@@ -1,0 +1,37 @@
+{
+    "id": 1148,
+    "name": "\u0428\u0432\u0435\u0439\u043d\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u043a\u0438",
+    "slug": "shvejnye-mashinki",
+    "parent": 1129,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22530,
+        "date_created": "2024-04-07T17:33:55",
+        "date_created_gmt": "2024-04-07T12:33:55",
+        "date_modified": "2024-04-07T17:33:55",
+        "date_modified_gmt": "2024-04-07T12:33:55",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hb60ad657321e4df89d8eab7e89c24e61g.jpg_220x220.webp",
+        "name": "hb60ad657321e4df89d8eab7e89c24e61g.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1148"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1129"
+            }
+        ]
+    }
+}

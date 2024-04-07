@@ -1,0 +1,37 @@
+{
+    "id": 1510,
+    "name": "\u0412\u0435\u0441\u044b",
+    "slug": "vesy",
+    "parent": 1487,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22910,
+        "date_created": "2024-04-07T17:46:38",
+        "date_created_gmt": "2024-04-07T12:46:38",
+        "date_modified": "2024-04-07T17:46:38",
+        "date_modified_gmt": "2024-04-07T12:46:38",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h271584f4650740ca8ae8c2ff90ae88f4r.jpg_220x220.webp",
+        "name": "h271584f4650740ca8ae8c2ff90ae88f4r.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1510"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1487"
+            }
+        ]
+    }
+}

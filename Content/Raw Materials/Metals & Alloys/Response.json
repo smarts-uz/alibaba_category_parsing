@@ -1,0 +1,28 @@
+{
+    "id": 1586,
+    "name": "\u041c\u0435\u0442\u0430\u043b\u043b\u044b \u0438 \u0441\u043f\u043b\u0430\u0432\u044b",
+    "slug": "metally-i-splavy",
+    "parent": 1535,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1586"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1535"
+            }
+        ]
+    }
+}

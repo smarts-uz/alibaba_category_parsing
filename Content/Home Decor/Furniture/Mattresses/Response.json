@@ -1,0 +1,37 @@
+{
+    "id": 922,
+    "name": "\u041c\u0430\u0442\u0440\u0430\u0441\u044b",
+    "slug": "matrasy",
+    "parent": 910,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22304,
+        "date_created": "2024-04-07T17:26:43",
+        "date_created_gmt": "2024-04-07T12:26:43",
+        "date_modified": "2024-04-07T17:26:43",
+        "date_modified_gmt": "2024-04-07T12:26:43",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/u1541dcab86ba4b1891e61000a7d9f36bg.jpg_220x220.webp",
+        "name": "u1541dcab86ba4b1891e61000a7d9f36bg.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/922"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/910"
+            }
+        ]
+    }
+}

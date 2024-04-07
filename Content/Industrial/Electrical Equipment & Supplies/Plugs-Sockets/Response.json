@@ -1,0 +1,37 @@
+{
+    "id": 1093,
+    "name": "\u0412\u0438\u043b\u043a\u0438-\u0420\u043e\u0437\u0435\u0442\u043a\u0438",
+    "slug": "vilki-rozetki",
+    "parent": 1079,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22475,
+        "date_created": "2024-04-07T17:31:49",
+        "date_created_gmt": "2024-04-07T12:31:49",
+        "date_modified": "2024-04-07T17:31:49",
+        "date_modified_gmt": "2024-04-07T12:31:49",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h838b901fb5264b19a6006a05921d3c047.jpg_220x220.webp",
+        "name": "h838b901fb5264b19a6006a05921d3c047.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1093"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1079"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 1612,
+    "name": "\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0437\u0438\u043d\u0430",
+    "slug": "avtomobilnaja-rezina",
+    "parent": 1610,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23014,
+        "date_created": "2024-04-07T17:50:40",
+        "date_created_gmt": "2024-04-07T12:50:40",
+        "date_modified": "2024-04-07T17:50:40",
+        "date_modified_gmt": "2024-04-07T12:50:40",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h2a5b27fbf2c448dd99636f8239e97f12n.jpg_220x220.webp",
+        "name": "h2a5b27fbf2c448dd99636f8239e97f12n.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1612"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1610"
+            }
+        ]
+    }
+}

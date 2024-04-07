@@ -1,0 +1,37 @@
+{
+    "id": 1000,
+    "name": "\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0435 \u0443\u043b\u0438\u0447\u043d\u044b\u0435 \u0444\u043e\u043d\u0430\u0440\u0438",
+    "slug": "solnechnye-ulichnye-fonari",
+    "parent": 982,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22385,
+        "date_created": "2024-04-07T17:29:02",
+        "date_created_gmt": "2024-04-07T12:29:02",
+        "date_modified": "2024-04-07T17:29:02",
+        "date_modified_gmt": "2024-04-07T12:29:02",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h64d88e85e3bc4627b3947cddf320619bb.jpg_220x220.webp",
+        "name": "h64d88e85e3bc4627b3947cddf320619bb.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1000"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/982"
+            }
+        ]
+    }
+}

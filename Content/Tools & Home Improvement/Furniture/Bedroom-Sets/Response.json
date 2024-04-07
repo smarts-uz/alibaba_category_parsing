@@ -1,0 +1,37 @@
+{
+    "id": 1782,
+    "name": "\u0421\u043f\u0430\u043b\u044c\u043d\u044b\u0435 \u0433\u0430\u0440\u043d\u0438\u0442\u0443\u0440\u044b",
+    "slug": "spalnye-garnitury",
+    "parent": 1780,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23225,
+        "date_created": "2024-04-07T18:53:47",
+        "date_created_gmt": "2024-04-07T13:53:47",
+        "date_modified": "2024-04-07T18:53:47",
+        "date_modified_gmt": "2024-04-07T13:53:47",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hed9dafbfc50b4f9db075ad5f0ffa51f7s.png_220x220.webp",
+        "name": "hed9dafbfc50b4f9db075ad5f0ffa51f7s.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1782"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1780"
+            }
+        ]
+    }
+}

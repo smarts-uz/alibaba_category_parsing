@@ -1,0 +1,37 @@
+{
+    "id": 1574,
+    "name": "\u041f\u0435\u0440\u044c\u044f",
+    "slug": "perja",
+    "parent": 1562,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22972,
+        "date_created": "2024-04-07T17:48:59",
+        "date_created_gmt": "2024-04-07T12:48:59",
+        "date_modified": "2024-04-07T17:48:59",
+        "date_modified_gmt": "2024-04-07T12:48:59",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hc3e92b61aef54993af41bec89ce70a8ev.jpg_220x220.webp",
+        "name": "hc3e92b61aef54993af41bec89ce70a8ev.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1574"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1562"
+            }
+        ]
+    }
+}

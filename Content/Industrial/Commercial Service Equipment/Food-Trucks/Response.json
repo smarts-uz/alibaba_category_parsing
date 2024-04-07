@@ -1,0 +1,37 @@
+{
+    "id": 1042,
+    "name": "\u0424\u0443\u0434-\u0442\u0440\u0430\u043a\u0438",
+    "slug": "fud-traki",
+    "parent": 1031,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22426,
+        "date_created": "2024-04-07T17:30:19",
+        "date_created_gmt": "2024-04-07T12:30:19",
+        "date_modified": "2024-04-07T17:30:19",
+        "date_modified_gmt": "2024-04-07T12:30:19",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h0fc0d589de2840e2a8e162ffcc7b915cn.jpg_220x220.webp",
+        "name": "h0fc0d589de2840e2a8e162ffcc7b915cn.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1042"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1031"
+            }
+        ]
+    }
+}

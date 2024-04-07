@@ -1,0 +1,37 @@
+{
+    "id": 881,
+    "name": "\u0428\u043a\u043e\u043b\u044c\u043d\u044b\u0435 \u0441\u0443\u043c\u043a\u0438",
+    "slug": "shkolnye-sumki",
+    "parent": 861,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22266,
+        "date_created": "2024-04-07T17:25:24",
+        "date_created_gmt": "2024-04-07T12:25:24",
+        "date_modified": "2024-04-07T17:25:24",
+        "date_modified_gmt": "2024-04-07T12:25:24",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hf2f095c909344fc1819635705c5135faj.jpg_220x220.webp",
+        "name": "hf2f095c909344fc1819635705c5135faj.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/881"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/861"
+            }
+        ]
+    }
+}

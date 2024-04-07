@@ -1,0 +1,37 @@
+{
+    "id": 739,
+    "name": "\u0427\u0430\u0439\u043d\u044b\u0439 \u043f\u0430\u043a\u0435\u0442\u0438\u043a",
+    "slug": "chajnyj-paketik",
+    "parent": 717,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22126,
+        "date_created": "2024-04-07T17:20:32",
+        "date_created_gmt": "2024-04-07T12:20:32",
+        "date_modified": "2024-04-07T17:20:32",
+        "date_modified_gmt": "2024-04-07T12:20:32",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h1341d4d6067d40e7b2b0097f26c3cf3bh.jpg_220x220.webp",
+        "name": "h1341d4d6067d40e7b2b0097f26c3cf3bh.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/739"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/717"
+            }
+        ]
+    }
+}

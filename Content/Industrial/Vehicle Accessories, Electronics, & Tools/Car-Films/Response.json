@@ -1,0 +1,37 @@
+{
+    "id": 1251,
+    "name": "\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0444\u0438\u043b\u044c\u043c\u044b",
+    "slug": "avtomobilnye-filmy",
+    "parent": 1248,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22640,
+        "date_created": "2024-04-07T17:38:06",
+        "date_created_gmt": "2024-04-07T12:38:06",
+        "date_modified": "2024-04-07T17:38:06",
+        "date_modified_gmt": "2024-04-07T12:38:06",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h4456442124e941c3a3f5368123384291p.jpg_220x220.webp",
+        "name": "h4456442124e941c3a3f5368123384291p.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1251"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1248"
+            }
+        ]
+    }
+}

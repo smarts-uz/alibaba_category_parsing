@@ -1,0 +1,37 @@
+{
+    "id": 764,
+    "name": "\u0412\u0438\u0442\u0430\u043c\u0438\u043d\u044b",
+    "slug": "vitaminy",
+    "parent": 741,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22151,
+        "date_created": "2024-04-07T17:21:43",
+        "date_created_gmt": "2024-04-07T12:21:43",
+        "date_modified": "2024-04-07T17:21:43",
+        "date_modified_gmt": "2024-04-07T12:21:43",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h42f3052042ed4da189376e4c117eb5890.png_220x220.webp",
+        "name": "h42f3052042ed4da189376e4c117eb5890.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/764"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/741"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 1671,
+    "name": "\u0423\u0432\u043b\u0430\u0436\u043d\u0438\u0442\u0435\u043b\u0438",
+    "slug": "uvlazhniteli",
+    "parent": 1659,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23120,
+        "date_created": "2024-04-07T18:50:12",
+        "date_created_gmt": "2024-04-07T13:50:12",
+        "date_modified": "2024-04-07T18:50:12",
+        "date_modified_gmt": "2024-04-07T13:50:12",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h611da20af0ec425ab5fd251bcbfef96ct.png_220x220.webp",
+        "name": "h611da20af0ec425ab5fd251bcbfef96ct.png_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1671"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1659"
+            }
+        ]
+    }
+}

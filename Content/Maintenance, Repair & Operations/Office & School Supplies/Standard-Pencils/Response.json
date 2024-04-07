@@ -1,0 +1,37 @@
+{
+    "id": 1367,
+    "name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0435 \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448\u0438",
+    "slug": "standartnye-karandashi",
+    "parent": 1346,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22759,
+        "date_created": "2024-04-07T17:41:46",
+        "date_created_gmt": "2024-04-07T12:41:46",
+        "date_modified": "2024-04-07T17:41:46",
+        "date_modified_gmt": "2024-04-07T12:41:46",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hf263f6bd70c04b939d560cf949071b47n.jpg_220x220.webp",
+        "name": "hf263f6bd70c04b939d560cf949071b47n.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1367"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1346"
+            }
+        ]
+    }
+}

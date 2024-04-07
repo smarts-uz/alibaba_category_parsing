@@ -1,0 +1,37 @@
+{
+    "id": 2031,
+    "name": "\u041b\u0430\u043d\u0447-\u0431\u043e\u043a\u0441\u044b",
+    "slug": "lanch-boksy",
+    "parent": 2019,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23468,
+        "date_created": "2024-04-07T19:03:06",
+        "date_created_gmt": "2024-04-07T14:03:06",
+        "date_modified": "2024-04-07T19:03:06",
+        "date_modified_gmt": "2024-04-07T14:03:06",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hf9bf9c6050cd4313b971f0c52dc22e30t.jpg_220x220.webp",
+        "name": "hf9bf9c6050cd4313b971f0c52dc22e30t.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2031"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2019"
+            }
+        ]
+    }
+}

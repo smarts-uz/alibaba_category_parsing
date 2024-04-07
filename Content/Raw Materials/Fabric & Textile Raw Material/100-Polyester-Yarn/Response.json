@@ -1,0 +1,37 @@
+{
+    "id": 1566,
+    "name": "100-\u043f\u043e\u043b\u0438\u044d\u0444\u0438\u0440\u043d\u0430\u044f \u043f\u0440\u044f\u0436\u0430",
+    "slug": "100-polijefirnaja-prjazha",
+    "parent": 1562,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22963,
+        "date_created": "2024-04-07T17:48:42",
+        "date_created_gmt": "2024-04-07T12:48:42",
+        "date_modified": "2024-04-07T17:48:42",
+        "date_modified_gmt": "2024-04-07T12:48:42",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h7a3b29ad894d4b229de2ce3da07291ebc.jpg_220x220.webp",
+        "name": "h7a3b29ad894d4b229de2ce3da07291ebc.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1566"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1562"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 1265,
+    "name": "\u041d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u044f-GPS",
+    "slug": "navigacija-gps",
+    "parent": 1248,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22654,
+        "date_created": "2024-04-07T17:38:32",
+        "date_created_gmt": "2024-04-07T12:38:32",
+        "date_modified": "2024-04-07T17:38:32",
+        "date_modified_gmt": "2024-04-07T12:38:32",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h1834fb6b96c54f2e93150f0bd16cccd0y.jpg_220x220.webp",
+        "name": "h1834fb6b96c54f2e93150f0bd16cccd0y.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1265"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1248"
+            }
+        ]
+    }
+}

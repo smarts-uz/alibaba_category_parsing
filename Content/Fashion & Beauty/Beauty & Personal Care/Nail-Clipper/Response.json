@@ -1,0 +1,37 @@
+{
+    "id": 613,
+    "name": "\u041c\u0430\u043d\u0438\u043a\u044e\u0440\u043d\u044b\u0435 \u043d\u043e\u0436\u043d\u0438\u0446\u044b",
+    "slug": "manikjurnye-nozhnicy",
+    "parent": 600,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22000,
+        "date_created": "2024-04-07T17:16:10",
+        "date_created_gmt": "2024-04-07T12:16:10",
+        "date_modified": "2024-04-07T17:16:10",
+        "date_modified_gmt": "2024-04-07T12:16:10",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h5f6b566631d146779cd1630370e2c8149.jpg_220x220-2.webp",
+        "name": "h5f6b566631d146779cd1630370e2c8149.jpg_220x220-2.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/613"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/600"
+            }
+        ]
+    }
+}

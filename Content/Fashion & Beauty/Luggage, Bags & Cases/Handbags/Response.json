@@ -1,0 +1,37 @@
+{
+    "id": 629,
+    "name": "\u0421\u0443\u043c\u043a\u0438",
+    "slug": "sumki",
+    "parent": 624,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22015,
+        "date_created": "2024-04-07T17:16:41",
+        "date_created_gmt": "2024-04-07T12:16:41",
+        "date_modified": "2024-04-07T17:16:41",
+        "date_modified_gmt": "2024-04-07T12:16:41",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h5571fb8c03c44ecca7d4f5a6f84beeede.jpg_220x220-2.webp",
+        "name": "h5571fb8c03c44ecca7d4f5a6f84beeede.jpg_220x220-2.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/629"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/624"
+            }
+        ]
+    }
+}

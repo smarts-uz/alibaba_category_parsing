@@ -1,0 +1,37 @@
+{
+    "id": 729,
+    "name": "\u0416\u0432\u0430\u0447\u043a\u0430",
+    "slug": "zhvachka",
+    "parent": 717,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22116,
+        "date_created": "2024-04-07T17:20:15",
+        "date_created_gmt": "2024-04-07T12:20:15",
+        "date_modified": "2024-04-07T17:20:15",
+        "date_modified_gmt": "2024-04-07T12:20:15",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hbd9c347d73214d07b107740123575684y.jpg_220x220.webp",
+        "name": "hbd9c347d73214d07b107740123575684y.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/729"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/717"
+            }
+        ]
+    }
+}

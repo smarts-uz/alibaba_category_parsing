@@ -1,0 +1,37 @@
+{
+    "id": 1569,
+    "name": "\u0421\u043c\u0435\u0448\u0430\u043d\u043d\u0430\u044f \u043f\u0440\u044f\u0436\u0430",
+    "slug": "smeshannaja-prjazha",
+    "parent": 1562,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22966,
+        "date_created": "2024-04-07T17:48:47",
+        "date_created_gmt": "2024-04-07T12:48:47",
+        "date_modified": "2024-04-07T17:48:47",
+        "date_modified_gmt": "2024-04-07T12:48:47",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h4bafd74a585c43d89539ffb217c54171o.jpg_220x220.webp",
+        "name": "h4bafd74a585c43d89539ffb217c54171o.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1569"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1562"
+            }
+        ]
+    }
+}

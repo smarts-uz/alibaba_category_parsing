@@ -1,0 +1,37 @@
+{
+    "id": 748,
+    "name": "\u0421\u043c\u0430\u0437\u043e\u0447\u043d\u044b\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b",
+    "slug": "smazochnye-materialy",
+    "parent": 741,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22134,
+        "date_created": "2024-04-07T17:20:48",
+        "date_created_gmt": "2024-04-07T12:20:48",
+        "date_modified": "2024-04-07T17:20:48",
+        "date_modified_gmt": "2024-04-07T12:20:48",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hb036bc63bf8f471eba7f3e5096910300i.jpg_220x220.webp",
+        "name": "hb036bc63bf8f471eba7f3e5096910300i.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/748"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/741"
+            }
+        ]
+    }
+}

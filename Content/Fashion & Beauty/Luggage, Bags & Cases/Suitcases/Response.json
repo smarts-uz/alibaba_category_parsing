@@ -1,0 +1,37 @@
+{
+    "id": 638,
+    "name": "\u0427\u0435\u043c\u043e\u0434\u0430\u043d\u044b",
+    "slug": "chemodany",
+    "parent": 624,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22027,
+        "date_created": "2024-04-07T17:16:58",
+        "date_created_gmt": "2024-04-07T12:16:58",
+        "date_modified": "2024-04-07T17:16:58",
+        "date_modified_gmt": "2024-04-07T12:16:58",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/hf7dd7342be4844af9eed4ee9c9b9960ap.jpg_220x220-2.webp",
+        "name": "hf7dd7342be4844af9eed4ee9c9b9960ap.jpg_220x220-2.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/638"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/624"
+            }
+        ]
+    }
+}

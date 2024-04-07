@@ -1,0 +1,37 @@
+{
+    "id": 1230,
+    "name": "\u0424\u0440\u0435\u0437\u0430",
+    "slug": "freza",
+    "parent": 1224,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22617,
+        "date_created": "2024-04-07T17:36:59",
+        "date_created_gmt": "2024-04-07T12:36:59",
+        "date_modified": "2024-04-07T17:36:59",
+        "date_modified_gmt": "2024-04-07T12:36:59",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h6240187c62c244f391c3b5f8fc47df767.jpg_220x220.webp",
+        "name": "h6240187c62c244f391c3b5f8fc47df767.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1230"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1224"
+            }
+        ]
+    }
+}

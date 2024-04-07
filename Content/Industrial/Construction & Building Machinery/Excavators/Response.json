@@ -1,0 +1,37 @@
+{
+    "id": 1062,
+    "name": "\u042d\u043a\u0441\u043a\u0430\u0432\u0430\u0442\u043e\u0440\u044b",
+    "slug": "jekskavatory",
+    "parent": 1055,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22445,
+        "date_created": "2024-04-07T17:30:54",
+        "date_created_gmt": "2024-04-07T12:30:54",
+        "date_modified": "2024-04-07T17:30:54",
+        "date_modified_gmt": "2024-04-07T12:30:54",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h4835246be5fc4e7285b8487b06e8b035e.jpg_220x220.webp",
+        "name": "h4835246be5fc4e7285b8487b06e8b035e.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1062"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1055"
+            }
+        ]
+    }
+}

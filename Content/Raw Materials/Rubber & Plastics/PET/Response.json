@@ -1,0 +1,37 @@
+{
+    "id": 1620,
+    "name": "\u0414\u041e\u041c\u0410\u0428\u041d\u0418\u0419 \u041f\u0418\u0422\u041e\u041c\u0415\u0426",
+    "slug": "domashnij-pitomec",
+    "parent": 1610,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 23022,
+        "date_created": "2024-04-07T17:50:58",
+        "date_created_gmt": "2024-04-07T12:50:58",
+        "date_modified": "2024-04-07T17:50:58",
+        "date_modified_gmt": "2024-04-07T12:50:58",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/a181665b9366c45d0b7bfe3202121bcc5j.jpg_220x220.webp",
+        "name": "a181665b9366c45d0b7bfe3202121bcc5j.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1620"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1610"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 1002,
+    "name": "\u041d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u044b\u0435 \u043b\u0430\u043c\u043f\u044b",
+    "slug": "nastolnye-lampy",
+    "parent": 982,
+    "description": "",
+    "display": "default",
+    "image": {
+        "id": 22387,
+        "date_created": "2024-04-07T17:29:06",
+        "date_created_gmt": "2024-04-07T12:29:06",
+        "date_modified": "2024-04-07T17:29:06",
+        "date_modified_gmt": "2024-04-07T12:29:06",
+        "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/h348d5f7c098b49019687d590b36ca5eao.jpg_220x220.webp",
+        "name": "h348d5f7c098b49019687d590b36ca5eao.jpg_220x220.webp",
+        "alt": ""
+    },
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/1002"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/982"
+            }
+        ]
+    }
+}
