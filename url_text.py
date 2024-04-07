@@ -35,7 +35,7 @@ def create_photo(img_url,src,titleEn):
 import json
 def create_json(src,subcategory):
     try:
-        with open(f'{src}/App.json', mode='w', encoding='utf-8') as f:
+        with open(f'{src}/All.json', mode='w', encoding='utf-8') as f:
             json_object = json.dumps(subcategory, indent=4)
             f.write(json_object)
             print(f'[cyan]Created json file')
