@@ -4,6 +4,7 @@ import json
 import requests
 from pprint import pprint
 
+from convert_to_ru import convert_ru
 from url_text import create_url, create_photo, create_json
 
 
@@ -20,7 +21,8 @@ def search_html(path):
 
 # a = search_html('Content/')
 # print(a)
-def parsing_alibaba(html_files):
+def parsing_alibaba(path):
+    html_files=search_html(path=path)
     for line in html_files:
         for dir,html in line.items():
             HtmlFile = open(html, 'r', encoding='utf-8')
@@ -49,27 +51,10 @@ def parsing_alibaba(html_files):
                             else:
                                 os.makedirs(src)
                                 print(f'Directory Created: {src}')
-
                             create_json(src=src,subcategory=subcategory)
                             create_url(url=action,src=src,titleEn=titleEn)
                             create_photo(img_url=img_url,src=src,titleEn=titleEn)
-                            # try:
-                            #     with open(f'{src}/App.json', mode='w', encoding='utf-8') as f:
-                            #         json_object = json.dumps(subcategory, indent=4)
-                            #         f.write(json_object)
-                            #
-                            # except Exception as e:
-                            #     print(e)
-                            # try:
-                            #     response = requests.get(f'https:{img_url}')
-                            #     if response.status_code == 200:
-                            #         with open(f'{src}/{titleEn}.{img_url.split(".")[-1]}', mode='wb') as f:
-                            #             f.write(response.content)
-                            #             print(f'Photo saved:{src}/{img_url.split("/")[-1]}')
-                            #     else:
-                            #         print('Error while downloading photo!')
-                            # except Exception as e:
-                            #     print(e)
+                            convert_ru(src=src,name=titleEn)
 
 
             except:
@@ -81,4 +66,4 @@ def parsing_alibaba(html_files):
 
 # parsing_alibaba(["Content\\Industrial\\Vehicle Accessories, Electronics, & Tools\Vehicle Accessories, Electronics, & Tools.html"])
 
-parsing_alibaba(html_files=search_html("Content\Top categories\Apparel"))
+# parsing_alibaba(html_files=search_html("Content\Top categories\Apparel"))

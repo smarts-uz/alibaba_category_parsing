@@ -2,6 +2,10 @@ import os
 import regex
 import subprocess
 import sys
+
+from convert_to_ru import convert_ru
+
+
 def mhtml_search(path):
     html_files = []
     if '\\.mhtml' in path:path = path[:-len('\\.mhtml')]
@@ -32,15 +36,22 @@ def find_content_location(mhtml_files:list):
 def run_y2z(urls:list):
     for line in urls:
         for dirs,url in line.items():
-            print(dirs)
-            # execute = subprocess.Popen(
-            #     [f'C:/Users/Администратор/Desktop/smarts software/Cmdline/y2z/1_2_1/monolith.exe', f'{url}', '-o',f'{dirs}.html'])
-            # code = execute.wait()
-            # print(code)
+            direct = dirs.replace('\\','/')
+            direct_list = direct.split('/')
 
-a = mhtml_search('Content/')
-urls = find_content_location(mhtml_files=a)
-html = run_y2z(urls=urls)
+            for i in range(0,len( direct_list)):
+                url_1 = '/'.join(direct_list[0:i+1])
+                if url_1 != '' and direct_list[i]:
+                    convert_ru(src=url_1,name=direct_list[i])
+
+            execute = subprocess.Popen(
+                [f'C:/Users/Администратор/Desktop/smarts software/Cmdline/y2z/1_2_1/monolith.exe', f'{url}', '-o',f'{dirs}.html'])
+            code = execute.wait()
+            print(code)
+#
+# a = mhtml_search('Content/')
+# urls = find_content_location(mhtml_files=a)
+# html = run_y2z(urls=urls)
 
 
 

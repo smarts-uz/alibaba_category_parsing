@@ -13,15 +13,15 @@
         "templatePath": "/ncms/category/products/index.html"
     },
     "debugInfoMap": {
-        "prepare": "1712403174407 | 0 | 1712403174407",
-        "process": "1712403174507 | 0 | 1712403174507",
-        "preRender": "1712403174407 | 10 | 1712403174417",
-        "assembleModuleData": "1712403174507 | 0 | 1712403174507",
-        "retrieveHtmlAndJson": "1712403174346 | 54 | 1712403174400",
-        "fetch": "1712403174423 | 84 | 1712403174507",
-        "seo": "1712403174407 | 0 | 1712403174407",
-        "preload": "1712403174407 | 0 | 1712403174407",
-        "render": "1712403174507 | 71 | 1712403174578"
+        "prepare": "1712480266584 | 0 | 1712480266584",
+        "process": "1712480266664 | 0 | 1712480266664",
+        "preRender": "1712480266584 | 9 | 1712480266593",
+        "assembleModuleData": "1712480266664 | 0 | 1712480266664",
+        "retrieveHtmlAndJson": "1712480266575 | 4 | 1712480266579",
+        "fetch": "1712480266598 | 66 | 1712480266664",
+        "seo": "1712480266584 | 0 | 1712480266584",
+        "preload": "1712480266584 | 0 | 1712480266584",
+        "render": "1712480266664 | 25 | 1712480266689"
     },
     "device": "pc",
     "modules": [
@@ -47,21 +47,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/201723202/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "012345678900000017124031744071f6566be1cf18",
-                    "requestId": "b2835957d3ba14b720fd5f7ffa2a1389",
+                    "pageDeduplicateId": "0123456789000000171248026658421f4401d22f09",
+                    "requestId": "aebbab93d451156ccfb787c1f7d7afa5",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712403174346",
+                    "reqTimestamp": "1712480266575",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "c186ffebe9fcc52f466a8c388206f306",
+                    "versionCode": "921089b7e21b245a13eff1409810f420",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "b2835957d3ba14b720fd5f7ffa2a1389",
+                    "reqId": "aebbab93d451156ccfb787c1f7d7afa5",
                     "spm": "a2700.product_home_newuser.header.1231.2f9d67af20x9kd",
                     "categoryIds": "201723202",
-                    "pvId": "b2835957d3ba14b720fd5f7ffa2a1389",
+                    "pvId": "aebbab93d451156ccfb787c1f7d7afa5",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -122,12 +122,6 @@
                                         "title": "Apparel & Accessories"
                                     },
                                     {
-                                        "categoryIds": "15",
-                                        "titleEn": "Home-Garden",
-                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
-                                        "title": "Home & Garden"
-                                    },
-                                    {
                                         "categoryIds": "26",
                                         "titleEn": "Mother-Kids-Toys",
                                         "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
@@ -138,6 +132,18 @@
                                         "titleEn": "Health-Care",
                                         "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
                                         "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
                                     },
                                     {
                                         "categoryIds": "43",
@@ -168,12 +174,6 @@
                                         "titleEn": "Jewelry-Eyewear-Watches-Accessories",
                                         "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
                                         "title": "Jewelry, Eyewear, Watches & Accessories"
-                                    },
-                                    {
-                                        "categoryIds": "1503",
-                                        "titleEn": "Furniture",
-                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
-                                        "title": "Furniture"
                                     },
                                     {
                                         "categoryIds": "1420",
@@ -361,16 +361,6 @@
                                         "isLeaf": false
                                     },
                                     {
-                                        "categoryIds": "201151610",
-                                        "titleEn": "Motors",
-                                        "level": "2",
-                                        "imageUrl": "https://sc02.alicdn.com/kf/H2f3b70af479246a6840fbd0548203291T.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201151610&SearchText=Motors&indexArea=product_en&fsb=y",
-                                        "isPrefer": false,
-                                        "title": "Motors",
-                                        "isLeaf": false
-                                    },
-                                    {
                                         "categoryIds": "201335703",
                                         "titleEn": "Hydraulic-Parts",
                                         "level": "2",
@@ -378,6 +368,16 @@
                                         "action": "https://www.alibaba.com/trade/search?categoryId=201335703&SearchText=Hydraulic+Parts&indexArea=product_en&fsb=y",
                                         "isPrefer": false,
                                         "title": "Hydraulic Parts",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201151610",
+                                        "titleEn": "Motors",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H2f3b70af479246a6840fbd0548203291T.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201151610&SearchText=Motors&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Motors",
                                         "isLeaf": false
                                     },
                                     {
@@ -455,25 +455,25 @@
                                         "categoryIds": "14560204",
                                         "level": "3",
                                         "titleEn": "Taper-Roller-Bearings",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hfd050335babc4709b78fbe1e35e53defw.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=14560204&SearchText=Taper+Roller+Bearings&indexArea=product_en&fsb=y&productId=1600335073236",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H719f0710ad934ae18deb3f1f7c7ce0f3W.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14560204&SearchText=Taper+Roller+Bearings&indexArea=product_en&fsb=y&productId=1601025640386",
                                         "title": "Taper Roller Bearings"
                                     },
                                     {
                                         "categoryIds": "145608",
                                         "level": "3",
                                         "titleEn": "Rod-End-Bearings",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hfa4eddd830d6415b8a94def4f4f25cd0c.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=145608&SearchText=Rod+End+Bearings&indexArea=product_en&fsb=y&productId=1600068396801",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf0ae153cc756473d98894addaffd54f9D.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=145608&SearchText=Rod+End+Bearings&indexArea=product_en&fsb=y&productId=1600766970954",
                                         "title": "Rod End Bearings"
                                     },
                                     {
-                                        "categoryIds": "100007159",
+                                        "categoryIds": "145609",
                                         "level": "3",
-                                        "titleEn": "Motor-Controllers",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H5b16c84dd2a24bcab79b22fc893da964t.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007159&SearchText=Motor+Controllers&indexArea=product_en&fsb=y&productId=1600939225179",
-                                        "title": "Motor Controllers"
+                                        "titleEn": "Pillow-Block-Bearings",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0e9e522a7dc6477bbc6a9f26f6472a67a.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=145609&SearchText=Pillow+Block+Bearings&indexArea=product_en&fsb=y&productId=1600787261091",
+                                        "title": "Pillow Block Bearings"
                                     },
                                     {
                                         "categoryIds": "4102",
@@ -484,44 +484,44 @@
                                         "title": "Other Hydraulic Parts"
                                     },
                                     {
-                                        "categoryIds": "145609",
+                                        "categoryIds": "100007159",
                                         "level": "3",
-                                        "titleEn": "Pillow-Block-Bearings",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H7907408f71314cc59642a58ce11f32368.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=145609&SearchText=Pillow+Block+Bearings&indexArea=product_en&fsb=y&productId=1601015533957",
-                                        "title": "Pillow Block Bearings"
+                                        "titleEn": "Motor-Controllers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha1a5f43032a34d719789b2e1407c107dr.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007159&SearchText=Motor+Controllers&indexArea=product_en&fsb=y&productId=1600745269768",
+                                        "title": "Motor Controllers"
                                     },
                                     {
                                         "categoryIds": "146904",
                                         "level": "3",
                                         "titleEn": "Transmission-Belts",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H2359d1c314fb4f0b919519dd8241114fM.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=146904&SearchText=Transmission+Belts&indexArea=product_en&fsb=y&productId=1601059012501",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb316d0127ad74645a259a4b06a2767fdy.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=146904&SearchText=Transmission+Belts&indexArea=product_en&fsb=y&productId=1600349211020",
                                         "title": "Transmission Belts"
                                     },
                                     {
                                         "categoryIds": "14560102",
                                         "level": "3",
                                         "titleEn": "Ceramic-Ball-Bearings",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H6f5ad035f3694cca8dbe45437c411af7R.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=14560102&SearchText=Ceramic+Ball+Bearings&indexArea=product_en&fsb=y&productId=62036004062",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H27da9abf3e104c419ad188a6c685eb694.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14560102&SearchText=Ceramic+Ball+Bearings&indexArea=product_en&fsb=y&productId=1601031126577",
                                         "title": "Ceramic Ball Bearings"
                                     },
                                     {
                                         "categoryIds": "146903",
                                         "level": "3",
                                         "titleEn": "Pulleys",
-                                        "imageUrl": "//sc04.alicdn.com/kf/HTB18.5.coGF3KVjSZFoq6zmpFXac.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=146903&SearchText=Pulleys&indexArea=product_en&fsb=y&productId=62089440634",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0cfb05f077c647fb8b131e05e98d2cc5P.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=146903&SearchText=Pulleys&indexArea=product_en&fsb=y&productId=1601028810414",
                                         "title": "Pulleys"
                                     },
                                     {
-                                        "categoryIds": "100004464",
+                                        "categoryIds": "100007158",
                                         "level": "3",
-                                        "titleEn": "Universal-Joints",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hf2baaae829d44c768c941c94155cdde50.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004464&SearchText=Universal+Joints&indexArea=product_en&fsb=y&productId=1600261863410",
-                                        "title": "Universal Joints"
+                                        "titleEn": "Motor-Drivers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb0db5f95b2ed4fc589b35be61ed9ae96A.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007158&SearchText=Motor+Drivers&indexArea=product_en&fsb=y&productId=1600309081671",
+                                        "title": "Motor Drivers"
                                     },
                                     {
                                         "categoryIds": "100007153",
@@ -535,97 +535,97 @@
                                         "categoryIds": "100007154",
                                         "level": "3",
                                         "titleEn": "AC-Motors",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H7e5419c2ae06400c998c58ffc409ed99M.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007154&SearchText=AC+Motors&indexArea=product_en&fsb=y&productId=1600383864722",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hcbb0336030214cdc8b864ac92fe479b2S.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007154&SearchText=AC+Motors&indexArea=product_en&fsb=y&productId=1600949612889",
                                         "title": "AC Motors"
                                     },
                                     {
                                         "categoryIds": "201333306",
                                         "level": "3",
                                         "titleEn": "Hydraulic-Pumps",
-                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1E_BUwx1YBuNjy1zcq6zNcXXam.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201333306&SearchText=Hydraulic+Pumps&indexArea=product_en&fsb=y&productId=60767473160",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8f5d5f5b85a943ba8c78a1da10b2066b2.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201333306&SearchText=Hydraulic+Pumps&indexArea=product_en&fsb=y&productId=60779857470",
                                         "title": "Hydraulic Pumps"
                                     },
                                     {
                                         "categoryIds": "201334404",
                                         "level": "3",
                                         "titleEn": "Hydraulic-Valves",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H69f575514a2a473d9a42cbb3e94481311.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201334404&SearchText=Hydraulic+Valves&indexArea=product_en&fsb=y&productId=1600822071962",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H360d85233c2e425caea94e05596e89c2t.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201334404&SearchText=Hydraulic+Valves&indexArea=product_en&fsb=y&productId=1600896182653",
                                         "title": "Hydraulic Valves"
                                     },
                                     {
                                         "categoryIds": "146910",
                                         "level": "2",
                                         "titleEn": "Speed-Reducers",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hc1feb900dff14eb1aa4c88378eb22ee1G.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=146910&SearchText=Speed+Reducers&indexArea=product_en&fsb=y&productId=1600950171559",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H790fe548dec740bbb9dc94a9d93cbc86Y.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=146910&SearchText=Speed+Reducers&indexArea=product_en&fsb=y&productId=1600094755633",
                                         "title": "Speed Reducers"
                                     },
                                     {
                                         "categoryIds": "201334804",
                                         "level": "3",
                                         "titleEn": "Hydraulic-Motors",
-                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1h5FaLSzqK1RjSZFpq6ykSXXaV.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201334804&SearchText=Hydraulic+Motors&indexArea=product_en&fsb=y&productId=62032138118",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H388e5d51d77b415bb4aa0f6a427d06d0U.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201334804&SearchText=Hydraulic+Motors&indexArea=product_en&fsb=y&productId=1600506491631",
                                         "title": "Hydraulic Motors"
                                     },
                                     {
                                         "categoryIds": "146909",
                                         "level": "2",
                                         "titleEn": "Gearboxes",
-                                        "imageUrl": "//sc04.alicdn.com/kf/A923b3cf60fc34845ad8ecceea1b375d2d.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=146909&SearchText=Gearboxes&indexArea=product_en&fsb=y&productId=11000008854144",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H94c64a6398304db5929d096683adcacfB.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=146909&SearchText=Gearboxes&indexArea=product_en&fsb=y&productId=1600901313448",
                                         "title": "Gearboxes"
                                     },
                                     {
                                         "categoryIds": "100007155",
                                         "level": "3",
                                         "titleEn": "Stepper-Motors",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Haa3b8a16bd58452481647465af8fb8baj.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007155&SearchText=Stepper+Motors&indexArea=product_en&fsb=y&productId=1600683455371",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H18fc6c50e2ed4d50999f1764056aa3d9p.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007155&SearchText=Stepper+Motors&indexArea=product_en&fsb=y&productId=1600986432937",
                                         "title": "Stepper Motors"
                                     },
                                     {
                                         "categoryIds": "146902",
                                         "level": "3",
                                         "titleEn": "Transmission-Chains",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H38a3f5cab5fc4eefb6dd14f7b9be6059h.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=146902&SearchText=Transmission+Chains&indexArea=product_en&fsb=y&productId=1600859010648",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H75a9a574c51c492ba79cce602c6f1051l.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=146902&SearchText=Transmission+Chains&indexArea=product_en&fsb=y&productId=1600729955098",
                                         "title": "Transmission Chains"
                                     },
                                     {
                                         "categoryIds": "146901",
                                         "level": "3",
                                         "titleEn": "Shaft-Couplings",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hbca01b2764f7422aacf80fc027dd45aeg.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=146901&SearchText=Shaft+Couplings&indexArea=product_en&fsb=y&productId=1600429659662",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H17469d033c4d4e1e84e0f294a99213a8Q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=146901&SearchText=Shaft+Couplings&indexArea=product_en&fsb=y&productId=1600637606419",
                                         "title": "Shaft Couplings"
                                     },
                                     {
                                         "categoryIds": "100004509",
                                         "level": "3",
                                         "titleEn": "Bushings",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hd7b9331b33f144f18d555cbdde97f43a3.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004509&SearchText=Bushings&indexArea=product_en&fsb=y&productId=1600143959235",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7a0c316268564d1da64556611b0b408cZ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004509&SearchText=Bushings&indexArea=product_en&fsb=y&productId=1600540408874",
                                         "title": "Bushings"
                                     },
                                     {
                                         "categoryIds": "100004508",
                                         "level": "3",
                                         "titleEn": "Bearing-Balls",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hb20a0c6f2cf84cd28cfe9d4e267addec6.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004508&SearchText=Bearing+Balls&indexArea=product_en&fsb=y&productId=1600592869359",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hae4b207510f84523a0a3728c9b75cba6g.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004508&SearchText=Bearing+Balls&indexArea=product_en&fsb=y&productId=1600398586673",
                                         "title": "Bearing Balls"
                                     },
                                     {
-                                        "categoryIds": "100007158",
+                                        "categoryIds": "100007160",
                                         "level": "3",
-                                        "titleEn": "Motor-Drivers",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hb5c03fb038624b63befcade18a1e3988B.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007158&SearchText=Motor+Drivers&indexArea=product_en&fsb=y&productId=1600802293965",
-                                        "title": "Motor Drivers"
+                                        "titleEn": "Other-Motor-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hea539775555844389f42b0ee8d243b9cj.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007160&SearchText=Other+Motor+Accessories&indexArea=product_en&fsb=y&productId=1600493242911",
+                                        "title": "Other Motor Accessories"
                                     }
                                 ]
                             }
@@ -656,21 +656,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/201723202/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "012345678900000017124031744071f6566be1cf18",
-                    "requestId": "e91a703b5dbfe529f8996bcedcccdff7",
+                    "pageDeduplicateId": "0123456789000000171248026658421f4401d22f09",
+                    "requestId": "39de618a37775b85ff5d91bbba58184c",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712403174346",
+                    "reqTimestamp": "1712480266575",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "c186ffebe9fcc52f466a8c388206f306",
+                    "versionCode": "921089b7e21b245a13eff1409810f420",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "e91a703b5dbfe529f8996bcedcccdff7",
+                    "reqId": "39de618a37775b85ff5d91bbba58184c",
                     "spm": "a2700.product_home_newuser.header.1231.2f9d67af20x9kd",
                     "categoryIds": "201723202",
-                    "pvId": "e91a703b5dbfe529f8996bcedcccdff7",
+                    "pvId": "39de618a37775b85ff5d91bbba58184c",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -714,21 +714,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/201723202/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "012345678900000017124031744071f6566be1cf18",
-                    "requestId": "e755899562b85288a158eb93df84ad42",
+                    "pageDeduplicateId": "0123456789000000171248026658421f4401d22f09",
+                    "requestId": "c545a0eb43cae49b194fb29a5503a565",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712403174346",
+                    "reqTimestamp": "1712480266575",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "c186ffebe9fcc52f466a8c388206f306",
+                    "versionCode": "921089b7e21b245a13eff1409810f420",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "e755899562b85288a158eb93df84ad42",
+                    "reqId": "c545a0eb43cae49b194fb29a5503a565",
                     "spm": "a2700.product_home_newuser.header.1231.2f9d67af20x9kd",
                     "categoryIds": "201723202",
-                    "pvId": "e755899562b85288a158eb93df84ad42",
+                    "pvId": "c545a0eb43cae49b194fb29a5503a565",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -823,7 +823,7 @@
         "name": "Power Transmission",
         "offlineTime": 1867132799000,
         "offlineUrl": "https://www.alibaba.com",
-        "pageDeduplicateId": "012345678900000017124031744071f6566be1cf18",
+        "pageDeduplicateId": "0123456789000000171248026658421f4401d22f09",
         "pageType": 0,
         "path": "/category/products/201723202/index.html",
         "sourcePage": false,

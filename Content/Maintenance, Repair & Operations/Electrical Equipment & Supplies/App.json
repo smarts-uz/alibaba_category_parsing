@@ -17,15 +17,15 @@
         "templatePath": "/ncms/category/products/index.html"
     },
     "debugInfoMap": {
-        "prepare": "1712403360474 | 0 | 1712403360474",
-        "process": "1712403360594 | 0 | 1712403360594",
-        "preRender": "1712403360474 | 9 | 1712403360483",
-        "assembleModuleData": "1712403360594 | 0 | 1712403360594",
-        "retrieveHtmlAndJson": "1712403360400 | 69 | 1712403360469",
-        "fetch": "1712403360509 | 85 | 1712403360594",
-        "seo": "1712403360474 | 0 | 1712403360474",
-        "preload": "1712403360474 | 0 | 1712403360474",
-        "render": "1712403360594 | 68 | 1712403360662"
+        "prepare": "1712480478246 | 0 | 1712480478246",
+        "process": "1712480478334 | 0 | 1712480478334",
+        "preRender": "1712480478246 | 10 | 1712480478256",
+        "assembleModuleData": "1712480478334 | 0 | 1712480478334",
+        "retrieveHtmlAndJson": "1712480478129 | 112 | 1712480478241",
+        "fetch": "1712480478263 | 71 | 1712480478334",
+        "seo": "1712480478246 | 0 | 1712480478246",
+        "preload": "1712480478246 | 0 | 1712480478246",
+        "render": "1712480478334 | 79 | 1712480478413"
     },
     "device": "pc",
     "modules": [
@@ -51,21 +51,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/5/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "012345678900000017124033604741e0cdcef88ff3",
-                    "requestId": "216a0af433512c5c094a61331fd86c81",
+                    "pageDeduplicateId": "012345678900000017124804782461f3d71f717078",
+                    "requestId": "a71c7a3de14e3b5b38267a9c15a0c3da",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712403360400",
+                    "reqTimestamp": "1712480478129",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "a09875fe031b770352e0e9844a3c329f",
+                    "versionCode": "210a95073ffacf64043e5fcd8e399db6",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "216a0af433512c5c094a61331fd86c81",
+                    "reqId": "a71c7a3de14e3b5b38267a9c15a0c3da",
                     "spm": "a2700.product_home_newuser.header.3671.2ce267afd3VBj7",
                     "categoryIds": "5",
-                    "pvId": "216a0af433512c5c094a61331fd86c81",
+                    "pvId": "a71c7a3de14e3b5b38267a9c15a0c3da",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -126,12 +126,6 @@
                                         "title": "Apparel & Accessories"
                                     },
                                     {
-                                        "categoryIds": "15",
-                                        "titleEn": "Home-Garden",
-                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
-                                        "title": "Home & Garden"
-                                    },
-                                    {
                                         "categoryIds": "26",
                                         "titleEn": "Mother-Kids-Toys",
                                         "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
@@ -142,6 +136,18 @@
                                         "titleEn": "Health-Care",
                                         "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
                                         "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
                                     },
                                     {
                                         "categoryIds": "43",
@@ -172,12 +178,6 @@
                                         "titleEn": "Jewelry-Eyewear-Watches-Accessories",
                                         "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
                                         "title": "Jewelry, Eyewear, Watches & Accessories"
-                                    },
-                                    {
-                                        "categoryIds": "1503",
-                                        "titleEn": "Furniture",
-                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
-                                        "title": "Furniture"
                                     },
                                     {
                                         "categoryIds": "1420",
@@ -405,16 +405,6 @@
                                         "isLeaf": false
                                     },
                                     {
-                                        "categoryIds": "153703",
-                                        "titleEn": "Electrical-Instruments",
-                                        "level": "2",
-                                        "imageUrl": "https://sc02.alicdn.com/kf/Hdc9437d1c1d946548313ef7d25501076f.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=153703&SearchText=Electrical+Instruments&indexArea=product_en&fsb=y",
-                                        "isPrefer": false,
-                                        "title": "Electrical Instruments",
-                                        "isLeaf": false
-                                    },
-                                    {
                                         "categoryIds": "201148007",
                                         "titleEn": "Industrial-Controls",
                                         "level": "2",
@@ -422,6 +412,16 @@
                                         "action": "https://www.alibaba.com/trade/search?categoryId=201148007&SearchText=Industrial+Controls&indexArea=product_en&fsb=y",
                                         "isPrefer": false,
                                         "title": "Industrial Controls",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "153703",
+                                        "titleEn": "Electrical-Instruments",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hdc9437d1c1d946548313ef7d25501076f.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=153703&SearchText=Electrical+Instruments&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Electrical Instruments",
                                         "isLeaf": false
                                     },
                                     {
@@ -491,8 +491,8 @@
                                         "categoryIds": "410402",
                                         "level": "3",
                                         "titleEn": "Diesel-Generators",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H95c289c36ae340f59cb7108f92a274f3Y.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=410402&SearchText=Diesel+Generators&indexArea=product_en&fsb=y&productId=1600608557823",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0aac0884d291477eac1361f169bb8f2dF.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=410402&SearchText=Diesel+Generators&indexArea=product_en&fsb=y&productId=1600640792023",
                                         "title": "Diesel Generators"
                                     },
                                     {
@@ -507,80 +507,80 @@
                                         "categoryIds": "410606",
                                         "level": "3",
                                         "titleEn": "Remote-Control-Switches",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hb1aa69b8db814d4e97b856155199ae13n.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=410606&SearchText=Remote+Control+Switches&indexArea=product_en&fsb=y&productId=1601055368264",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7a05ff8e73ea4cb3ba68a33fde47ef04b.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=410606&SearchText=Remote+Control+Switches&indexArea=product_en&fsb=y&productId=1600885720935",
                                         "title": "Remote Control Switches"
                                     },
                                     {
                                         "categoryIds": "410405",
                                         "level": "3",
                                         "titleEn": "Generator-Parts-Accessories",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H1c41c39122b542209e5328721e6faf701.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=410405&SearchText=Generator+Parts+%26+Accessories&indexArea=product_en&fsb=y&productId=1600339551144",
+                                        "imageUrl": "//sc04.alicdn.com/kf/HTB174ceeSSD3KVjSZFKq6z10VXaw.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=410405&SearchText=Generator+Parts+%26+Accessories&indexArea=product_en&fsb=y&productId=62188920458",
                                         "title": "Generator Parts & Accessories"
                                     },
                                     {
                                         "categoryIds": "14191108",
                                         "level": "3",
                                         "titleEn": "Other-Power-Supplies",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hbfd8a7d8eb6d4e1cb020c47b92ee07bfT.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=14191108&SearchText=Other+Power+Supplies&indexArea=product_en&fsb=y&productId=1600992915401",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd26cc4c0e3484f6295da11e75e108a73l.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14191108&SearchText=Other+Power+Supplies&indexArea=product_en&fsb=y&productId=1601043665109",
                                         "title": "Other Power Supplies"
                                     },
                                     {
                                         "categoryIds": "4103",
                                         "level": "3",
                                         "titleEn": "Fuse-Components",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H309733b2b86e4024a023dad85a3c88afj.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=4103&SearchText=Fuse+Components&indexArea=product_en&fsb=y&productId=1601041142758",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hff2226e3b5a64270afcb39da9d247f65S.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=4103&SearchText=Fuse+Components&indexArea=product_en&fsb=y&productId=1600551866150",
                                         "title": "Fuse Components"
-                                    },
-                                    {
-                                        "categoryIds": "15370310",
-                                        "level": "3",
-                                        "titleEn": "Voltage-Meters",
-                                        "imageUrl": "//sc04.alicdn.com/kf/HTB1wt3pbinrK1RjSsziq6xptpXaX.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370310&SearchText=Voltage+Meters&indexArea=product_en&fsb=y&productId=62015079167",
-                                        "title": "Voltage Meters"
                                     },
                                     {
                                         "categoryIds": "141914",
                                         "level": "3",
                                         "titleEn": "Circuit-Breakers",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H895dde59afd54c5e8b022d5402b9a38a4.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=141914&SearchText=Circuit+Breakers&indexArea=product_en&fsb=y&productId=1600917024475",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H38e3a6c11cc14bf9ab83a3125e1e6989f.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=141914&SearchText=Circuit+Breakers&indexArea=product_en&fsb=y&productId=1600798445453",
                                         "title": "Circuit Breakers"
+                                    },
+                                    {
+                                        "categoryIds": "15370310",
+                                        "level": "3",
+                                        "titleEn": "Voltage-Meters",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H0958c11521044e328f4ae3ed59b045031.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370310&SearchText=Voltage+Meters&indexArea=product_en&fsb=y&productId=1600710860601",
+                                        "title": "Voltage Meters"
                                     },
                                     {
                                         "categoryIds": "201657705",
                                         "level": "3",
                                         "titleEn": "Miniature-Circuit-Breakers",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H171bc18431114e659d0a48c8c1accd18f.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201657705&SearchText=Miniature+Circuit+Breakers&indexArea=product_en&fsb=y&productId=1601005901725",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H659f2c3e81de4bd5b3ecbea8922fb9c29.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201657705&SearchText=Miniature+Circuit+Breakers&indexArea=product_en&fsb=y&productId=60428540141",
                                         "title": "Miniature Circuit Breakers"
                                     },
                                     {
-                                        "categoryIds": "15370301",
+                                        "categoryIds": "14191107",
                                         "level": "3",
-                                        "titleEn": "Clamp-Meters",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H219fd853a76746518ffacc0a1dc56fb2T.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=15370301&SearchText=Clamp+Meters&indexArea=product_en&fsb=y&productId=1600479931056",
-                                        "title": "Clamp Meters"
+                                        "titleEn": "Voltage-Regulators-Stabilizers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9eff83f2f3754d88b7950b7c1947b4d20.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14191107&SearchText=Voltage+Regulators%2FStabilizers&indexArea=product_en&fsb=y&productId=1600432707301",
+                                        "title": "Voltage Regulators/Stabilizers"
                                     },
                                     {
                                         "categoryIds": "527",
                                         "level": "2",
                                         "titleEn": "Professional-Audio-Video-Lighting-old-",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hd016db6150174da1a7d1c14ff08d8a76P.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=527&SearchText=Professional+Audio%2C+Video+%26+Lighting%28old%29&indexArea=product_en&fsb=y&productId=1600149913002",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5a4ab2f6a88045dc94a6d38e8d45559ca.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=527&SearchText=Professional+Audio%2C+Video+%26+Lighting%28old%29&indexArea=product_en&fsb=y&productId=1600797467632",
                                         "title": "Professional Audio, Video & Lighting(old)"
                                     },
                                     {
                                         "categoryIds": "14190101",
                                         "level": "3",
                                         "titleEn": "Connectors",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H583f8650395747748bde5561aee60883N.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=14190101&SearchText=Connectors&indexArea=product_en&fsb=y&productId=1600976882898",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He08d41dedfa84f189a4b03085617eba10.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14190101&SearchText=Connectors&indexArea=product_en&fsb=y&productId=1600364278368",
                                         "title": "Connectors"
                                     },
                                     {
@@ -595,25 +595,25 @@
                                         "categoryIds": "141905",
                                         "level": "3",
                                         "titleEn": "Plugs-Sockets",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hc06d1869dde241dcb2d115e2db7388c30.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=141905&SearchText=Plugs+%26+Sockets&indexArea=product_en&fsb=y&productId=1600545680907",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H838b901fb5264b19a6006a05921d3c047.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=141905&SearchText=Plugs+%26+Sockets&indexArea=product_en&fsb=y&productId=1600677711973",
                                         "title": "Plugs & Sockets"
-                                    },
-                                    {
-                                        "categoryIds": "201148910",
-                                        "level": "3",
-                                        "titleEn": "PLC-PAC-Dedicated-Controllers",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hb84b30db82ef462f81c7cd969bbc712eY.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201148910&SearchText=PLC%2C+PAC%2C+%26+Dedicated+Controllers&indexArea=product_en&fsb=y&productId=1600873206325",
-                                        "title": "PLC, PAC, & Dedicated Controllers"
                                     },
                                     {
                                         "categoryIds": "201271075",
                                         "level": "3",
                                         "titleEn": "Inverters-Converters",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hf3891a1da6864399ab61f6689f74ff14E.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201271075&SearchText=Inverters+%26+Converters&indexArea=product_en&fsb=y&productId=1600196921925",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hae800e74aeec475d92abbd9d83232474R.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201271075&SearchText=Inverters+%26+Converters&indexArea=product_en&fsb=y&productId=1600982231269",
                                         "title": "Inverters & Converters"
+                                    },
+                                    {
+                                        "categoryIds": "201148910",
+                                        "level": "3",
+                                        "titleEn": "PLC-PAC-Dedicated-Controllers",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ae99a46caa34e487094729d8bd91b2a12u.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201148910&SearchText=PLC%2C+PAC%2C+%26+Dedicated+Controllers&indexArea=product_en&fsb=y&productId=1600587266306",
+                                        "title": "PLC, PAC, & Dedicated Controllers"
                                     },
                                     {
                                         "categoryIds": "14190402",
@@ -627,49 +627,49 @@
                                         "categoryIds": "410605",
                                         "level": "3",
                                         "titleEn": "Push-Button-Switches",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hf14943bf67094c96895608f4fc254abaQ.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=410605&SearchText=Push+Button+Switches&indexArea=product_en&fsb=y&productId=60725415825",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H076e43309fb84341ad1009159803a4c8h.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=410605&SearchText=Push+Button+Switches&indexArea=product_en&fsb=y&productId=1600922289849",
                                         "title": "Push Button Switches"
                                     },
                                     {
                                         "categoryIds": "410403",
                                         "level": "3",
                                         "titleEn": "Gasoline-Generators",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H5f74c0a5502948329aa0aa24e84ac55fH.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=410403&SearchText=Gasoline+Generators&indexArea=product_en&fsb=y&productId=1600872190402",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6be78e968f494727ac5f0ae425a9c5fe9.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=410403&SearchText=Gasoline+Generators&indexArea=product_en&fsb=y&productId=1600789527859",
                                         "title": "Gasoline Generators"
                                     },
                                     {
                                         "categoryIds": "201154606",
                                         "level": "3",
                                         "titleEn": "Switching-Power-Supply",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hb67bdd7117a24887bbfbc9411b81fcdbx.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201154606&SearchText=Switching+Power+Supply&indexArea=product_en&fsb=y&productId=1600934657793",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2f48ffb10524428f9763836591143b61W.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201154606&SearchText=Switching+Power+Supply&indexArea=product_en&fsb=y&productId=1600897133268",
                                         "title": "Switching Power Supply"
                                     },
                                     {
                                         "categoryIds": "150512",
                                         "level": "3",
                                         "titleEn": "Electronics-Instrument-Enclosures",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hdda054aeeaef461499f20c8bde79e0c2J.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=150512&SearchText=Electronics+%26+Instrument+Enclosures&indexArea=product_en&fsb=y&productId=1600733332053",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H8ac7437208c346deb0a1492ab17b96a6J.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=150512&SearchText=Electronics+%26+Instrument+Enclosures&indexArea=product_en&fsb=y&productId=1600300868036",
                                         "title": "Electronics & Instrument Enclosures"
-                                    },
-                                    {
-                                        "categoryIds": "14191107",
-                                        "level": "3",
-                                        "titleEn": "Voltage-Regulators-Stabilizers",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H0fa671f4856a447a837d2ca669b44bceJ.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=14191107&SearchText=Voltage+Regulators%2FStabilizers&indexArea=product_en&fsb=y&productId=1600441165141",
-                                        "title": "Voltage Regulators/Stabilizers"
                                     },
                                     {
                                         "categoryIds": "14190408",
                                         "level": "3",
                                         "titleEn": "Power-Cables",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hd0a54806236f44488748955f0170a549T.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=14190408&SearchText=Power+Cables&indexArea=product_en&fsb=y&productId=1600613675298",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hfec9749c1c754ffabb62439318ffddcaz.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=14190408&SearchText=Power+Cables&indexArea=product_en&fsb=y&productId=1601046678196",
                                         "title": "Power Cables"
+                                    },
+                                    {
+                                        "categoryIds": "4105",
+                                        "level": "3",
+                                        "titleEn": "Power-Distribution-Equipment",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H76d4650f820d423d9a7ab4ac7d9fc60cS.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=4105&SearchText=Power+Distribution+Equipment&indexArea=product_en&fsb=y&productId=1600272597985",
+                                        "title": "Power Distribution Equipment"
                                     }
                                 ]
                             }
@@ -700,21 +700,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/5/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "012345678900000017124033604741e0cdcef88ff3",
-                    "requestId": "e2521323cad0f651a2651bad928add3f",
+                    "pageDeduplicateId": "012345678900000017124804782461f3d71f717078",
+                    "requestId": "dee39a6067a397e946d4755b04e2bdf1",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712403360400",
+                    "reqTimestamp": "1712480478129",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "a09875fe031b770352e0e9844a3c329f",
+                    "versionCode": "210a95073ffacf64043e5fcd8e399db6",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "e2521323cad0f651a2651bad928add3f",
+                    "reqId": "dee39a6067a397e946d4755b04e2bdf1",
                     "spm": "a2700.product_home_newuser.header.3671.2ce267afd3VBj7",
                     "categoryIds": "5",
-                    "pvId": "e2521323cad0f651a2651bad928add3f",
+                    "pvId": "dee39a6067a397e946d4755b04e2bdf1",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -769,21 +769,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/5/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "012345678900000017124033604741e0cdcef88ff3",
-                    "requestId": "d82ef69119a48113fe4bc5b01a44ce30",
+                    "pageDeduplicateId": "012345678900000017124804782461f3d71f717078",
+                    "requestId": "924c8f9de89bfe0ed73c2c161bd00be6",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712403360400",
+                    "reqTimestamp": "1712480478129",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "a09875fe031b770352e0e9844a3c329f",
+                    "versionCode": "210a95073ffacf64043e5fcd8e399db6",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "d82ef69119a48113fe4bc5b01a44ce30",
+                    "reqId": "924c8f9de89bfe0ed73c2c161bd00be6",
                     "spm": "a2700.product_home_newuser.header.3671.2ce267afd3VBj7",
                     "categoryIds": "5",
-                    "pvId": "d82ef69119a48113fe4bc5b01a44ce30",
+                    "pvId": "924c8f9de89bfe0ed73c2c161bd00be6",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -908,7 +908,7 @@
         "name": "Electrical Equipment & Supplies",
         "offlineTime": 1867132799000,
         "offlineUrl": "https://www.alibaba.com",
-        "pageDeduplicateId": "012345678900000017124033604741e0cdcef88ff3",
+        "pageDeduplicateId": "012345678900000017124804782461f3d71f717078",
         "pageType": 0,
         "path": "/category/products/5/index.html",
         "sourcePage": false,

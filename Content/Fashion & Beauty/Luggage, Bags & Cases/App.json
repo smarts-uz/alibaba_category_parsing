@@ -15,15 +15,15 @@
         "templatePath": "/ncms/category/products/index.html"
     },
     "debugInfoMap": {
-        "prepare": "1712402618173 | 0 | 1712402618173",
-        "process": "1712402618354 | 0 | 1712402618354",
-        "preRender": "1712402618173 | 8 | 1712402618181",
-        "assembleModuleData": "1712402618354 | 0 | 1712402618354",
-        "retrieveHtmlAndJson": "1712402618102 | 66 | 1712402618168",
-        "fetch": "1712402618188 | 166 | 1712402618354",
-        "seo": "1712402618173 | 0 | 1712402618173",
-        "preload": "1712402618173 | 0 | 1712402618173",
-        "render": "1712402618354 | 78 | 1712402618432"
+        "prepare": "1712479780055 | 0 | 1712479780055",
+        "process": "1712479780239 | 0 | 1712479780239",
+        "preRender": "1712479780055 | 13 | 1712479780068",
+        "assembleModuleData": "1712479780239 | 0 | 1712479780239",
+        "retrieveHtmlAndJson": "1712479779965 | 84 | 1712479780049",
+        "fetch": "1712479780075 | 164 | 1712479780239",
+        "seo": "1712479780055 | 0 | 1712479780055",
+        "preload": "1712479780055 | 0 | 1712479780055",
+        "render": "1712479780240 | 64 | 1712479780304"
     },
     "device": "pc",
     "modules": [
@@ -49,21 +49,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/1524/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "0123456789000000171240261817375a1da7140b65",
-                    "requestId": "68c2c2e105782cf7e1ed3c5035a2ea10",
+                    "pageDeduplicateId": "0123456789000000171247978005539a97f512adc0",
+                    "requestId": "79e156dd0169da7c37a6c591df449451",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712402618102",
+                    "reqTimestamp": "1712479779965",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "dbf5b8cf17c3f0d447481ae2a9cf5ab8",
+                    "versionCode": "735a76585becdddfe3fa8ca1c278bca5",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "68c2c2e105782cf7e1ed3c5035a2ea10",
+                    "reqId": "79e156dd0169da7c37a6c591df449451",
                     "spm": "a2700.product_home_newuser.header.1886.2f9d67af20x9kd",
                     "categoryIds": "1524",
-                    "pvId": "68c2c2e105782cf7e1ed3c5035a2ea10",
+                    "pvId": "79e156dd0169da7c37a6c591df449451",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -124,12 +124,6 @@
                                         "title": "Apparel & Accessories"
                                     },
                                     {
-                                        "categoryIds": "15",
-                                        "titleEn": "Home-Garden",
-                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
-                                        "title": "Home & Garden"
-                                    },
-                                    {
                                         "categoryIds": "26",
                                         "titleEn": "Mother-Kids-Toys",
                                         "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
@@ -140,6 +134,18 @@
                                         "titleEn": "Health-Care",
                                         "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
                                         "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
                                     },
                                     {
                                         "categoryIds": "43",
@@ -170,12 +176,6 @@
                                         "titleEn": "Jewelry-Eyewear-Watches-Accessories",
                                         "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
                                         "title": "Jewelry, Eyewear, Watches & Accessories"
-                                    },
-                                    {
-                                        "categoryIds": "1503",
-                                        "titleEn": "Furniture",
-                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
-                                        "title": "Furniture"
                                     },
                                     {
                                         "categoryIds": "1420",
@@ -373,16 +373,6 @@
                                         "isLeaf": true
                                     },
                                     {
-                                        "categoryIds": "201330904",
-                                        "titleEn": "Bag-Luggage-Parts-Accessories",
-                                        "level": "2",
-                                        "imageUrl": "https://sc02.alicdn.com/kf/H9fa906cd4e0e4d54a6063c8d7ee91ffdt.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201330904&SearchText=Bag%EF%BC%8CLuggage+Parts+%26+Accessories&indexArea=product_en&fsb=y",
-                                        "isPrefer": false,
-                                        "title": "Bag\uff0cLuggage Parts & Accessories",
-                                        "isLeaf": false
-                                    },
-                                    {
                                         "categoryIds": "201330905",
                                         "titleEn": "Backpacks",
                                         "level": "2",
@@ -413,14 +403,24 @@
                                         "isLeaf": true
                                     },
                                     {
-                                        "categoryIds": "201866402",
-                                        "titleEn": "Used-Bags",
+                                        "categoryIds": "3803",
+                                        "titleEn": "Wallets-Holders",
                                         "level": "2",
-                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha4d9c84d21cb4904b9d774ba68288199Q.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201866402&SearchText=Used+Bags&indexArea=product_en&fsb=y",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H5b1b7c5386cc4be9b3f64dfcf5b802467.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=3803&SearchText=Wallets+%26+Holders&indexArea=product_en&fsb=y",
                                         "isPrefer": false,
-                                        "title": "Used Bags",
-                                        "isLeaf": true
+                                        "title": "Wallets & Holders",
+                                        "isLeaf": false
+                                    },
+                                    {
+                                        "categoryIds": "201330904",
+                                        "titleEn": "Bag-Luggage-Parts-Accessories",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/H9fa906cd4e0e4d54a6063c8d7ee91ffdt.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201330904&SearchText=Bag%EF%BC%8CLuggage+Parts+%26+Accessories&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Bag\uff0cLuggage Parts & Accessories",
+                                        "isLeaf": false
                                     },
                                     {
                                         "categoryIds": "201706702",
@@ -450,16 +450,6 @@
                                         "action": "https://www.alibaba.com/trade/search?categoryId=3801&SearchText=Business+Bags+%26+Cases&indexArea=product_en&fsb=y",
                                         "isPrefer": false,
                                         "title": "Business Bags & Cases",
-                                        "isLeaf": false
-                                    },
-                                    {
-                                        "categoryIds": "3803",
-                                        "titleEn": "Wallets-Holders",
-                                        "level": "2",
-                                        "imageUrl": "https://sc02.alicdn.com/kf/H5b1b7c5386cc4be9b3f64dfcf5b802467.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=3803&SearchText=Wallets+%26+Holders&indexArea=product_en&fsb=y",
-                                        "isPrefer": false,
-                                        "title": "Wallets & Holders",
                                         "isLeaf": false
                                     },
                                     {
@@ -523,6 +513,16 @@
                                         "isLeaf": true
                                     },
                                     {
+                                        "categoryIds": "201866402",
+                                        "titleEn": "Used-Bags",
+                                        "level": "2",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Ha4d9c84d21cb4904b9d774ba68288199Q.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201866402&SearchText=Used+Bags&indexArea=product_en&fsb=y",
+                                        "isPrefer": false,
+                                        "title": "Used Bags",
+                                        "isLeaf": true
+                                    },
+                                    {
                                         "categoryIds": "202014103",
                                         "titleEn": "Outdoor-Use-Bags-Cases",
                                         "level": "2",
@@ -559,88 +559,88 @@
                                         "categoryIds": "201717701",
                                         "level": "3",
                                         "titleEn": "Women-s-Shoulder-Bags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Ha58741ea623c493994d672fbef06cea7u.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201717701&SearchText=Women%27s+Shoulder+Bags&indexArea=product_en&fsb=y&productId=1600702390871",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha8a436177ff34b02ac05712f606b6b16a.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201717701&SearchText=Women%27s+Shoulder+Bags&indexArea=product_en&fsb=y&productId=1600878116864",
                                         "title": "Women's Shoulder Bags"
                                     },
                                     {
                                         "categoryIds": "201711802",
                                         "level": "3",
                                         "titleEn": "Women-s-Messenger-Bags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hc6890e49f5e14db6b1163f25f3c4eaceN.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201711802&SearchText=Women%27s+Messenger+Bags&indexArea=product_en&fsb=y&productId=1600940830174",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2819a01e82c5427e9cd7808a41314bc8Z.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201711802&SearchText=Women%27s+Messenger+Bags&indexArea=product_en&fsb=y&productId=1600808448510",
                                         "title": "Women's Messenger Bags"
                                     },
                                     {
                                         "categoryIds": "100002856",
                                         "level": "2",
                                         "titleEn": "Handbags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H0d89d99970cc4d4babf0c5bdb98aa935C.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100002856&SearchText=Handbags&indexArea=product_en&fsb=y&productId=1600524988925",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H5571fb8c03c44ecca7d4f5a6f84beeede.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100002856&SearchText=Handbags&indexArea=product_en&fsb=y&productId=1600733732267",
                                         "title": "Handbags"
-                                    },
-                                    {
-                                        "categoryIds": "201332202",
-                                        "level": "3",
-                                        "titleEn": "Other-Bag-Parts-Accessories",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Haa9c0f9fee394ef09c890baa3821c9c3r.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201332202&SearchText=Other+Bag+Parts+%26+Accessories&indexArea=product_en&fsb=y&productId=62174525011",
-                                        "title": "Other Bag Parts & Accessories"
                                     },
                                     {
                                         "categoryIds": "202059411",
                                         "level": "3",
                                         "titleEn": "Student-Backpack",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hd5562d36afc649f385c88d492b4c69dfs.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=202059411&SearchText=Student+Backpack&indexArea=product_en&fsb=y&productId=1600191772422",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H543abbb0438a4fa0bff74f4244f307a9L.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=202059411&SearchText=Student+Backpack&indexArea=product_en&fsb=y&productId=1601031370566",
                                         "title": "Student Backpack"
                                     },
                                     {
                                         "categoryIds": "152407",
                                         "level": "3",
                                         "titleEn": "Cosmetic-Bags-Cases",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hcdbd56dbeb904ef3bdac8a6e5207b9f5Y.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=152407&SearchText=Cosmetic+Bags+%26+Cases&indexArea=product_en&fsb=y&productId=1600971385612",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He52e18ba35b0447782aa2dbb85103898n.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=152407&SearchText=Cosmetic+Bags+%26+Cases&indexArea=product_en&fsb=y&productId=1600496371042",
                                         "title": "Cosmetic Bags & Cases"
                                     },
                                     {
                                         "categoryIds": "380530",
                                         "level": "3",
                                         "titleEn": "Shopping-Bags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hc7b22e7f879c43eeb1924820b9f0e2f2c.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=380530&SearchText=Shopping+Bags&indexArea=product_en&fsb=y&productId=1600246652841",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6d39b01d74b840c69786fc58f07e0886I.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=380530&SearchText=Shopping+Bags&indexArea=product_en&fsb=y&productId=1600914500200",
                                         "title": "Shopping Bags"
                                     },
                                     {
                                         "categoryIds": "100001868",
                                         "level": "2",
                                         "titleEn": "Evening-Bags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hf42c943f9da147ea80d93cf8353108680.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001868&SearchText=Evening+Bags&indexArea=product_en&fsb=y&productId=1600538546926",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H04160652135d49c690aed8dc763e4c57O.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001868&SearchText=Evening+Bags&indexArea=product_en&fsb=y&productId=1600581350319",
                                         "title": "Evening Bags"
                                     },
                                     {
-                                        "categoryIds": "201866402",
-                                        "level": "2",
-                                        "titleEn": "Used-Bags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hd88d409284ce405591b5dc313ffa3163s.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201866402&SearchText=Used+Bags&indexArea=product_en&fsb=y&productId=1601057684217",
-                                        "title": "Used Bags"
+                                        "categoryIds": "100001878",
+                                        "level": "3",
+                                        "titleEn": "Key-Wallets",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9d3ade70b8f6401b8552fae548a2ed743.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001878&SearchText=Key+Wallets&indexArea=product_en&fsb=y&productId=1600861956891",
+                                        "title": "Key Wallets"
+                                    },
+                                    {
+                                        "categoryIds": "201332202",
+                                        "level": "3",
+                                        "titleEn": "Other-Bag-Parts-Accessories",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdb368fb338df4a24bb5263decb3a2c2c3.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201332202&SearchText=Other+Bag+Parts+%26+Accessories&indexArea=product_en&fsb=y&productId=1600348210824",
+                                        "title": "Other Bag Parts & Accessories"
                                     },
                                     {
                                         "categoryIds": "201732205",
                                         "level": "3",
                                         "titleEn": "Women-s-Handbags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H1485fd4a8b274d0da1f7de9a45cf03ab9.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201732205&SearchText=Women%27s+Handbags&indexArea=product_en&fsb=y&productId=1600957289862",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb1f0b57732354da59032eab286b041bb3.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201732205&SearchText=Women%27s+Handbags&indexArea=product_en&fsb=y&productId=1601042847528",
                                         "title": "Women's Handbags"
                                     },
                                     {
                                         "categoryIds": "201712702",
                                         "level": "3",
                                         "titleEn": "Women-s-Tote-Bags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H0203abbc29c044a1bdf8341ebb8a4e16k.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201712702&SearchText=Women%27s+Tote+Bags&indexArea=product_en&fsb=y&productId=1600826145196",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H7cd4cf83ea8948c699093c2bf052b423r.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201712702&SearchText=Women%27s+Tote+Bags&indexArea=product_en&fsb=y&productId=1600561526798",
                                         "title": "Women's Tote Bags"
                                     },
                                     {
@@ -663,80 +663,80 @@
                                         "categoryIds": "380430",
                                         "level": "3",
                                         "titleEn": "Travel-Bags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/U9eeb7c0f88a34ea2a09902d0da5f8a64P.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=380430&SearchText=Travel+Bags&indexArea=product_en&fsb=y&productId=62017714873",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H1c02474d4d6646778423f8b8a6c3b2e1O.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=380430&SearchText=Travel+Bags&indexArea=product_en&fsb=y&productId=1600766974435",
                                         "title": "Travel Bags"
                                     },
                                     {
                                         "categoryIds": "152410",
                                         "level": "3",
                                         "titleEn": "Cooler-Bags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H2d871915c35e4ee6902e002cb3f014e4x.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=152410&SearchText=Cooler+Bags&indexArea=product_en&fsb=y&productId=1600895980786",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha3c833bef5b24f5e898b1cff93e58634I.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=152410&SearchText=Cooler+Bags&indexArea=product_en&fsb=y&productId=1600408678714",
                                         "title": "Cooler Bags"
                                     },
                                     {
                                         "categoryIds": "152405",
                                         "level": "3",
                                         "titleEn": "Wallets",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Ub1d8f7a01fac4ba2a8949efc8f37e976R.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=152405&SearchText=Wallets&indexArea=product_en&fsb=y&productId=1600209855417",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Aa2bdd3461d424c38b9fe6c1dae7d9351n.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=152405&SearchText=Wallets&indexArea=product_en&fsb=y&productId=11000006759812",
                                         "title": "Wallets"
-                                    },
-                                    {
-                                        "categoryIds": "100001877",
-                                        "level": "3",
-                                        "titleEn": "Card-Holders",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H2b2f0abdcb08444d9a3298e81264ae5d7.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001877&SearchText=Card+Holders&indexArea=product_en&fsb=y&productId=1600967500540",
-                                        "title": "Card Holders"
                                     },
                                     {
                                         "categoryIds": "201329808",
                                         "level": "4",
                                         "titleEn": "Suitcases",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H722100d69b3e44dfaef648af2c2b7d327.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201329808&SearchText=Suitcases&indexArea=product_en&fsb=y&productId=62587879932",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf7dd7342be4844af9eed4ee9c9b9960aP.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201329808&SearchText=Suitcases&indexArea=product_en&fsb=y&productId=1600600002355",
                                         "title": "Suitcases"
+                                    },
+                                    {
+                                        "categoryIds": "100001877",
+                                        "level": "3",
+                                        "titleEn": "Card-Holders",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hff30ae2c26a345d389518e5c428bf378m.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100001877&SearchText=Card+Holders&indexArea=product_en&fsb=y&productId=1600746734702",
+                                        "title": "Card Holders"
                                     },
                                     {
                                         "categoryIds": "201713302",
                                         "level": "3",
                                         "titleEn": "Women-s-Backpacks",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H004bcb1cd32b45d3b741eccba652e8de1.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201713302&SearchText=Women%27s+Backpacks&indexArea=product_en&fsb=y&productId=1600304149650",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H707bff46b6de4196a0635d12a6f9232fw.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201713302&SearchText=Women%27s+Backpacks&indexArea=product_en&fsb=y&productId=1601003353886",
                                         "title": "Women's Backpacks"
                                     },
                                     {
                                         "categoryIds": "380650",
                                         "level": "2",
                                         "titleEn": "Waist-Bags",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hf9516611776f41b6b7239af98b5dae4fW.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=380650&SearchText=Waist+Bags&indexArea=product_en&fsb=y&productId=1600151604091",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4ab447c891d948ae87f2b8d6eb212253n.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=380650&SearchText=Waist+Bags&indexArea=product_en&fsb=y&productId=1600425799301",
                                         "title": "Waist Bags"
                                     },
                                     {
                                         "categoryIds": "201329705",
                                         "level": "4",
                                         "titleEn": "Luggage-Sets",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H2a7d1e34d5de4ea4846347146bcdc3d9R.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201329705&SearchText=Luggage+Sets&indexArea=product_en&fsb=y&productId=1601021680713",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hc24c33dda7eb4bd0be09740150e329441.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201329705&SearchText=Luggage+Sets&indexArea=product_en&fsb=y&productId=1601017996719",
                                         "title": "Luggage Sets"
                                     },
                                     {
                                         "categoryIds": "201730203",
                                         "level": "3",
                                         "titleEn": "Women-s-Clutches",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hb300fe81d374435e83261472560c1badr.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201730203&SearchText=Women%27s+Clutches&indexArea=product_en&fsb=y&productId=1600922395554",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Ha959c9124db24f46b114f77567c09915c.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201730203&SearchText=Women%27s+Clutches&indexArea=product_en&fsb=y&productId=1600770446045",
                                         "title": "Women's Clutches"
                                     },
                                     {
                                         "categoryIds": "201331705",
                                         "level": "3",
                                         "titleEn": "Other-Backpacks",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H292a2a8a8dc1473e97d5fcb0f727ee03T.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=201331705&SearchText=Other+Backpacks&indexArea=product_en&fsb=y&productId=1601034474227",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H4524e921dff84c66821c24e0e6dd5202q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=201331705&SearchText=Other+Backpacks&indexArea=product_en&fsb=y&productId=1600583800785",
                                         "title": "Other Backpacks"
                                     }
                                 ]
@@ -768,21 +768,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/1524/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "0123456789000000171240261817375a1da7140b65",
-                    "requestId": "678685baf4a48b8b659db7e4203c1679",
+                    "pageDeduplicateId": "0123456789000000171247978005539a97f512adc0",
+                    "requestId": "b9cf47639422e09d07d4a8eae11d2c0a",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712402618102",
+                    "reqTimestamp": "1712479779965",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "dbf5b8cf17c3f0d447481ae2a9cf5ab8",
+                    "versionCode": "735a76585becdddfe3fa8ca1c278bca5",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "678685baf4a48b8b659db7e4203c1679",
+                    "reqId": "b9cf47639422e09d07d4a8eae11d2c0a",
                     "spm": "a2700.product_home_newuser.header.1886.2f9d67af20x9kd",
                     "categoryIds": "1524",
-                    "pvId": "678685baf4a48b8b659db7e4203c1679",
+                    "pvId": "b9cf47639422e09d07d4a8eae11d2c0a",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -797,7 +797,7 @@
                                 "cardList": [
                                     {
                                         "image": "https://s.alicdn.com/@sc04/kf/H503c4b5c964a4d578a0d01a20e7dba4ao.jpg_220x220.jpg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_0_0#id-1600976695967#pos-0#matchType-5#fatherId-null#cateId-201329808#cardId-101002560201329808#feedsId-138276290#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-9.498896926641464#logtime-1712402618213#@@realCtrParam:@@productId:1600976695967",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_0_0#id-1600976695967#pos-0#matchType-5#fatherId-null#cateId-201329808#cardId-101002560201329808#feedsId-138276290#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-9.498896926641464#logtime-1712479780097#@@realCtrParam:@@productId:1600976695967",
                                         "productId": "1600976695967",
                                         "titleEn": "Suitcases",
                                         "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600976695967&cardType=101002560&cardId=101002560201329808&categoryIds=1524",
@@ -809,7 +809,7 @@
                                     },
                                     {
                                         "image": "https://s.alicdn.com/@sc04/kf/H124d4bc8ab65460da89dfe06d8ca6fa7X.jpg_220x220.jpg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_1_0#id-1600945112854#pos-0#matchType-5#fatherId-null#cateId-380430#cardId-101002560380430#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-8.146072778105736#logtime-1712402618213#@@realCtrParam:@@productId:1600945112854",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_1_0#id-1600945112854#pos-0#matchType-5#fatherId-null#cateId-380430#cardId-101002560380430#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-7.604345467686653#logtime-1712479780097#@@realCtrParam:@@productId:1600945112854",
                                         "deliveryText": "",
                                         "productId": "1600945112854",
                                         "titleEn": "Travel Bags",
@@ -821,8 +821,20 @@
                                         "moq": "100"
                                     },
                                     {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H4e41c5b25c794e1f9c256053d7dd22fci.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_2_0#id-1601033398283#pos-0#matchType-5#fatherId-null#cateId-201340304#cardId-101002560201340304#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-7.484990561008454#logtime-1712479780097#@@realCtrParam:@@productId:1601033398283",
+                                        "productId": "1601033398283",
+                                        "titleEn": "Laptop Backpacks",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1601033398283&cardType=101002560&cardId=101002560201340304&categoryIds=1524",
+                                        "price": "$1.50 - $2.85",
+                                        "cardId": "101002560201340304",
+                                        "cardType": "101002560",
+                                        "title": "Laptop Backpacks",
+                                        "moq": "2"
+                                    },
+                                    {
                                         "image": "https://s.alicdn.com/@sc04/kf/He94f3f0f786a4c049ebaf61c89f91875s.jpeg_220x220.jpeg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_2_0#id-1600941854285#pos-0#matchType-5#fatherId-null#cateId-201329705#cardId-101002560201329705#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-7.330104056000709#logtime-1712402618213#@@realCtrParam:@@productId:1600941854285",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_3_0#id-1600941854285#pos-0#matchType-5#fatherId-null#cateId-201329705#cardId-101002560201329705#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-7.330193462967872#logtime-1712479780097#@@realCtrParam:@@productId:1600941854285",
                                         "productId": "1600941854285",
                                         "titleEn": "Luggage Sets",
                                         "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600941854285&cardType=101002560&cardId=101002560201329705&categoryIds=1524",
@@ -834,7 +846,7 @@
                                     },
                                     {
                                         "image": "https://s.alicdn.com/@sc04/kf/Hb52408df6bad4b9dbd34c07017016ee0B.jpg_220x220.jpg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_3_0#id-1600877839438#pos-0#matchType-5#fatherId-null#cateId-201712903#cardId-101002560201712903#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-6.809906846284866#logtime-1712402618213#@@realCtrParam:@@productId:1600877839438",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_4_0#id-1600877839438#pos-0#matchType-5#fatherId-null#cateId-201712903#cardId-101002560201712903#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-6.809906846284866#logtime-1712479780097#@@realCtrParam:@@productId:1600877839438",
                                         "productId": "1600877839438",
                                         "titleEn": "Men's Backpacks",
                                         "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600877839438&cardType=101002560&cardId=101002560201712903&categoryIds=1524",
@@ -845,34 +857,23 @@
                                         "moq": "2"
                                     },
                                     {
-                                        "image": "https://s.alicdn.com/@sc04/kf/H50bdf7f0a8ec4560a3d5876a2691fe2aQ.jpg_220x220.jpg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_4_0#id-1600494384796#pos-0#matchType-5#fatherId-null#cateId-100002856#cardId-101002560100002856#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-5.832054951786995#logtime-1712402618213#@@realCtrParam:@@productId:1600494384796",
-                                        "productId": "1600494384796",
-                                        "titleEn": "Handbags",
-                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600494384796&cardType=101002560&cardId=101002560100002856&categoryIds=1524",
-                                        "price": "$8.30 - $9.30",
-                                        "cardId": "101002560100002856",
+                                        "image": "https://s.alicdn.com/@sc04/kf/Ha35c0fde002342e2b4e4292e713bd7f6P.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_5_0#id-1601015153258#pos-0#matchType-5#fatherId-null#cateId-202059411#cardId-101002560202059411#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-6.783776319026947#logtime-1712479780097#@@realCtrParam:@@productId:1601015153258",
+                                        "deliveryText": "",
+                                        "productId": "1601015153258",
+                                        "titleEn": "Student Backpack",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1601015153258&cardType=101002560&cardId=101002560202059411&categoryIds=1524",
+                                        "price": "$2.69 - $3.49",
+                                        "cardId": "101002560202059411",
                                         "cardType": "101002560",
-                                        "title": "Handbags",
-                                        "moq": "2"
-                                    },
-                                    {
-                                        "image": "https://s.alicdn.com/@sc04/kf/H692c84fae6744f9195622142f439c768M.jpg_220x220.jpg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_5_0#id-1600767419478#pos-0#matchType-5#fatherId-null#cateId-201340304#cardId-101002560201340304#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-5.691368818283081#logtime-1712402618213#@@realCtrParam:@@productId:1600767419478",
-                                        "productId": "1600767419478",
-                                        "titleEn": "Laptop Backpacks",
-                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600767419478&cardType=101002560&cardId=101002560201340304&categoryIds=1524",
-                                        "price": "$26.00 - $82.00",
-                                        "cardId": "101002560201340304",
-                                        "cardType": "101002560",
-                                        "title": "Laptop Backpacks",
-                                        "moq": "2"
+                                        "title": "Student Backpack",
+                                        "moq": "10"
                                     }
                                 ],
                                 "cards": [
                                     {
                                         "image": "https://s.alicdn.com/@sc04/kf/H503c4b5c964a4d578a0d01a20e7dba4ao.jpg_220x220.jpg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_0_0#id-1600976695967#pos-0#matchType-5#fatherId-null#cateId-201329808#cardId-101002560201329808#feedsId-138276290#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-9.498896926641464#logtime-1712402618213#@@realCtrParam:@@productId:1600976695967",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_0_0#id-1600976695967#pos-0#matchType-5#fatherId-null#cateId-201329808#cardId-101002560201329808#feedsId-138276290#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-9.498896926641464#logtime-1712479780097#@@realCtrParam:@@productId:1600976695967",
                                         "productId": "1600976695967",
                                         "titleEn": "Suitcases",
                                         "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600976695967&cardType=101002560&cardId=101002560201329808&categoryIds=1524",
@@ -884,7 +885,7 @@
                                     },
                                     {
                                         "image": "https://s.alicdn.com/@sc04/kf/H124d4bc8ab65460da89dfe06d8ca6fa7X.jpg_220x220.jpg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_1_0#id-1600945112854#pos-0#matchType-5#fatherId-null#cateId-380430#cardId-101002560380430#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-8.146072778105736#logtime-1712402618213#@@realCtrParam:@@productId:1600945112854",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_1_0#id-1600945112854#pos-0#matchType-5#fatherId-null#cateId-380430#cardId-101002560380430#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-7.604345467686653#logtime-1712479780097#@@realCtrParam:@@productId:1600945112854",
                                         "deliveryText": "",
                                         "productId": "1600945112854",
                                         "titleEn": "Travel Bags",
@@ -896,8 +897,20 @@
                                         "moq": "100"
                                     },
                                     {
+                                        "image": "https://s.alicdn.com/@sc04/kf/H4e41c5b25c794e1f9c256053d7dd22fci.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_2_0#id-1601033398283#pos-0#matchType-5#fatherId-null#cateId-201340304#cardId-101002560201340304#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-7.484990561008454#logtime-1712479780097#@@realCtrParam:@@productId:1601033398283",
+                                        "productId": "1601033398283",
+                                        "titleEn": "Laptop Backpacks",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1601033398283&cardType=101002560&cardId=101002560201340304&categoryIds=1524",
+                                        "price": "$1.50 - $2.85",
+                                        "cardId": "101002560201340304",
+                                        "cardType": "101002560",
+                                        "title": "Laptop Backpacks",
+                                        "moq": "2"
+                                    },
+                                    {
                                         "image": "https://s.alicdn.com/@sc04/kf/He94f3f0f786a4c049ebaf61c89f91875s.jpeg_220x220.jpeg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_2_0#id-1600941854285#pos-0#matchType-5#fatherId-null#cateId-201329705#cardId-101002560201329705#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-7.330104056000709#logtime-1712402618213#@@realCtrParam:@@productId:1600941854285",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_3_0#id-1600941854285#pos-0#matchType-5#fatherId-null#cateId-201329705#cardId-101002560201329705#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-7.330193462967872#logtime-1712479780097#@@realCtrParam:@@productId:1600941854285",
                                         "productId": "1600941854285",
                                         "titleEn": "Luggage Sets",
                                         "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600941854285&cardType=101002560&cardId=101002560201329705&categoryIds=1524",
@@ -909,7 +922,7 @@
                                     },
                                     {
                                         "image": "https://s.alicdn.com/@sc04/kf/Hb52408df6bad4b9dbd34c07017016ee0B.jpg_220x220.jpg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_3_0#id-1600877839438#pos-0#matchType-5#fatherId-null#cateId-201712903#cardId-101002560201712903#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-6.809906846284866#logtime-1712402618213#@@realCtrParam:@@productId:1600877839438",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_4_0#id-1600877839438#pos-0#matchType-5#fatherId-null#cateId-201712903#cardId-101002560201712903#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-6.809906846284866#logtime-1712479780097#@@realCtrParam:@@productId:1600877839438",
                                         "productId": "1600877839438",
                                         "titleEn": "Men's Backpacks",
                                         "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600877839438&cardType=101002560&cardId=101002560201712903&categoryIds=1524",
@@ -920,28 +933,17 @@
                                         "moq": "2"
                                     },
                                     {
-                                        "image": "https://s.alicdn.com/@sc04/kf/H50bdf7f0a8ec4560a3d5876a2691fe2aQ.jpg_220x220.jpg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_4_0#id-1600494384796#pos-0#matchType-5#fatherId-null#cateId-100002856#cardId-101002560100002856#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-5.832054951786995#logtime-1712402618213#@@realCtrParam:@@productId:1600494384796",
-                                        "productId": "1600494384796",
-                                        "titleEn": "Handbags",
-                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600494384796&cardType=101002560&cardId=101002560100002856&categoryIds=1524",
-                                        "price": "$8.30 - $9.30",
-                                        "cardId": "101002560100002856",
+                                        "image": "https://s.alicdn.com/@sc04/kf/Ha35c0fde002342e2b4e4292e713bd7f6P.jpg_220x220.jpg",
+                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-20873507-a9d3-4dbe-aaa8-a4398934730d#realPos-0_5_0#id-1601015153258#pos-0#matchType-5#fatherId-null#cateId-202059411#cardId-101002560202059411#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.196077651778857#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-6.783776319026947#logtime-1712479780097#@@realCtrParam:@@productId:1601015153258",
+                                        "deliveryText": "",
+                                        "productId": "1601015153258",
+                                        "titleEn": "Student Backpack",
+                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1601015153258&cardType=101002560&cardId=101002560202059411&categoryIds=1524",
+                                        "price": "$2.69 - $3.49",
+                                        "cardId": "101002560202059411",
                                         "cardType": "101002560",
-                                        "title": "Handbags",
-                                        "moq": "2"
-                                    },
-                                    {
-                                        "image": "https://s.alicdn.com/@sc04/kf/H692c84fae6744f9195622142f439c768M.jpg_220x220.jpg",
-                                        "trackInfo": "clickParam:click_cid-3852#click_senseid-15884_9999#pvid-fa18649e-21e5-414e-b105-967fe0632dad#realPos-0_5_0#id-1600767419478#pos-0#matchType-5#fatherId-null#cateId-201340304#cardId-101002560201340304#feedsId-#newsType-101002560#userTage-6_2_lost#finalScore-8.325024586915971#isAIRefresh-false#btsInfo-comp_rdu2:prom#triggerId-1524_101002560#srcChannel-PC#rankScore-5.691368818283081#logtime-1712402618213#@@realCtrParam:@@productId:1600767419478",
-                                        "productId": "1600767419478",
-                                        "titleEn": "Laptop Backpacks",
-                                        "venueUrl": "https://sale.alibaba.com/category/common_product_list?wx_navbar_transparent=true&path=/category/common_product_list&ncms_spm=a27aq.28320364&topOfferIds=1600767419478&cardType=101002560&cardId=101002560201340304&categoryIds=1524",
-                                        "price": "$26.00 - $82.00",
-                                        "cardId": "101002560201340304",
-                                        "cardType": "101002560",
-                                        "title": "Laptop Backpacks",
-                                        "moq": "2"
+                                        "title": "Student Backpack",
+                                        "moq": "10"
                                     }
                                 ],
                                 "subTitle": "",
@@ -977,21 +979,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/1524/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "0123456789000000171240261817375a1da7140b65",
-                    "requestId": "1ae4090bf4da52d647a83f7d000c14f2",
+                    "pageDeduplicateId": "0123456789000000171247978005539a97f512adc0",
+                    "requestId": "ea674a9e88b798b904c6569d67f0bfb6",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712402618102",
+                    "reqTimestamp": "1712479779965",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "dbf5b8cf17c3f0d447481ae2a9cf5ab8",
+                    "versionCode": "735a76585becdddfe3fa8ca1c278bca5",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "1ae4090bf4da52d647a83f7d000c14f2",
+                    "reqId": "ea674a9e88b798b904c6569d67f0bfb6",
                     "spm": "a2700.product_home_newuser.header.1886.2f9d67af20x9kd",
                     "categoryIds": "1524",
-                    "pvId": "1ae4090bf4da52d647a83f7d000c14f2",
+                    "pvId": "ea674a9e88b798b904c6569d67f0bfb6",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -1108,7 +1110,7 @@
         "name": "Luggage, Bags & Cases",
         "offlineTime": 1867132799000,
         "offlineUrl": "https://www.alibaba.com",
-        "pageDeduplicateId": "0123456789000000171240261817375a1da7140b65",
+        "pageDeduplicateId": "0123456789000000171247978005539a97f512adc0",
         "pageType": 0,
         "path": "/category/products/1524/index.html",
         "sourcePage": false,

@@ -18,15 +18,15 @@
         "templatePath": "/ncms/category/products/index.html"
     },
     "debugInfoMap": {
-        "prepare": "1712403693068 | 0 | 1712403693068",
-        "process": "1712403693217 | 0 | 1712403693217",
-        "preRender": "1712403693068 | 7 | 1712403693075",
-        "assembleModuleData": "1712403693217 | 0 | 1712403693217",
-        "retrieveHtmlAndJson": "1712403693002 | 61 | 1712403693063",
-        "fetch": "1712403693093 | 124 | 1712403693217",
-        "seo": "1712403693068 | 0 | 1712403693068",
-        "preload": "1712403693068 | 0 | 1712403693068",
-        "render": "1712403693217 | 71 | 1712403693288"
+        "prepare": "1712480752191 | 0 | 1712480752191",
+        "process": "1712480752304 | 0 | 1712480752304",
+        "preRender": "1712480752191 | 8 | 1712480752199",
+        "assembleModuleData": "1712480752304 | 0 | 1712480752304",
+        "retrieveHtmlAndJson": "1712480752094 | 92 | 1712480752186",
+        "fetch": "1712480752219 | 85 | 1712480752304",
+        "seo": "1712480752191 | 0 | 1712480752191",
+        "preload": "1712480752191 | 0 | 1712480752191",
+        "render": "1712480752304 | 73 | 1712480752377"
     },
     "device": "pc",
     "modules": [
@@ -52,21 +52,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/8/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "0123456789000000171240369306823932d834bf50",
-                    "requestId": "0547f5383c056523b29d84714156387e",
+                    "pageDeduplicateId": "012345678900000017124807521919e4461a3b63bc",
+                    "requestId": "b09bd47d8f1380afea767fc5c3e86b4d",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712403693002",
+                    "reqTimestamp": "1712480752094",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "44789f9104c495994b0709003c9e5b21",
+                    "versionCode": "70af9c0f0285c36435b4295d72316612",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "0547f5383c056523b29d84714156387e",
+                    "reqId": "b09bd47d8f1380afea767fc5c3e86b4d",
                     "spm": "a2700.product_home_newuser.header.2829.2f9d67af20x9kd",
                     "categoryIds": "8",
-                    "pvId": "0547f5383c056523b29d84714156387e",
+                    "pvId": "b09bd47d8f1380afea767fc5c3e86b4d",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -127,12 +127,6 @@
                                         "title": "Apparel & Accessories"
                                     },
                                     {
-                                        "categoryIds": "15",
-                                        "titleEn": "Home-Garden",
-                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
-                                        "title": "Home & Garden"
-                                    },
-                                    {
                                         "categoryIds": "26",
                                         "titleEn": "Mother-Kids-Toys",
                                         "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png",
@@ -143,6 +137,18 @@
                                         "titleEn": "Health-Care",
                                         "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN01snVtLV1eWAmAmsrrj_!!6000000003878-2-tps-200-200.png",
                                         "title": "Health Care"
+                                    },
+                                    {
+                                        "categoryIds": "1503",
+                                        "titleEn": "Furniture",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
+                                        "title": "Furniture"
+                                    },
+                                    {
+                                        "categoryIds": "15",
+                                        "titleEn": "Home-Garden",
+                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png",
+                                        "title": "Home & Garden"
                                     },
                                     {
                                         "categoryIds": "43",
@@ -173,12 +179,6 @@
                                         "titleEn": "Jewelry-Eyewear-Watches-Accessories",
                                         "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png",
                                         "title": "Jewelry, Eyewear, Watches & Accessories"
-                                    },
-                                    {
-                                        "categoryIds": "1503",
-                                        "titleEn": "Furniture",
-                                        "imageUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pq9lU028SRrrtj79B_!!6000000007931-2-tps-200-200.png",
-                                        "title": "Furniture"
                                     },
                                     {
                                         "categoryIds": "1420",
@@ -386,13 +386,13 @@
                                         "isLeaf": true
                                     },
                                     {
-                                        "categoryIds": "100003086",
-                                        "titleEn": "Basic-Organic-Chemicals",
+                                        "categoryIds": "100003087",
+                                        "titleEn": "Agrochemicals",
                                         "level": "2",
-                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd994a65adeb041ebbb8aa36533d74f85K.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003086&SearchText=Basic+Organic+Chemicals&indexArea=product_en&fsb=y",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/He6bff4c825664bc5be9a51261a40bae6s.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003087&SearchText=Agrochemicals&indexArea=product_en&fsb=y",
                                         "isPrefer": false,
-                                        "title": "Basic Organic Chemicals",
+                                        "title": "Agrochemicals",
                                         "isLeaf": false
                                     },
                                     {
@@ -406,13 +406,13 @@
                                         "isLeaf": false
                                     },
                                     {
-                                        "categoryIds": "100003087",
-                                        "titleEn": "Agrochemicals",
+                                        "categoryIds": "100003086",
+                                        "titleEn": "Basic-Organic-Chemicals",
                                         "level": "2",
-                                        "imageUrl": "https://sc02.alicdn.com/kf/He6bff4c825664bc5be9a51261a40bae6s.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003087&SearchText=Agrochemicals&indexArea=product_en&fsb=y",
+                                        "imageUrl": "https://sc02.alicdn.com/kf/Hd994a65adeb041ebbb8aa36533d74f85K.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003086&SearchText=Basic+Organic+Chemicals&indexArea=product_en&fsb=y",
                                         "isPrefer": false,
-                                        "title": "Agrochemicals",
+                                        "title": "Basic Organic Chemicals",
                                         "isLeaf": false
                                     },
                                     {
@@ -587,20 +587,20 @@
                                         "title": "Biogas"
                                     },
                                     {
-                                        "categoryIds": "82102",
-                                        "level": "2",
-                                        "titleEn": "Flavor-Fragrance",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H904675f0167c4b7b8331e7b07ec24467h.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=82102&SearchText=Flavor+%26+Fragrance&indexArea=product_en&fsb=y&productId=1600846454340",
-                                        "title": "Flavor & Fragrance"
-                                    },
-                                    {
                                         "categoryIds": "100002827",
                                         "level": "3",
                                         "titleEn": "Biodiesel",
-                                        "imageUrl": "//sc04.alicdn.com/kf/A974ea95b1bfe46fbb54b3b98f064da881.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100002827&SearchText=Biodiesel&indexArea=product_en&fsb=y&productId=11000010621465",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hebb88dad10b34e208afcaca5f403040cN.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100002827&SearchText=Biodiesel&indexArea=product_en&fsb=y&productId=1600924613428",
                                         "title": "Biodiesel"
+                                    },
+                                    {
+                                        "categoryIds": "82102",
+                                        "level": "2",
+                                        "titleEn": "Flavor-Fragrance",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H6f84343813e34a8ba92ce4a934d3dc7aj.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=82102&SearchText=Flavor+%26+Fragrance&indexArea=product_en&fsb=y&productId=1600743233907",
+                                        "title": "Flavor & Fragrance"
                                     },
                                     {
                                         "categoryIds": "100006083",
@@ -611,36 +611,36 @@
                                         "title": "Organic Intermediate"
                                     },
                                     {
-                                        "categoryIds": "100006070",
-                                        "level": "3",
-                                        "titleEn": "Hydrocarbon-Derivatives",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hcd54353bb7d84826ad54044102925445j.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006070&SearchText=Hydrocarbon+%26+Derivatives&indexArea=product_en&fsb=y&productId=1601014341710",
-                                        "title": "Hydrocarbon & Derivatives"
-                                    },
-                                    {
-                                        "categoryIds": "9090799",
-                                        "level": "4",
-                                        "titleEn": "Other-Quartz-Products",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H6f487442655a42d9a46f6e7c501badc9o.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=9090799&SearchText=Other+Quartz+Products&indexArea=product_en&fsb=y&productId=62501527716",
-                                        "title": "Other Quartz Products"
-                                    },
-                                    {
                                         "categoryIds": "200896001",
                                         "level": "3",
                                         "titleEn": "Herbicides",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H3964aa770f2243d4901c690002440eb7D.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=200896001&SearchText=Herbicides&indexArea=product_en&fsb=y&productId=1722724843",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hd7fb62a025da4ad4a3e158b82c5645723.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=200896001&SearchText=Herbicides&indexArea=product_en&fsb=y&productId=1600984145413",
                                         "title": "Herbicides"
                                     },
                                     {
                                         "categoryIds": "146701",
                                         "level": "4",
                                         "titleEn": "Carbon",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H001ebae745604098b813d06267218a5aY.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=146701&SearchText=Carbon&indexArea=product_en&fsb=y&productId=1600166438471",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hb962cb305fd24f03ab0c99632572d77d9.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=146701&SearchText=Carbon&indexArea=product_en&fsb=y&productId=1600070455544",
                                         "title": "Carbon"
+                                    },
+                                    {
+                                        "categoryIds": "100006070",
+                                        "level": "3",
+                                        "titleEn": "Hydrocarbon-Derivatives",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H9e7502b27de34e678f3796c53fc1be3fz.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006070&SearchText=Hydrocarbon+%26+Derivatives&indexArea=product_en&fsb=y&productId=1600916732166",
+                                        "title": "Hydrocarbon & Derivatives"
+                                    },
+                                    {
+                                        "categoryIds": "9090799",
+                                        "level": "4",
+                                        "titleEn": "Other-Quartz-Products",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hdee006d245d947e58bfa9ef29082502bJ.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=9090799&SearchText=Other+Quartz+Products&indexArea=product_en&fsb=y&productId=1600866463684",
+                                        "title": "Other Quartz Products"
                                     },
                                     {
                                         "categoryIds": "814",
@@ -654,56 +654,56 @@
                                         "categoryIds": "100006075",
                                         "level": "4",
                                         "titleEn": "Nitrogen-Fertilizer",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Af1fa97b3cc4f4b5bb76c32690606e804E.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006075&SearchText=Nitrogen+Fertilizer&indexArea=product_en&fsb=y&productId=1600735731835",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A50330a229f664985af6a4e361d8b9b0az.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006075&SearchText=Nitrogen+Fertilizer&indexArea=product_en&fsb=y&productId=11000008944750",
                                         "title": "Nitrogen Fertilizer"
                                     },
                                     {
                                         "categoryIds": "100007202",
                                         "level": "2",
                                         "titleEn": "Adhesives-Sealants",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H61d479030301427c9bdf82891a78aaaaX.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007202&SearchText=Adhesives+%26+Sealants&indexArea=product_en&fsb=y&productId=1600520416449",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf18731b5ce2c4cbaa4d2ad2a7ec4f8b6Y.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100007202&SearchText=Adhesives+%26+Sealants&indexArea=product_en&fsb=y&productId=1600936077779",
                                         "title": "Adhesives & Sealants"
                                     },
                                     {
                                         "categoryIds": "100003469",
                                         "level": "2",
                                         "titleEn": "Coating-Paint",
-                                        "imageUrl": "//sc04.alicdn.com/kf/A661b54ab878b42d38b86f44a275cf56eA.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003469&SearchText=Coating+%26+Paint&indexArea=product_en&fsb=y&productId=11000010452238",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H2c30936976f04468a5c67a19c4b218a2G.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003469&SearchText=Coating+%26+Paint&indexArea=product_en&fsb=y&productId=1600549014944",
                                         "title": "Coating & Paint"
                                     },
                                     {
                                         "categoryIds": "100003282",
                                         "level": "3",
                                         "titleEn": "Chemical-Auxiliary-Agent",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H2b290ae37b794bb68a4a79649af3becb6.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003282&SearchText=Chemical+Auxiliary+Agent&indexArea=product_en&fsb=y&productId=62253569202",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He08a79ed9fff4a71a214ffc4a9068823g.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003282&SearchText=Chemical+Auxiliary+Agent&indexArea=product_en&fsb=y&productId=62041154953",
                                         "title": "Chemical Auxiliary Agent"
                                     },
                                     {
                                         "categoryIds": "100004068",
                                         "level": "2",
                                         "titleEn": "Daily-Chemicals",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hdd69800da685418082497aee588cd907k.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004068&SearchText=Daily+Chemicals&indexArea=product_en&fsb=y&productId=1601028754941",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H096c4d663d69403ea07a33fbcb90d04bU.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100004068&SearchText=Daily+Chemicals&indexArea=product_en&fsb=y&productId=1601046027447",
                                         "title": "Daily Chemicals"
                                     },
                                     {
                                         "categoryIds": "100102",
                                         "level": "4",
                                         "titleEn": "Lubricant",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hd3d94f94274f471db970b21e7e7ddfe0h.png_220x220.png",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100102&SearchText=Lubricant&indexArea=product_en&fsb=y&productId=1600869709396",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H47104db10c1f4009bfe0703e7cd7f9a5R.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100102&SearchText=Lubricant&indexArea=product_en&fsb=y&productId=1601025754907",
                                         "title": "Lubricant"
                                     },
                                     {
                                         "categoryIds": "100006082",
                                         "level": "2",
                                         "titleEn": "Polymer",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Ha81bb309b16a4c09a7f5b46f6784c2b5G.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006082&SearchText=Polymer&indexArea=product_en&fsb=y&productId=60681434897",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H059439afb00e4bd0a3cdda22703169bfq.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100006082&SearchText=Polymer&indexArea=product_en&fsb=y&productId=1600941422708",
                                         "title": "Polymer"
                                     },
                                     {
@@ -718,25 +718,25 @@
                                         "categoryIds": "90902",
                                         "level": "4",
                                         "titleEn": "Ceramics",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Hfe211589d3d54143b432c90d03b47f87Z.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=90902&SearchText=Ceramics&indexArea=product_en&fsb=y&productId=1601060222058",
+                                        "imageUrl": "//sc04.alicdn.com/kf/H53a8b727a8824d3b98bb2da0214effd6Q.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=90902&SearchText=Ceramics&indexArea=product_en&fsb=y&productId=1600987107714",
                                         "title": "Ceramics"
-                                    },
-                                    {
-                                        "categoryIds": "122",
-                                        "level": "3",
-                                        "titleEn": "Charcoal",
-                                        "imageUrl": "//sc04.alicdn.com/kf/A1922a2b7e13e490987ea31165659cd04S.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=122&SearchText=Charcoal&indexArea=product_en&fsb=y&productId=10000014079494",
-                                        "title": "Charcoal"
                                     },
                                     {
                                         "categoryIds": "830",
                                         "level": "2",
                                         "titleEn": "Other-Chemicals",
-                                        "imageUrl": "//sc04.alicdn.com/kf/Aba5b288ede5d4c339fb3c5d7ceca1cd4C.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=830&SearchText=Other+Chemicals&indexArea=product_en&fsb=y&productId=10000014766883",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf071dfa64b0f4c8180b40a2198fd0a027.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=830&SearchText=Other+Chemicals&indexArea=product_en&fsb=y&productId=1600833938228",
                                         "title": "Other Chemicals"
+                                    },
+                                    {
+                                        "categoryIds": "122",
+                                        "level": "3",
+                                        "titleEn": "Charcoal",
+                                        "imageUrl": "//sc04.alicdn.com/kf/A48112b9afb144a688816a564ad20f500m.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=122&SearchText=Charcoal&indexArea=product_en&fsb=y&productId=11000011138435",
+                                        "title": "Charcoal"
                                     },
                                     {
                                         "categoryIds": "100003279",
@@ -750,16 +750,16 @@
                                         "categoryIds": "11502",
                                         "level": "4",
                                         "titleEn": "Organic-Fertilizer",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H7dd6af4221d6434aa87f0c96b7b10322j.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=11502&SearchText=Organic+Fertilizer&indexArea=product_en&fsb=y&productId=60501035868",
+                                        "imageUrl": "//sc04.alicdn.com/kf/He97b9db713e0435597d59ea973f77f64j.png_220x220.png",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=11502&SearchText=Organic+Fertilizer&indexArea=product_en&fsb=y&productId=1600991571554",
                                         "title": "Organic Fertilizer"
                                     },
                                     {
                                         "categoryIds": "100003270",
                                         "level": "3",
                                         "titleEn": "Oxide",
-                                        "imageUrl": "//sc04.alicdn.com/kf/H65e23887b7f54b80ab47b9d883d7a20bq.jpg_220x220.jpg",
-                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003270&SearchText=Oxide&indexArea=product_en&fsb=y&productId=1600941521296",
+                                        "imageUrl": "//sc04.alicdn.com/kf/Hf566cec6cf8d41629f9eb44b7578d24bl.jpg_220x220.jpg",
+                                        "action": "https://www.alibaba.com/trade/search?categoryId=100003270&SearchText=Oxide&indexArea=product_en&fsb=y&productId=1600933206971",
                                         "title": "Oxide"
                                     }
                                 ]
@@ -791,21 +791,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/8/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "0123456789000000171240369306823932d834bf50",
-                    "requestId": "935396e2f0ced738c25fc4ebf822a83c",
+                    "pageDeduplicateId": "012345678900000017124807521919e4461a3b63bc",
+                    "requestId": "3c846fe2d3d2efb53e3ef97152c3836e",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712403693002",
+                    "reqTimestamp": "1712480752094",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "44789f9104c495994b0709003c9e5b21",
+                    "versionCode": "70af9c0f0285c36435b4295d72316612",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "935396e2f0ced738c25fc4ebf822a83c",
+                    "reqId": "3c846fe2d3d2efb53e3ef97152c3836e",
                     "spm": "a2700.product_home_newuser.header.2829.2f9d67af20x9kd",
                     "categoryIds": "8",
-                    "pvId": "935396e2f0ced738c25fc4ebf822a83c",
+                    "pvId": "3c846fe2d3d2efb53e3ef97152c3836e",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -860,21 +860,21 @@
                     "prefetchKey": "met",
                     "path": "/category/products/8/index.html",
                     "endpoint": "pc",
-                    "pageDeduplicateId": "0123456789000000171240369306823932d834bf50",
-                    "requestId": "2ddb4ba2bc65f791ca8b23ee6f938fb8",
+                    "pageDeduplicateId": "012345678900000017124807521919e4461a3b63bc",
+                    "requestId": "0e23aea5e703e35a5d661718ecb6ceea",
                     "currency": "USD",
                     "wx_navbar_transparent": "true",
                     "visitorIp": "45.150.24.108",
-                    "reqTimestamp": "1712403693002",
+                    "reqTimestamp": "1712480752094",
                     "ip": "45.150.24.108",
                     "envStatus": "ONLINE",
-                    "versionCode": "44789f9104c495994b0709003c9e5b21",
+                    "versionCode": "70af9c0f0285c36435b4295d72316612",
                     "templatePath": "/ncms/category/products/index.html",
                     "terminalType": "pc",
-                    "reqId": "2ddb4ba2bc65f791ca8b23ee6f938fb8",
+                    "reqId": "0e23aea5e703e35a5d661718ecb6ceea",
                     "spm": "a2700.product_home_newuser.header.2829.2f9d67af20x9kd",
                     "categoryIds": "8",
-                    "pvId": "2ddb4ba2bc65f791ca8b23ee6f938fb8",
+                    "pvId": "0e23aea5e703e35a5d661718ecb6ceea",
                     "landlordTrafficId": "RU"
                 },
                 "isMerge": true,
@@ -1009,7 +1009,7 @@
         "name": "Chemicals",
         "offlineTime": 1867132799000,
         "offlineUrl": "https://www.alibaba.com",
-        "pageDeduplicateId": "0123456789000000171240369306823932d834bf50",
+        "pageDeduplicateId": "012345678900000017124807521919e4461a3b63bc",
         "pageType": 0,
         "path": "/category/products/8/index.html",
         "sourcePage": false,
