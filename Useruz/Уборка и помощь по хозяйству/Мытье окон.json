@@ -1,0 +1,28 @@
+{
+    "id": 2243,
+    "name": "\u041c\u044b\u0442\u044c\u0435 \u043e\u043a\u043e\u043d",
+    "slug": "myte-okon",
+    "parent": 2199,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2243"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2199"
+            }
+        ]
+    }
+}

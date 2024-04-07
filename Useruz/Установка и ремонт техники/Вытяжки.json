@@ -1,0 +1,28 @@
+{
+    "id": 2320,
+    "name": "\u0412\u044b\u0442\u044f\u0436\u043a\u0438",
+    "slug": "vytjazhki",
+    "parent": 2206,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2320"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2206"
+            }
+        ]
+    }
+}

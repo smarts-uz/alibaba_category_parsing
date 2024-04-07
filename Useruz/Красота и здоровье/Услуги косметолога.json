@@ -1,0 +1,28 @@
+{
+    "id": 2332,
+    "name": "\u0423\u0441\u043b\u0443\u0433\u0438 \u043a\u043e\u0441\u043c\u0435\u0442\u043e\u043b\u043e\u0433\u0430",
+    "slug": "uslugi-kosmetologa",
+    "parent": 2207,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2332"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2207"
+            }
+        ]
+    }
+}

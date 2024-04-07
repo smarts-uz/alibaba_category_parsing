@@ -1,0 +1,28 @@
+{
+    "id": 2378,
+    "name": "\u0410\u0432\u0442\u043e\u0438\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440\u044b",
+    "slug": "avtoinstruktory",
+    "parent": 2210,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2378"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2210"
+            }
+        ]
+    }
+}

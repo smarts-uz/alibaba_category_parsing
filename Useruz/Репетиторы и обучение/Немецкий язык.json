@@ -1,0 +1,28 @@
+{
+    "id": 2365,
+    "name": "\u041d\u0435\u043c\u0435\u0446\u043a\u0438\u0439 \u044f\u0437\u044b\u043a",
+    "slug": "nemeckij-jazyk",
+    "parent": 2210,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2365"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2210"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": 2263,
+    "name": "\u041f\u043e\u043c\u043e\u0449\u044c SMM-\u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0430",
+    "slug": "pomoshh-smm-specialista",
+    "parent": 2200,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2263"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2200"
+            }
+        ]
+    }
+}

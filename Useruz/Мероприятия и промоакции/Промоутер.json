@@ -1,0 +1,28 @@
+{
+    "id": 2280,
+    "name": "\u041f\u0440\u043e\u043c\u043e\u0443\u0442\u0435\u0440",
+    "slug": "promouter",
+    "parent": 2202,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2280"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2202"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": 2257,
+    "name": "\u0423\u0441\u043b\u0443\u0433\u0438 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0447\u0438\u043a\u0430",
+    "slug": "uslugi-perevodchika",
+    "parent": 2200,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2257"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2200"
+            }
+        ]
+    }
+}

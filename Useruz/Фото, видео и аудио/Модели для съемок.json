@@ -1,0 +1,28 @@
+{
+    "id": 2310,
+    "name": "\u041c\u043e\u0434\u0435\u043b\u0438 \u0434\u043b\u044f \u0441\u044a\u0435\u043c\u043e\u043a",
+    "slug": "modeli-dlja-semok",
+    "parent": 2205,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2310"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2205"
+            }
+        ]
+    }
+}

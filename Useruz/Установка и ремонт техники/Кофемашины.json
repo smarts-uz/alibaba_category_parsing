@@ -1,0 +1,28 @@
+{
+    "id": 2326,
+    "name": "\u041a\u043e\u0444\u0435\u043c\u0430\u0448\u0438\u043d\u044b",
+    "slug": "kofemashiny",
+    "parent": 2206,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2326"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2206"
+            }
+        ]
+    }
+}

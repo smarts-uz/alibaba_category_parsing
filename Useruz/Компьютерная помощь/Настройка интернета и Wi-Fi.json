@@ -1,0 +1,28 @@
+{
+    "id": 2270,
+    "name": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430 \u0438 Wi-Fi",
+    "slug": "nastrojka-interneta-i-wi-fi",
+    "parent": 2201,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2270"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2201"
+            }
+        ]
+    }
+}

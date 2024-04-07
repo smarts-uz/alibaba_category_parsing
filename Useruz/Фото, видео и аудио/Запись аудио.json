@@ -1,0 +1,28 @@
+{
+    "id": 2307,
+    "name": "\u0417\u0430\u043f\u0438\u0441\u044c \u0430\u0443\u0434\u0438\u043e",
+    "slug": "zapis-audio",
+    "parent": 2205,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2307"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2205"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": 2376,
+    "name": "\u041b\u043e\u0433\u043e\u043f\u0435\u0434\u044b",
+    "slug": "logopedy",
+    "parent": 2210,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2376"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2210"
+            }
+        ]
+    }
+}
