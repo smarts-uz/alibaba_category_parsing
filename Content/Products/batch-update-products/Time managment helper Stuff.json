@@ -1,0 +1,266 @@
+{
+    "update": [
+        {
+            "id": 23641,
+            "name": "Time managment helper Stuff",
+            "slug": "time-managment-helper-stuff",
+            "permalink": "https://dev.smarts.uz/en/product/time-managment-helper-stuff/",
+            "date_created": "2024-04-07T22:39:10",
+            "date_created_gmt": "2024-04-07T17:39:10",
+            "date_modified": "2024-04-08T23:24:54",
+            "date_modified_gmt": "2024-04-08T18:24:54",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "58",
+            "regular_price": "65",
+            "sale_price": "58",
+            "date_on_sale_from": null,
+            "date_on_sale_from_gmt": null,
+            "date_on_sale_to": null,
+            "date_on_sale_to_gmt": null,
+            "on_sale": true,
+            "purchasable": true,
+            "total_sales": 0,
+            "virtual": true,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": -1,
+            "download_expiry": -1,
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "low_stock_amount": null,
+            "sold_individually": true,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": false,
+            "shipping_taxable": false,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": true,
+            "average_rating": "0",
+            "rating_count": 0,
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 660,
+                    "name": "Бумага-Картон-Печать",
+                    "slug": "bumaga-karton-pechat"
+                },
+                {
+                    "id": 1924,
+                    "name": "Одежда-Сток",
+                    "slug": "odezhda-stok-odezhda-top-kategorii"
+                },
+                {
+                    "id": 577,
+                    "name": "Одежда-Сток",
+                    "slug": "odezhda-stok"
+                },
+                {
+                    "id": 617,
+                    "name": "Сыворотка для ухода за кожей",
+                    "slug": "syvorotka-dlja-uhoda-za-kozhej"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 23642,
+                    "date_created": "2024-04-08T03:38:27",
+                    "date_created_gmt": "2024-04-07T17:38:27",
+                    "date_modified": "2024-04-08T03:38:27",
+                    "date_modified_gmt": "2024-04-07T17:38:27",
+                    "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/time.webp",
+                    "name": "time",
+                    "alt": ""
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi>65&nbsp;<span class=\"woocommerce-Price-currencySymbol\">UZS</span></bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi>58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">UZS</span></bdi></span></ins>",
+            "related_ids": [
+                14549
+            ],
+            "meta_data": [
+                {
+                    "id": 190285,
+                    "key": "b2bking_product_customrows_group_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190286,
+                    "key": "b2bking_product_customrows_group_b2c",
+                    "value": ""
+                },
+                {
+                    "id": 190292,
+                    "key": "_dokan_wholesale_meta",
+                    "value": {
+                        "enable_wholesale": "no",
+                        "price": "",
+                        "quantity": ""
+                    }
+                },
+                {
+                    "id": 190308,
+                    "key": "chosen_product_cat",
+                    "value": [
+                        2349,
+                        2375,
+                        2210,
+                        2357
+                    ]
+                },
+                {
+                    "id": 190309,
+                    "key": "b2bking_regular_product_price_group_21284",
+                    "value": "63"
+                },
+                {
+                    "id": 190310,
+                    "key": "b2bking_sale_product_price_group_21284",
+                    "value": "55"
+                },
+                {
+                    "id": 190311,
+                    "key": "b2bking_product_pricetiers_group_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190312,
+                    "key": "b2bking_product_pricetiers_group_b2c",
+                    "value": ""
+                },
+                {
+                    "id": 190313,
+                    "key": "b2bking_show_pricing_table",
+                    "value": "yes"
+                },
+                {
+                    "id": 190314,
+                    "key": "b2bking_show_variations_table",
+                    "value": "no"
+                },
+                {
+                    "id": 190315,
+                    "key": "b2bking_show_information_table",
+                    "value": "yes"
+                },
+                {
+                    "id": 190316,
+                    "key": "b2bking_tiered_sum_up_variations",
+                    "value": "no"
+                },
+                {
+                    "id": 190317,
+                    "key": "b2bking_apply_minmaxstep_individual_variations",
+                    "value": "no"
+                },
+                {
+                    "id": 190318,
+                    "key": "b2bking_quantity_product_min_b2c",
+                    "value": ""
+                },
+                {
+                    "id": 190319,
+                    "key": "b2bking_quantity_product_max_b2c",
+                    "value": ""
+                },
+                {
+                    "id": 190320,
+                    "key": "b2bking_quantity_product_step_b2c",
+                    "value": ""
+                },
+                {
+                    "id": 190321,
+                    "key": "b2bking_quantity_product_min_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190322,
+                    "key": "b2bking_quantity_product_max_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190323,
+                    "key": "b2bking_quantity_product_step_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190324,
+                    "key": "_selectproduct_layout",
+                    "value": ""
+                },
+                {
+                    "id": 190325,
+                    "key": "woolentor_cart_custom_content",
+                    "value": ""
+                },
+                {
+                    "id": 190326,
+                    "key": "woolentor_total_stock_quantity",
+                    "value": ""
+                },
+                {
+                    "id": 190327,
+                    "key": "_saleflash_text",
+                    "value": ""
+                },
+                {
+                    "id": 190331,
+                    "key": "_per_product_admin_commission_type",
+                    "value": "flat"
+                },
+                {
+                    "id": 190332,
+                    "key": "_per_product_admin_commission",
+                    "value": ""
+                },
+                {
+                    "id": 190333,
+                    "key": "_per_product_admin_additional_fee",
+                    "value": ""
+                }
+            ],
+            "stock_status": "instock",
+            "has_options": false,
+            "post_password": "",
+            "permalink_template": "https://dev.smarts.uz/en/product/%pagename%/",
+            "generated_slug": "time-managment-helper-stuff",
+            "_links": {
+                "self": [
+                    {
+                        "href": "https://dev.smarts.uz/en/wp-json/wc/v3/products/23641"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https://dev.smarts.uz/en/wp-json/wc/v3/products"
+                    }
+                ]
+            }
+        }
+    ]
+}

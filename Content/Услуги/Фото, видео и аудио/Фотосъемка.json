@@ -1,0 +1,28 @@
+{
+    "id": 2305,
+    "name": "\u0424\u043e\u0442\u043e\u0441\u044a\u0435\u043c\u043a\u0430",
+    "slug": "fotosemka",
+    "parent": 2205,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2305"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2205"
+            }
+        ]
+    }
+}

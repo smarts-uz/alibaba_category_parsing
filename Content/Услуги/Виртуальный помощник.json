@@ -1,0 +1,28 @@
+{
+    "id": 2200,
+    "name": "\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a",
+    "slug": "virtualnyj-pomoshhnik",
+    "parent": 2183,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2200"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2183"
+            }
+        ]
+    }
+}

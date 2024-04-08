@@ -1,0 +1,28 @@
+{
+    "id": 2240,
+    "name": "\u0414\u0440\u0443\u0433\u043e\u0439 \u0433\u0440\u0443\u0437",
+    "slug": "drugoj-gruz",
+    "parent": 2198,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2240"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2198"
+            }
+        ]
+    }
+}

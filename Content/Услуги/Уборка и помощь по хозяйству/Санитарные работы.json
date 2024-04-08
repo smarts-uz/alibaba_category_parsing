@@ -1,0 +1,28 @@
+{
+    "id": 2255,
+    "name": "\u0421\u0430\u043d\u0438\u0442\u0430\u0440\u043d\u044b\u0435 \u0440\u0430\u0431\u043e\u0442\u044b",
+    "slug": "sanitarnye-raboty",
+    "parent": 2199,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2255"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2199"
+            }
+        ]
+    }
+}

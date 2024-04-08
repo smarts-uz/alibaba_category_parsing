@@ -1,0 +1,28 @@
+{
+    "id": 2265,
+    "name": "\u0423\u0441\u043b\u0443\u0433\u0438 \u043b\u0438\u0447\u043d\u043e\u0433\u043e \u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a\u0430",
+    "slug": "uslugi-lichnogo-pomoshhnika",
+    "parent": 2200,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2265"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2200"
+            }
+        ]
+    }
+}

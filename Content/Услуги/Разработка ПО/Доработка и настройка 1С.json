@@ -1,0 +1,28 @@
+{
+    "id": 2300,
+    "name": "\u0414\u043e\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 1\u0421",
+    "slug": "dorabotka-i-nastrojka-1s",
+    "parent": 2204,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2300"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2204"
+            }
+        ]
+    }
+}

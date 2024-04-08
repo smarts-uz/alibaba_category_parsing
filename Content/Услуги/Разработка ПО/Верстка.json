@@ -1,0 +1,28 @@
+{
+    "id": 2302,
+    "name": "\u0412\u0435\u0440\u0441\u0442\u043a\u0430",
+    "slug": "verstka",
+    "parent": 2204,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2302"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2204"
+            }
+        ]
+    }
+}

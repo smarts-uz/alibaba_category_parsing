@@ -1,0 +1,28 @@
+{
+    "id": 2308,
+    "name": "\u041e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0439",
+    "slug": "obrabotka-fotografij",
+    "parent": 2205,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2308"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2205"
+            }
+        ]
+    }
+}

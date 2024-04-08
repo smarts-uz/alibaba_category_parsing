@@ -1,0 +1,28 @@
+{
+    "id": 2327,
+    "name": "\u0421\u0412\u0427 \u043f\u0435\u0447\u0438",
+    "slug": "svch-pechi",
+    "parent": 2206,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2327"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2206"
+            }
+        ]
+    }
+}

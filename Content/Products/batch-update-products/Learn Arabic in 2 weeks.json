@@ -1,0 +1,267 @@
+{
+    "update": [
+        {
+            "id": 23635,
+            "name": "Learn Arabic in 2 weeks",
+            "slug": "learn-arabic-in-2-weeks",
+            "permalink": "https://dev.smarts.uz/en/product/learn-arabic-in-2-weeks/",
+            "date_created": "2024-04-07T22:23:35",
+            "date_created_gmt": "2024-04-07T17:23:35",
+            "date_modified": "2024-04-08T23:24:57",
+            "date_modified_gmt": "2024-04-08T18:24:57",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "",
+            "regular_price": "",
+            "sale_price": "",
+            "date_on_sale_from": null,
+            "date_on_sale_from_gmt": null,
+            "date_on_sale_to": null,
+            "date_on_sale_to_gmt": null,
+            "on_sale": false,
+            "purchasable": false,
+            "total_sales": 0,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": -1,
+            "download_expiry": -1,
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "low_stock_amount": null,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": true,
+            "average_rating": "0",
+            "rating_count": 0,
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 658,
+                    "name": "Бумажные коробки",
+                    "slug": "bumazhnye-korobki"
+                },
+                {
+                    "id": 615,
+                    "name": "Другое косметическое оборудование для домашнего использования",
+                    "slug": "drugoe-kosmeticheskoe-oborudovanie-dlja-domashnego-ispolzovanija"
+                },
+                {
+                    "id": 619,
+                    "name": "Иглы для татуировки",
+                    "slug": "igly-dlja-tatuirovki"
+                },
+                {
+                    "id": 1926,
+                    "name": "Повседневные платья",
+                    "slug": "povsednevnye-platja-odezhda-top-kategorii"
+                },
+                {
+                    "id": 579,
+                    "name": "Повседневные платья",
+                    "slug": "povsednevnye-platja"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 23636,
+                    "date_created": "2024-04-08T03:24:59",
+                    "date_created_gmt": "2024-04-07T17:24:59",
+                    "date_modified": "2024-04-08T03:24:59",
+                    "date_modified_gmt": "2024-04-07T17:24:59",
+                    "src": "https://dev.smarts.uz/wp-content/uploads/2024/04/arabic.jpeg",
+                    "name": "arabic",
+                    "alt": ""
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "price_html": "",
+            "related_ids": [],
+            "meta_data": [
+                {
+                    "id": 190169,
+                    "key": "b2bking_product_customrows_group_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190170,
+                    "key": "b2bking_product_customrows_group_b2c",
+                    "value": ""
+                },
+                {
+                    "id": 190173,
+                    "key": "_dokan_wholesale_meta",
+                    "value": {
+                        "enable_wholesale": "no",
+                        "price": "",
+                        "quantity": ""
+                    }
+                },
+                {
+                    "id": 190189,
+                    "key": "chosen_product_cat",
+                    "value": [
+                        23,
+                        2364
+                    ]
+                },
+                {
+                    "id": 190190,
+                    "key": "b2bking_regular_product_price_group_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190191,
+                    "key": "b2bking_sale_product_price_group_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190192,
+                    "key": "b2bking_product_pricetiers_group_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190193,
+                    "key": "b2bking_product_pricetiers_group_b2c",
+                    "value": ""
+                },
+                {
+                    "id": 190194,
+                    "key": "b2bking_show_pricing_table",
+                    "value": "yes"
+                },
+                {
+                    "id": 190195,
+                    "key": "b2bking_show_variations_table",
+                    "value": "no"
+                },
+                {
+                    "id": 190196,
+                    "key": "b2bking_show_information_table",
+                    "value": "yes"
+                },
+                {
+                    "id": 190197,
+                    "key": "b2bking_tiered_sum_up_variations",
+                    "value": "no"
+                },
+                {
+                    "id": 190198,
+                    "key": "b2bking_apply_minmaxstep_individual_variations",
+                    "value": "no"
+                },
+                {
+                    "id": 190199,
+                    "key": "b2bking_quantity_product_min_b2c",
+                    "value": ""
+                },
+                {
+                    "id": 190200,
+                    "key": "b2bking_quantity_product_max_b2c",
+                    "value": ""
+                },
+                {
+                    "id": 190201,
+                    "key": "b2bking_quantity_product_step_b2c",
+                    "value": ""
+                },
+                {
+                    "id": 190202,
+                    "key": "b2bking_quantity_product_min_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190203,
+                    "key": "b2bking_quantity_product_max_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190204,
+                    "key": "b2bking_quantity_product_step_21284",
+                    "value": ""
+                },
+                {
+                    "id": 190205,
+                    "key": "_selectproduct_layout",
+                    "value": ""
+                },
+                {
+                    "id": 190206,
+                    "key": "woolentor_cart_custom_content",
+                    "value": ""
+                },
+                {
+                    "id": 190207,
+                    "key": "woolentor_total_stock_quantity",
+                    "value": ""
+                },
+                {
+                    "id": 190208,
+                    "key": "_saleflash_text",
+                    "value": ""
+                },
+                {
+                    "id": 190209,
+                    "key": "_per_product_admin_commission_type",
+                    "value": "flat"
+                },
+                {
+                    "id": 190210,
+                    "key": "_per_product_admin_commission",
+                    "value": ""
+                },
+                {
+                    "id": 190211,
+                    "key": "_per_product_admin_additional_fee",
+                    "value": ""
+                }
+            ],
+            "stock_status": "instock",
+            "has_options": false,
+            "post_password": "",
+            "permalink_template": "https://dev.smarts.uz/en/product/%pagename%/",
+            "generated_slug": "learn-arabic-in-2-weeks",
+            "_links": {
+                "self": [
+                    {
+                        "href": "https://dev.smarts.uz/en/wp-json/wc/v3/products/23635"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https://dev.smarts.uz/en/wp-json/wc/v3/products"
+                    }
+                ]
+            }
+        }
+    ]
+}

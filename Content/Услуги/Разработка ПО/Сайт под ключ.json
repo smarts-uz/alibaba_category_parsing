@@ -1,0 +1,28 @@
+{
+    "id": 2296,
+    "name": "\u0421\u0430\u0439\u0442 \u043f\u043e\u0434 \u043a\u043b\u044e\u0447",
+    "slug": "sajt-pod-kljuch",
+    "parent": 2204,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2296"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2204"
+            }
+        ]
+    }
+}

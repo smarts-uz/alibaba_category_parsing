@@ -1,0 +1,28 @@
+{
+    "id": 2235,
+    "name": "\u042d\u0432\u0430\u043a\u0443\u0430\u0442\u043e\u0440\u044b",
+    "slug": "jevakuatory",
+    "parent": 2198,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2235"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2198"
+            }
+        ]
+    }
+}

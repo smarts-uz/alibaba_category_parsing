@@ -1,0 +1,28 @@
+{
+    "id": 2234,
+    "name": "\u0412\u044b\u0432\u043e\u0437 \u043c\u0443\u0441\u043e\u0440\u0430",
+    "slug": "vyvoz-musora",
+    "parent": 2198,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2234"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2198"
+            }
+        ]
+    }
+}

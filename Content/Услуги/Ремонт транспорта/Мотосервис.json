@@ -1,0 +1,28 @@
+{
+    "id": 2390,
+    "name": "\u041c\u043e\u0442\u043e\u0441\u0435\u0440\u0432\u0438\u0441",
+    "slug": "motoservis",
+    "parent": 2211,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2390"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2211"
+            }
+        ]
+    }
+}

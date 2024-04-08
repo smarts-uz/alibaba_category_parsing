@@ -1,0 +1,28 @@
+{
+    "id": 2242,
+    "name": "\u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0443\u0431\u043e\u0440\u043a\u0430",
+    "slug": "generalnaja-uborka",
+    "parent": 2199,
+    "description": "",
+    "display": "default",
+    "image": null,
+    "menu_order": 0,
+    "count": 0,
+    "_links": {
+        "self": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2242"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories"
+            }
+        ],
+        "up": [
+            {
+                "href": "http://dev.smarts.uz/en/wp-json/wc/v3/products/categories/2199"
+            }
+        ]
+    }
+}
