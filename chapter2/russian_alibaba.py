@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
-import yaml
+# import yaml
+
 
 
 def parse_russian_alibaba(url):
@@ -30,3 +31,5 @@ def parse_russian_alibaba(url):
 
 
 parse_russian_alibaba(url='https://russian.alibaba.com/products')
+
+
