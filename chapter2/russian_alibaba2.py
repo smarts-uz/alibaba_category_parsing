@@ -8,19 +8,19 @@ def parse_russian_alibaba(url):
     soup = BeautifulSoup(response.text, 'html.parser')
 
     categories_container = soup.find_all('div', class_='item util-clearfix')
-    all_categories = []
+    all_categories = {}
     for category_container in categories_container:
         parent_category_name = category_container.find('h3').text.strip()
         sub_categories_container = category_container.find_all('div', class_='sub-item')
+        all_categories[parent_category_name] = {}
         for sub_category_container in sub_categories_container:
             sub_category_name = sub_category_container.find('h4', class_='sub-title').find('a').get_text(strip=True)
             child_category_container = sub_category_container.find('ul', class_='sub-item-cont util-clearfix')
+            all_categories[parent_category_name][sub_category_name] = []
             child_categories = child_category_container.find_all('li')
             for child_category in child_categories:
                 child_category_name = child_category.find('a').get_text(strip=True)
-                all_categories.append({"parent": [parent_category_name],
-                                       "sub": [sub_category_name],
-                                       "child": [child_category_name]})
+                all_categories[parent_category_name][sub_category_name].append(child_category_name)
 
     return all_categories
 
