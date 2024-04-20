@@ -18,9 +18,9 @@ def parse_russian_alibaba(url):
             child_categories = child_category_container.find_all('li')
             for child_category in child_categories:
                 child_category_name = child_category.find('a').get_text(strip=True)
-                all_categories.append({"parent": parent_category_name,
-                                       "sub": sub_category_name,
-                                       "child": child_category_name})
+                all_categories.append({"parent": [parent_category_name],
+                                       "sub": [sub_category_name],
+                                       "child": [child_category_name]})
 
     return all_categories
 
@@ -29,14 +29,28 @@ categories = parse_russian_alibaba(url='https://russian.alibaba.com/products')
 
 # you can see every Category names
 
-# for category in categories:
-#     print(category)
+# print(categories[:5])
+# print([categories[0]])
+# for category in categories[0]:
+#     print([category])
+
+# yml_file=[{parrent:[]}]
 
 # Write categories to a YAML file
-path='categories.yaml'
+path = 'categories.yaml'
 if os.path.exists(path):
     print(f'The file:{path} already exists')
+    with open(r'categories.yaml', 'w') as file:
+        yaml.dump(categories, file)
+    print(f"Updating:{path} sucsesfully")
 else:
     print(f'The file:{path} does not exist')
-    with open('categories.yaml', 'w') as file:
+    with open(r'categories.yaml', 'w') as file:
         yaml.dump(categories, file)
+
+# Read categories from YAML file
+with open('categories.yaml', 'r') as file:
+    categories_data = yaml.safe_load(file)
+
+# Print the categories data
+print(categories_data)
