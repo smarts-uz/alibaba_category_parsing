@@ -2,6 +2,7 @@ import requests
 import os
 from bs4 import BeautifulSoup
 import yaml
+
 def parse_russian_alibaba(url):
     response = requests.get(url)
     response.encoding = 'utf-8'
@@ -24,33 +25,25 @@ def parse_russian_alibaba(url):
 
     return all_categories
 
-categories = parse_russian_alibaba(url='https://russian.alibaba.com/products')
-#  Reason bunaqa format kegusida file paths sifatida foydalanishimiz uchun shu formatda yigildi yani mhtml yoki html larni saveing location sifatida
+def main():
+    categories = parse_russian_alibaba(url='https://russian.alibaba.com/products')
 
-# you can see every Category names
+    # Fayl nomi
+    file_path = 'categories.yaml'
 
-# print(categories[:5])
-# print([categories[0]])
-# for category in categories[0]:
-#     print([category])
+    # Fayl mavjudligini tekshirish
+    if os.path.exists(file_path):
+        print(f'The file: {file_path} already exists.')
+        print(f'Updating {file_path}...')
+    else:
+        print(f'The file: {file_path} does not exist.')
+        print(f'Creating {file_path}...')
 
-# yml_file=[{parrent:[]}]
+    # YAML faylni yaratish Va yangilash
+    with open(file_path, 'w', encoding='utf-8') as file:
+        yaml.dump(categories, file, allow_unicode=True)
 
-# Write categories to a YAML file
-path = 'categories.yaml'
-if os.path.exists(path):
-    print(f'The file:{path} already exists')
-    with open(r'categories.yaml', 'w') as file:
-        yaml.dump(categories, file)
-    print(f"Updating:{path} sucsesfully")
-else:
-    print(f'The file:{path} does not exist')
-    with open(r'categories.yaml', 'w') as file:
-        yaml.dump(categories, file)
+    print(f'File {file_path} successfully created/updated.')
 
-# Read categories from YAML file
-with open('categories.yaml', 'r') as file:
-    categories_data = yaml.safe_load(file)
-
-# Print the categories data
-print(categories_data)
+if __name__ == "__main__":
+    main()

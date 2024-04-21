@@ -4,9 +4,9 @@ import yaml
 from woocommerce import API
 
 wcapi = API(
-    # url="http://dev.smarts.uz",
-    # consumer_key="ck_16732ed59606bc5dae86cfb485a99d9137ad38a1",
-    # consumer_secret="cs_84419bd230bb13a05331461aab57e4782466a0fa"
+    url="https://globmarketplace.com/ru/",
+    consumer_key="ck_3a6bd6bf3484322bc28eca2787af2332df2e29ec",
+    consumer_secret="cs_3e7f36edc1c1012786049cc48647d55b62358d8c"
 )
 
 def create_category(category_data, parent_category_id=0):
@@ -34,13 +34,11 @@ def create_category(category_data, parent_category_id=0):
         print(f"Error creating category '{category_name}': {e}")
         return None
 
-def main():
-    with open("categories.yaml", "r") as file:
-        categories = yaml.safe_load(file)
+with open("categories.yaml", "r") as file:
+    categories = yaml.safe_load(file)
 
-    for category_data in categories:
-        create_category(category_data)
-        # print(category_data)
+for category_data in categories:
+    create_category(category_data)
+    # print(category_data)
 
-if __name__ == "__main__":
-    main()
+
