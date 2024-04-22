@@ -34,11 +34,15 @@ def parse_russian_alibaba(url):
 #
 
 # WC API ni yaratish
+# wcapi = API(
+#     url="https://globmarketplace.com/ru/",
+#     consumer_key="ck_019eeb344f39579df759e04f6f96c522fe3b896b",
+#     consumer_secret="cs_5127afd22c791c8ce0d56a596b8f7d9d959d0c96"
+#     )
 wcapi = API(
-    url="https://globmarketplace.com/ru/",
-    consumer_key="ck_019eeb344f39579df759e04f6f96c522fe3b896b",
-    consumer_secret="cs_5127afd22c791c8ce0d56a596b8f7d9d959d0c96"
-    )
+        url="http://localhost:10022",
+        consumer_key="ck_8351c208208b8ea59914dce89a22e462c269bca0",
+        consumer_secret="cs_627180930e1fea8e73467fc356574e0ad280d53a")
 def create_categories(categories, parent=0):
     # Agar categories ro'yxati ro'yxat bo'lsa
     if isinstance(categories, list):
@@ -66,13 +70,13 @@ def create_categories(categories, parent=0):
 def main():
     # Kategoriyalarni olish
     categories = parse_russian_alibaba(url='https://russian.alibaba.com/products')
-
-    # WC API ni yaratish
-    wcapi = API(
-        url="https://globmarketplace.com/ru/",
-        consumer_key="ck_3a6bd6bf3484322bc28eca2787af2332df2e29ec",
-        consumer_secret="cs_3e7f36edc1c1012786049cc48647d55b62358d8c"
-    )
+    #
+    # # WC API ni yaratish
+    # wcapi = API(
+    #     url="http://localhost:10022",
+    #     consumer_key="ck_8351c208208b8ea59914dce89a22e462c269bca0",
+    #     consumer_secret="cs_627180930e1fea8e73467fc356574e0ad280d53a"
+    # )
 
     # Bosh kategoriyalarni yaratish
     create_categories(categories)
