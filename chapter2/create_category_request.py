@@ -22,7 +22,7 @@ def send_request_api(cat_name,path,parent_id=0):
 
     response = requests.request("POST", url, headers=headers, data=payload,verify=False,timeout=60)
     response.encoding = 'UTF-8'
-    with open(f'{path}/{cat_name.strip()}.json', 'w') as f:
+    with open(f'{path}/response.json', 'w') as f:
         data = json.dumps(response.json(),indent=4)
         f.write(data)
 
