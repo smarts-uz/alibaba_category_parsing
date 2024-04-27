@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import yaml
+# import yaml
 
 
 def parse_russian_alibaba(url):
@@ -11,7 +11,7 @@ def parse_russian_alibaba(url):
     categories_container = soup.find_all('div', class_='item util-clearfix')
     for id,category_container in enumerate(categories_container[:1]):
         parent_category_name = category_container.find('h3').text
-        # D = parent_category_name_container.fin
+
         # print(id,parent_category_name.strip())
         sub_categories_container = category_container.find_all('div', class_='sub-item')
         for sub_id,sub_category_container in enumerate(sub_categories_container[:1]):
